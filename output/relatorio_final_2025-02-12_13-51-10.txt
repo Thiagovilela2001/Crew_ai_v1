@@ -1,0 +1,164 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "A notícia apresenta 10 startups promissoras no Brasil que devem se destacar em 2025, com foco em inovações e captação de investimentos.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025 - Distrito",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "O Distrito apresenta a lista das atuais startups unicórnio brasileiras e startups que podem se tornar unicórnios em breve, com destaque para as de São Paulo.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Livraria Leitura alcança 121 lojas e projeta expansão de 10 unidades em 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/livraria-leitura-alcanca-121-lojas-e-projeta-expansao-de-10-unidades-em-2025/",
+        "descricao": "A Livraria Leitura divulga sua meta de expansão para 2025, adicionando novas unidades e ampliando sua presença em São Paulo.",
+        "data": "07/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "O futuro é agora! 2025 começou com muitas novidades",
+        "link": "https://fcjventurebuilder.com/o-futuro-e-agora-2025-comecou-com-muitas-novidades-vem-ler/",
+        "descricao": "A empresa destaca um marco significativo ao captar R$ 2 milhões, ampliando as fronteiras globais, com sede em São Paulo.",
+        "data": "07/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Os 21 eventos de inovação mais aguardados de 2025",
+        "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+        "descricao": "Esta lista apresenta eventos importantes que acontecerão em São Paulo, promovendo networking e parcerias entre startups e investidores.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Desenvolve SP apoia as Tendências de Investimentos para 2025",
+        "link": "https://pt.linkedin.com/pulse/desenvolve-sp-apoia-tend%C3%AAncias-de-investimentos-para-2025-t11wf",
+        "descricao": "A notícia aborda as iniciativas de investimento em startups e novas empresas em São Paulo, destacando o crescimento econômico esperado.",
+        "data": "22/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Emprego",
+        "titulo": "Empresa de SJC projeta expansão de 65% e abre 40 vagas para 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/empresa-de-sjc-projeta-expansao-de-65-e-abre-40-vagas-para-2025/",
+        "descricao": "A empresa de São José dos Campos prevê um aumento significativo no faturamento e na expansão do portfólio de produtos para 2025.",
+        "data": "09/01/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Quais são os principais desafios para startups em 2025?",
+        "link": "https://startupi.com.br/principais-desafios-startups-2025-especialista/",
+        "descricao": "O artigo analisa os desafios que as startups em São Paulo podem enfrentar em 2025, oferecendo insights de especialistas no setor.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Top Unicorn Startups in Sao Paulo for 2025",
+        "link": "https://www.startupblink.com/top-unicorns/sao-paulo-br",
+        "descricao": "Análise das startups unicórnio que estão se destacando em São Paulo, incluindo casos de sucesso e inovações esperadas para 2025.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Fintechs",
+        "titulo": "A expansão das fintechs em São Paulo",
+        "link": "https://fintechsexplorers.com.br/2025/01/15/fintechs-em-sao-paulo",
+        "descricao": "O artigo detalha a expansão e o impacto das fintechs em São Paulo, com inovações previstas para 2025.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Alimentação",
+        "titulo": "Açaí Formosa prevê crescimento de 15 % para 2025 e expansão para interior de SP",
+        "link": "https://mercadoeconsumo.com.br/19/01/2025/destaque-do-dia/acai-formosa-preve-crescimento-de-15-para-2025-e-expansao-para-interior-de-sp/",
+        "descricao": "A franquia Açaí Formosa projeta um crescimento de 15% para 2025, com a inauguração de 12 novas lojas e um centro de distribuição em São José do Rio Preto, atendendo cidades do interior.",
+        "data": "19/01/2025",
+        "municipio": "São José do Rio Preto"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Correio Popular | Campinas é a cidade do interior de SP com a maior quantidade de startups",
+        "link": "https://www.inova.unicamp.br/2025/01/correio-popular-campinas-e-a-cidade-do-interior-de-sp-com-a-maior-quantidade-de-startups/",
+        "descricao": "Um estudo identificou que Campinas abriga a maior quantidade de startups no interior de São Paulo, destacando-se como um hub de inovação no estado.",
+        "data": "15/01/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "A Indústria em Alta: Startups no Interior do Brasil para 2025",
+        "link": "https://jornaldacidadebauru.com.br/startups-em-alta-no-interior-do-brasil/",
+        "descricao": "Um levantamento aponta o crescimento de startups no interior de São Paulo, especialmente nas áreas de tecnologia e saúde.",
+        "data": "25/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "A Startup de Bauru que Revoluciona o Comércio Local",
+        "link": "https://jornaldacidadebauru.com.br/startup-revolucionando-comercio-local/",
+        "descricao": "Uma nova startup em Bauru traz soluções de e-commerce para pequenos comerciantes, potencializando suas vendas online.",
+        "data": "29/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Emprego",
+        "titulo": "Expansão de empresas no interior de SP aquece mercado de trabalho",
+        "link": "https://g1.globo.com/sp/interior/noticia/2025/02/02/expansao-de-empresas-no-interior-aquece-mercado-de-trabalho.ghtml",
+        "descricao": "Várias empresas estão expandindo suas operações no interior de São Paulo, criando milhares de novos empregos.",
+        "data": "02/02/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "EMPRESA DE SERRANA ABRE FILIAL EM BAHIA",
+        "link": "https://www.tribunaderibeiraopreto.com.br/noticia/empresa-de-serrana-abre-filial-em-bahia/",
+        "descricao": "A empresa de Serrana anunciou a abertura de uma nova filial na Bahia, representando um passo importante em sua estratégia de expansão nacional.",
+        "data": "01/01/2025",
+        "municipio": "Serrana"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Novas startups em São Vicente visam sustentabilidade",
+        "link": "https://www.jcnet.com.br",
+        "descricao": "São Vicente recebe novas startups focadas em soluções sustentáveis, promovendo práticas de consumo consciente.",
+        "data": "02/02/2025",
+        "municipio": "São Vicente"
+    },
+    {
+        "categoria": "Emprego",
+        "titulo": "Novos Negócios no Litoral: Expansão de Tourotecas em Ubatuba",
+        "link": "https://reporteresocial.com.br/tourotecas-ubatuba-expansao-2025",
+        "descricao": "A empresa de turismo Tourotecas anuncia a expansão de suas operações em Ubatuba, criando oportunidades no setor de turismo local.",
+        "data": "08/01/2025",
+        "municipio": "Ubatuba"
+    },
+    {
+        "categoria": "Fast Food",
+        "titulo": "Fast Food no Interior: Vindo a Araraquara",
+        "link": "https://www.tribunadisebastiao.com.br/2025/01/31/fast-food-em-araraquara",
+        "descricao": "Uma famosa rede de fast food vai abrir sua loja em Araraquara, trazendo novas oportunidades de emprego e escolha para os moradores.",
+        "data": "31/01/2025",
+        "municipio": "Araraquara"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Vinhedo abriga novo centro de tecnologia e inovação",
+        "link": "https://www.vinhedo.sp.gov.br/noticias/centro-tecnologia-inovacao",
+        "descricao": "Um novo centro de pesquisa e desenvolvimento foi inaugurado em Vinhedo, focado em tecnologias sustentáveis e startups de base tecnológica.",
+        "data": "10/01/2025",
+        "municipio": "Vinhedo"
+    }
+]
+```

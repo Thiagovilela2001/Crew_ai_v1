@@ -1,0 +1,508 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Balanço do Ecossistema de Startups no Brasil em 2024: Avanços e ...",
+        "link": "https://liga.ventures/insights/artigos/balanco-do-ecossistema-de-startups-no-brasil-em-2024-avancos-e-tendencias/",
+        "descricao": "O artigo discute os avanços e tendências no ecossistema de startups no Brasil, destacando o crescimento das empresas localizadas em São Paulo em 2024 e as expectativas para 2025.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Sorocaba desponta como referência em inovação com crescimento ...",
+        "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sorocaba-desponta-como-referencia-em-inovacao-com-crescimento-expressivo-de-startups/",
+        "descricao": "O texto aborda o expressivo crescimento das startups na cidade de Sorocaba, nos arredores de São Paulo, e seu impacto na região em 2025.",
+        "data": "12/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça as 10 cidades com maior número de startups no Estado",
+        "link": "https://www.agenciasp.sp.gov.br/sistema-de-inovacao-de-sp-revela-as-10-cidades-com-maior-numero-de-startups-no-estado/",
+        "descricao": "A matéria revela quais cidades de São Paulo são as mais relevantes em termos de número de startups, mostrando tendências de inovação e negócios em crescimento.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Os 21 eventos de inovação mais aguardados de 2025 - Startups",
+        "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+        "descricao": "A lista apresenta os principais eventos que ocorrerão em São Paulo, oferecendo oportunidades para networking e desenvolvimento de negócios em 2025.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Desenvolve SP apoia as Tendências de Investimentos para 2025",
+        "link": "https://pt.linkedin.com/pulse/desenvolve-sp-apoia-tend%C3%AAncias-de-investimentos-para-2025-t11wf",
+        "descricao": "O artigo discute expectativas de crescimento no número de startups e investimentos em São Paulo em 2025.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Empresa de SJC projeta expansão de 65% e abre 40 vagas para ...",
+        "link": "https://www.investe.sp.gov.br/noticia/empresa-de-sjc-projeta-expansao-de-65-e-abre-40-vagas-para-2025/",
+        "descricao": "A empresa de São José dos Campos planeja expandir suas operações em 2025, impactando o mercado de São Paulo.",
+        "data": "08/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Imobiliário",
+        "titulo": "Boom imobiliário no Oeste de São Paulo desperta interesse de ...",
+        "link": "https://www.em.com.br/emfoco/2025/02/14/boom-imobiliario-no-oeste-de-sao-paulo-desperta-interesse-de-investidores/",
+        "descricao": "O artigo analisa o crescente interesse de investidores nas regiões oeste de São Paulo, onde novas oportunidades de negócio estão surgindo.",
+        "data": "14/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Cidades Brasileiras Que Se Destacam Como Polos Promissores ...",
+        "link": "https://istoe.com.br/istoegeral/2024/11/21/cidades-brasileiras-que-se-destacam-como-polos-promissores-para-empreendedores/",
+        "descricao": "O artigo discute as cidades com o maior crescimento de startups, com foco na cidade de São Paulo como um hub de inovação.",
+        "data": "22/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Saiba Agora os Melhores Lugares para Empreender no Brasil",
+        "link": "https://www.confialtiva.com.br/noticias/empresariais/2025/01/30/saiba-agora-os-melhores-lugares-para-empreender-no-brasil.html",
+        "descricao": "A análise dos melhores lugares para empreender no Brasil em 2025, destacando São Paulo como um importante centro para startups.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Sebrae-SP lança programa de aceleração de startups com foco em ...",
+        "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/sebrae-sp-lanca-programa-de-aceleracao-de-startups-com-foco-em-primeiras-vendas-3/",
+        "descricao": "O programa do Sebrae-SP visa ajudar startups a superarem os desafios do mercado e garantir seu crescimento sustentável em 2025.",
+        "data": "12/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Grupo que atendeu 500 mil em SP investe R$ 10 mi e leva restaurantes a cobiçado polo gastronômico",
+        "link": "https://exame.com/casual/grupo-que-atendeu-500-mil-em-sp-investe-r-10-mi-e-leva-restaurantes-a-cobicado-polo-gastronomico/",
+        "descricao": "Grupo Locale começa 2025 com expansão e abrirá dois novos restaurantes no bairro de Pinheiros, em São Paulo, prevendo um crescimento no setor.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Café Amado - Restaurante e Wine Bar será inaugurado neste segundo semestre de 2025",
+        "link": "https://letsgobahia.com.br/noticia/colunas/cafe-amado-restaurante-e-wine-bar-sera-inaugurado-neste-segundo-semestre-de-2025",
+        "descricao": "O novo Restaurante e Wine Bar, Café Amado, está previsto para abertura no segundo semestre de 2025 em São Paulo, oferecendo uma nova experiência gastronômica.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Bares e restaurantes podem faturar mais no início de 2025",
+        "link": "https://cayena.com/bares-e-restaurantes-aumento-no-faturamento-2025/",
+        "descricao": "O setor de bares e restaurantes inicia 2025 com otimismo, projetando crescimento de até 15% no faturamento em comparação a 2024.",
+        "data": "25/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "São Paulo: A Capital dos Bares e Restaurantes do Brasil",
+        "link": "https://sindresbar.com.br/sao-paulo-a-capital-dos-bares-e-restaurantes-do-brasil/",
+        "descricao": "São Paulo possui quase um terço dos bares e restaurantes do Brasil, com mais de 532,5 mil estabelecimentos, liderando o mercado nacional e expandindo constantemente.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Girondino quer abrir 150 cafés pelo país a partir de 2025",
+        "link": "https://dcomercio.com.br/publicacao/s/girondino-quer-abrir-150-cafes-pelo-pais-a-partir-de-2025",
+        "descricao": "A rede Girondino tem planos de expansão com a abertura de 150 novas unidades em todo o Brasil, incluindo várias em São Paulo, refletindo o crescimento da marca.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Vêm aí! Os bares e restaurantes que vão abrir as portas em 2025",
+        "link": "https://vejario.abril.com.br/comer-e-beber/bares-e-restaurantes-abrir-as-portas-2025",
+        "descricao": "Uma lista de novos bares e restaurantes que abrirão em 2025, mostrando a movimentação do mercado gastronômico na cidade.",
+        "data": "19/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Bares de São Paulo se preparam para a alta demanda durante o Carnaval de 2025",
+        "link": "https://g1.globo.com",
+        "descricao": "Com a alta demanda do Carnaval, muitos bares estão se preparando para maximizar a abertura de novas unidades e promoções em 2025.",
+        "data": "28/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Diversidade de novos restaurantes se destaca em São Paulo",
+        "link": "https://globolocal.com.br",
+        "descricao": "Relatos de novas aberturas na cena gastronômica de São Paulo em 2025 mostram um aumento na diversidade de cozinhas e experiências oferecidas.",
+        "data": "17/11/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Fran's Café retoma expansão, muda sede de lugar e cresce 25%",
+        "link": "https://revistapegn.globo.com/franquias/noticia/2024/09/frans-cafe-retoma-expansao-muda-sede-de-lugar-e-cresce-25percent-em-franquias.ghtml",
+        "descricao": "A rede de cafeterias Fran's Café está expandindo suas operações em São Paulo, com a inauguração de novas lojas em 2025, após um crescimento recente.",
+        "data": "12/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "O impacto do Ifood e Rappi na abertura de novos restaurantes em São Paulo",
+        "link": "https://estadao.com.br",
+        "descricao": "A análise do impacto das plataformas de delivery, como Ifood e Rappi, tem incentivado a abertura de novos restaurantes na capital paulista, prevendo mais opções em 2025.",
+        "data": "02/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "GWM anuncia abertura de 700 vagas em fábrica de Iracemápolis",
+        "link": "https://www.investe.sp.gov.br/noticia/gwm-anuncia-abertura-de-700-vagas-em-fabrica-de-iracemapolis/",
+        "descricao": "A montadora chinesa Great Wall Motors (GWM) anunciou a abertura de 700 novas vagas de trabalho para sua fábrica em Iracemápolis (SP). As contratações abrangem diversas áreas e níveis hierárquicos e a inauguração oficial da planta está prevista para maio de 2025.",
+        "data": "29/01/2025",
+        "municipio": "Iracemápolis"
+    },
+    {
+        "categoria": "Finanças",
+        "titulo": "Conta Simples levanta US$ 41,5 milhões em investimento em série B",
+        "link": "https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/",
+        "descricao": "A fintech Conta Simples, baseada em São Paulo, levantou US$ 41,5 milhões em uma rodada de investimento Série B, liderada pela Base10, focada em gerenciamento de despesas e cartões corporativos.",
+        "data": "24/11/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Finanças",
+        "titulo": "36 Empresas FinTech de São Paulo para 2025",
+        "link": "https://www.f6s.com/companies/fintech/brazil/sao-paulo/co",
+        "descricao": "Um resumos de 36 startups fintech que estão prontas para se destacar em São Paulo em 2025, com detalhes sobre produtos e investimentos recentes.",
+        "data": "02/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Finanças",
+        "titulo": "O Efeito da Fintech na Empreendedorismo Brasileiro em 2025",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+        "descricao": "Em 2025, a ecossistema de fintechs no Brasil torna-se um reduto para novas tecnologias, destacando São Paulo como um polo com 13 unicórnios.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Finanças",
+        "titulo": "Top 50 FinTech VC Funds in Brazil",
+        "link": "https://shizune.co/investors/fintech-vc-funds-brazil",
+        "descricao": "Uma lista dos 50 melhores fundos de capital de risco que investem em startups fintechs no Brasil, com um foco em São Paulo como o principal centro de investimento.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Finanças",
+        "titulo": "As principais startups em tecnologia financeira em São Paulo para 2025",
+        "link": "https://visible.vc/blog/growing-tech-hubs-in-latam/",
+        "descricao": "Um olhar sobre as principais startups de tecnologia em São Paulo que estão transformando o setor de serviços financeiros em 2025.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "DP World estuda nova expansão no terminal paulista",
+        "link": "https://valor.globo.com/empresas/noticia/2025/01/14/dp-world-estuda-nova-expansao-no-terminal-paulista.ghtml",
+        "descricao": "A operadora portuária DP World está considerando antecipar novos investimentos em seu terminal de contêineres em Santos para aumentar a capacidade de 1,3 milhões para 2,1 milhões de TEUs até 2027.",
+        "data": "14/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo planeja programa para investimento estrangeiro",
+        "link": "https://www1.folha.uol.com.br/mercado/2025/01/governo-desenha-programa-para-tentar-impulsionar-investimento-estrangeiro-direto.shtml",
+        "descricao": "O governo está elaborando um programa para simplificação e desburocratização visando facilitar a entrada de investimentos estrangeiros diretos no Brasil.",
+        "data": "01/2025",
+        "municipio": "Não mencionado"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Nova Declaração periódica anual de investimento estrangeiro já pode ser submetida ao Banco Central",
+        "link": "https://www.cgmlaw.com.br/nova-declaracao-periodica-anual-de-investimento-estrangeiro-ja-pode-ser-submetida-ao-banco-central/",
+        "descricao": "O Banco Central do Brasil implementou uma nova declaração para investimentos estrangeiros, aumentando a transparência das operações.",
+        "data": "01/2025",
+        "municipio": "Não mencionado"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Estrangeiros continuam fugindo de ações brasileiras e sangria já soma R$ 3 bilhões em 2025",
+        "link": "https://investnews.com.br/financas/estrangeiros-continuam-fugindo-de-acoes-brasileiras-e-sangria-ja-soma-r-3-bi-em-2025/",
+        "descricao": "Investidores estrangeiros retiraram R$ 3 bilhões da B3 na primeira semana de 2025, destacando a desconfiança em relação ao mercado brasileiro.",
+        "data": "01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Afastados da bolsa, por que estrangeiros investiram R$ 6,5 bilhões na B3",
+        "link": "https://valor.globo.com/financas/noticia/2025/01/20/estrangeiros-aportam-r-65-bilhoes-na-b3-em-16-de-janeiro-e-alcanam-supervit-pela-primeira-vez-em-2025.ghtml",
+        "descricao": "Apesar da saída de investidores, uma entrada significativa de R$ 6,5 bilhões foi registrada na B3, mostrando uma recuperação no interesse por ações brasileiras.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo de SP estima R$ 50 bilhões em investimentos com leilões ...",
+        "link": "https://www.cnnbrasil.com.br/economia/investimentos/governo-de-sp-estima-r-50-bilhoes-de-investimento-com-leiloes-em-2025/",
+        "descricao": "Entre os certames esperados para este ano está o leilão de três lotes de rodovias no interior, somando 1.200 quilômetros.",
+        "data": "Não especificada",
+        "municipio": "Municípios do interior de São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "São José dos Campos é destaque para investimentos internacionais",
+        "link": "https://blog.i9vale.com.br/sao-jose-dos-campos-destaque-para-investimentos-internacionais/",
+        "descricao": "São José dos Campos é a 6ª melhor cidade das Américas para investimentos internacionais, segundo Financial Times.",
+        "data": "Não especificada",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Após investimentos de R$ 3 bi, Grupo Edge vai construir duas fábricas no Brasil",
+        "link": "https://www.cnnbrasil.com.br/economia/negocios/apos-investimentos-de-r-3-bi-grupo-edge-vai-construir-duas-fabricas-no-brasil/",
+        "descricao": "Além da nova fábrica de explosivos em Caçapava, será construída uma nova sede para a SIATT em São José dos Campos.",
+        "data": "Não especificada",
+        "municipio": "Caçapava"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Fábrica de São José dos Campos está entre unidades da GM em SP que receberão investimento de R$ 5,5 bilhões",
+        "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2024/09/04/fabrica-de-sao-jose-dos-campos-esta-entre-unidades-da-gm-em-sp-que-receberao-investimento-de-r-55-bi.ghtml",
+        "descricao": "O montante a ser investido na unidade de São José dos Campos está entre os quatro locais contemplados pela GM para renovação e novas tecnologias.",
+        "data": "04/09/2024",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "GM anuncia R$ 5,5 bilhões em investimentos em São José e São Caetano",
+        "link": "https://www.sindmetalsjc.org.br/n/6849/gm-anuncia-r-55-bilhoes-em-investimentos-em-sao-jose-e-sao-caetano",
+        "descricao": "De acordo com a GM, o investimento contemplará a renovação do portfólio das fábricas em São José dos Campos.",
+        "data": "Não especificada",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Embraer prevê investir R$ 2 bilhões e gerar mais 900 empregos diretos este ano no Brasil",
+        "link": "https://embraer.com/br/pt/noticias?slug=1207378-embraer-preve-investir-r-2-bilhoes-e-gerar-mais-900-empregos-diretos-este-ano-no-brasil",
+        "descricao": "Embraer anunciou um investimento significativo para ampliar suas operações e gerar novos empregos.",
+        "data": "26/04/2024",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Primeira empresa polonesa se instala em São José dos Campos",
+        "link": "https://www.band.uol.com.br/band-vale/noticias/primeira-empresa-polonesa-se-instala-em-sao-jose-dos-campos-16535612",
+        "descricao": "A empresa polonesa pretende contratar 60 pessoas para trabalhar na cidade até o ano que vem.",
+        "data": "Não especificada",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Infraestrutura: 2025 pode mudar o status quo",
+        "link": "https://www.abralog.com.br/noticias/infraestrutura-2025-pode-mudar-o-status-quo/",
+        "descricao": "O setor de transportes e logística apresenta números expressivos, totalizando R$ 94 bilhões em investimentos rodoviários, com 8 novas concessões.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Secretaria de Meio Ambiente, Infraestrutura e Logística de SP",
+        "link": "https://semil.sp.gov.br/2025/01/sp-avanca-em-geracao-de-energia-solar-fotovoltaica-aponta-balanco-energetico-estadual-2024/",
+        "descricao": "O estudo aponta que, em 2023, as fontes renováveis consolidaram seu protagonismo na matriz energética paulista, em termos de oferta de energia.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Infraestrutura: 2025 será o ano dos leilões",
+        "link": "https://portalbenews.com.br/opiniao/infraestrutura-2025-sera-o-ano-dos-leiloes/",
+        "descricao": "O Brasil inicia 2025 com a expectativa de um salto nos investimentos em infraestrutura, com quase 90 leilões no ano.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo de São Paulo prevê R$ 50 bilhões em leilões para 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/governo-de-sao-paulo-preve-r-50-bilhoes-em-leiloes-para-2025-conheca-os-projetos/",
+        "descricao": "O Governo de São Paulo prevê novos investimentos para 2025, com R$ 50 bilhões em leilões e melhorias em rodovias.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Infraestrutura no Brasil: Investimentos e Perspectivas 2025",
+        "link": "https://mercadosinovadores.com.br/infraestrutura-no-brasil-em-2024-perspectivas-e-investimentos-para-2025/",
+        "descricao": "O setor de infraestrutura no Brasil projeta R$ 250 bilhões em investimentos para 2025, impactando a cidade de São Paulo.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo avança na modernização das estações de passageiros",
+        "link": "https://semil.sp.gov.br/2025/02/governo-de-sp-avanca-na-modernizacao-das-estacoes-de-passageiros-das-travessias-litoraneas/",
+        "descricao": "Com investimento total de R$ 1,3 milhão, as travessias de São Sebastião/Ilhabela e Cananeia/Continente terão estações reestruturadas.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "PNL vislumbra infraestrutura de transportes em 2025",
+        "link": "https://www.griclub.org/news/infrastructure/pnl-vislumbra-infraestrutura-de-transportes-em-2025_106",
+        "descricao": "O Brasil precisará investir R$ 132,6 bilhões em modais logísticos até 2025.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Estado de São Paulo investirá quase R$ 34 bi em infraestrutura em 2025",
+        "link": "https://www.bnamericas.com/pt/feature/estado-de-sao-paulo-investira-quase-r-34-bi-em-infraestrutura-em-2025",
+        "descricao": "O estado de São Paulo planeja investir um recorde de R$ 33,5 bilhões em infraestrutura, incluindo obras hidráulicas.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura",
+        "link": "https://www.parceriaseminvestimentos.sp.gov.br/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+        "descricao": "O Governo de São Paulo prevê novos investimentos para 2025, com R$ 50 bilhões em leilões, expansão da rede de saúde e melhorias em rodovias.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Notícia na íntegra - Prefeitura de São Paulo",
+        "link": "https://capital.sp.gov.br/w/prefeitura-prioriza-%C3%A1reas-da-cidade-com-maiores-%C3%ADndices-de-vulnerabilidade-e-d%C3%A9ficit-de-infraestrutura-urbana-no-or%C3%A7amento-2025",
+        "descricao": "Entre os destaques está um orçamento de R$ 5,5 bilhões para Habitação, que incluem R$ 3,5 bilhões para o Programa Pode Entrar. É o maior investimento nesta área.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "3 dicas para as empresas se adequarem às normas de sustentabilidade em 2025",
+        "link": "https://fitecambiental.com.br/3-dicas-para-as-empresas-se-adequarem-as-normas-de-sustentabilidade-em-2025/",
+        "descricao": "As normas podem ajudar as organizações a se adaptarem às regulamentações e não correrem o risco de penalizações ambientais.",
+        "data": "22/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Após privatização, Emae lança projeto de corredor ecológico em São Paulo",
+        "link": "https://exame.com/esg/apos-privatizacao-emae-lanca-projeto-de-corredor-ecologico-em-sao-paulo/",
+        "descricao": "A Emae anunciou um investimento de R$ 3,2 milhões para a restauração de áreas florestais em São Paulo, plantando 100 mil mudas de árvores nativas.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "2025: Um marco para ações sustentáveis em prol do meio ambiente",
+        "link": "https://lexlegal.com.br/2025-um-marco-para-acoes-sustentaveis-em-prol-do-meio-ambiente/",
+        "descricao": "Discute a importância do ano de 2025 para a sustentabilidade, com ênfase na reciclagem como essencial para a redução de impactos ambientais.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Projetos sustentáveis de resíduos florestais em São Paulo",
+        "link": "https://portaltecnologia.com.br/exclusivo_projetos_sustentaveis_de_residuos_forestais_em_sao_paulo",
+        "descricao": "O projeto transforma resíduos florestais em móveis, promovendo a conservação ambiental e gerando renda para comunidades locais.",
+        "data": "02/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Schneider Electric é premiada por ações de redução das emissões de carbono",
+        "link": "https://inforchannel.com.br/schneider-electric-e-premiada/",
+        "descricao": "A iniciativa “The Zero Carbon Project" da Schneider Electric visa cortar as emissões operacionais em 50% até 2025.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Governo de SP define que Funbio irá gerir programa de financiamento a projetos sustentáveis",
+        "link": "https://valor.globo.com/brasil/noticia/2025/02/13/governo-de-sp-define-que-funbio-ir-gerir-programa-de-financiamento-a-projetos-sustentveis.ghtml",
+        "descricao": "O Funbio será responsável por gerir o Finaclima-SP, visando a atração de recursos para projetos de resiliência climática e restauração florestal.",
+        "data": "13/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "ApexBrasil apresenta projetos brasileiros em uma das maiores feiras de sustentabilidade do mundo",
+        "link": "https://apexbrasil.com.br/br/pt/conteudo/noticias/apexbrasil-apresenta-projetos-brasileiros-em-uma-das-maiores-con.html",
+        "descricao": "A ApexBrasil está promovendo projetos brasileiros relacionados à sustentabilidade em uma feira internacional, buscando parcerias e investimentos na economia verde.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Investimentos sustentáveis são uma oportunidade para 2025? Veja as previsões",
+        "link": "https://einvestidor.estadao.com.br/ultimas/investimentos-sustentaveis-oportunidades-2025-ubs-wealth/",
+        "descricao": "A análise mostra como investimentos sustentáveis estão se tornando cada vez mais relevantes e populares, apresentando uma oportunidade crescente para investidores em 2025.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "BTG Pactual abre inscrições para a edição 2025 do programa BTG Soma Meio Ambiente",
+        "link": "https://www.btgpactual.com/imprensa/btg-pactual-abre-inscicoes-para-a-edicao-2025-do-programa-btg-soma-meio-ambiente",
+        "descricao": "O programa gratuito de aceleração social seleciona organizações com projetos focados em sustentabilidade, promovendo práticas ESG.",
+        "data": "07/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Brasil realiza um dos maiores eventos de ESG e Pré COP 30",
+        "link": "https://valor.globo.com/patrocinado/dino/noticia/2025/02/03/brasil-realizara-um-dos-maiores-eventos-de-esg-e-pre-cop-30.ghtml",
+        "descricao": "O evento visa aumentar a conscientização e colaboração em torno das práticas de ESG, reunindo diversas partes interessadas em São Paulo.",
+        "data": "03/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Energia Renovável",
+        "titulo": "São José dos Campos começa a gerar energia a partir do lixo",
+        "link": "https://ciclovivo.com.br/planeta/energia/sao-jose-dos-campos-comeca-a-gerar-energia-a-partir-do-lixo/",
+        "descricao": "Desde 2008, a Urbam (Urbanizadora Municipal) opera uma central em São José dos Campos para tratar o biogás oriundo do aterro sanitário, gerando energia a partir do lixo.",
+        "data": "09/02/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Energia Renovável",
+        "titulo": "Urbam inicia geração de energia a partir do biogás do aterro",
+        "link": "https://www.sjc.sp.gov.br/noticias/2024/fevereiro/09/urbam-inicia-geracao-de-energia-a-partir-do-biogas-do-aterro/",
+        "descricao": "A Usina de Geração de Energia Elétrica a partir do Biogás foi iniciada pela Urbam e compõe-se de seis motores com a capacidade de gerar 1,6 MWh de energia.",
+        "data": "09/02/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Energia Renovável",
+        "titulo": "São José dos Campos irá abastecer prédios públicos com energia solar",
+        "link": "https://www.portalsolar.com.br/noticias/mercado/mercado-livre/sao-jose-dos-campos-ira-abastecer-predios-publicos-com-energia-solar",
+        "descricao": "A Prefeitura de São José dos Campos vai iniciar o funcionamento de uma usina de biogás e a mencionada usina fotovoltaica, visando economia e eficiência energética.",
+        "data": "09/02/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Energia Renovável",
+        "titulo": "Primeira usina de biometano 100% autossustentável do País é lançada",
+        "link": "https://www.terra.com.br/economia/primeira-usina-de-biometano-100-autossustentavel-do-pais-e-lancada-com-investimento-de-r-40-mi,32c6442afc37a23fbc32d1e7c51aabfau3297k71.html",
+        "descricao": "Inaugurada em Jambeiro (SP), a unidade tem capacidade de produzir 30.000 m³ por dia de biometano e gera 170 mil toneladas de créditos de gás natural.",
+        "data": "08/01/2025",
+        "municipio": "Jambeiro"
+    },
+    {
+        "categoria": "Energia Renovável",
+        "titulo": "Implantação de usina de Biogás em São José dos Campos é iniciada",
+        "link": "https://www.cbnvale.com.br/implantacao-de-usina-de-biogas-em-sao-jose-dos-campos-e-iniciada/",
+        "descricao": "A Prefeitura deu início à implantação de usinas fotovoltaicas e de biogás na cidade, apoiando iniciativas sustentáveis.",
+        "data": "08/02/2025",
+        "municipio": "São José dos Campos"
+    }
+]
+```

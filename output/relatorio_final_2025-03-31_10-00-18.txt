@@ -1,0 +1,132 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "Lista da Bloomberg Línea reúne empresas que aceleram o crescimento com a criação de novas verticais de negócios, estratégia de M&As ou planejam a expansão para outros mercados.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "South Summit Brazil 2025: conheça as 50 startups finalistas da competição",
+        "link": "https://exame.com/negocios/south-summit-brazil-2025-conheca-as-50-startups-finalistas-da-competicao/",
+        "descricao": "O South Summit Brazil, um dos principais eventos de inovação e negócios da América Latina, revelou as 50 startups finalistas da Startup.",
+        "data": "13/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025 - Distrito",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "O Distrito apresenta a lista das atuais startups unicórnio brasileiras e startups que podem se tornar unicórnios em breve.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Agenda de eventos para startups brasileiras em 2025 - LinkedIn",
+        "link": "https://pt.linkedin.com/pulse/aten%C3%A7%C3%A3o-empreendedores-agenda-de-eventos-para-em-2025-cris-arcangeli-k2dyf",
+        "descricao": "A temporada de eventos voltados para startups brasileiras em 2025 está prevista para começar e as expectativas são altas.",
+        "data": "20/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Os Principais Eventos de Inovação em 2025 - BOND",
+        "link": "https://bondstudio.com.br/oportunidades-imperdiveis-os-principais-eventos-de-inovacao-em-2025/",
+        "descricao": "Em 2025, o calendário de eventos de inovação está repleto de oportunidades para empreendedores, investidores e entusiastas da tecnologia.",
+        "data": "10/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Os 21 eventos de inovação mais aguardados de 2025 - Startups",
+        "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+        "descricao": "O South Summit Brasil é um dos principais eventos de inovação e tecnologia da América Latina, reunindo startups, investidores e empresas.",
+        "data": "10/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Av. Rebouças: o novo polo de startups em São Paulo - Distrito",
+        "link": "https://distrito.me/blog/av-reboucas-o-novo-polo-de-startups-em-sao-paulo/",
+        "descricao": "Descubra as startups em São Paulo que impulsionam a Avenida Rebouças como polo de inovação no mapeamento exclusivo do Distrito!",
+        "data": "11/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup Day do Sebrae-SP é realizado neste sábado em Bauru",
+        "link": "https://sampi.net.br/bauru/noticias/2892063/geral/2025/03/startup-day-do-sebraesp-e-realizado-neste-sabado-em-bauru",
+        "descricao": "O evento reuniu empreendedores e investidores para promover a inovação local.",
+        "data": "22/03/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Grupo que atendeu 500 mil em SP investe R$ 10 mi e leva restaurantes a cobicado polo gastronomico",
+        "link": "https://exame.com/casual/grupo-que-atendeu-500-mil-em-sp-investe-r-10-mi-e-leva-restaurantes-a-cobicado-polo-gastronomico/",
+        "descricao": "Grupo Locale começa 2025 com expansão e abrirá dois novos restaurantes no bairro de Pinheiros, em São Paulo, além de um em Porto Alegre.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Vêm aí! Os bares e restaurantes que vão abrir as portas em 2025",
+        "link": "https://vejario.abril.com.br/comer-e-beber/bares-e-restaurantes-abrir-as-portas-2025/",
+        "descricao": "Lista de bares e restaurantes que abrirão em 2025, incluindo um café ao Leu que inaugura sua primeira filial no Leblon com brunch.",
+        "data": "15/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+        "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+        "descricao": "O Tivoli Mofarrej se uniu à Nespresso para um brunch harmonizado disponível em 2025.",
+        "data": "20/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Descubra mais de 15 novos restaurantes para visitar em São Paulo",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/descubra-mais-de-15-novos-restaurantes-para-visitar-em-sao-paulo/",
+        "descricao": "Artigo destacando a variedade e a inovação de novos restaurantes na cidade.",
+        "data": "10/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Coca-Cola Femsa Brasil investe R$ 94 milhões em novo Centro de Distribuição em Bauru",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45672",
+        "descricao": "A nova instalação em Bauru promete aumentar a eficiência logística da empresa na região.",
+        "data": "15/03/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Investimento em infraestrutura deve crescer 11% este ano",
+        "link": "https://oglobo.globo.com/economia/negocios/noticia/2025/03/16/investimento-em-infraestrutura-deve-crescer-11percent-este-ano-empresas-buscam-recursos-no-mercado.ghtml",
+        "descricao": "Análise mostra que investimentos em infraestrutura estão projetados para crescer, com foco em rodovias e energia elétrica.",
+        "data": "16/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura",
+        "link": "https://www.parceriaseminvestimentos.sp.gov.br/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+        "descricao": "O Governo de São Paulo anunciou que prevê novos investimentos significativos em infraestrutura, totalizando R$ 50 bilhões.",
+        "data": "09/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Investimentos em infraestrutura alavancam o desenvolvimento de Santos e região",
+        "link": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2025/03/investimentos-em-infraestrutura-alavancam-o-desenvolvimento-de-santos-e-regiao",
+        "descricao": "Investimentos em infraestrutura no Porto de Santos buscam torná-lo um hub portuário para toda a América Latina, com projetos significativos em andamento.",
+        "data": "19/03/2025",
+        "municipio": "Santos"
+    }
+]
+```

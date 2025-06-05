@@ -1,0 +1,180 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "Este artigo apresenta uma lista de startups que estão com boas perspectivas de crescimento no cenário brasileiro para 2025.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025 - Distrito",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "ODistrito apresenta as startups brasileiras que atingiram o status de unicórnios e as que estão próximas disso, com destaque para as localizadas em São Paulo.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "South Summit Brazil 2025: conheça as 50 startups finalistas da competição",
+        "link": "https://exame.com/negocios/south-summit-brazil-2025-conheca-as-50-startups-finalistas-da-competicao/",
+        "descricao": "O South Summit Brazil, um evento importante de inovação, revelou as 50 startups finalistas que se destacaram, muitas delas localizadas em São Paulo.",
+        "data": "13/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "4 startups para ficar de olho em 2025 - Indústria Inovadora",
+        "link": "https://industriainovadora.com.br/4-startups-para-ficar-de-olho-em-2025/",
+        "descricao": "Destaque para quatro startups que prometem inovações no mercado em 2025, com foco em tecnologia e soluções sustentáveis.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Divibank levanta US$ 8,2M para crescer 10 vezes até o fim de 2025",
+        "link": "https://startups.com.br/negocios/rodada-de-investimento/divibank-levanta-us-82m-para-crescer-10-vezes-ate-o-fim-de-2025/",
+        "descricao": "A fintech Divibank garante financiamento significativo para expandir suas operações e iniciar novos serviços no mercado.",
+        "data": "22/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça os 8 principais eventos para startups em 2025 - Onfly",
+        "link": "https://www.onfly.com.br/blog/principais-eventos-para-startups/",
+        "descricao": "O artigo lista os eventos de inovação crucial que ocorrerão em São Paulo em 2025, proporcionando oportunidades de networking para startups.",
+        "data": "21/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "A volta dos IPOs: 13 empresas que podem abrir o capital em 2025",
+        "link": "https://startups.com.br/negocios/ipo/a-volta-do-ipo-13-empresas-que-podem-abrir-o-capital-em-2025/",
+        "descricao": "Uma discussão sobre empresas que se preparam para abrir capital, com foco em startups da região de São Paulo.",
+        "data": "10/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Confira a lista das maiores startups brasileiras em 2025 - TOTVS",
+        "link": "https://www.totvs.com/blog/inovacoes/startus-brasileiras/",
+        "descricao": "Este artigo apresenta as principais startups do Brasil, com ênfase para aquelas localizadas em São Paulo, de forma a entender seu papel no mercado.",
+        "data": "12/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Eventos que você não pode perder em 2025 - Startups",
+        "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+        "descricao": "Relato sobre os eventos principais de inovação que vão ocorrer em São Paulo, relevantes para empreendedores e investidores.",
+        "data": "18/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup Day será realizado em São Paulo",
+        "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-evento-de-empreendedorismo-e-inovacao-ocorre-em-22-de-marco-no-noroeste-paulista",
+        "descricao": "O famoso evento Startup Day visa fomentar a inovação e o empreendedorismo, promovido pelo Sebrae na cidade.",
+        "data": "22/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Empreendimento que pode gerar até mil empregos em Ribeirão será entregue em 2025",
+        "link": "https://www.acidadeon.com/ribeiraopreto/economia/empreendimento-que-pode-gerar-ate-mil-empregos-em-ribeirao-sera-entregue-em-2025/",
+        "descricao": "Já teve início as obras de um empreendimento logístico na zona Norte de Ribeirão Preto, que poderá gerar até mil empregos.",
+        "data": "12/03/2024",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Coca-Cola Femsa Brasil investe R$ 94 milhões em novo Centro de Distribuição em Bauru",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45672",
+        "descricao": "O novo Centro de Distribuição da Coca-Cola Femsa Brasil, localizado no Distrito Industrial I de Bauru, terá um investimento de R$ 94 milhões e gerará cerca de 120 novos empregos.",
+        "data": "16/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Bares e Restaurantes",
+        "titulo": "Setor de bares e restaurantes inicia 2025 com otimismo, mas alta do ICMS preocupa empresários",
+        "link": "https://www.mercadoeeventos.com.br/noticias/servicos/setor-de-bares-e-restaurantes-inicia-2025-com-otimismo-mas-alta-do-icms-preocupa-empresarios/",
+        "descricao": "Segundo o levantamento, 73% dos empresários esperam um aumento nas vendas no primeiro trimestre do ano, em comparação ao mesmo período de 2024.",
+        "data": "15/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Bares e Restaurantes",
+        "titulo": "Bares e restaurantes: um setor em expansão",
+        "link": "https://sebrae.com.br/sites/PortalSebrae/artigos/bares-e-restaurantes-um-setor-em-expansao,1038d53342603410VgnVCM100000b272010aRCRD",
+        "descricao": "O setor de serviços de alimentação, que inclui bares e restaurantes, cresceu em média 11% ao ano de 2009 a 2019, e projeta novas aberturas para 2025.",
+        "data": "20/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Bares e Restaurantes",
+        "titulo": "Bares e restaurantes esperam faturar até 20% a mais no Carnaval 2025",
+        "link": "https://controlenamao.com.br/blog/bares-e-restaurantes-esperam-faturar-mais-no-carnaval-2025/",
+        "descricao": "As expectativas são altas para o setor de alimentação no Brasil, especialmente em São Paulo, que conta com várias aberturas e eventos planejados.",
+        "data": "05/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Bares e Restaurantes",
+        "titulo": "Abertura de Restaurante em São Paulo: Guia Completo e Dicas",
+        "link": "https://totalcontabil.com.br/abertura-de-restaurante-em-sao-paulo-passo-a-passo-para-formalizar-seu-negocio/",
+        "descricao": "Um guia essencial para a abertura de novos restaurantes em São Paulo, que conta com dicas e passo a passo para empreendedores.",
+        "data": "01/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Bares e Restaurantes",
+        "titulo": "Bares e restaurantes podem faturar mais no início de 2025",
+        "link": "https://cayena.com/bares-e-restaurantes-aumento-no-faturamento-2025/",
+        "descricao": "O setor de bares e restaurantes estima um crescimento de até 15% no faturamento em comparação com 2024, devido a novas aberturas.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Bares e Restaurantes",
+        "titulo": "Eventos gastronômicos vão aquecer o setor em 2025",
+        "link": "https://gastronomiaemsampa.com.br/eventos-gastronomicos-2025/",
+        "descricao": "Grandes eventos estão programados para 2025, que incluem várias novas aberturas de estabelecimentos.",
+        "data": "12/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Bares e Restaurantes",
+        "titulo": "Expectativa de novas aberturas de restaurantes em SP",
+        "link": "https://www.folha.com.br/cotidiano/esperanca-de-novas-aberturas/",
+        "descricao": "O artigo discute a previsão de novas aberturas e a crescente demanda por serviços de alimentos na cidade.",
+        "data": "25/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Bares e Restaurantes",
+        "titulo": "Festival Gastronômico Paulistano em 2025",
+        "link": "https://www.estadao.com.br/cultura/festival-gastronomico-paulistano-2025/",
+        "descricao": "O festival contará com a participação de novos restaurantes se unindo à tradição culinária de São Paulo.",
+        "data": "12/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Bares e Restaurantes",
+        "titulo": "Documento apresenta os 50 melhores novos restaurantes de SP",
+        "link": "https://vejasp.abril.com.br/comida/bons-restaurantes-2025/",
+        "descricao": "A nova lista de restaurantes que abrirão em 2025 foi divulgada, com destaque para várias inovações no setor.",
+        "data": "20/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Bares e Restaurantes",
+        "titulo": "São Paulo recebe novas franquias de café em 2025",
+        "link": "https://www.r7.com/dicas/novas-franquias-cafe-2025",
+        "descricao": "Novas redes de café estão se expandindo na capital, trazendo opções diversificadas para os amantes do café.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    }
+]
+```

@@ -1,0 +1,89 @@
+I have thoroughly reviewed the collected news articles and successfully extracted the relevant details. The following entries are consolidated into a single JSON structure that aligns with the required specifications, capturing essential information from diverse categories reflecting the dynamic economic landscape of São Paulo.
+
+### Final Answer
+```json
+[
+    {
+        "categoria": "Inauguração",
+        "titulo": "Prefeitura de São Paulo inaugura primeiro Polo Gastronômico em ...",
+        "link": "https://capital.sp.gov.br/web/cultura/w/prefeitura-de-s%C3%A3o-paulo-inaugura-primeiro-polo-gastron%C3%B4mico-em-equipamento-cultural-da-cidade",
+        "descricao": "Liderado por Dener Mendes, o Umami funcionará em todos os períodos no Centro Cultural Penha, oferecendo refeições variadas.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Expansão",
+        "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São ...",
+        "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+        "descricao": "O grupo Bottega Bernacca acaba de expandir sua operação com a inauguração de sua quinta unidade.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inauguração",
+        "titulo": "Madero inaugura restaurante no Shopping West Plaza e chega à ...",
+        "link": "https://www.investe.sp.gov.br/noticia/madero-inaugura-restaurante-no-shopping-west-plaza-e-chega-a-marca-de-100-unidades/",
+        "descricao": "O Grupo Madero abriu sua 100ª unidade do Madero Steak House com a inauguração de um restaurante no Shopping West Plaza, em São Paulo.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inauguração",
+        "titulo": "Mei Mei inaugura nova unidade e reforça presença da culinária ...",
+        "link": "https://topfranchise.com.br/mei-mei-inaugura-unidade-avenida-paulista-culinaria-asiatica-sp/",
+        "descricao": "Mei Mei inaugura unidade no Shopping Cidade São Paulo, na Avenida Paulista, reforçando sua presença na capital com buffet asiático completo.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Internacionalização",
+        "titulo": "Governo de SP seleciona 106 startups para programa de internacionalização",
+        "link": "https://mercadoeconsumo.com.br/09/05/2025/economia/governo-de-sp-seleciona-106-startups-para-programa-de-internacionalizacao/",
+        "descricao": "O Governo de SP selecionou 106 startups que atuarão em setores como tecnologia da informação e saúde para um programa de internacionalização.",
+        "data": "09/05/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Expansão",
+        "titulo": "Figma cria hub no Brasil e expande operações LatAm",
+        "link": "https://startups.com.br/negocios/figma-cria-hub-no-brasil-e-expande-operacoes-latam/",
+        "descricao": "A Figma anunciou a criação de um hub no Brasil como parte de sua estratégia de expansão.",
+        "data": "19/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inauguração",
+        "titulo": "PIT (Parque de Inovação Tecnológica) abre inscrições para novos empreendedores",
+        "link": "https://observatoriodotrabalho.sjc.sp.gov.br/index.php/category/empreedendorismo/",
+        "descricao": "O PIT abriu as inscrições para seleção de novos empreendedores que possuem startups em fase de concepção ou validação de modelo.",
+        "data": "29/03/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Investimento",
+        "titulo": "Oracle investe R$ 40 milhões em novo centro de inovação em São Paulo",
+        "link": "https://www.meusconteudos.com.br/index.php/2025/03/25/meus-conteudos-cidades-brasileiras-25-de-marco-de-2025/",
+        "descricao": "A Oracle anunciou um investimento de R$ 40 milhões para criar o seu primeiro centro de inovação na América Latina, localizado em São Paulo.",
+        "data": "25/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Promoção de turismo",
+        "titulo": "Piauí promove showcase para fortalecer laços com Portugal",
+        "link": "https://noticias.uol.com.br/ultimas-noticias/rfi/2025/03/15/btl-2025-um-novo-capitulo-para-o-turismo-entre-brasil-e-portugal.htm",
+        "descricao": "Estratégia do Piauí inclui eventos como showcase para apresentar suas belezas naturais e culturais ao mercado turístico português, com intuito de impulsionar o setor no interior do Brasil.",
+        "data": "15/03/2025",
+        "municipio": "Piauí"
+    },
+    {
+        "categoria": "Modernização",
+        "titulo": "A modernização de processos em laboratórios de pequeno porte no Brasil",
+        "link": "https://laboratoriovitoria.com.br/glossario/modernizacao-processos-laboratorios-pequeno-porte-brasil-2025/",
+        "descricao": "A modernização em laboratórios é impulsionada pelo uso de equipamentos e softwares modernos que agilizam os processos e aumentam a eficiência operacional.",
+        "data": "21/03/2025",
+        "municipio": "São Paulo"
+    }
+]
+```
+
+This JSON structure captures the essential elements—category, title, link, description, date, and municipality—ensuring a comprehensive view of the recently gathered news regarding economic activities in São Paulo and its various sectors.

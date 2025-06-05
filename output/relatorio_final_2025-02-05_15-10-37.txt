@@ -1,0 +1,236 @@
+```json
+[
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Sedecon faz visita ao Distrito Industrial III e participa de reunião na nova empresa de varejo",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45651",
+        "descricao": "A Secretaria de Desenvolvimento Econômico de Bauru (Sedecon) segue com apoio ao processo seletivo de uma nova empresa de varejo que será instalada na cidade.",
+        "data": "01/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Novas fábricas aumentam capacidade da indústria automotiva",
+        "link": "https://www1.folha.uol.com.br/colunas/eduardosodre/2025/01/novas-fabricas-aumentarao-capacidade-da-industria-automotiva-em-2025.shtml",
+        "descricao": "O início das operações fabris das chinesas BYD e GWM vai aumentar a capacidade de produção da indústria automotiva nacional a partir de 2025.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Emprego",
+        "titulo": "CNI prevê abertura de 540 mil vagas na indústria até 2025",
+        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/cni-preve-abertura-de-540-mil-vagas-na-industria-ate-2025-265-mil-apenas-na-construcao-civil/",
+        "descricao": "A Confederação Nacional da Indústria (CNI) prevê que a indústria brasileira abrirá 540 mil novos postos de trabalho até 2025.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Indústria e comércio começam 2025 otimista",
+        "link": "https://www.band.uol.com.br/noticias/jornal-da-band/videos/industria-e-comercio-comecam-2025-otimista-17312732",
+        "descricao": "O setor industrial e o comércio almejam crescimento e novas vagas de emprego iniciando o ano de 2025 com otimismo.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Intermach 2025 é lançada em São Paulo e amplia a área de exposição",
+        "link": "http://www.noticenter.com.br/n.php?ID=37573&T=intermach-2025-e-lancada-em-sao-paulo-e-amplia-a-area-de-exposicao-em-4-mil-m",
+        "descricao": "A Intermach 2025, feira e congresso de tecnologia para a indústria metalmecânica, amplia a área de exposição em São Paulo.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "O que é a Nova Indústria Brasil e quais setores podem se beneficiar",
+        "link": "https://valor.globo.com/brasil/noticia/2024/01/22/o-que-e-a-nova-industria-brasil-e-quais-setores-podem-se-beneficiar-dele.ghtml",
+        "descricao": "O programa 'Nova Indústria Brasil' visa estimular setores da economia com investimentos em tecnologia e inovação.",
+        "data": "22/01/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "NOVIDADES NA BARBADOS",
+        "link": "https://www.instagram.com/socialbauru/p/DC4sHi0Bbst/",
+        "descricao": "Em expansão, a @barbadosbarbearia deve ter mais cinco unidades em Bauru até o fim de 2025.",
+        "data": "01/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "O novo prédio do restaurante do Zoológico de Bauru",
+        "link": "https://www.instagram.com/aquiagorabauru/p/DEpNBMQRhHF/",
+        "descricao": "O novo prédio do restaurante do Zoológico de Bauru, entregue em 1 de março de 2024, está prestes a completar um ano sem que empresas assumam ...",
+        "data": "01/03/2024",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "2025 vem junto com muitas novidades no Restaurante Guaianás",
+        "link": "https://www.instagram.com/restauranteguaianas/reel/DDvFcYvCANx/",
+        "descricao": "2025 vem junto com muitas novidades no Restaurante Guaianás! Gincanas com prêmios, prato novo, novidade na nossa lojinha e muito mais! Vem pra Guaianás!",
+        "data": "01/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Restaurante do Zoo está pronto há quase 1 ano, mas segue vazio",
+        "link": "https://sampi.net.br/bauru/noticias/2877781/politica/2025/01/restaurante-do-zoo-esta-pronto-ha-quase-1-ano-mas-segue-vazio",
+        "descricao": "Prédio foi entregue no dia 1 de março de 2024, mas por conta de aluguel alto, licitações não encontraram interessados.",
+        "data": "01/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Novas unidades do Bar Gaba",
+        "link": "https://www.instagram.com/socialbauru/reel/C72SKGaOgvr/?hl=en",
+        "descricao": "O @barangabauru inaugurou recentemente uma nova unidade em Bauru.",
+        "data": "01/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Réveillon 2025 em Bauru",
+        "link": "https://www.socialbauru.com.br/2024/11/27/reveillon-2025-lista-eventos-confirmados/",
+        "descricao": "Cervejaria Servus e outros estabelecimentos confirmaram eventos para o Réveillon em Bauru.",
+        "data": "27/11/2024",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Entregas do novo Restaurante dentro do Parque Zoológico de Bauru",
+        "link": "https://www.instagram.com/prefeituradebauru/reel/C3_Oi3OO9Mh/",
+        "descricao": "Chegou o momento que todos esperavam: a entrega da obra do novo Restaurante dentro do Parque Zoológico Municipal de Bauru!",
+        "data": "01/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Os 10 Melhores restaurantes em Bauru Atualizado Fevereiro 2025",
+        "link": "https://www.tripadvisor.com.br/Restaurants-g303601-Bauru_State_of_Sao_Paulo.html",
+        "descricao": "Nova lista dos 10 melhores restaurantes em Bauru com base nas avaliações mais recentes.",
+        "data": "Fevereiro 2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Fintech nascida em Rio Preto recebe R$ 5 milhões em investimentos de fundo norte-americano",
+        "link": "https://www.gazetaderiopreto.com.br/economia/noticia/2019/11/fintech-nascida-em-rio-preto-recebe-r-5-milhoes-em-investimentos-de-fundo-norte-americano.html",
+        "descricao": "A plataforma Cobre Fácil vai expandir seu portfólio de atuação e criar, pelo menos, 30 novas vagas de emprego com o investimento de R$ 5 milhões.",
+        "data": "2025",
+        "municipio": "São José do Rio Preto"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "O Programa Startup Ribeirão Preto começou acelerado em 2025.",
+        "link": "https://www.facebook.com/organicacursos/videos/o-programa-startup-ribeir%C3%A3o-preto-come%C3%A7ou-acelerado-em-2025-aqui-na-org%C3%A2nica-reu/1266289847762444/",
+        "descricao": "O Programa Startup Ribeirão Preto começou acelerado em 2025. Aqui na Orgânica reunimos as startups selecionadas, professores, mentores.",
+        "data": "2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Programa de Aceleração de Startups da PUC-Campinas abre ...",
+        "link": "https://www.puc-campinas.edu.br/programa-de-aceleracao-de-startups-da-puc-campinas-abre-edicao-do-2o-semestre-com-25-equipes/",
+        "descricao": "O programa conta com capacitação e mentorias com especialistas de mercado que fazem parte do ecossistema de Campinas e região.",
+        "data": "2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Parques Tecnológicos",
+        "titulo": "Parque Tecnológico de Sorocaba",
+        "link": "https://www.parquetecsorocaba.com.br/blog/categoria/4",
+        "descricao": "O Parque Tecnológico de Sorocaba é um ambiente de inovação que visa fomentar o desenvolvimento de empresas e projetos tecnológicos.",
+        "data": "2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Com apoio do Sebrae, greentech pretende faturar R$ 1,8 milhão em 2025.",
+        "link": "https://startupi.com.br/apoio-sebrae-greentech-faturar-18-milhao-em-2025/",
+        "descricao": "A startup Yágua, focada em tecnologia sustentável, recebeu apoio do Sebrae para sua expansão e previsão de faturamento.",
+        "data": "2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "O que será da IA em 2025? Comentários do CEO na Aceleradora.",
+        "link": "https://www.instagram.com/digai.ai/reel/DFDTuE9RgmJ/",
+        "descricao": "A DigAÍ, startup de IA, comenta sobre as expectativas e inovações planejadas para 2025.",
+        "data": "2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "categoria": "Agronegócio",
+        "titulo": "Desafios da Metrópole: agritechs ganham força e se expandem.",
+        "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2025/01/01/desafios-da-metropole-agritechs-ganham-forca-e-se-expandem-no-entorno-da-capital-do-agronegocio.ghtml",
+        "descricao": "Análise do crescimento das agritechs e a força dos hubs de inovação em Ribeirão Preto.",
+        "data": "2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Multinacional alemã inaugura primeira fábrica e centro de pesquisa global no Brasil",
+        "link": "https://www.investe.sp.gov.br/noticia/multinacional-alema-inaugura-primeira-fabrica-e-centro-de-pesquisa-global-no-brasil/",
+        "descricao": "A multinacional alemã DVA Agro inaugura sua primeira unidade fabril e centro de pesquisa no Brasil, com um investimento de R$ 12 milhões.",
+        "data": "30/01/2024",
+        "municipio": "Indaiatuba"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Chinesa, GAC chega em 2025 com investimento bilionário",
+        "link": "https://www.uol.com.br/carros/noticias/redacao/2024/12/12/montadora-chinesa-gac-chega-em-2025-ao-brasil-com-investimento-bilionario.htm",
+        "descricao": "A montadora chinesa GAC planeja um investimento de R$ 5,8 bilhões no Brasil, com a abertura de uma fábrica em São Paulo prevista para 2025.",
+        "data": "12/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Coreana Shilla abrirá em SP sua 1ª fábrica fora da Ásia",
+        "link": "https://exame.com/negocios/coreana-shilla-abrira-em-sp-sua-1a-fabrica-fora-da-asia-3/",
+        "descricao": "A fabricante Shilla do setor automotivo investirá R$ 100 milhões em uma nova unidade em São Paulo, criando 200 empregos.",
+        "data": "28/03/2024",
+        "municipio": "Tietê"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Gestamp investe R$ 100 milhões em fábrica para atender Hyundai em Piracicaba",
+        "link": "https://www.autodata.com.br/noticias/2024/12/11/gestamp-investe-r-100-milhoes-em-fabrica-para-atender-hyundai-em-piracicaba/81833/",
+        "descricao": "A Gestamp anunciou um investimento de R$ 100 milhões na construção de uma nova fábrica em Piracicaba, com abertura de 150 postos de trabalho, podendo chegar a 500.",
+        "data": "11/12/2024",
+        "municipio": "Piracicaba"
+    },
+    {
+        "categoria": "Educação",
+        "titulo": "LATAM inaugura escola no Brasil para formar novos mecânicos aeronáuticos",
+        "link": "https://www.latamairlines.com/br/pt/imprensa/noticias/latam-inaugura-escola-mecanicos",
+        "descricao": "A LATAM anunciou um investimento de R$ 40 milhões em um novo hangar e escola em São Carlos, especializada na formação de mecânicos aeronáuticos.",
+        "data": "03/12/2024",
+        "municipio": "São Carlos"
+    },
+    {
+        "categoria": "Educação",
+        "titulo": "Parceria entre Senai e Toyota capacita jovens para a Indústria do Futuro",
+        "link": "https://www.jornalcruzeiro.com.br/sorocaba/noticias/2025/02/743436-parceria-entre-senai-e-toyota-capacita-jovens-para-a-industria-do-futuro.html",
+        "descricao": "O programa TechMob 4.0 oferece capacitação gratuita em tecnologia da informação para jovens, com mentorias fornecidas pela Toyota.",
+        "data": "03/02/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Emprego",
+        "titulo": "Entradas do novo Restaurante dentro do Parque Zoológico de Bauru",
+        "link": "https://www.instagram.com/prefeituradebauru/reel/C3_Oi3OO9Mh/",
+        "descricao": "Chegou o momento que todos esperavam: a entrega da obra do novo Restaurante dentro do Parque Zoológico Municipal de Bauru!",
+        "data": "01/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Educação",
+        "titulo": "Capacitação focada em energias renováveis para jovens",
+        "link": "https://www.revistainsustentabilidade.com/",
+        "descricao": "Programa de capacitação voltado em energias renováveis em São Paulo.",
+        "data": "12/12/2024",
+        "municipio": "São Paulo"
+    }
+]
+```

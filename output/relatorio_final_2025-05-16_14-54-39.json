@@ -1,0 +1,412 @@
+```json
+{
+    "noticias": [
+        {
+            "categoria": "Inauguração",
+            "titulo": "Guia Michelin: Rio e São Paulo têm 4 novos restaurantes estrelados ...",
+            "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/guia-michelin-rio-e-sao-paulo-tem-4-novos-restaurantes-estrelados-em-2025/",
+            "descricao": "Guia Michelin: Rio e São Paulo têm 4 novos restaurantes estrelados em 2025; qualidade dos ingredientes; harmonia dos sabores.",
+            "data": "01/11/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Inauguração",
+            "titulo": "Guia Michelin 2025! Rio e São Paulo ganham 4 novos restaurantes ...",
+            "link": "https://www.melhoresdestinos.com.br/guia-michelin-restaurantes-rio-sp-2025.html",
+            "descricao": "Entre os quatro novatos, dois cariocas brilharam: Casa 201 e Oseille.",
+            "data": "01/11/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Reconhecimento",
+            "titulo": "Conheça todos os 149 restaurantes brasileiros recomendados pelo ...",
+            "link": "https://oglobo.globo.com/rioshow/gastronomia/noticia/2025/05/13/conheca-todos-os-149-restaurantes-brasileiros-recomendados-pelo-guia-michelin-2025.ghtml",
+            "descricao": "Em 2025, cinco novos estabelecimentos entram para a lista de bom custo-benefício, todos em São Paulo: A Casa do Porco, Cepa, Clandestina, Jacó e Manioca da Mata.",
+            "data": "13/05/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Reconhecimento",
+            "titulo": "Rio e São Paulo têm 4 novos restaurantes estrelados em 2025",
+            "link": "https://www.youtube.com/watch?v=V1kP82rtN_M",
+            "descricao": "CONHEÇA OS RESTAURANTES COM DUAS ESTRELAS MICHELIN DE SÃO PAULO - D.O.M TUJU E EVVAI.",
+            "data": "01/11/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Reconhecimento",
+            "titulo": "Quatro novas Estrelas MICHELIN brilham no Rio de Janeiro e em ...",
+            "link": "https://guide.michelin.com/br/pt_BR/article/michelin-guide-ceremony/quatro-novas-estrelas-michelin-brilham-no-rio-de-janeiro-e-em-sao-paulo",
+            "descricao": "Nesta edição de 2025, cinco casas renovam essa distinção e reafirmam seu lugar no topo da gastronomia brasileira: D.O.M., Evvai e Tuju, em São Paulo; Lasai e ...",
+            "data": "01/11/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "titulo": "Quatro novos restaurantes brasileiros entraram para a edição 2025 do Guia Michelin",
+            "link": "https://www.instagram.com/p/DJmsl54zEh9/",
+            "descricao": "Quatro novos restaurantes brasileiros entraram para a edição 2025 do Guia Michelin, dois no Rio de Janeiro e dois em São Paulo — as únicas cidades avaliadas ...",
+            "data": "01/11/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "titulo": "Festival gastronômico em Ilhabela vai até 18 de maio",
+            "link": "https://guia.folha.uol.com.br/restaurantes/2025/05/festival-que-celebra-peixes-e-frutos-do-mar-em-ilhabela-vai-ate-18-de-maio.shtml",
+            "descricao": "Festival que celebra peixes e frutos do mar em Ilhabela vai até 18 de maio. Folha Sabores da Praia reúne 35 restaurantes, cafeterias, sorveterias e bares do ...",
+            "data": "01/05/2025",
+            "municipio": "Ilhabela"
+        },
+        {
+            "categoria": "Expansão",
+            "titulo": "Web Summit 2025: hubs de inovação de SP, POA e Rio se juntam ...",
+            "link": "https://exame.com/negocios/web-summit-2025-hubs-de-inovacao-de-sp-poa-e-rio-se-juntam-em-eventos-para-startups-e-investidores/",
+            "descricao": "O evento promete não só ser um espaço de debate e aprendizado, mas também um ponto de conexão entre startups, fundos de venture capital (VC), empreendedores e ...",
+            "data": "20/05/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Crescimento",
+            "titulo": "Brasil tem 18.000 startups em operação; SP lidera com 1.900 ...",
+            "link": "https://www.poder360.com.br/poder-empreendedor/brasil-tem-18-000-startups-em-operacao-sp-lidera-com-1-900-empresas/",
+            "descricao": "Levantamento do Sebrae mapeia cenário de inovação nacional e revela crescimento de 59% no número de empresas inovadoras em comparação com 2024.",
+            "data": "15/04/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Competição",
+            "titulo": "A Startup World Cup aterrissou no SciBiz 2025! A etapa São Paulo ...",
+            "link": "https://www.instagram.com/uspinovacao/p/DJrovnet5ti/",
+            "descricao": "A Startup World Cup aterrissou no SciBiz 2025! A etapa São Paulo/Brasil da competição global, que distribui US$ 1 milhão (!!!!) em investimentos, será ...",
+            "data": "18/04/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Expansão",
+            "titulo": "Figma cria hub no Brasil e expande operações LatAm - Startups",
+            "link": "https://startups.com.br/negocios/figma-cria-hub-no-brasil-e-expande-operacoes-latam/",
+            "descricao": "Movimento marca o início de uma nova fase da Figma no continente, em linha com sua estratégia global de crescimento.",
+            "data": "10/06/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Imersão",
+            "titulo": "Programa ScaleUp inBrazil inicia quinta edição com imersão de ...",
+            "link": "https://apexbrasil.com.br/br/pt/conteudo/noticias/programa-scaleup-inbrazil-inicia-quinta-edicao-com-imersao-de-st.html",
+            "descricao": "Na edição de 2025, o programa traz ao Brasil nove empresas israelenses, quatro japonesas e duas singapurenses de alta tecnologia interessadas em iniciar os ...",
+            "data": "22/05/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Crescimento",
+            "titulo": "Brasil tem mais de 19 mil startups em operação",
+            "link": "https://noticias.r7.com/record-news/news-das-19h/video/brasil-tem-mais-de-19-mil-startups-em-operacao-07052025/",
+            "descricao": "Os segmentos de tecnologia da informação, saúde e educação estão entre os que recebem mais atenção do setor, que teve alta de 59% em 2025 em relação ao ano anterior.",
+            "data": "07/05/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Feira",
+            "titulo": "Sebrae-SP leva pequenas empresas, startups e produtores rurais para a Agrishow",
+            "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sebrae-sp-leva-pequenas-empresas-startups-e-produtores-rurais-para-a-agrishow/",
+            "descricao": "O Sebrae-SP oferece a oportunidade para startups, micro e pequenas empresas estarem presentes em uma das maiores feiras agrícolas do mundo para fazer negócios.",
+            "data": "17/04/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Negócios",
+            "titulo": "Assecre prevê R$ 25 milhões em negócios em nova feira em São José",
+            "link": "https://sampi.net.br/ovale/noticias/2902780/economia/2025/05/assecre-preve-r-25-milhoes-em-negocios-em-nova-feira-em-sao-jose",
+            "descricao": "A 'Tech Valley Summit 2025' contará com quatro áreas Educação Técnica, Educação Superior, Pesquisa e Estudantes; Investidores e Instituições de Relações.",
+            "data": "10/05/2025",
+            "municipio": "São José"
+        },
+        {
+            "categoria": "Expansão",
+            "titulo": "Petlove avança em sua expansão com a primeira loja no interior",
+            "link": "https://www.investe.sp.gov.br/noticia/petlove-avanca-em-sua-expansao-com-a-primeira-loja-no-interior-paulista/",
+            "descricao": "A Petlove estreia sua primeira unidade no interior de São Paulo, em Ribeirão Preto, no bairro Jardim Nova Aliança.",
+            "data": "20/04/2025",
+            "municipio": "Ribeirão Preto"
+        },
+        {
+            "categoria": "Turismo",
+            "titulo": "São Paulo recebe 1 milhão de turistas internacionais - Panrotas",
+            "link": "https://www.panrotas.com.br/destinos/pesquisas-e-estatisticas/2025/05/recorde-sao-paulo-recebe-1-milhao-de-turistas-internacionais-nos-4-primeiros-meses-do-ano_217486.html",
+            "descricao": "O Estado de São Paulo bateu a marca de um milhão de turistas internacionais no primeiro quadrimestre de 2025. Com exatas 1.020.851 chegadas, a região atinge ...",
+            "data": "01/05/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Turismo",
+            "titulo": "São Paulo recebe 1 milhão de turistas internacionais no 1º ...",
+            "link": "https://brasilturis.com.br/2025/05/16/sao-paulo-recebe-1-milhao-de-turistas-internacionais-no-1o-quadrimestre-e-bate-recorde/",
+            "descricao": "São Paulo ultrapassa 1 milhão de turistas internacionais até abril de 2025, alta de 24% e recorde para o período.",
+            "data": "16/05/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Turismo",
+            "titulo": "Boom do turismo brasileiro impulsiona expansão hoteleira e atrai ...",
+            "link": "https://www.mercadoeeventos.com.br/noticias/hotelaria/boom-do-turismo-brasileiro-impulsiona-expansao-hoteleira-e-atrai-investidores-globais/",
+            "descricao": "O ano de 2025 mal chegou à metade e já entra para a história do turismo brasileiro. No primeiro trimestre, o país registrou a maior entrada de turistas.",
+            "data": "N/A",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Turismo",
+            "titulo": "São Paulo lidera chegada de estrangeiros no 1º trimestre de 2025",
+            "link": "https://brasilturis.com.br/2025/04/23/sao-paulo-lidera-chegada-de-estrangeiros-no-1o-trimestre-de-2025/",
+            "descricao": "O Estado de São Paulo bateu recorde no número de estrangeiros recebidos no primeiro trimestre do ano: 807,0 mil, segundo dados do Ministério do Turismo e da ...",
+            "data": "23/04/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Infraestrutura",
+            "titulo": "Túnel Santos-Guarujá é destaque na Europa e reforça interesse de ...",
+            "link": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2025/04/tunel-santos-guaruja-e-destaque-na-europa-e-reforca-interesse-de-grupos-estrangeiros-na-infraestrutura-brasileira",
+            "descricao": "Por onde é apresentado, o projeto do túnel que interligará as cidades de Santos e Guarujá, em São Paulo, chama a atenção de potenciais investidores e demonstra ...",
+            "data": "N/A",
+            "municipio": "Santos"
+        },
+        {
+            "categoria": "Expansão",
+            "titulo": "DP World destaca soluções logísticas integradas e expansão no Brasil",
+            "link": "https://portogente.com.br/noticias/transporte-logistica/116700-dp-world-destaca-solucoes-logisticas-integradas-e-expansao-no-brasil-durante-intermodal-2025",
+            "descricao": "Até o final de 2025, ainda serão abertos os escritórios nas cidades de Curitiba, Porto Alegre e Rio de Janeiro. Em 2026, a Companhia chegará a Manaus e, em 2027.",
+            "data": "26/04/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Investimentos",
+            "titulo": "Maersk anuncia R$ 30 bilhões em investimentos no Brasil e mira expansão em Santos",
+            "link": "https://www.atribuna.com.br/noticias/portomar/maersk-anuncia-r-30-bilh-es-em-investimentos-no-brasil-e-mira-expans-o-em-santos-1.460843",
+            "descricao": "Uma das maiores empresas de transporte de contêineres do mundo, navegando com mais de 700 navios em 135 países, a Maersk prevê investimentos de R$ 30 bilhões no Brasil.",
+            "data": "20/05/2025",
+            "municipio": "Santos"
+        },
+        {
+            "categoria": "Infraestrutura",
+            "titulo": "Túnel Santos-Guarujá ganha força após retorno da comitiva de SP",
+            "link": "https://www.gazetasp.com.br/cotidiano/tunel-santos-guaruja-ganha-forca-retorno-comitiva-sp-missao-europeia/1155031/",
+            "descricao": "O Governo de São Paulo concluiu o terceiro 'roadshow' internacional de 2025 que buscava investidores para as obras do túnel que ligará as cidades de Santos e Guarujá.",
+            "data": "26/04/2025",
+            "municipio": "Santos"
+        },
+        {
+            "categoria": "Parceria",
+            "titulo": "Parceria entre Brasil e China impulsiona o setor industrial",
+            "link": "https://www.uai.com.br/app/noticia/mundo-corporativo/2025/05/05/noticia-mundo-corporativo,360682/parceria-entre-brasil-e-china-impulsiona-o-setor-industrial.shtml",
+            "descricao": "Essas iniciativas fortalecem a posição do Brasil como um polo industrial na América Latina e oferecem à China oportunidades de expandir sua influência.",
+            "data": "05/05/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Investimento",
+            "titulo": "Nunes anuncia 100 milhões de dólares para ônibus elétricos, mas ...",
+            "link": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2025/04/30/nunes-anuncia-100-milhoes-de-dolares-para-onibus-eletricos-mas-ampliacao-de-frota-esbarra-em-falta-de-infraestrutura.ghtml",
+            "descricao": "Até o momento, 29 empresas pediram a instalação de infraestrutura para carregar ônibus elétricos em São Paulo, e destes 14 foram entregues. Outros 15 estão ...",
+            "data": "30/04/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Saneamento",
+            "titulo": "Universalização do saneamento daqui a 8 anos está ameaçada, e ...",
+            "link": "https://www1.folha.uol.com.br/mercado/2025/04/universalizacao-do-saneamento-daqui-a-8-anos-esta-ameacada-e-consumidor-pagara-mais.shtml",
+            "descricao": "São Paulo deve ter 260 obras de esgoto e água até 2026, diz Sabesp ... \"Em 2023, o BNDES voltou a operar com essas companhias e, desde então, aprovou três ...",
+            "data": "05/04/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Sustentabilidade",
+            "titulo": "Fórum Mundial de Economia Circular chega a São Paulo para ...",
+            "link": "https://valor.globo.com/conteudo-de-marca/fiesp/noticia/2025/05/08/forum-mundial-de-economia-circular-chega-a-sao-paulo-para-discutir-novos-caminhos-de-sustentabilidade-com-foco-na-industria.ghtml",
+            "descricao": "Fórum Mundial de Economia Circular chega a São Paulo para discutir novos caminhos de sustentabilidade com foco na indústria. Realizado pela primeira vez na ...",
+            "data": "08/05/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Infraestrutura",
+            "titulo": "EM PRIMEIRA MÃO: Ricardo Nunes confirma que vai captar na ...",
+            "link": "https://diariodotransporte.com.br/2025/04/17/em-primeira-mao-ricardo-nunes-confirma-que-vai-captar-na-china-mais-us-100-milhoes-para-comprar-onibus-eletricos-para-sao-paulo-no-diario-do-transporte/",
+            "descricao": "O Diário do Transporte começou o debate sobre a falta de infraestrutura nas garagens em São Paulo, que possuem centenas de carregadores de baterias e dezenas de ...",
+            "data": "17/04/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Infraestrutura",
+            "titulo": "SP pra Toda Obra prevê 17,2 mil postos de trabalho na região de Marília",
+            "link": "https://www.agenciasp.sp.gov.br/sp-pra-toda-obra-preve-172-mil-postos-de-trabalho-na-regiao-de-marilia/",
+            "descricao": "O SP pra Toda Obra, o maior programa de obras viárias da história de São Paulo, prevê a geração de 17.216 novos postos de trabalho na região de Marília.",
+            "data": "25/06/2025",
+            "municipio": "Marília"
+        },
+        {
+            "categoria": "Desenvolvimento",
+            "titulo": "10 anos de MITs: impulsionando o turismo e o desenvolvimento local",
+            "link": "https://www.investe.sp.gov.br/noticia/10-anos-de-mits-impulsionando-o-turismo-e-o-desenvolvimento-local-no-estado-de-sao-paulo/",
+            "descricao": "Política pioneira do Governo de SP já repassou quase R$ 300 milhões e beneficiou mais de 140 cidades paulistas com obras de infraestrutura turística.",
+            "data": "12/06/2025",
+            "municipio": "Várias cidades"
+        },
+        {
+            "categoria": "Infraestrutura",
+            "titulo": "Sabesp investirá mais de R$ 2 bilhões em três cidades da Baixada",
+            "link": "https://www.instagram.com/p/DJA1I1jSIEh/",
+            "descricao": "Somente em 2025, R$ 830 milhões foram investidos nessas cidades. As obras compreendem a implantação de redes coletoras e estações de tratamento.",
+            "data": "15/06/2025",
+            "municipio": "Baixada Santista"
+        },
+        {
+            "categoria": "Empreendimento",
+            "titulo": "Vetter projeta R$2 bilhões em VGV lançado nos próximos dois anos",
+            "link": "https://www.griclub.org/news/real-estate/vetter-projeta-rs-2-bilhoes-em-vgv-lancado-nos-proximos-dois-anos",
+            "descricao": "Para 2025, a meta é lançar três novos projetos. O primeiro deles foi o Dolphin Bay, que veio ao mercado de Penha em abril, e já alcançou 68% de vendas.",
+            "data": "05/06/2025",
+            "municipio": "Penha"
+        },
+        {
+            "categoria": "Capacitação",
+            "titulo": "CACB vai capacitar empresas brasileiras em práticas ...",
+            "link": "https://cacb.org.br/cacb-vai-capacitar-empresas-brasileiras-em-praticas-sustentaveis/",
+            "descricao": "Em parceria com Great People ESG, programa atenderá até 2026 micro, pequenos e médios empreendimentos e terá certificação com apoio da União Europeia.",
+            "data": "05/05/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Construção",
+            "titulo": "As práticas de ESG na construção pesada",
+            "link": "https://sinicesp.org.br/index.php/2025/04/16/as-praticas-de-esg-na-construcao-pesada/",
+            "descricao": "A Certificação Auditada ESG permite avaliar se uma empresa é sustentável. Pode ser aplicada internamente na gestão da empresa, ou externamente, para análise de ...",
+            "data": "16/04/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Compromisso Ambiental",
+            "titulo": "EPH: compromisso com o meio ambiente",
+            "link": "https://ephincorporadora.com.br/eph-compromisso-com-o-meio-ambiente/",
+            "descricao": "A EPH irá adquirir mais de 700 mil m2 de área de mata atlântica preservada na bacia da represa Billings, contribuindo para a preservação da natureza e melhoria do meio ambiente.",
+            "data": "11/04/2023",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Empreendimento",
+            "titulo": "Transformando Sonhos em Realidade: conheça o Griffe Campo Limpo",
+            "link": "https://ephincorporadora.com.br/imoveis/griffe-campo-limpo/",
+            "descricao": "O Griffe Campo Limpo é um empreendimento que oferece área de lazer completa e segurança prioritária, com portaria 24 horas e controle de acesso, focando no bem-estar das famílias.",
+            "data": "22/05/2024",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Desenvolvimento Urbano",
+            "titulo": "Grajaú: estamos chegando!",
+            "link": "https://ephincorporadora.com.br/imoveis/grajau/",
+            "descricao": "O investimento da EPH no Grajaú representa um marco com a previsão de 5 mil unidades habitacionais, promovendo um desenvolvimento urbano sustentável e acessível.",
+            "data": "13/03/2024",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Financiamento",
+            "titulo": "IFC e Banco Industrial do Brasil ampliam financiamento para PMEs ...",
+            "link": "https://www.ifc.org/pt/pressroom/2025/ifc-and-banco-industrial-expand-financing-for-smes-women-legal-amazon",
+            "descricao": "O investimento apoiará em particular negócios liderados por mulheres e ajudará a expandir os serviços financeiros na região da Amazônia Legal brasileira.",
+            "data": "09/05/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Mercado",
+            "titulo": "Faturamento das PMEs recua e confiança dos empresários cai",
+            "link": "https://edicaodobrasil.com.br/2025/05/09/faturamento-das-pmes-recua-e-confianca-dos-empresarios-cai/",
+            "descricao": "Apesar das retrações em diversos setores, as PMEs comerciais registraram alta de 7,9% no faturamento médio real no primeiro trimestre de 2025.",
+            "data": "09/05/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Eventos",
+            "titulo": "Cenário é favorável para PMEs brasileiras na China, mas requer ...",
+            "link": "https://valor.globo.com/summit-valor-brazil-china-2025/noticia/2025/05/09/cenario-e-favoravel-para-pmes-brasileiras-na-china-mas-requer-capacitacao-e-diferencial.ghtml",
+            "descricao": "O objetivo é mapear oportunidades, coordenar eventos empresariais envolvendo as PMEs, além de uso de plataformas digitais.",
+            "data": "09/05/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Investimento",
+            "titulo": "Claro empresas mira PMEs com investimento de R$ 1 bilhão em ...",
+            "link": "https://teletime.com.br/28/04/2025/claro-empresas-mira-pmes-com-investimento-de-r-1-bilhao-em-nuvem/",
+            "descricao": "A Claro empresas vai disponibilizar um hub de soluções digitais por meio do qual as PMEs poderão contratar soluções prontas.",
+            "data": "28/04/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Crescimento",
+            "titulo": "Amazon Brasil aponta crescimento de PMEs do Sudeste através de ...",
+            "link": "https://revistalide.com.br/noticias/economia-industria/amazon-brasil-aponta-crescimento-de-pmes-do-sudeste-atraves-de-servico-de-marketplace-",
+            "descricao": "A base de vendedores parceiros da região sudeste do país cresceu mais de 36% entre 2023 e 2024, impulsionando a economia local.",
+            "data": "Data não disponível",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Concessão",
+            "titulo": "Governo de SP sanciona projeto de concessão para parceria público-privada nas travessias de balsas",
+            "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2025/04/23/governo-de-sp-sanciona-projeto-para-parceria-publico-privada-na-concessao-das-travessias-de-balsas-de-sao-paulo.ghtml",
+            "descricao": "O modelo de concessão prevê investimento de R$ 1 bilhão por um período de 20 anos para operação, manutenção e gestão de todas as linhas aquaviárias de São Paulo.",
+            "data": "23/04/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Investimento",
+            "titulo": "Saiba como a GWM vai usar o novo investimento de R$ 6 bilhões",
+            "link": "https://g1.globo.com/carros/dinheiro-sobre-rodas/noticia/2025/05/13/saiba-como-a-gmw-vai-usar-o-novo-investimento-de-r-6-bilhoes-anunciado-para-o-brasil.ghtml",
+            "descricao": "A montadora chinesa GWM anunciou um novo aporte financeiro, somando R$ 10 bilhões em investimentos para expandir a capacidade da fábrica no interior.",
+            "data": "13/05/2025",
+            "municipio": "Taubaté"
+        },
+        {
+            "categoria": "Expansão",
+            "titulo": "De uma drogaria na garagem para uma rede com faturamento de R$ 1,7 bilhão",
+            "link": "https://exame.com/negocios/de-uma-drogaria-na-garagem-para-uma-rede-com-faturamento-de-r-17-bilhao/",
+            "descricao": "A empresa que começou como uma drogaria na garagem agora espera ultrapassar os R$ 2 bilhões em faturamento, presente em São Paulo e Minas Gerais.",
+            "data": "N/A",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Leilão",
+            "titulo": "Bradesco e TJ-SP vão leiloar mais de 100 imóveis, veículos e bens de luxo",
+            "link": "https://exame.com/invest/minhas-financas/bradesco-e-tj-sp-vao-leiloar-mais-de-100-imoveis-veiculos-e-bens-de-luxo-veja-como-participar/",
+            "descricao": "O leilão, que envolve diversos estados, inclui 50 lotes com bens de luxe e imóveis, apresentando oportunidades diversificadas.",
+            "data": "N/A",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Produtividade",
+            "titulo": "Setor de edificações ganha produtividade - Sinduscon-SP",
+            "link": "https://sindusconsp.com.br/setor-de-edificacoes-ganha-produtividade/",
+            "descricao": "Graças à modernização de processos construtivos e de gestão, a produtividade das empresas de edificações da indústria da construção cresceu 9,9% no Brasil ...",
+            "data": "XX/XX/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Investimento",
+            "titulo": "IPEL investirá R$ 80 milhões em modernização e sustentabilidade ...",
+            "link": "https://www.arandanet.com.br/revista/hydro/noticia/10652-IPEL-investira-R$-80-milhoes-em-modernizacao-e-sustentabilidade-ate-2025.html",
+            "descricao": "Um dos principais projetos em andamento é a parceria com a Celesc para modernizar a caldeira e aprimorar processos industriais, com a meta de reduzir 800 MWh/ ...",
+            "data": "XX/XX/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Inovação",
+            "titulo": "A Inteligência artificial está transformando as fábricas ... - Spread",
+            "link": "https://spread.com.br/a-inteligencia-artificial-esta-transformando-as-fabricas-inteligentes-em-2025/",
+            "descricao": "Inteligência artificial está transformando a indústria, otimizando recursos, melhorando a qualidade e reduzindo custos.",
+            "data": "XX/XX/2025",
+            "municipio": "São Paulo"
+        },
+        {
+            "categoria": "Regulamentação",
+            "titulo": "Reforma do setor elétrico propõe modernização, mas há riscos",
+            "link": "https://jornal.usp.br/campus-ribeirao-preto/reforma-do-setor-eletrico-propoe-modernizacao-mas-ha-riscos/",
+            "descricao": "A abertura total do mercado exige mudanças regulatórias complexas, revisão de contratos de longo prazo com distribuidoras e uma ampla preparação do consumidor.",
+            "data": "XX/XX/2025",
+            "municipio": "São Paulo"
+        }
+    ]
+}
+```

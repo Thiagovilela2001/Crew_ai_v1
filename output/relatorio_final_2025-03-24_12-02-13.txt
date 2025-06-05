@@ -1,0 +1,148 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "South Summit Brazil 2025: conheça as 50 startups finalistas da competição",
+        "link": "https://exame.com/negocios/south-summit-brazil-2025-conheca-as-50-startups-finalistas-da-competicao/",
+        "descricao": "O South Summit Brazil, um dos principais eventos de inovação da América Latina, revela 50 startups finalistas, muitas delas localizadas em São Paulo, que prometem inovação e crescimento.",
+        "data": "15/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "A lista reúne empresas que aceleram o crescimento com inovações significativas e estão localizadas em São Paulo, evidenciando o potencial do ecossistema startup.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025 - Distrito",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "O artigo elenca startups unicórnio no Brasil e discute aquelas que têm sede em São Paulo, informando sobre suas oportunidades de crescimento.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "4 startups para ficar de olho em 2025",
+        "link": "https://industriainovadora.com.br/4-startups-para-ficar-de-olho-em-2025/",
+        "descricao": "O artigo destaca quatro startups inovadoras com atuação significativa em mobilidade e biodiversidade que prometem se destacar em 2025 na cidade.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Os 21 eventos de inovação mais aguardados de 2025",
+        "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+        "descricao": "Esta lista apresenta eventos em São Paulo que promoverão networking e desenvolvimento de startups, antecipando tendências e inovações.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Av. Rebouças: o novo polo de startups em São Paulo",
+        "link": "https://distrito.me/blog/av-reboucas-o-novo-polo-de-startups-em-sao-paulo/",
+        "descricao": "O artigo explora como a Avenida Rebouças emergiu como um centro de inovação, atraindo diversas startups notáveis em São Paulo.",
+        "data": "12/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Startup Day 2025 – evento de empreendedorismo e inovação ocorre em 22 de março",
+        "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-evento-de-empreendedorismo-e-inovacao-ocorre-em-22-de-marco-no-noroeste-paulista",
+        "descricao": "O Startup Day 2025 é uma grande oportunidade de networking e aprendizado sobre inovação em São Paulo, reunindo empreendedores e investidores.",
+        "data": "22/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Startup Day 2025 – São Paulo Se você tem uma startup ...",
+        "link": "https://www.instagram.com/fabianonagamatsu/p/DHJoa5qgf3J/",
+        "descricao": "O evento promete ser um marco de inovação e empreendedorismo em São Paulo, focando em oportunidades de investimento e networking.",
+        "data": "20/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Vale a pena investir em startups em 2025? Saiba onde está o verdadeiro potencial",
+        "link": "https://exame.com/negocios/vale-a-pena-investir-em-startups-em-2025-saiba-onde-esta-o-verdadeiro-potencial/",
+        "descricao": "O artigo discute as áreas de inovação e a viabilidade de investimentos em startups, com destaque para o crescimento do setor em São Paulo.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Economia",
+        "titulo": "São Paulo bate recorde em abertura de empresas, com média de quase mil novos negócios por dia",
+        "link": "https://www.investe.sp.gov.br/noticia/sao-paulo-bate-recorde-em-abertura-de-empresas-com-media-de-quase-mil-novos-negocios-por-dia/",
+        "descricao": "Reportagem destaca o crescimento significativo do setor empresarial em São Paulo, com registro de novas empresas no início de 2025.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Coca-Cola Femsa Brasil investe R$ 94 milhões em novo Centro de Distribuição em Bauru",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45672",
+        "descricao": "O investimento da Coca-Cola Femsa Brasil em um novo Centro de Distribuição gerará 120 novos empregos em Bauru.",
+        "data": "16/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup de Sorocaba desenvolve tecnologia para reduzir em 48% consumos de água e energia de data centers",
+        "link": "https://www.portalporque.com.br/sorocaba-regiao/startup-de-sorocaba-desenvolve-tecnologia-para-reduzir-em-48-consumos-de-agua-e-energia-de-data-centers/",
+        "descricao": "Uma startup de Sorocaba inova com tecnologia que reduz o consumo em data centers, contribuindo para um ambiente mais sustentável.",
+        "data": "15/12/2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "Tempo para abertura de empresa em São Vicente reduz de três dias para menos de 24h",
+        "link": "https://www.saovicente.sp.gov.br/informacao/tempo-para-abertura-de-empresa-em-sao-vicente-reduz-de-tres-dias-para-menos-de-24h",
+        "descricao": "Medidas de desburocratização em São Vicente facilitam a abertura de novas empresas, reduzindo o tempo de processo.",
+        "data": "07/02/2025",
+        "municipio": "São Vicente"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Indústria trará mais de 150 empregos diretos a Rio Preto",
+        "link": "https://www.riopreto.sp.gov.br/noticias/industria-trara-mais-200-empregos-diretos-a-rio-preto",
+        "descricao": "A nova indústria de embalagens Emplav criará mais de 150 oportunidades de trabalho em São José do Rio Preto.",
+        "data": "11/02/2025",
+        "municipio": "São José do Rio Preto"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Evento Gastronômico em Taboão da Serra promove novos empresários",
+        "link": "https://www.taboadaserrasp.com.br/evento-gastronomico-em-taboao-da-serra/",
+        "descricao": "O evento destaca novos empreendedores no setor gastronômico, oferecendo espaço para que novos restaurantes se apresentem.",
+        "data": "18/03/2025",
+        "municipio": "Taboão da Serra"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "O futuro do trabalho: energia solar na agricultura",
+        "link": "https://www.gestechnology.com.br/o-futuro-do-trabalho-energia-solar-na-agricultura/",
+        "descricao": "A agricultura brasileira avança com novas tecnologias, incluindo energia solar, melhorando a eficiência e a sustentabilidade na produção.",
+        "data": "05/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Votorantim Cimentos inicia 2025 com caixa cheia e dívida controlada: 'Prontos para oportunidades'",
+        "link": "https://investnews.com.br/negocios/votorantim-cimentos-inicia-2025-com-caixa-cheio-e-divida-controlada-pronta-para-oportunidades/",
+        "descricao": "A Votorantim Cimentos possui R$ 5,1 bilhões em caixa e está em posição confortável para explorar novas oportunidades de expansão.",
+        "data": "19/03/2025",
+        "municipio": "Votorantim"
+    },
+    {
+        "categoria": "Cultura e Música",
+        "titulo": "Equipes do Grupo de Trabalho se reúnem para discutir eventos",
+        "link": "https://www.meioambiente.sp.gov.br/equipes-do-grupo-de-trabalho-se-reunem-para-discutir-eventos/",
+        "descricao": "Discussão sobre os eventos culturais e de entretenimento no Estado, focando na inclusão e inovação.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    }
+]
+```

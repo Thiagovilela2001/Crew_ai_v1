@@ -1,0 +1,98 @@
+[
+    {
+        "categoria": "Energia",
+        "titulo": "Isa Energia investe R$ 306 milhões na modernização da rede de transmissão em SP",
+        "link": "https://www.canalenergia.com.br/noticias/53312724/isa-energia-investe-r-306-milhoes-na-modernizacao-da-rede-de-transmissao-em-sp",
+        "descricao_detalhada": "A Isa Energia investiu R$ 306 milhões no primeiro trimestre de 2025 para a modernização do parque instalado no Estado de São Paulo, um volume 26% superior ao mesmo período do ano anterior.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 306000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Financiamento",
+        "titulo": "Com R$ 44,5 mi, BNDES apoia expansão e modernização do Grupo Terraverde",
+        "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Com-R$-445-mi-BNDES-apoia-expansao-e-modernizacao-do-Grupo-Terraverde/",
+        "descricao_detalhada": "O BNDES aprovou R$ 44,5 milhões para apoiar a expansão e modernização do Grupo Terraverde, focando na demanda por máquinas e equipamentos no Estado de São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Expansão e Modernização",
+        "valor_estimado": 44500000,
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência de Notícias BNDES"
+    },
+    {
+        "categoria": "Saneamento",
+        "titulo": "Sabesp prevê R$ 2,7 bilhões em obras de saneamento no Grande ABC até 2029",
+        "link": "http://www.dgabc.com.br/Mobile/Noticia/4236781/sabesp-preve-r%24-2-7-bilhoes-em-obras-de-saneamento-no-grande-abc-ate-2029",
+        "descricao_detalhada": "A Sabesp planeja investir R$ 2,7 bilhões na ampliação dos serviços de saneamento básico no Grande ABC até 2029.",
+        "data": "2025",
+        "municipio": "Grande ABC",
+        "tipo_investimento": "Ampliação de Serviços",
+        "valor_estimado": 2700000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "categoria": "Transporte",
+        "titulo": "Com apoio do BNDES, Itapevi (SP) ganha nova estação de trens metropolitanos",
+        "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Com-apoio-do-BNDES-Itapevi-SP-ganha-nova-estacao-de-trens-metropolitanos/",
+        "descricao_detalhada": "A inauguração da nova estação de trens em Itapevi, parte das comemorações dos 66 anos do município, contou com o apoio de investimentos do BNDES que alavancaram R$ 62 bilhões em melhorias no Estado.",
+        "data": "2025",
+        "municipio": "Itapevi",
+        "tipo_investimento": "Nova Estação",
+        "valor_estimado": 62000000000,
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência de Notícias BNDES"
+    },
+    {
+        "categoria": "Saneamento",
+        "titulo": "Sabesp prevê R$ 3,6 bilhões em obras de saneamento no ABC",
+        "link": "http://www.dgabc.com.br/Noticia/4236781/sabesp-preve-rs-2-7-bilhoes-em-obras-de-saneamento-no-grande-abc-ate-2029",
+        "descricao_detalhada": "A Sabesp comprometeu-se a investir R$ 3,6 bilhões até 2029 na ampliação dos serviços de saneamento no Grande ABC, reforçando a infraestrutura local.",
+        "data": "2025",
+        "municipio": "ABC",
+        "tipo_investimento": "Ampliação de Serviços",
+        "valor_estimado": 3600000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "categoria": "Transporte",
+        "titulo": "BNDES aprova R$ 200 milhões para o BRT de Sorocaba (SP)",
+        "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/BNDES-aprova-R$-200-milhoes-para-o-BRT-de-Sorocaba-SP/",
+        "descricao_detalhada": "O BNDES aprovou um financiamento de R$ 200 milhões para o sistema de BRT em Sorocaba, garantindo a segurança e manutenção do sistema de transporte na cidade.",
+        "data": "2025",
+        "municipio": "Sorocaba",
+        "tipo_investimento": "Sistema BRT",
+        "valor_estimado": 200000000,
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência de Notícias BNDES"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Trem ligará São Paulo à Baixada Santista e ao litoral paulista",
+        "link": "https://www.atribuna.com.br/cidades/trem-ligara-s-o-paulo-a-baixada-santista-e-ao-resto-do-litoral-paulista-e-atendera-nove-cidades-saiba-tudo-do-projeto-1.463787",
+        "descricao_detalhada": "O projeto do Trem Intercidades (TIC) – Eixo Sul prevê a realização de estudos de viabilidade para a ligação entre São Paulo e a Baixada Santista, em um investimento significante para a infraestrutura.",
+        "data": "2025",
+        "municipio": "São Paulo e Baixada Santista",
+        "tipo_investimento": "Estudos de Viabilidade",
+        "valor_estimado": "N/A",
+        "fonte_financiamento": "Recursos públicos",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "MME enquadra mais de R$ 676 mi em reforço na transmissão junto ao Reidi",
+        "link": "https://www.canalenergia.com.br/noticias/53310280/mme-enquadra-mais-de-r-676-mi-em-reforco-na-transmissao-junto-ao-reidi",
+        "descricao_detalhada": "O Ministério de Minas e Energia (MME) vai reforçar a transmissão de energia em São Paulo com um investimento de R$ 676 milhões, abrangendo projetos em diferentes municípios.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Reforço na Transmissão",
+        "valor_estimado": 676000000,
+        "fonte_financiamento": "Ministério de Minas e Energia",
+        "fonte_noticia": "Canal Energia"
+    }
+]

@@ -1,0 +1,188 @@
+```json
+[
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+        "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+        "descricao": "Referência em comida italiana em São Paulo, o grupo Bottega Bernacca acaba de expandir sua operação com a inauguração de sua quinta unidade.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Descubra mais de 15 novos restaurantes para visitar em São Paulo",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/descubra-mais-de-15-novos-restaurantes-para-visitar-em-sao-paulo/",
+        "descricao": "Conheça mais de 15 novos restaurantes em São Paulo, que oferecem uma gama variada de experiências gastronômicas.",
+        "data": "27/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "De bar 'raiz' a hamburgueria, 6 lugares para conhecer em SP em 2025",
+        "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/01/18/resolucoes-de-2025-os-restaurantes-que-precisamos-conhecer.htm",
+        "descricao": "Uma seleção de 6 lugares autênticos para quem quer estar na moda em 2025.",
+        "data": "18/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Novos restaurantes de SP para conhecer já!",
+        "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/04/12/novos-restaurantes-de-sp-para-conhecer-ja.htm",
+        "descricao": "Explore 4 novos restaurantes em SP que estão fazendo sucesso na capital.",
+        "data": "12/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "13 NOVOS Restaurantes Em São Paulo Em 2025",
+        "link": "https://cronicasdasurdez.com/bares-e-restaurantes-em-sao-paulo/",
+        "descricao": "Uma lista abrangente dos principais bares e restaurantes que prometem ser os hotspots gastronômicos deste ano.",
+        "data": "07/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Veja 35 novos restaurantes e bares na Vila Madalena, em SP",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/04/vila-madalena-bairro-boemio-em-sp-vive-nova-fase-de-restaurantes-e-bares-de-coquetelaria.shtml",
+        "descricao": "Vila Madalena se renova com a abertura de 35 novos restaurantes e bares, com ênfase na coquetelaria e na comida autoral.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Vale a pena conhecer os novos restaurantes de SP? O que esperar ...",
+        "link": "https://www.estadao.com.br/paladar/radar/novos-restaurantes-sp-novidades-2025/?srsltid=AfmBOorUie34mvVoymLHzmxl5LCMReA-Owq7UeDlARiW6-QjsTohV3bZ",
+        "descricao": "Reunião de locais, entre bares e restaurantes, que oferecem propostas diversas em diferentes regiões da cidade.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "10 restaurantes que abriram em 2024 pra você conhecer em 2025",
+        "link": "https://www.instagram.com/tipsbygelly/reel/DETE4EDy5VZ/10-restaurantes-que-abriram-em-2024-pra-voc%C3%AA-conhecer-em-2025-parte-2-com-a-list/?hl=en",
+        "descricao": "Parte 2 com a lista de algumas novidades que eu conheci esse ano, testadas e recomendadas.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Fogo de Chão e omakassê de carne são novidades em SP",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/02/setima-unidade-do-fogo-de-chao-e-omakasse-de-carnes-sao-novidades-gastronomicas-em-sp.shtml",
+        "descricao": "A rede de churrascarias Fogo de Chão acaba de inaugurar sua sexta unidade no estado.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Vem 2025: bares e restaurantes em São Paulo para confraternizações de fim de ano",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/vem-2025-bares-e-restaurantes-em-sao-paulo-para-confraternizacoes-de-fim-de-ano/",
+        "descricao": "Uma seleção de bares e restaurantes ideais para confraternizações no final do ano.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "SP Restaurant Week 2025: quando acontece o evento e quais restaurantes participam?",
+        "link": "https://www.estadao.com.br/paladar/restaurantes-e-bares/restaurant-week-2025-festival-conta-com-menus-completos-a-partir-de-r-5490/?srsltid=AfmBOorOLyoQn8xzdYTuemA4DKXLKzHYiAtnIAUq7o-9I7KbBYJlsmCv",
+        "descricao": "O evento traz menus especiais em mais de 150 restaurantes renomados e ocorre em abril de 2025.",
+        "data": "11/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Aniversário de São Paulo: um roteiro por restaurantes que exaltam a cultura local",
+        "link": "https://casavogue.globo.com/lazer-e-cultura/restaurante/noticia/2025/01/aniversario-sao-paulo-restaurantes.ghtml",
+        "descricao": "Descubra 8 restaurantes que traduzem a essência cultural e gastronômica de São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Brazil reforestation startup Mombak raises $30 million in USV-led round",
+        "link": "https://www.reuters.com/sustainability/climate-energy/brazil-reforestation-startup-mombak-raises-30-million-usv-led-round-2025-04-29/",
+        "descricao": "Brazilian reforestation firm Mombak has secured $30 million in a funding round led by venture capital firm Union Square Ventures (USV), aiming to expand its carbon removal initiatives.",
+        "data": "29/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Gringo: Revolutionizing Automotive Services",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+        "descricao": "Gringo simplifies vehicle documentation and car ownership responsibilities for drivers in Brazil, facilitating paperwork and user-friendly services.",
+        "data": "18/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Creditas is revolutionizing financing",
+        "link": "https://www.seedtable.com/best-startups-in-sao-paulo",
+        "descricao": "Creditas provides secured consumer loans through its platform, making obtaining loans easier for consumers in Brazil.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Loggi: Connecting Brazil through Logistics",
+        "link": "https://www.startupblink.com/top-startups/sao-paulo-br",
+        "descricao": "Loggi is changing logistics in Brazil with its innovative shipping solutions utilizing technology for efficiency.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Zippi is redefining financial services",
+        "link": "https://www.seedtable.com/best-startups-in-sao-paulo",
+        "descricao": "Zippi provides accessible credit for micro-entrepreneurs, tailoring financial solutions to fit the cash flow of small businesses.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Rising Brazilian AgTech startup: Arado",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+        "descricao": "Arado connects small farmers to restaurants, reducing food waste significantly with their innovative approach to agricultural logistics.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "AI-powered personal finance platform: Kamino",
+        "link": "https://www.seedtable.com/best-startups-in-sao-paulo",
+        "descricao": "Kamino uses AI to provide real-time financial insights and manage finances for small and medium enterprises.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Cayena: Transforming Food Procurement",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+        "descricao": "Cayena has streamlined food supply chain processes for restaurants and food businesses through an efficient B2B marketplace.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Déficit das contas externas sobe 60% no 1º trimestre, diz BC",
+        "link": "https://g1.globo.com/economia/noticia/2025/04/28/deficit-das-contas-externas-sobe-60percent-no-1o-trimestre-diz-bc-investimento-estrangeiro-tem-queda.ghtml",
+        "descricao": "O rombo das contas externas brasileiras avançou cerca de 60% no primeiro trimestre deste ano, ao mesmo tempo em que o investimento estrangeiro enfrenta desafios.",
+        "data": "28/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Estrangeiros aplicam R$ 10,9 BI na bolsa em 2025; veja histórico",
+        "link": "https://quantumfinance.com.br/estrangeiros-fogem-da-bolsa-brasileira-em-2024-veja-historico/",
+        "descricao": "O Ibovespa acumula até o fim de março um aumento de 8,29%, apoiado pela volta dos investidores estrangeiros ao mercado.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Prefeitura prioriza áreas da cidade com maiores índices de vulnerabilidade e déficit de infraestrutura urbana no Orçamento 2025",
+        "link": "https://capital.sp.gov.br/w/prefeitura-prioriza-%C3%A1reas-da-cidade-com-maiores-%C3%ADndices-de-vulnerabilidade-e-d%C3%A9ficit-de-infraestrutura-urbana-no-or%C3%A7amento-2025",
+        "descricao": "A Lei nº 18.220/2024, sancionada pelo prefeito Ricardo Nunes, destina R$ 17,1 bilhões em investimentos prioritários em áreas vulneráveis para urbanização e reestruturação da infraestrutura urbana na cidade.",
+        "data": "28/12/2024",
+        "municipio": "São Paulo"
+    }
+]
+```

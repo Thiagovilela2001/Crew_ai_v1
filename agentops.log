@@ -1,0 +1,2 @@
+2025-06-05 15:31:09,312 - INFO - Session Replay: https://app.agentops.ai/sessions?trace_id=6c6592327ab531a93cea31f255dc1da6
+2025-06-05 15:31:15,133 - ERROR - [agentops.InternalSpanProcessor] Error uploading logfile: POST request failed: HTTPSConnectionPool(host='api.agentops.ai', port=443): Max retries exceeded with url: /v4/logs/upload/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:2406)')))

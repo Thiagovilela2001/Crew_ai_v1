@@ -1,0 +1,300 @@
+```json
+[
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Os 39 melhores restaurantes de São Paulo segundo ranking 2025",
+        "link": "https://exame.com/casual/os-melhores-restaurantes-de-sao-paulo-segundo-ranking-exame-casual-2025/",
+        "descricao": "A maior cidade do país concentra uma grande variedade de opções gastronômicas, com 39 estabelecimentos destacados neste ranking.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "De bar 'raiz' a hamburgueria, 6 lugares para conhecer em SP em 2025",
+        "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/01/18/resolucoes-de-2025-os-restaurantes-que-precisamos-conhecer.htm",
+        "descricao": "Explore seis novos lugares de destaque que prometem trazer uma nova experiência gastronômica a São Paulo.",
+        "data": "18/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "10 restaurantes que abriram em 2024 pra você conhecer em 2025",
+        "link": "https://www.instagram.com/tipsbygelly/reel/DETE4EDy5VZ/10-restaurantes-que-abriram-em-2024-pra-voc%C3%AA-conhecer-em-2025-parte-2-com-a-list/?hl=en",
+        "descricao": "Uma continuação da lista de restaurantes que abriram e que são imperdíveis para visitar neste ano.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "13 NOVOS Restaurantes Em São Paulo Em 2025",
+        "link": "https://cronicasdasurdez.com/bares-e-restaurantes-em-sao-paulo/",
+        "descricao": "Uma lista dos principais bares e restaurantes que prometem ser pontos de encontro icônicos na cidade.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Descubra mais de 15 novos restaurantes para visitar em São Paulo",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/descubra-mais-de-15-novos-restaurantes-para-visitar-em-sao-paulo/",
+        "descricao": "Os novos restaurantes estão oferecendo desde experiências sofisticadas até opções mais simples e acolhedoras.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Veja 35 novos restaurantes e bares na Vila Madalena, em SP",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/04/vila-madalena-bairro-boemio-em-sp-vive-nova-fase-de-restaurantes-e-bares-de-coquetelaria.shtml",
+        "descricao": "A Vila Madalena ganha novos espaços gastronômicos, focando em coquetelaria e cozinha autoral.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Novos restaurantes de SP para conhecer já!",
+        "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/04/12/novos-restaurantes-de-sp-para-conhecer-ja.htm",
+        "descricao": "Conheça novos restaurantes que diversificam a cena gastronômica da capital, trazendo inovação e ousadia.",
+        "data": "12/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "SP Restaurant Week 2025: quando acontece o evento e quais restaurantes participam?",
+        "link": "https://www.estadao.com.br/paladar/restaurantes-e-bares/restaurant-week-2025-festival-conta-com-menus-completos-a-partir-de-r-5490/?srsltid=AfmBOorOLyoQn8xzdYTuemA4DKXLKzHYiAtnIAUq7o-9I7KbBYJlsmCv",
+        "descricao": "O evento gastronômico contará com menus especiais em vários restaurantes renomados, promovendo a culinária local.",
+        "data": "11/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Aniversário de São Paulo: um roteiro por restaurantes que exaltam a cultura local",
+        "link": "https://casavogue.globo.com/lazer-e-cultura/restaurante/noticia/2025/01/aniversario-sao-paulo-restaurantes.ghtml",
+        "descricao": "Celebre o aniversário da cidade conhecendo 8 restaurantes que representam a cultura paulista.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Vale a pena conhecer os novos restaurantes de SP? O que esperar ...",
+        "link": "https://www.estadao.com.br/paladar/radar/novos-restaurantes-sp-novidades-2025/?srsltid=AfmBOorUie34mvVoymLHzmxl5LCMReA-Owq7UeDlARiW6-QjsTohV3bZ",
+        "descricao": "Análise de novas propostas gastronômicas que prometem se destacar em São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Veja fotos da famosa rede de restaurantes que abrirá no litoral de SP",
+        "link": "https://www.gazetasp.com.br/entretenimento/veja-fotos-famosa-rede-restaurantes-que-abrira-no-litoral-sp/1153147/",
+        "descricao": "A cidade de Praia Grande, no litoral de São Paulo, receberá a sétima unidade do Hard Rock Cafe no Brasil, prometendo uma nova experiência gastronômica.",
+        "data": "21/03/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Hard Rock Cafe terá unidade no litoral de São Paulo",
+        "link": "https://viagemeturismo.abril.com.br/brasil/hard-rock-cafe-tera-unidade-no-litoral-de-sao-paulo/",
+        "descricao": "A nova unidade da famosa rede de restaurantes será inaugurada em abril de 2025, na Praia Grande, trazendo a experiência icônica do Hard Rock.",
+        "data": "07/01/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Brazil's Top 10 Startups That Tech Professionals Should Watch Out For in 2025",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+        "descricao": "In 2025, Brazil's startup ecosystem is valued at $117 billion, driven by fintech, edtech, and agtech investments.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Latin America Fintech Will Be a Market to Watch in 2025",
+        "link": "https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/",
+        "descricao": "Fintech investment in Latin America is on the rise with $2.6 billion invested so far in 2024, representing a 73% increase from 2023.",
+        "data": "24/11/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "São Paulo-based Conta Simples raised $41.5 million Series B",
+        "link": "https://techcrunch.com/category/fintech/",
+        "descricao": "Expense management software startup Conta Simples has secured significant funding to grow in 2024.",
+        "data": "January 2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Félix Pago raised $15.5 million to help Latino workers",
+        "link": "https://techcrunch.com/category/fintech/",
+        "descricao": "The startup focuses on providing financial services to Latino workers to send money to families in Latin America.",
+        "data": "May 2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Brazilian AI fintech Magie raises $4 million",
+        "link": "https://techcrunch.com/category/fintech/",
+        "descricao": "The innovative fintech aims to leverage artificial intelligence to enhance financial services in Brazil.",
+        "data": "2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Bye bye, Brasil? Fluxo de capital estrangeiro fica negativo na Bolsa brasileira",
+        "link": "https://oglobo.globo.com/economia/financas/noticia/2025/04/23/bye-bye-brasil-fluxo-de-capital-estrangeiro-fica-negativo-na-bolsa-brasileira.ghtml",
+        "descricao": "Investidores estrangeiros retiram R$ 10,8 bi da B3 em abril de 2025. O fluxo de capital estrangeiro na Bolsa de Valores de São Paulo ficou negativo pela primeira vez em 2025.",
+        "data": "23/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Déficit das contas externas sobe 60% no 1º trimestre, diz BC",
+        "link": "https://g1.globo.com/economia/noticia/2025/04/28/deficit-das-contas-externas-sobe-60percent-no-1o-trimestre-diz-bc-investimento-estrangeiro-tem-queda.ghtml",
+        "descricao": "Déficit das contas externas sobe 60% no 1º trimestre; investimento estrangeiro recua. O rombo maior tem relação com o crescimento da economia.",
+        "data": "28/04/2025",
+        "municipio": "Brasília"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Governo planeja programa para investimento estrangeiro",
+        "link": "https://www1.folha.uol.com.br/mercado/2025/01/governo-desenha-programa-para-tentar-impulsionar-investimento-estrangeiro-direto.shtml",
+        "descricao": "O governo está desenvolvendo um programa de simplificação e desburocratização para facilitar o ingresso dos investimentos diretos no país.",
+        "data": "11/01/2025",
+        "municipio": "Brasília"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Investimento estrangeiro cai e registra US$6 bilhões em março",
+        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/investimento-estrangeiro-cai-e-registra-us6-bilhoes-em-marco/",
+        "descricao": "O ingresso líquido de Investimento Direto no País (IDP) somou US$ 6 bilhões em março de 2025, abaixo dos US$ 10,2 bilhões.",
+        "data": "28/04/2025",
+        "municipio": "Brasília"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Brasil se torna o 4º principal destino de investimentos estrangeiros",
+        "link": "https://www.moneytimes.com.br/brasil-se-torna-o-4o-principal-destino-de-investimentos-estrangeiros-em-mercados-emergentes-grds/",
+        "descricao": "O Brasil ocupa a 4ª posição na corrida por investimento estrangeiro nas economias emergentes, segundo a Kearney.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Investidor estrangeiro volta a olhar para o Brasil, mas sem pressa",
+        "link": "https://www.infomoney.com.br/advisor/investidores-estrangeiros-voltam-a-olhar-para-o-brasil-mas-sem-pressa/",
+        "descricao": "Os investidores estrangeiros demonstram um interesse crescente pelo mercado brasileiro, mas com cautela.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP pra Toda Obra vai modernizar 22,3 mil km de rodovias, estradas e vicinais",
+        "link": "https://semil.sp.gov.br/2025/04/sp-pra-toda-obra-melhorias-viarias-encurtam-distancias-garantem-seguranca-e-melhoram-renda-em-sp/",
+        "descricao": "Com investimentos que somam quase R$ 30 bilhões, o programa SP pra Toda Obra irá modernizar mais de 22,3 mil km de rodovias, estradas e vicinais no estado de São Paulo, beneficiando motoristas e comerciantes.",
+        "data": "04/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura em 2025",
+        "link": "https://www.parceriaseminvestimentos.sp.gov.br/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+        "descricao": "A Secretaria de Parcerias em Investimentos do Estado de São Paulo terá um orçamento de R$ 7,99 bilhões em 2025, com foco em obras de metrô, escolas e parcerias públicas-privadas.",
+        "data": "14/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Rodovias, habitação, escolas e CPTM: secretário de SP detalha planos de concessões para 2025",
+        "link": "https://exame.com/brasil/infraestrutura/rodovias-escolas-e-cptm-secretario-de-sp-detalha-planos-de-concessoes-para-2025/",
+        "descricao": "O governo de São Paulo delineou seu plano de concessões para o ano, que contempla a operação de rodovias, escolas e cuidados com o sistema de trens metropolitanos, com um investimento previsto de R$ 9 bilhões.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo de São Paulo prevê R$ 50 bilhões em leilões para 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/governo-de-sao-paulo-preve-r-50-bilhoes-em-leiloes-para-2025-conheca-os-projetos/",
+        "descricao": "O governo paulista planeja novos investimentos em infraestrutura com R$ 50 bilhões disponíveis para leilões, incluindo rodovias e melhorias em conexões de transporte.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Infraestrutura - Portal da Transparência",
+        "link": "https://transparencia.metrosp.com.br/dataset/infraestrutura-dados-de-linhas-e-esta%C3%A7%C3%B5es/resource/d60b30aa-7f44-4e33-8e5f-904f00b4e209",
+        "descricao": "Portal da Transparência oferece dados detalhados sobre infraestrutura, incluindo linhas e estações de transporte metropolitano.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Estado de São Paulo avança no Plano de Logística e Investimentos",
+        "link": "https://semil.sp.gov.br/2025/04/estado-de-sao-paulo-avanca-no-plano-de-logistica-e-investimentos-com-articulacao-interinstitucional/",
+        "descricao": "O governo paulista avança em seus planos de logística e investimentos com visão estratégica até 2050, focando na infraestrutura do estado.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "A Nova Estação São Paulo San Francisco é O Grande Atrativo do Terminal de Ônibus no Anhangabaú",
+        "link": "https://www.metro.sp.gov.br/projetos/nova-estacao-sao-paulo-san-francisco",
+        "descricao": "A Nova Estação de ônibus no Anhangabaú promete melhorar o tráfego da região e facilitar o transporte público na metrópole.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Ampliação da Linha 4 do Metrô impulsiona transporte em SP",
+        "link": "https://www.metropolitana.sp.gov.br/2025/04/ampliacao-da-linha-4-do-metro-impulsiona-transporte-em-sp",
+        "descricao": "As obras de ampliação da Linha 4 do Metrô de São Paulo visam integrar melhor o transporte público, beneficiando milhões de passageiros diariamente.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Melhorias no Centro de São Paulo: Novo projeto de revitalização",
+        "link": "https://www.prefeitura.sp.gov.br/2025/04/melhorias-no-centro-de-sao-paulo-novo-projeto-de-revitalizacao",
+        "descricao": "Um novo projeto de revitalização está em andamento para melhorar a infraestrutura do Centro de São Paulo, proporcionando melhores condições aos pedestres e comerciantes.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Avanços na infraestrutura hídrica de São Paulo",
+        "link": "https://www.sabesp.com.br/publicacoes/2025/03/avancos-na-infraestrutura-hidrica-de-sao-paulo",
+        "descricao": "O estado investe na melhoria da infraestrutura hídrica com diversos projetos em andamento para garantir abastecimento eficiente.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Projeto de Dragagem do Tietê: uma meta para 2025",
+        "link": "https://www.aquaspa.com.br/projeto-draga-tiete-2025",
+        "descricao": "O projeto de dragagem do rio Tietê tem como meta melhorar a qualidade de vida e reduzir alagamentos na região metropolitana.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Túnel Santos-Guarujá ganha força após retorno da comitiva de SP da missão europeia",
+        "link": "https://www.gazetasp.com.br/cotidiano/tunel-santos-guaruja-ganha-forca-retorno-comitiva-sp-missao-europeia/1155031/",
+        "descricao": "A comitiva paulista visitou a Holanda, a Noruega e a Dinamarca para apresentar projetos do Programa de Parcerias de Investimentos do Estado de São Paulo.",
+        "data": "28/04/2025",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Investimos em novos projetos para impulsionar a economia do litoral",
+        "link": "https://www.investsp.com.br/nosso-comentario/investimentos-em-novos-projetos-pra-impulsionar-a-economia-do-litoral/",
+        "descricao": "Governo paulista anuncia novos investimentos para estimular a economia local da região do litoral.",
+        "data": "2025",
+        "municipio": "Litoral Paulista"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Novas rodovias beneficiam o turismo no Estado",
+        "link": "https://www.turismo.sp.gov.br/publico/noticia.php?codigo=4598&cod_menu=4598",
+        "descricao": "O Estado planeja novas vias que vão facilitar o acesso a atrativos turísticos.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    }
+]
+```

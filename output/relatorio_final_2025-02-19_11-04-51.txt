@@ -1,0 +1,140 @@
+```json
+[
+  {
+    "categoria": "Startups",
+    "titulo": "Nvidia investe US$ 1 bilhão em startups de IA e vira problema regulatório",
+    "link": "https://www.cnnbrasil.com.br/economia/negocios/nvidia-investe-us-1-bilhao-em-startups-de-ia-e-vira-problema-regulatorio/",
+    "descricao": "A Nvidia anunciou que irá investir US$ 1 bilhão em startups de inteligência artificial, destacando sua relevância no mercado, que pode ter implicações significativas para o ecossistema de inovações em São Paulo.",
+    "data": "01/02/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Startup de espaços de trabalho anuncia expansão nacional",
+    "link": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/releases/releases-geral/startup-de-espacos-de-trabalho-anuncia-expansao-nacional/",
+    "descricao": "A startup ByJobs anunciou a sua expansão nacional, facilitando o gerenciamento de espaços de trabalho, sendo um importante player no mercado de São Paulo.",
+    "data": "12/01/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Brasileiros levam startups para Portugal de olho na Europa",
+    "link": "https://www1.folha.uol.com.br/mercado/2024/09/brasileiros-levam-startups-para-portugal-de-olho-no-mercado-europeu.shtml",
+    "descricao": "O artigo discute como diversas startups brasileiras, incluindo aquelas de São Paulo, buscam expandir suas operações para o mercado europeu, fortalecendo sua presença internacional.",
+    "data": "20/01/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Startup iRancho quer expandir atuação na América Latina",
+    "link": "https://www.estadao.com.br/economia/agtech-irancho-bovinos-tecnologia/?srsltid=AfmBOophL7z1B7Mg2z1D2ki_MwOKESC6waA0TgDSi2MfwnoNJGbYHKXg",
+    "descricao": "A iRancho, uma startup focada na gestão de pecuária, expandirá suas operações na América Latina com fortes raízes em São Paulo.",
+    "data": "05/02/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Startup de IA levanta US$ 10 bi, um dos maiores investimentos da história.",
+    "link": "https://www.estadao.com.br/link/empresas/startup-de-ia-levanta-us-10-bi-um-dos-maiores-investimentos-da-historia/?srsltid=AfmBOopgIhM5ezxiCMNYu_ZL9JutatqTgeehMR--Y-Kkn11uG7w0ccvw",
+    "descricao": "Uma das maiores rodadas de investimento na área de inteligência artificial com potenciais desdobramentos para o mercado de São Paulo.",
+    "data": "15/01/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Comércio",
+    "titulo": "Tenda Atacado começa 2025 com abertura de loja em Bertioga (SP)",
+    "link": "https://superhiper.com.br/tenda-atacado-comeca-2025-com-abertura-de-loja-em-bertioga-sp/",
+    "descricao": "A nova loja conta com ar-condicionado, setor de hortifrúti, serviços de açougue e de fatiados, gerando cerca de 500 novas vagas de emprego na região.",
+    "data": "01/01/2025",
+    "municipio": "Bertioga"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "O Programa Startup Ribeirão começou acelerado em 2025",
+    "link": "https://www.instagram.com/organicacursos/reel/DFLB9XTOuqi/",
+    "descricao": "O Programa Startup Ribeirão reúne startups selecionadas e mentores para acelerar os negócios na região de Ribeirão Preto.",
+    "data": "15/01/2025",
+    "municipio": "Ribeirão Preto"
+  },
+  {
+    "categoria": "Indústria",
+    "titulo": "Indústria farmacêutica anuncia instalação de fábrica em Sorocaba",
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2024/09/09/industria-farmaceutica-anuncia-instalacao-de-fabrica-em-sorocaba-com-geracao-de-300-empregos-e-producao-de-generico-do-ozempic.ghtml",
+    "descricao": "Uma nova fábrica da indústria farmacêutica será instalada em Sorocaba, gerando 300 empregos e aumentando a capacidade de produção na região.",
+    "data": "09/01/2025",
+    "municipio": "Sorocaba"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Rede de restaurantes mundialmente famosa abrirá unidade no litoral de São Paulo",
+    "link": "https://www.gazetasp.com.br/entretenimento/rede-restaurantes-mundialmente-famosa-abrira-unidade-litoral-sao-paulo/1150439/",
+    "descricao": "A inauguração está prevista para ocorrer em abril de 2025, marcando a estreia da marca no litoral de São Paulo.",
+    "data": "10/01/2025",
+    "municipio": "Praia Grande"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Hard Rock Cafe terá unidade no litoral de São Paulo",
+    "link": "https://viagemeturismo.abril.com.br/brasil/hard-rock-cafe-tera-unidade-no-litoral-de-sao-paulo",
+    "descricao": "O restaurante deve ser inaugurado no primeiro semestre de 2025 na Praia Grande, a uma hora da capital.",
+    "data": "15/01/2025",
+    "municipio": "Praia Grande"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Shopping de Praia Grande terá umas das maiores redes de restaurantes do mundo",
+    "link": "https://www.diariodolitoral.com.br/cotidiano/shopping-de-praia-grande-tera-umas-das-maiores-redes-de/188317/",
+    "descricao": "O Hard Rock Café Praia Grande será construído no novo shopping e contará com diversas opções gastronômicas.",
+    "data": "05/02/2025",
+    "municipio": "Praia Grande"
+  },
+  {
+    "categoria": "Economia",
+    "titulo": "Ribeirão Preto recebe investimento superior a R$ 700 mil para projeto inovador",
+    "link": "https://www.acidadeon.com/ribeiraopreto/economia/ribeirao-preto-recebe-investimento-superior-a-r-700-mil-para-projeto-inovador/",
+    "descricao": "O Governo do Estado de São Paulo investiu R$ 709.268,46 para ampliação do Polo Genômico do Supera Parque, com foco em desenvolver inovações na área de genética e aprimorar a infraestrutura laboratorial.",
+    "data": "13/01/2025",
+    "municipio": "Ribeirão Preto"
+  },
+  {
+    "categoria": "Infraestrutura",
+    "titulo": "DP World estuda nova expansão no terminal paulista",
+    "link": "https://valor.globo.com/empresas/noticia/2025/01/14/dp-world-estuda-nova-expansao-no-terminal-paulista.ghtml",
+    "descricao": "A DP World planeja ampliar sua capacidade no terminal de contêineres em Santos de 1,3 milhões de TEUs para 2,1 milhões de TEUs até 2027, visando acompanhar a demanda no setor logístico.",
+    "data": "14/01/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Infraestrutura",
+    "titulo": "Onfly anuncia expansão internacional com operação no México a partir de 2025",
+    "link": "https://startupi.com.br/onfly-anuncia-expansao-internacional-em-2025/",
+    "descricao": "A Onfly, principal travel tech B2B da América Latina, iniciará sua operação física no México em janeiro de 2025, com expectativa de atingir 2.500 clients até 2027.",
+    "data": "17/12/2024",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Infraestrutura",
+    "titulo": "JCB anuncia investimento de R$ 500 milhões em Sorocaba",
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2024/06/14/para-dobrar-producao-no-interior-de-sp-empresa-britanica-anuncia-investimentos-de-r-500-milhoes-e-mil-novos-empregos.ghtml",
+    "descricao": "A multinacional britânica JCB investirá R$ 500 milhões para dobrar sua produção em Sorocaba, criando 1.000 novos empregos.",
+    "data": "14/06/2024",
+    "municipio": "Sorocaba"
+  },
+  {
+    "categoria": "Infraestrutura",
+    "titulo": "Governo de São Paulo prevê R$ 50 bilhões em leilões para 2025",
+    "link": "https://www.investe.sp.gov.br/noticia/governo-de-sao-paulo-preve-r-50-bilhoes-em-leiloes-para-2025-conheca-os-projetos/",
+    "descricao": "Expectativa de novos investimentos significativos para 2025, incluindo R$ 50 bilhões em leilões para infraestrutura.",
+    "data": "10/01/2025",
+    "municipio": "Vários municípios no estado de SP"
+  },
+  {
+    "categoria": "Energia",
+    "titulo": "Governo de SP apresenta maior usina solar flutuante do país",
+    "link": "https://semil.sp.gov.br/2024/01/governo-de-sp-apresenta-maior-usina-solar-flutuante-do-pais-na-represa-billings/",
+    "descricao": "Tecnologia contribui para desenvolvimento de matriz elétrica mais limpa; investimento na modalidade atinge R$ 480 milhões até 2025.",
+    "data": "15/01/2025",
+    "municipio": "São Paulo"
+  }
+]
+```

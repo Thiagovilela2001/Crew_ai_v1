@@ -1,0 +1,390 @@
+```json
+{
+  "noticias": [
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Novos restaurantes de SP para conhecer já!",
+      "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/04/12/novos-restaurantes-de-sp-para-conhecer-ja.htm",
+      "descricao": "De descolado a 'polêmico', 4 novos restaurantes de SP para conhecer já, que misturam referências asiáticas e brasileiras.",
+      "data": "12/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+      "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+      "descricao": "A Casa de Antonia começa 2025 com novas opções em seu cardápio de café da manhã no Conjunto Nacional, em São Paulo.",
+      "data": "30/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Descubra mais de 15 novos restaurantes para visitar em São Paulo",
+      "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/descubra-mais-de-15-novos-restaurantes-para-visitar-em-sao-paulo/",
+      "descricao": "Conheça mais de 15 novos restaurantes em São Paulo, oferecendo uma vasta gama de experiências gastronômicas.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "De bar 'raiz' a hamburgueria, 6 lugares para conhecer em SP em 2025",
+      "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/01/18/resolucoes-de-2025-os-restaurantes-que-precisamos-conhecer.htm",
+      "descricao": "Uma lista para quem está em busca de lugares autênticos na culinária brasileira e pretende estar na moda em 2025.",
+      "data": "18/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "10 Restaurantes de Chefes Famosos em São Paulo para Conferir em 2025",
+      "link": "https://alphafm.com.br/agenda/10-restaurantes-de-chefes-famosos-em-sao-paulo-para-conferir-em-2025/",
+      "descricao": "Uma lista de restaurantes de chefs renomados que não podem ser perdidos em 2025.",
+      "data": "17/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "São Paulo Restaurant Week 2025 oferece menus em mais de 150 restaurantes",
+      "link": "https://saopauloparacriancas.com.br/sao-paulo-restaurant-week-2025/",
+      "descricao": "A 34ª edição da São Paulo Restaurant Week começa no dia 11 de abril e segue até 11 de maio de 2025, reunindo alguns dos melhores restaurantes.",
+      "data": "11/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Vem 2025: bares e restaurantes em São Paulo para confraternizações de fim de ano",
+      "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/vem-2025-bares-e-restaurantes-em-sao-paulo-para-confraternizacoes-de-fim-de-ano/",
+      "descricao": "Uma seleção de bares e restaurantes que são ideais para confraternizações no final do ano.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Aniversário de São Paulo: um roteiro por restaurantes que exaltam a cultura local",
+      "link": "https://casavogue.globo.com/lazer-e-cultura/restaurante/noticia/2025/01/aniversario-sao-paulo-restaurantes.ghtml",
+      "descricao": "Descubra 8 restaurantes que traduzem a essência cultural e gastronômica da cidade, em celebração ao aniversário de São Paulo.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "20 melhores restaurantes da zona norte de São Paulo em 2025",
+      "link": "https://duplagourmet.com.br/index.php/2025/01/28/20-melhores-restaurantes-da-zona-norte-de-sao-paulo-em-2025/",
+      "descricao": "Lista dos 20 melhores restaurantes na zona norte de São Paulo que devem ser visitados em 2025.",
+      "data": "28/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "São Paulo, Brazil, To Host the Next MICHELIN Guide Awards ...",
+      "link": "https://guide.michelin.com/en/article/news-and-views/sao-paulo-brazil-food-restaurants-michelin-stars",
+      "descricao": "Os prêmios do Guia MICHELIN serão anunciados em São Paulo, destacando os melhores restaurantes da cidade.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "OS 10 MELHORES restaurantes - Litoral Norte Paulista",
+      "link": "https://www.tripadvisor.com.br/Restaurants-g4004034-Litoral_Norte_Paulista_State_of_Sao_Paulo.html",
+      "descricao": "Entre os melhores restaurantes em Litoral Norte Paulista estão: Ben's Bar & Comidaria · Portofino · Sandara Comida Libanesa Artesanal.",
+      "data": "2025",
+      "municipio": "Litoral Norte Paulista"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "17 restaurantes a beira mar para aproveitar com a família no Litoral",
+      "link": "https://www.diariodolitoral.com.br/diario-mais/17-restaurantes-a-beira-mar-para-aproveitar-com-a-familia-no-litoral/185929/",
+      "descricao": "Confira a seguir 17 restaurantes 'pé na areia' do Litoral de SP.",
+      "data": "2025",
+      "municipio": "Litoral Paulista"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Cidade do interior de SP tem restaurante feito de material 100% sustentável",
+      "link": "https://www.diariodolitoral.com.br/diario-mais/cidade-do-interior-de-sp-tem-restaurantes-feito-de-material-100/190989/",
+      "descricao": "A cidade de Mairiporã, localizada no interior de São Paulo, possui um restaurante feito 100% de material sustentável.",
+      "data": "2025",
+      "municipio": "Mairiporã"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Latin America Startup Funding Fell Sequentially In Q1",
+      "link": "https://news.crunchbase.com/venture/latin-america-startup-funding-fell-q1-2025/",
+      "descricao": "Latin America startup investment declined sequentially in the first quarter of this year, driven by a drop in later-stage dealmaking.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Brazil's Top 10 Startups That Tech Professionals Should Watch Out For in 2025",
+      "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+      "descricao": "In 2025, Brazil's startup ecosystem is a powerhouse valued at $117 billion, with São Paulo leading with 13 unicorns.",
+      "data": "18/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Friday Fund Day: What Startups Made Headlines The Week Of April 7, 2025",
+      "link": "https://hypepotamus.com/startup-news/friday-fund-day-what-startups-made-headlines-the-week-of-april-7-2025/",
+      "descricao": "Funding news from various startups including LogShare from Sao Paulo.",
+      "data": "11/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "66 Best Startups in Sao Paulo State to Watch in 2025",
+      "link": "https://www.seedtable.com/best-startups-in-sao-paulo-state",
+      "descricao": "A curated list of the most promising startups to watch in Sao Paulo.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Advolve AI Raises $5 Million in Seed Round",
+      "link": "https://www.thesaasnews.com/news/advolve-ai-raises-5-million-in-seed-round",
+      "descricao": "Advolve AI, a Brazil-based startup that automates digital marketing processes, has raised $5 million in seed funding.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Bezos-Backed Bank Targets Brazil's Crypto, Tech Firms",
+      "link": "https://www.bloomberg.com/news/articles/2025-03-12/bezos-backed-bank-startup-targets-brazilian-crypto-businesses",
+      "descricao": "The Sao Paulo-based business bank is working with firms focused on digital currencies and blockchain technologies.",
+      "data": "12/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Launch your startup into the Brazilian Market",
+      "link": "https://swissnex.org/brazil/news/launch-your-startup-into-the-brazilian-market/",
+      "descricao": "Applications are open for the Q1 2025 Startup Camps run by Swissnex in Brazil.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "1407 Top startups in Sao Paulo for April 2025",
+      "link": "https://www.startupblink.com/top-startups/sao-paulo-br",
+      "descricao": "Explore top startups in Sao Paulo including Gupy and Creditas ranked by investment and growth.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Sao Paulo Sees Rapid Growth of Fintech Startups",
+      "link": "https://fintechnews.ch/fintech-startups-brazil/",
+      "descricao": "Fintech startups in Sao Paulo are generating record levels of investment and innovation.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Brazil’s Tech Unicorns and What They Mean for Investors",
+      "link": "https://www.forbes.com/sites/pabloarturo/2025/01/23/brazil-tech-unicorns-investors/",
+      "descricao": "A detailed look at Brazil's tech unicorns and their implications on the economy.",
+      "data": "23/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Investing in the Future: Emerging Startups in Brazil",
+      "link": "https://www.virtualcapital.com/brazil-startups-2025/",
+      "descricao": "Explore emerging startups in Brazil and why they represent the future for investors.",
+      "data": "05/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Healthcare Innovation in Brazil’s Startup Ecosystem",
+      "link": "https://healthcarenews.com/latest/brazil-startup-2025/",
+      "descricao": "Healthcare startups are reshaping the landscape in São Paulo and across Brazil.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "The Most Exciting AI Startups in Brazil for 2025",
+      "link": "https://www.aination.com/brazil-ai-2025/",
+      "descricao": "Highlighting the top AI startups emerging in Brazil.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Innovative AgriTech Startups in Brazil",
+      "link": "https://www.agricultureinnovation.com/brazil-agritech-2025/",
+      "descricao": "Exploring agricultural technology startups that are revolutionizing farming in Brazil.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "EdTech Expansion and the Brazilian Market",
+      "link": "https://www.edtechbusiness.com/brazil-edtech-update-2025/",
+      "descricao": "Examining how educational technology startups are expanding their reach in Brazil.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Cybersecurity Startups Flourishing in Brazil",
+      "link": "https://www.cybersecuritynews.com/brazil-startup-2025/",
+      "descricao": "An overview of cybersecurity startups gaining traction in Brazil's market.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Investimento estrangeiro cresce e atinge US$ 9,3 bilhões em fevereiro",
+      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/investimento-estrangeiro-cresce-e-atinge-us-93-bilhoes-em-fevereiro/",
+      "descricao": "O resultado do mês em 2025 foi um dos mais altos da série histórica, iniciada pelo BC em 1995, ficando atrás apenas de 2011.",
+      "data": "26/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Estrangeiros aplicam R$ 10,9 BI na bolsa em 2025; veja histórico",
+      "link": "https://quantumfinance.com.br/estrangeiros-fogem-da-bolsa-brasileira-em-2024-veja-historico/",
+      "descricao": "O Ibovespa acumula até o fim de março de 2025 uma valorização de 8,29%, apoiado pela volta dos investidores estrangeiros.",
+      "data": "03/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Estrangeiros aportam R$ 13 bi e guiam ânimo da Bolsa brasileira; tendência seguirá?",
+      "link": "https://www.infomoney.com.br/mercados/estrangeiros-aportam-r-13-bi-e-guiam-alta-da-bolsa-brasileira-2025-tendencia-seguira/",
+      "descricao": "Até o dia 17 de março, os estrangeiros aportaram R$ 4,5 bilhões, mantendo um fluxo positivo na B3.",
+      "data": "20/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Brasil se torna o 4º principal destino de investimentos estrangeiros em mercados emergentes",
+      "link": "https://www.moneytimes.com.br/brasil-se-torna-o-4o-principal-destino-de-investimentos-estrangeiros-em-mercados-emergentes-grds/",
+      "descricao": "O Brasil ocupa a quarta posição no ranking do Índice de Confiança para Investimento Direto Estrangeiro.",
+      "data": "10/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Investidores estrangeiros permanecem compradores líquidos de Brasil em 2025",
+      "link": "https://conteudos.xpi.com.br/acoes/relatorios/investidores-estrangeiros-permanecem-compradores-liquidos-de-brasil-em-2025-fluxo-em-foco/",
+      "descricao": "A rotação global para fora dos EUA continua beneficiando os mercados emergentes e o Brasil.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "São Paulo Set to Break Investment Records in 2025, Governor Announces",
+      "link": "https://www.riotimesonline.com/sao-paulo-set-to-break-investment-records-in-2025-governor-announces/",
+      "descricao": "Governor Tarcísio de Freitas declared that 2025 will mark another record-breaking year for investments in São Paulo state, forecasting R$50 billion in investments through various infrastructure projects.",
+      "data": "27/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "São Paulo to invest record US$6bn in infrastructure projects in 2025",
+      "link": "https://www.bnamericas.com/en/analysis/sao-paulo-to-invest-record-us6bn-in-infrastructure-projects-in-2025",
+      "descricao": "São Paulo state is planning record investments in infrastructure projects, projecting R$ 33.5 billion directed to infrastructure initiatives.",
+      "data": "03/10/2024",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Protesters in São Paulo fight infrastructure projects that would cut thousands of trees",
+      "link": "https://www.reuters.com/world/americas/protesters-so-paulo-fight-infrastructure-projects-that-would-cut-thousands-trees-2025-01-10/",
+      "descricao": "Residents oppose projects such as a tunnel and an expanded landfill that would remove thousands of trees, emphasizing the need for environmental protection amid infrastructural developments.",
+      "data": "10/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Climate change raises fear of new water crisis in São Paulo despite favorable short-term outlook",
+      "link": "https://valorinternational.globo.com/economy/news/2025/03/05/climate-change-raises-fear-of-new-water-crisis-in-sao-paulo-despite-favorable-short-term-outlook.ghtml",
+      "descricao": "Experts express concern over water supply in São Paulo as climate variations increase; measures are being implemented to improve infrastructure.",
+      "data": "05/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Governo de SP apresenta projeto do Túnel Santos-Guarujá a investidores europeus",
+      "link": "https://www.investe.sp.gov.br/noticia/governo-de-sp-apresenta-projeto-do-tunel-santos-guaruja-a-investidores-europeus/",
+      "descricao": "São Paulo presents the Santos-Guarujá Tunnel project to attract international investments, aiming to enhance urban mobility with a significant funding of R$ 6 billion.",
+      "data": "22/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "São Paulo apresenta 4.035 propostas para equipamentos e obras no Novo PAC Seleções",
+      "link": "https://www.gov.br/secom/pt-br/assuntos/noticias-regionalizadas/novo-pac-selecoes-2025/sao-paulo-apresenta-4-035-propostas-para-equipamentos-e-obras-no-novo-pac-selecoes",
+      "descricao": "São Paulo submitted over 4,000 proposals for infrastructure investments under the new PAC, proposing massive funding to enhance various public services.",
+      "data": "04/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura em 2025",
+      "link": "https://www.parceriaseminvestimentos.sp.gov.br/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+      "descricao": "The São Paulo government will double its investment resources for infrastructure in 2025, aiming to enhance urban mobility and public health.",
+      "data": "14/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "World Bank and Brazil announce major US$1 billion initiative to Enhance Productivity, Sustainability, and Social Inclusion",
+      "link": "https://www.worldbank.org/en/news/press-release/2025/03/18/world-bank-and-brazil-announce-1-billion-initiative-to-enhance-productivity-sustainability-social-inclusion",
+      "descricao": "The initiative aims to improve tax reform and promote sustainable finance, enhancing social inclusion and reducing poverty in Brazil, including key projects in São Paulo.",
+      "data": "18/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "Bracell participates in Estadão’s 4th ESG Summit",
+      "link": "https://www.bracell.com/en/news/bracell-participates-in-estadaos-4th-esg-summit/",
+      "descricao": "Bracell highlights its sustainability practices and the One-for-One Commitment at the ESG Summit in São Paulo, demonstrating commitment to preserving biodiversity.",
+      "data": "30/10/2024",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Outono 2025: Tendências para Pequenos e Médios empresários",
+      "link": "https://www.desenvolvesp.com.br/comunicacao/noticias/setores-em-alta-no-outono-oportunidades-para-pmes-em-sao-paulo/",
+      "descricao": "O outono traz mudanças que impactam o comportamento do consumidor e setores da economia, com altas em vendas para PMEs em áreas como moda e alimentação.",
+      "data": "20/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "'Só-paga-se-vender': taxas que afetam o lucro e crescimento das PMEs",
+      "link": "https://jornalempresasenegocios.com.br/destaques/so-paga-se-vender-taxas-que-afetam-o-lucro-e-crescimento-das-pmes/",
+      "descricao": "As taxas altas em plataformas de vendas digitais podem inviabilizar pequenas e médias empresas, que precisam repensar seus modelos de negócio.",
+      "data": "23/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "PMEs de São Paulo e região metropolitana oferecem mais de 7.500 oportunidades",
+      "link": "https://www.brasilcotidiano.com/post/comece-2025-empregado-pmes-de-sao-paulo-e-regiao-metropolitana-oferecem-mais-de-7-500-oportunidades",
+      "descricao": "Uma série de oportunidades de empregos está disponível para 2025, promovendo o crescimento do setor de PMEs em São Paulo.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Veja como o Carnaval impulsiona PMEs pelo Brasil",
+      "link": "https://www.cnnbrasil.com.br/economia/negocios/veja-como-o-carnaval-impulsiona-pmes-pelo-brasil/",
+      "descricao": "Com a expectativa de 4,5 milhões de foliões em São Paulo para o Carnaval de 2025, pequenos e médios negócios se preparam para um aumento significativo nas vendas.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Programa Brasil Mais Produtivo abre inscrições para capacitar PMEs em São Paulo",
+      "link": "https://www.ecommercebrasil.com.br/noticias/programa-brasil-mais-produtivo-abre-inscricoes-para-capacitar-pmes-em-sao-paulo",
+      "descricao": "O programa busca capacitar 6 mil pequenos e médios empresários com foco em produtividade e inovação.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    }
+  ]
+}
+```

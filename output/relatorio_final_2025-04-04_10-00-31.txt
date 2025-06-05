@@ -1,0 +1,132 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "Apresenta uma lista de startups promissoras que podem acelerar seu crescimento em 2025, com destaque especial para as que atuam em São Paulo.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025 - Distrito",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "Lista das startups brasileiras que alcançaram status de unicórnio, destacando as que estão localizadas em São Paulo.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "South Summit Brazil 2025: conheça as 50 startups finalistas da competição",
+        "link": "https://exame.com/negocios/south-summit-brazil-2025-conheca-as-50-startups-finalistas-da-competicao/",
+        "descricao": "O South Summit Brasil revelou 50 startups que se destacam no cenário brasileiro, com a maioria localizada em São Paulo.",
+        "data": "13/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Conheça os 8 principais eventos para startups em 2025 - Onfly",
+        "link": "https://www.onfly.com.br/blog/principais-eventos-para-startups/",
+        "descricao": "Lista os eventos mais relevantes que ocorrerão em 2025 em São Paulo, promovendo oportunidades para networking e apresentação de startups.",
+        "data": "21/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Startup Day 2025 movimenta ecossistema de empreendedorismo ...",
+        "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-movimenta-ecossistema-de-empreendedorismo-inovador-por-todo-o-pais/",
+        "descricao": "O evento Startup Day, importante para fomentar a inovação e o empreendedorismo, ocorrerá em várias cidades, incluindo São Paulo.",
+        "data": "22/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "4 startups para ficar de olho em 2025 - Brasil Inovador",
+        "link": "https://brasilinovador.com.br/4-startups-para-ficar-de-olho-em-2025/",
+        "descricao": "Destaque para quatro startups focadas na inovação e no desenvolvimento sustentável, localizadas em São Paulo.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Eventos que você não pode perder em 2025 - Startups",
+        "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+        "descricao": "Relato sobre os maiores eventos de inovação programados para 2025 em São Paulo, com foco em promover startups.",
+        "data": "18/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Finanças",
+        "titulo": "A volta dos IPOs: 13 empresas que podem abrir o capital em 2025",
+        "link": "https://startups.com.br/negocios/ipo/a-volta-do-ipo-13-empresas-que-podem-abrir-o-capital-em-2025/",
+        "descricao": "Discussão sobre empresas que estão se preparando para abrir capital, muitas das quais estão baseadas em São Paulo.",
+        "data": "10/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Conheça as startups que estão promovendo inovação no Brasil em 2025",
+        "link": "https://exame.com/negocios/conheca-as-startups-que-estao-promovendo-inovacao-no-brasil-em-2025/",
+        "descricao": "Neste artigo, várias startups de São Paulo são apresentadas como líderes em inovação e tecnologia no Brasil.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Café Cultura segue em expansão e abre primeira unidade própria em São Paulo",
+        "link": "https://mercadoeconsumo.com.br/24/02/2025/foodservice/cafe-cultura-segue-em-expansao-e-abre-primeira-unidade-propria-em-sao-paulo/",
+        "descricao": "A rede de cafeterias Café Cultura, com sede em Florianópolis, abre sua primeira unidade própria na Vila Nova Conceição, em São Paulo, com planos para expandir ainda mais em 2025.",
+        "data": "24/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+        "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+        "descricao": "O ano começa com várias inaugurações, incluindo a Joya Boulangerie e o novo Bottega Bernacca no Parque Ibirapuera, além de outras adições impactantes ao cenário gastronômico da capital.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Avenida Paulista ganha novos restaurantes; conheça",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/02/avenida-paulista-ganha-restaurantes-abertos-ate-a-madrugada-veja-10-enderecos-novos-em-sp.shtml",
+        "descricao": "Diversos novos restaurantes foram inaugurados ao longo da Avenida Paulista, oferecendo uma variedade de opções gastronômicas para os visitantes.",
+        "data": "25/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Descubra mais de 15 novos restaurantes para visitar em São Paulo",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/descubra-mais-de-15-novos-restaurantes-para-visitar-em-sao-paulo/",
+        "descricao": "O guia traz uma lista de novos restaurantes em São Paulo, com detalhes sobre cardápios e a proposta de cada local.",
+        "data": "10/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Vem 2025: bares e restaurantes em São Paulo para confraternizações de fim de ano",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/vem-2025-bares-e-restaurantes-em-sao-paulo-para-confraternizacoes-de-fim-de-ano/",
+        "descricao": "A lista apresenta a abertura de novos bares e restaurantes em São Paulo, com opções para celebrações em 2025.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Setor de bares e restaurantes inicia 2025 com otimismo, mas alta do ICMS preocupa empresários",
+        "link": "https://www.mercadoeeventos.com.br/noticias/servicos/setor-de-bares-e-restaurantes-inicia-2025-com-otimismo-mas-alta-do-icms-preocupa-empresarios/",
+        "descricao": "Empresários do setor esperam um crescimento no número de aberturas, embora preocupados com a alta do ICMS sobre produtos alimentícios.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Agroindústria",
+        "titulo": "Desafios de financiamento para startups de agro em 2025",
+        "link": "https://www.agroportal.com.br/desafios-financiamento-startups-agro-2025",
+        "descricao": "A reportagem discute as dificuldades que startups do setor agrícola enfrentam para conseguir investimentos em 2025.",
+        "data": "11/03/2025",
+        "municipio": "São Paulo"
+    }
+]
+```

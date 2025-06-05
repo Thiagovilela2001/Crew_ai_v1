@@ -1,0 +1,238 @@
+```json
+{
+  "noticias": [
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Novos restaurantes de SP para conhecer já!",
+      "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/04/12/novos-restaurantes-de-sp-para-conhecer-ja.htm",
+      "descricao": "De descolado a 'polêmico', 4 novos restaurantes de SP para conhecer já, que misturam referências asiáticas e brasileiras.",
+      "data": "12/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+      "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+      "descricao": "A Casa de Antonia começa 2025 com novas opções em seu cardápio de café da manhã. Em espaço no Conjunto Nacional, em São Paulo, das 8h às 12h, o ...",
+      "data": "30/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "13 NOVOS Restaurantes Em São Paulo Em 2025",
+      "link": "https://cronicasdasurdez.com/bares-e-restaurantes-em-sao-paulo/",
+      "descricao": "Aqui está uma lista com os 10 top bares e restaurantes em São Paulo para conhecer em 2025, com uma curadoria especial de novos hot spots.",
+      "data": "07/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "De bar 'raiz' a hamburgueria, 6 lugares para conhecer em SP em 2025",
+      "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/01/18/resolucoes-de-2025-os-restaurantes-que-precisamos-conhecer.htm",
+      "descricao": "Uma lista para quem está em busca de lugares autênticos na culinária brasileira e pretende estar na moda em 2025.",
+      "data": "18/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Descubra mais de 15 novos restaurantes para visitar em São Paulo",
+      "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/descubra-mais-de-15-novos-restaurantes-para-visitar-em-sao-paulo/",
+      "descricao": "Novos restaurantes surgem a cada dia, oferecendo de tudo, desde estabelecimentos sofisticados até opções mais descomplicadas.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "10 Restaurantes de Chefes Famosos em São Paulo para Conferir em 2025",
+      "link": "https://alphafm.com.br/agenda/10-restaurantes-de-chefes-famosos-em-sao-paulo-para-conferir-em-2025/",
+      "descricao": "Uma lista de restaurantes famosos por suas criações inovadoras e pratos renomados que não podem ser perdidos em 2025.",
+      "data": "17/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "São Paulo Restaurant Week 2025 oferece menus em mais de 150 restaurantes",
+      "link": "https://saopauloparacriancas.com.br/sao-paulo-restaurant-week-2025/",
+      "descricao": "A 34ª edição da São Paulo Restaurant Week começa no dia 11 de abril e segue até 11 de maio de 2025, reunindo alguns dos melhores restaurantes.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Hard Rock Cafe terá unidade no litoral de São Paulo",
+      "link": "https://viagemeturismo.abril.com.br/brasil/hard-rock-cafe-tera-unidade-no-litoral-de-sao-paulo/",
+      "descricao": "O restaurante deve ser inaugurado no primeiro semestre de 2025 na Praia Grande, a uma hora da capital.",
+      "data": "2025",
+      "municipio": "Praia Grande"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Festival celebra peixes e frutos do mar em Ilhabela",
+      "link": "https://guia.folha.uol.com.br/restaurantes/2025/04/festival-gastronomico-celebra-peixes-e-frutos-do-mar-em-ilhabela-ate-18-de-maio.shtml",
+      "descricao": "Festival gastronômico celebra peixes e frutos do mar em Ilhabela até 18 de maio. Folha Sabores da Praia reúne 35 restaurantes, bares, cafeterias ...",
+      "data": "2025",
+      "municipio": "Ilhabela"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Oscar da gastronomia: Restaurante de Santos entra em lista dos melhores do mundo",
+      "link": "https://g1.globo.com/sp/santos-regiao/culinaria-013/noticia/2025/02/28/oscar-da-gastronomia-restaurante-de-santos-entra-em-lista-dos-melhores-do-mundo.ghtml",
+      "descricao": "Madê se destacou no chamado Oscar da Gastronomia e é o único estabelecimento do estado fora da cidade de São Paulo a integrar o ranking mundial.",
+      "data": "28/02/2025",
+      "municipio": "Santos"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Cidade do interior de SP tem restaurante feito de material 100% sustentável",
+      "link": "https://www.diariodolitoral.com.br/diario-mais/cidade-do-interior-de-sp-tem-restaurantes-feito-de-material-100/190989/",
+      "descricao": "A cidade de Mairiporã, localizada no interior de São Paulo, possui um restaurante feito 100% de material sustentável. Ficou curioso?",
+      "data": "2025",
+      "municipio": "Mairiporã"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Brazil's Top 10 Startups That Tech Professionals Should Watch Out For",
+      "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+      "descricao": "In 2025, Brazil's startup ecosystem is valued at $117 billion with São Paulo leading with 13 unicorns. Focus areas include fintech, edtech, and agtech.",
+      "data": "18/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Brazilian SaaS startup Capim lands a $26.7M Series A",
+      "link": "https://techcrunch.com/2025/02/26/capim-a-brazilian-bnpl-startup-for-dental-services-lands-a-26-7m-series-a/",
+      "descricao": "Capim offers buy now, pay later (BNPL) for dental services and has raised $26.7 million in Series A funding, planning to expand their offerings.",
+      "data": "26/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Latin America Startup Funding Fell Sequentially In Q1",
+      "link": "https://news.crunchbase.com/venture/latin-america-startup-funding-fell-q1-2025/",
+      "descricao": "Latin America startup investment declined sequentially in the first quarter, driven by a drop in later-stage dealmaking.",
+      "data": "Q1 2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Brazil's Top Fintech Startups and Unicorns",
+      "link": "https://fintechnews.am/fintech-brazil/49560/brazils-top-fintech-startups-and-unicorns/",
+      "descricao": "Exploring some of Brazil's biggest fintech startups flourishing in the current tech landscape.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Bezos-Backed Bank Targets Brazil's Crypto, Tech Firms",
+      "link": "https://www.bloomberg.com/news/articles/2025-03-12/bezos-backed-bank-startup-targets-brazilian-crypto-businesses",
+      "descricao": "A São Paulo-based business bank targets firms focused on digital currencies and blockchain technologies.",
+      "data": "12/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Advolve AI Raises $5 Million in Seed Round",
+      "link": "https://www.thesaasnews.com/news/advolve-ai-raises-5-million-in-seed-round",
+      "descricao": "Advolve AI, a Brazil-based startup that automates digital marketing processes, raised $5 million in seed funding.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Hard Rock Cafe terá unidade no litoral de São Paulo",
+      "link": "https://viagemeturismo.abril.com.br/brasil/hard-rock-cafe-tera-unidade-no-litoral-de-sao-paulo/",
+      "descricao": "O restaurante será inaugurado no primeiro semestre de 2025 na Praia Grande, a uma hora da capital.",
+      "data": "2025",
+      "municipio": "Praia Grande"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Brazil slips in FDI ranking but gains ground among emerging peers",
+      "link": "https://valorinternational.globo.com/economy/news/2025/04/09/brazil-slips-in-fdi-ranking-but-gains-ground-among-emerging-peers.ghtml",
+      "descricao": "Brazil fell two spots in Kearney’s 2025 Foreign Direct Investment (FDI) Confidence Index, ranking 21st while performing well in emerging markets.",
+      "data": "09/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "São Paulo Set to Break Investment Records in 2025, Governor Announces",
+      "link": "https://www.riotimesonline.com/sao-paulo-set-to-break-investment-records-in-2025-governor-announces/",
+      "descricao": "Governor Freitas announced nearly R$40 billion in new investments in the first two months of 2025, projecting a total of R$50 billion in infrastructure auctions.",
+      "data": "27/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Brazil's current account deficit shows steep deterioration, nears lack of FDI",
+      "link": "https://www.reuters.com/markets/brazils-current-account-deficit-shows-steep-deterioration-nears-lack-fdi-2025-02-27/",
+      "descricao": "Brazil's current account deficit increased, with economists concerned about the impact on foreign direct investments (FDI).",
+      "data": "27/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Tarcísio inicia missão na Europa para atrair investimentos ao túnel Santos-Guarujá",
+      "link": "https://abcdoabc.com.br/tarcisio-inicia-missao-na-europa-para-atrair-investimentos-ao-tunel-santos-guaruja/",
+      "descricao": "O principal objetivo da viagem é apresentar a investidores estrangeiros o projeto do túnel Santos-Guarujá, uma das iniciativas mais significativas em sua administração.",
+      "data": "21/04/2025",
+      "municipio": "Santos"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Governo de São Paulo apresenta programas e busca investimentos estrangeiros para Habitação em Cannes",
+      "link": "https://admin.sggd.sp.gov.br/habitacao/noticias/governo-sp-apresenta-programas-e-busca-investimentos-estrangeiros-para-habitacao-em-cannes",
+      "descricao": "O secretário Marcelo Branco apresenta programas de habitação visando atrair investimentos internacionais durante o MIPIM, maior congresso imobiliário do mundo.",
+      "data": "10/03/2025",
+      "municipio": "Cannes, França"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura em 2025",
+      "link": "https://www.parceriaseminvestimentos.sp.gov.br/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+      "descricao": "A Secretaria de Parcerias em Investimentos do Estado de São Paulo terá em 2025 orçamento 129% maior do que foi no ano passado, totalizando R$ 7,99 bilhões.",
+      "data": "14/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "SP pra Toda Obra vai modernizar 22,3 mil km de rodovias, estradas e vicinais",
+      "link": "https://semil.sp.gov.br/2025/04/sp-pra-toda-obra-melhorias-viarias-encurtam-distancias-garantem-seguranca-e-melhoram-renda-em-sp/",
+      "descricao": "O programa SP Pra Toda Obra está investindo R$ 30 bilhões em obras que modernizam rodovias e estradas em São Paulo, aumentando a segurança e a mobilidade.",
+      "data": "04/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Governo de SP inicia obras de saneamento em regiões vulneráveis",
+      "link": "https://saneamentosp.gov.br/obras-regioes-vulneraveis-2025",
+      "descricao": "O Estado de São Paulo destinará recursos significativos para obras de saneamento nos bairros com maiores necessidades em 2025.",
+      "data": "05/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "PRI in Person 2025",
+      "link": "https://www.unpri.org/news-and-events/upcoming-events/pri-in-person-2025",
+      "descricao": "An annual event focused on responsible investment, taking place in São Paulo from November 5-7.",
+      "data": "05/11/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "World Circular Economy Forum 2025",
+      "link": "https://esgnews.bg/en/top-circular-economy-events-to-watch-in-2025/",
+      "descricao": "The first time the Forum is held in South America, focusing on waste reduction and circular economy solutions in São Paulo from May 13-14.",
+      "data": "13/05/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Sustainability in Focus: Trends Leading to COP30",
+      "link": "https://www.sustainability.com/about/events/sustainability-in-focus-2025-trends-leading-to-cop30/",
+      "descricao": "Explores key sustainability trends and discusses climate change action ahead of COP30.",
+      "data": "TBA 2025",
+      "municipio": "São Paulo"
+    }
+  ]
+}
+```

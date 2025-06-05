@@ -1,0 +1,276 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "A notícia apresenta 10 startups promissoras localizadas em São Paulo que devem se destacar em 2025, com foco em inovações e captação de investimentos.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025 - Distrito",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "O artigo fornece uma lista das startups unicórnio brasileiras, incluindo várias em São Paulo, e discute suas oportunidades de crescimento e o cenário atual.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Os 21 eventos de inovação mais aguardados de 2025 - Startups",
+        "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+        "descricao": "Esta lista apresenta eventos que ocorrerão em São Paulo e outros locais no Brasil em 2025, promovendo inovação e networking para startups.",
+        "data": "02/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Coca-Cola Femsa Brasil investe R$ 94 milhões em novo Centro de Distribuição em Bauru",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45672",
+        "descricao": "A Coca-Cola Femsa Brasil anunciou um investimento de R$ 94 milhões em um novo centro de distribuição na cidade de Bauru, visando ampliar sua capacidade de logística na região.",
+        "data": "15/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "A Wepink está chegando em Bauru! Venha fazer parte do nosso time!",
+        "link": "https://www.instagram.com/agilizafranca/p/DFsg5YUR0ww/",
+        "descricao": "A Wepink, uma nova rede de lojas, anunciou sua chegada em Bauru e está realizando contratações para a grande inauguração que está programada para 2025.",
+        "data": "20/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Prefeitura de Bauru define para 2025 prazo para licitação da concessão da ETE Vargem Limpa",
+        "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2024/11/07/prefeitura-de-bauru-define-para-2025-prazo-para-licitacao-da-concessao-da-ete-vargem-limpa.ghtml",
+        "descricao": "A Prefeitura de Bauru anunciou o prazo de 2025 para a licitação referente à concessão do sistema de tratamento de esgoto Vargem Limpa, indicando uma expansão na infraestrutura local.",
+        "data": "07/11/2024",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Sedecon apoia o processo seletivo de nova empresa de varejo que chega a Bauru",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45720",
+        "descricao": "A Secretaria de Desenvolvimento Econômico de Bauru está apoiando a contratação de funcionários para uma nova empresa de varejo que será inaugurada na cidade em 2025, com várias vagas abertas.",
+        "data": "22/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Câmara Municipal",
+        "titulo": "Com dez projetos em primeira discussão, Câmara de Bauru realiza segunda sessão ordinária",
+        "link": "https://www.bauru.sp.leg.br/imprensa/noticias/com-dez-projetos-em-primeira-discussao-camara-de-bauru-realiza-segunda-sessao-ordinaria-do-ano-no-dia-10-de-fevereiro/",
+        "descricao": "A Câmara Municipal de Bauru está discutindo dez projetos de lei que visam fomentar o desenvolvimento econômico e a instalação de novas indústrias na cidade em 2025.",
+        "data": "10/02/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Girondino quer abrir 150 cafés pelo país a partir de 2025",
+        "link": "https://www.diariodocomercio.news/publicacao/s/girondino-quer-abrir-150-cafes-pelo-pais-a-partir-de-2025",
+        "descricao": "Girondino planeja a abertura de 150 cafés por todo o Brasil a partir de 2025, incluindo várias filiais em São Paulo, buscando uma nova identidade visual e oferecendo produtos de marca própria.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Grupo que atendeu 500 mil em SP investe R$ 10 mi e leva restaurantes a cobiçado polo gastronômico",
+        "link": "https://exame.com/casual/grupo-que-atendeu-500-mil-em-sp-investe-r-10-mi-e-leva-restaurantes-a-cobicado-polo-gastronomico/",
+        "descricao": "O Grupo Locale, que já atendeu um grande número de clientes em São Paulo, anunciará a abertura de dois novos restaurantes em Pinheiros a partir de 2025, investindo R$ 10 milhões na expansão.",
+        "data": "22/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Vêm aí! Os bares e restaurantes que vão abrir as portas em 2025",
+        "link": "https://vejario.abril.com.br/comer-e-beber/bares-e-restaurantes-abrir-as-portas-2025",
+        "descricao": "O artigo discute os novos bares e restaurantes que abrirão em 2025, incluindo a nova unidade do Café ao Leu, que abrirá sua primeira filial em São Paulo.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Estratégias de Mercado",
+        "titulo": "Bares e restaurantes estão otimistas para o primeiro trimestre de 2025",
+        "link": "https://abrasel.com.br/noticias/noticias/bares-restaurantes-otimistas-primeiro-trimestre-2025-pesquisa-abrasel/",
+        "descricao": "Uma pesquisa da Abrasel mostra que o setor de alimentação fora do lar inicia 2025 com otimismo, apontando para a expectativa de novas aberturas no setor, especialmente em São Paulo.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Café Amado - Restaurante e Wine Bar será inaugurado neste segundo semestre de 2025",
+        "link": "https://letsgobahia.com.br/noticia/colunas/cafe-amado-restaurante-e-wine-bar-sera-inaugurado-neste-segundo-semestre-de-2025",
+        "descricao": "O Café Amado, um restaurante e wine bar, será inaugurado no segundo semestre de 2025, com foco em oferecer uma experiência gastronômica única na cidade de São Paulo.",
+        "data": "20/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Registro abre a temporada 2025 do Festival Sabor de São Paulo",
+        "link": "https://registro.sp.gov.br/registro-abre-a-temporada-2025-do-festival-sabor-de-sao-paulo/",
+        "descricao": "Os visitantes poderão apreciar pratos dos restaurantes locais Budista Gastrobar e Kabanna Steakehouse, bem como dos produtores do Sítio Shimada.",
+        "data": "29/01/2025",
+        "municipio": "Registro"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Divino Fogão projeta expansão em 2025 com foco em shoppings e dark kitchens",
+        "link": "https://mercadoeconsumo.com.br/29/01/2025/foodservice/divino-fogao-projeta-expansao-em-2025-com-foco-em-shoppings-e-dark-kitchens/",
+        "descricao": "O Divino Fogão está com um plano de expansão aquecido para todo o Brasil em 2025, buscando consolidar sua presença em diferentes estados.",
+        "data": "29/01/2025",
+        "municipio": "Não especificado"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Bella Capri mira expansão da rede com projeção de abrir 100 pizzarias até o final de 2025",
+        "link": "https://mercadoeconsumo.com.br/22/11/2024/franquias/bella-capri-projeta-a-abertura-de-100-pizzarias-ate-o-final-de-2025/",
+        "descricao": "Com 40 unidades em operação, a rede de pizzarias Bella Capri projeta a abertura de 100 novas unidades até o final de 2025.",
+        "data": "22/11/2024",
+        "municipio": "Não especificado"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Outback abre 150ª loja e prepara plano de expansão dos negócios",
+        "link": "https://www.investe.sp.gov.br/noticia/bloomin-brands-foca-em-expansao-no-brasil-e-inicia-o-ano-com-quatro-inauguracoes-do-outback/",
+        "descricao": "O plano de expansão visa aumentar o faturamento da rede por meio das novas unidades, já que os atuais restaurantes não conseguem manter o mesmo ritmo de vendas.",
+        "data": "05/01/2025",
+        "municipio": "Não especificado"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Em 2025, São Paulo se consolida como um dos maiores destinos",
+        "link": "https://www.instagram.com/mercadoeconsumo/p/DEnR6eYsdFr/",
+        "descricao": "Com mais de 45 lojas em funcionamento, a empresa pretende abrir 25 novas unidades ao longo de 2025, utilizando a capital paulista como hub e se expandindo para outras regiões.",
+        "data": "05/01/2025",
+        "municipio": "Não especificado"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Fintech de Campinas é finalista de programa de ...",
+        "link": "https://www.panoramadenegocios.com.br/fintech-de-campinas-e-finalista-de-programa-de-inovacao-do-banco-central/",
+        "descricao": "O evento será aberto ao público e as inscrições podem ser feitas através do site do Banco Central, os projetos resultantes incluem tecnologias de blockchain.",
+        "data": "06/02/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Fintech de Ribeirão Preto recebe investimento de R$ 200 milhões.",
+        "link": "https://g1.globo.com/economia/noticia/2025/01/10/fintech-de-ribeirao-preto-recebe-investimento-de-r-200-milhoes.ghtml",
+        "descricao": "A fintech de Ribeirão Preto anunciou um investimento de R$ 200 milhões para a expansão de suas operações e desenvolvimento de novos produtos.",
+        "data": "10/01/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Fintech de São Carlos anuncia rodada de investimento.",
+        "link": "http://finsidersbrasil.com.br/startups/finsiders/fintech-sao-carlos-anuncia-rodada-de-investimento/",
+        "descricao": "A startup de São Carlos captou recursos para expandir seu portfólio de serviços e impacto no setor financeiro.",
+        "data": "15/01/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Afinz compra Pagolivre para avançar em pagamentos recorrentes.",
+        "link": "https://finsidersbrasil.com.br/reportagem-exclusiva-fintechs/exclusivo-afinz-faz-aquisicao-para-avancar-em-pagamentos-recorrentes/",
+        "descricao": "Instituição de Sorocaba, interior de SP, compra fintech Pagolivre em seu primeiro M&A desde a mudança da marca da antiga Sorocred, em 2020.",
+        "data": "10/02/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Fintech de São José cria 60 novas vagas de emprego.",
+        "link": "https://sampi.net.br/ovale/noticias/2879804/vale-do-paraiba/2025/01/fintech-de-sao-jose-cria-60-novas-vagas-de-emprego-veja",
+        "descricao": "A fintech TMB, de São José dos Campos, anunciou a abertura de 60 vagas de emprego até o final do ano, sendo 22 destinadas a início imediato.",
+        "data": "10/01/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "John Deere inaugura laboratório de inovação em Piracicaba.",
+        "link": "https://startups.com.br/john-deere-inaugura-laboratorio-de-inovacao-em-piracicaba/",
+        "descricao": "John Deere investe na inovação em Piracicaba, visando desenvolvimento e parcerias com startups locais.",
+        "data": "20/01/2025",
+        "municipio": "Piracicaba"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Empresa alemã construirá indústria em Sorocaba",
+        "link": "https://brasilalemanhanews.com.br/empresa-alema-construira-industria-em-sorocaba/",
+        "descricao": "Eberspächer Tecnologia de Exaustão investirá R$ 14 milhões e criará cerca de 300 empregos.",
+        "data": "05/06/2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Evapco inaugura nova fábrica em Sorocaba",
+        "link": "https://www.investe.sp.gov.br/noticia/evapco-inaugura-fabrica-em-sorocaba/",
+        "descricao": "A Evapco investiu R$ 200 milhões para a nova unidade, com previsão de gerar 800 empregos.",
+        "data": "22/10/2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Emprego",
+        "titulo": "Aisin Automotive oficializa adesão ao programa “Desenvolve Itu”",
+        "link": "https://itu.sp.gov.br/aisin-automotive-oficializa-adesao-ao-programa-desenvolve-itu/",
+        "descricao": "A empresa japonesa investirá em expansão na planta em Itu, gerando mais 70 empregos.",
+        "data": "20/06/2024",
+        "municipio": "Itu"
+    },
+    {
+        "categoria": "Mercado",
+        "titulo": "Governo planeja programa para investimento estrangeiro",
+        "link": "https://www1.folha.uol.com.br/mercado/2025/01/governo-vai-lancar-programa-para-atrair-investimentos-estrangeiros/",
+        "descricao": "O programa busca desburocratizar e facilitar a entrada de investimentos estrangeiros no Brasil.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Construção",
+        "titulo": "A empresa francesa Besins Healthcare inaugura fábrica em Jundiaí",
+        "link": "https://jundiai.sp.gov.br/noticias/2018/11/28/empregos-empresa-francesa-inaugura-fabrica-em-jundiai/",
+        "descricao": "A fábrica representa um investimento de R$ 11 milhões e gerará 30 novos empregos.",
+        "data": "28/11/2018",
+        "municipio": "Jundiaí"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP mais que dobra recursos para investimentos em infraestrutura",
+        "link": "https://www.parceriaseminvestimentos.sp.gov.br/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+        "descricao": "O Governo de São Paulo prevê novos investimentos para 2025, com R$ 50 bilhões em leilões, expansão da rede de saúde e melhorias em rodovias.",
+        "data": "27/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "R$ 250 bilhões em 2025: o apetite do setor privado na infraestrutura",
+        "link": "https://neofeed.com.br/economia/r-250-bilhoes-em-2025-o-apetite-do-setor-privado-na-infraestrutura/",
+        "descricao": "Estão previstos mais de 110 leilões para 2025, incluindo 27 de saneamento e 87 de transportes, refletindo um aumento significativo no apetite do setor privado.",
+        "data": "15/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP deve ter recorde de investigações em infraestrutura em 2025",
+        "link": "https://g1.globo.com/economia/noticia/2025/01/sp-deve-ter-recorde-de-investimentos-em-infraestrutura-em-2025.ghtml",
+        "descricao": "O estado de São Paulo está se preparando para um ano recorde em investigações relacionadas a projetos de infraestrutura, incluindo rodovias e habitação.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo de São Paulo prevê R$ 50 bilhões em leilões para 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/governo-de-sao-paulo-preve-r-50-bilhoes-em-leiloes-para-2025-conheca-os-projetos/",
+        "descricao": "O projeto vai melhorar a conectividade entre as principais rodovias do estado, fortalecendo a logística e o transporte entre as regiões.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Educação",
+        "titulo": "Fundo Social abre inscrições para curso de Padaria Artesanal nesta segunda (1º)",
+        "link": "https://www2.itanhaem.sp.gov.br/2024/06/28/fundo-social-abre-inscricoes-para-curso-de-padaria-artesanal-nesta-segunda-1o/",
+        "descricao": "O Fundo Social de Solidariedade abrirá inscrições para o curso de Padaria Artesanal. Os interessados devem comparecer na sede provisória do Fundo Social. O objetivo é capacitar os alunos na produção de bolos, pães e pizzas.",
+        "data": "01/07/2025",
+        "municipio": "Itanhaém"
+    }
+]
+```

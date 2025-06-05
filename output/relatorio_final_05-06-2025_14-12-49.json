@@ -1,0 +1,38 @@
+[
+    {
+        "categoria": "Finanças",
+        "titulo": "Com R$ 44,5 mi, BNDES apoia expansão e modernização do Grupo Terraverde",
+        "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Com-R$-445-mi-BNDES-apoia-expansao-e-modernizacao-do-Grupo-Terraverde/",
+        "descricao_detalhada": "O BNDES financiará R$ 44,5 milhões para apoiar a expansão e modernização do Grupo Terraverde, que atua em São Paulo, visando atender à demanda crescente nos setores agrícola e de construção.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Ampliação",
+        "valor_estimado": "R$ 44,5 milhões",
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência de Notícias BNDES"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "Indústria brasileira de etanol apresenta grande potencial de lucro com captura e armazenamento de carbono",
+        "link": "http://www.canaonline.com.br/conteudo/industria-brasileira-de-etanol-apresenta-grande-potencial-de-lucro-com-captura-e-armazenamento-de-carbono.html",
+        "descricao_detalhada": "O estado de São Paulo lidera iniciativas para capturar mais de 15 milhões de toneladas de CO2, destacando seu potencial na indústria de etanol, que está se modernizando com tecnologias inovadoras.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "categoria": "Finanças",
+        "titulo": "Finanças",
+        "link": "https://dcomercio.com.br/editoria/c/financas",
+        "descricao_detalhada": "O setor financeiro e empresarial está se reforçando em São Paulo, com iniciativas voltadas à modernização de infraestrutura e melhoria de processos, especialmente no centro da cidade.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "D Comércio"
+    }
+]

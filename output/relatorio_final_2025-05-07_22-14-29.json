@@ -1,0 +1,204 @@
+```json
+[
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+        "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+        "descricao": "O ano começa com inaugurações de restaurantes e boulangeries, além de novos menus.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Holding de restaurantes do 3G traz a sua nova aposta ao Brasil e planeja 500 unidades",
+        "link": "https://neofeed.com.br/negocios/holding-de-restaurantes-do-3g-traz-a-sua-nova-aposta-ao-brasil-e-planeja-500-unidades/",
+        "descricao": "Em uma década, Firehouse Subs planeja abrir 500 lojas no Brasil. Primeiro restaurantes serão abertos em shoppings de São Paulo.",
+        "data": "02/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Firehouse Subs® chega no Brasil com planos ambiciosos de expansão",
+        "link": "https://www.prnewswire.com/br/comunicados-para-a-imprensa/firehouse-subs-chega-no-brasil-com-planos-ambiciosos-de-expansao-302346332.html",
+        "descricao": "Rede norte-americana planeja abrir mais de 500 restaurantes nos próximos 10 anos no Brasil, começando em 2025.",
+        "data": "03/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Redes de Restaurantes Apostam em Expansão",
+        "link": "https://www.expotel.com.br/redes-de-restaurantes-apostam-em-expansao-mesmo-com-cenario-economico-desafiador/",
+        "descricao": "Grandes redes têm apostado no modelo de franquias como forma de ampliar sua presença em diferentes regiões do país.",
+        "data": "04/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Grupo Locale começa 2025 com expansão e abrirá dois novos restaurantes no bairro de Pinheiros, em São Paulo.",
+        "link": "https://exame.com/casual/grupo-que-atendeu-500-mil-em-sp-investe-r-10-mi-e-leva-restaurantes-a-cobicado-polo-gastronomico/",
+        "descricao": "Grupo que atendeu 500 mil em SP investe R$ 10 mi e leva restaurantes a cobiçado polo gastronômico.",
+        "data": "05/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Bloomin’ Brands foca em expansão no Brasil e inicia o ano com quatro inaugurações do Outback",
+        "link": "https://www.investe.sp.gov.br/noticia/bloomin-brands-foca-em-expansao-no-brasil-e-inicia-o-ano-com-quatro-inauguracoes-do-outback/",
+        "descricao": "Ainda com foco no estado paulista, estão previstos dez novos restaurantes este ano, sendo seis deles na capital e quatro no interior.",
+        "data": "01/03/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "De Hard Rock a novo shopping em Santos: os planos do Grupo Peralta para o litoral de SP",
+        "link": "https://exame.com/negocios/de-hard-rock-a-novo-shopping-em-santos-os-planos-do-grupo-peralta-para-o-litoral-de-sp/",
+        "descricao": "O Grupo Peralta está apostando em um novo modelo de shopping lifestyle com a chegada do Hard Rock Cafe ao Litoral Plaza.",
+        "data": "17/12/2024",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Divino Fogão mira interior de São Paulo para abrir seis dark kitchens em 2024",
+        "link": "https://www.investe.sp.gov.br/noticia/divino-fogao-mira-interior-de-sao-paulo-para-abrir-seis-dark-kitchens-em-2024/",
+        "descricao": "O modela de dark kitchen será expandido para as cidades de Sorocaba, Bragança Paulista, Valinhos, Campinas, Piracicaba e Limeira.",
+        "data": "24/01/2024",
+        "municipio": "Interior de São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Governo de SP anuncia mais R$ 22 milhões para rede de restaurantes Bom Prato",
+        "link": "https://www.desenvolvimentosocial.sp.gov.br/governo-de-sp-anuncia-mais-r-22-milhoes-para-rede-de-restaurantes-bom-prato/",
+        "descricao": "O investimento será utilizado para manutenção, melhorias e expansão do programa Bom Prato em todo o estado.",
+        "data": "24/10/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Bares e restaurantes da Baixada Santista registram aumento nas contratações em julho",
+        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2024/09/01/bares-e-restaurantes-da-baixada-santista-registram-aumento-nas-contratacoes-em-julho.ghtml",
+        "descricao": "O setor de alimentação na Baixada Santista contabilizou 967 admissões, reduzindo o número de demissões em comparação ao mês anterior.",
+        "data": "01/09/2024",
+        "municipio": "Baixada Santista"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Balanço do Ecossistema de Startups no Brasil em 2024: Avanços e Tendências",
+        "link": "https://liga.ventures/insights/artigos/balanco-do-ecossistema-de-startups-no-brasil-em-2024-avancos-e-tendencias/",
+        "descricao": "O Brasil captou R$ 13,9 bilhões em investimentos para startups em 2024, refletindo um crescimento significativo e destacando a expansão das fintechs e tecnologias emergentes.",
+        "data": "12/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups no Brasil captaram R$ 13,9 bi em 2024",
+        "link": "https://startupi.com.br/startups-no-brasil-captaram-r-139-bi-2024/",
+        "descricao": "O ecossistema de startups no Brasil movimentou R$ 13,9 bilhões em 2024, com aumento expressivo nas fusões e aquisições e um foco em inteligência artificial.",
+        "data": "13/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Av. Rebouças: o novo polo de startups em São Paulo",
+        "link": "https://distrito.me/blog/av-reboucas-o-novo-polo-de-startups-em-sao-paulo/",
+        "descricao": "A Avenida Rebouças se destaca como um novo polo de inovação em São Paulo, atraindo startups e sendo impulsionada pela presença de hubs de inovação e a ação do Distrito.",
+        "data": "11/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Correio Popular | Campinas é a cidade do interior de SP com a maior quantidade de startups",
+        "link": "https://www.inova.unicamp.br/2025/01/correio-popular-campinas-e-a-cidade-do-interior-de-sp-com-a-maior-quantidade-de-startups/",
+        "descricao": "O estudo mapeou 4.038 startups instaladas em 214 municípios, o equivalente a um terço das 645 cidades paulistas.",
+        "data": "01/01/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "SP amplia crédito e impulsiona empreendedorismo com mais de R$ 1,3 bilhão em financiamentos em dois anos",
+        "link": "https://www.investe.sp.gov.br/noticia/sp-amplia-credito-e-impulsiona-empreendedorismo-com-mais-de-1-3-bilhao-em-financiamentos-em-dois-anos/",
+        "descricao": "Financiamento destinado a pequenos negócios e startups, visando impulsionar o empreendedorismo no estado.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Governo de SP realiza evento para acelerar o desenvolvimento econômico e atrair investimentos para o noroeste paulista",
+        "link": "https://www.investe.sp.gov.br/noticia/governo-de-sp-realiza-evento-para-acelerar-o-desenvolvimento-economico-e-atrair-investimentos-para-o-noroeste-paulista/",
+        "descricao": "Encontro em Votuporanga reuniu empresários e autoridades e apresentou ações para aumentar a competitividade dos municípios.",
+        "data": "01/01/2025",
+        "municipio": "Votuporanga"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Com 10 startups, Inova Aqua é palco de soluções para a cadeia do pescado",
+        "link": "https://www.mbcomunicacao.com.br/com-10-startups-inova-aqua-e-palco-de-solucoes-para-a-cadeia-do-pescado",
+        "descricao": "O Inova Aqua se apresenta como um campo fértil para startups, promovendo suas soluções dentro do setor pesqueiro.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Túnel Santos-Guarujá é destaque na Europa e reforça interesse de grupos estrangeiros na infraestrutura brasileira",
+        "link": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2025/04/tunel-santos-guaruja-e-destaque-na-europa-e-reforca-interesse-de-grupos-estrangeiros-na-infraestrutura-brasileira",
+        "descricao": "O projeto do túnel Santos-Guarujá, apresentado a investidores europeus, mostra a capacidade do Brasil em atrair empresas globais para infraestrutura, com um investimento estimado em R$ 6 bilhões.",
+        "data": "22/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Educação",
+        "titulo": "Estrangeiros compram escolas de elite de SP com a promessa de preservar suas 'identidades'",
+        "link": "https://www1.folha.uol.com.br/educacao/2024/09/estrangeiros-compram-escolas-de-elite-de-sp-com-a-promessa-de-preservar-suas-identidades.shtml",
+        "descricao": "O grupo Nord Anglia comprou a Escola Móbile, Avenues SP e o British College of Brazil, prometendo manter suas identidades e projetos pedagógicos, atraindo orgulho e confiança das famílias.",
+        "data": "23/09/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Air bp investe R$50 milhões para expandir operações em São Paulo",
+        "link": "https://www.investe.sp.gov.br/noticia/air-bp-investe-r-50-milhoes-para-expandir-operacoes-em-sao-paulo/",
+        "descricao": "O projeto inclui a inauguração de unidades de abastecimento nos aeroportos de Congonhas e São José dos Campos, além do início da operação de novos serviços na região.",
+        "data": "22/04/2024",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Construção",
+        "titulo": "Grupo ADN se consolida como um dos principais grupos construtivos do Brasil",
+        "link": "https://www.investe.sp.gov.br/noticia/grupo-adn-se-consolida-como-um-dos-principais-grupos-construtivos-do-brasil/",
+        "descricao": "O Grupo ADN, com operações em mais de 20 municípios do interior de São Paulo, chega ao último trimestre de 2024 com resultados positivos, sinalizando uma ampliação de sua presença.",
+        "data": "15/03/2024",
+        "municipio": "Interior de São Paulo"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "EDP quer aumentar presença em distribuição no Brasil",
+        "link": "https://www.canalenergia.com.br/noticias/53297357/edp-quer-aumentar-presenca-em-distribuicao-no-brasil",
+        "descricao": "A EDP planeja investir R$ 12 bilhões no Brasil nos próximos 5 anos, focando na expansão de sua infraestrutura de distribuição, com parte significativa destinada à região paulista.",
+        "data": "10/02/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP pra Toda Obra: Governo do Estado lança maior programa de modernização do sistema rodoviário da história e soma R$ 30 bi de investimentos",
+        "link": "https://www.parceriaseminvestimentos.sp.gov.br/sp-pra-toda-obra-governo-do-estado-lanca-maior-programa-de-modernizacao-do-sistema-rodoviario-da-historia-e-soma-r-30-bi-de-investimentos/",
+        "descricao": "Iniciativa contempla mais de 1,5 mil obras em rodovias estaduais e concedidas nos grandes centros, interior e litoral, para transformar a mobilidade e gerar empregos.",
+        "data": "03/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura em 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+        "descricao": "O orçamento da Secretaria de Parcerias em Investimentos do Estado de São Paulo em 2025 será de R$ 7,99 bilhões, focando na expansão do metrô e melhorias em rodovias.",
+        "data": "13/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "São Paulo bate recorde de investimentos em 2024 com Maratona de Leilões",
+        "link": "https://www.investe.sp.gov.br/noticia/sao-paulo-bate-recorde-de-investimentos-em-2024-com-maratona-de-leiloes/",
+        "descricao": "Foi anunciada a leilão de nove projetos que garantiram mais de 60% dos R$ 500 bilhões estimados em parcerias até o fim de 2026.",
+        "data": "02/12/2024",
+        "municipio": "São Paulo"
+    }
+]
+```

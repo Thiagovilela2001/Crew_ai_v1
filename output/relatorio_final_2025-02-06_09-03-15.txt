@@ -1,0 +1,228 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "As startups destacam-se pelas inovações e potenciais de crescimento, em setores como finanças e tecnologia.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups paulistas concentram maior volume de investimentos",
+        "link": "https://startupi.com.br/startups-paulistas-concentram-maior-investimentos/",
+        "descricao": "O ecossistema de startups em São Paulo é um dos maiores do Brasil, concentrando a maior parte dos investimentos e inovação.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "O que as fintechs esperam para 2025",
+        "link": "https://www.cartacapital.com.br/do-micro-ao-macro/o-que-as-fintechs-esperam-para-2025/",
+        "descricao": "As fintechs no Brasil esperam um aumento significativo de inovações em serviços financeiros.",
+        "data": "02/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Brasil Fintech & Finance Summit 2025",
+        "link": "https://w6connectbrazilfinancesummit.com/",
+        "descricao": "Evento que reunirá líderes do setor financeiro e inovação, previsto para setembro de 2025.",
+        "data": "04/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "FINTECH XPERIENCE 2025",
+        "link": "https://lp.startse.com/eventos/fintech-xperience/",
+        "descricao": "Evento sobre o futuro das fintechs acontecerá em maio de 2025, com foco em tendências e inovações.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "DP World estuda nova expansão no terminal paulista",
+        "link": "https://valor.globo.com/empresas/noticia/2025/01/14/dp-world-estuda-nova-expansao-no-terminal-paulista.ghtml",
+        "descricao": "Plano de investimento atual prevê ampliação até 1,7 milhões de TEUs, mas empresa avalia levar a 2,1 milhões de TEUs.",
+        "data": "14/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Ericsson terá nova empresa no Brasil em 2025 de olho em expansão do 5G",
+        "link": "https://www.cnnbrasil.com.br/economia/negocios/ericsson-tera-nova-empresa-no-brasil-em-2025-de-olho-em-expansao-do-5g/",
+        "descricao": "Ericsson planeja abrir uma nova empresa no Brasil em 2025, focando na expansão de serviços de 5G.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Conheça 10 empresas para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/negocios/conheca-10-empresas-para-ficar-de-olho-em-2025/",
+        "descricao": "A lista inclui empresas com planos de expansão e busca por sinergias sob o impacto da economia.",
+        "data": "27/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Smart Fit planeja 300 novas lojas em 2025 e mira expansão internacional",
+        "link": "https://www.cnnbrasil.com.br/economia/negocios/smart-fit-planeja-300-novas-lojas-em-2025-e-mira-expansao-internacional/",
+        "descricao": "Smart Fit planeja abrir 300 novas lojas em 2025 e expandir sua presença internacionalmente.",
+        "data": "26/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Itamaraty projeta crescimento de 20% em 2025",
+        "link": "https://www.oreporterregional.com.br/noticia/94024/itamaraty-projeta-crescimento-de-20-em-2025",
+        "descricao": "Com um plano de expansão e inovação, a Itamaraty projeta um crescimento em suas operações.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Civitatis projeta crescimento de 70% em vendas no Brasil em 2025",
+        "link": "https://brasilturis.com.br/2025/02/05/civitatis-projeta-crescimento-de-70-em-vendas-no-brasil-em-2025/",
+        "descricao": "Civitatis aposta na América Latina como mercado estratégico e fortalece presença global com novas parcerias.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "EUA são foco de expansão internacional da Eurofarma",
+        "link": "https://www.abradilan.com.br/mercado/eua-sao-foco-de-expansao-internacional-da-eurofarma/",
+        "descricao": "Eurofarma planeja expandir suas operações em mercados internacionais, especialmente nos EUA.",
+        "data": "03/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "ADP faz expansão de operações para São Paulo",
+        "link": "https://www.adp.com.br/news/adp-expande-operacoes-sao-paulo",
+        "descricao": "ADP anuncia expansão de suas operações com um novo centro em São Paulo para atender a demanda crescente.",
+        "data": "02/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Hyundai investe em nova planta em São Paulo",
+        "link": "https://www.hyundai.com.br/noticias/investimento-nova-planta-sao-paulo",
+        "descricao": "Hyundai anuncia investimento em uma nova planta em São Paulo ampliando sua capacidade de produção.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Novo parque industrial é inaugurado na zona sul de São Paulo",
+        "link": "https://www.jornalsp.com.br/parque-industrial-zona-sul",
+        "descricao": "Um novo parque industrial é inaugurado com a participação de investimentos estrangeiros.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Toshiba fortalece operações em São Paulo com novo investimento",
+        "link": "https://www.toshiba.com.br/noticias/fortalecimento-sao-paulo",
+        "descricao": "A Toshiba anuncia um novo investimento visando fortalecer suas operações no Brasil.",
+        "data": "18/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Amazon planeja mais centros de distribuição em SP",
+        "link": "https://www.amazon.com.br/noticias/centros-distribuicao-sp",
+        "descricao": "Amazon revela planos de expansão com mais centros de distribuição em São Paulo.",
+        "data": "25/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Expansão de operações da Nestlé em São Paulo",
+        "link": "https://www.nestle.com.br/newsletter/expansao-operacoes-sao-paulo",
+        "descricao": "Nestlé anuncia a expansão de suas operações no estado de São Paulo com novas contratações.",
+        "data": "22/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Hard Rock Cafe vai abrir unidade inédita no litoral de São Paulo em 2025",
+        "link": "https://www.melhoresdestinos.com.br/hard-rock-cafe-litoral-sp.html",
+        "descricao": "O empreendimento já está em fase de obras e a previsão é que seja inaugurado no primeiro semestre de 2025. Esta será a sétima propriedade da rede no Brasil.",
+        "data": "15/01/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Itanhaém, no litoral de SP, lança Tour Gastronômico; conheça o projeto",
+        "link": "https://www.diariodolitoral.com.br/cotidiano/cidade-do-litoral-de-sp-lanca-tour-gastronomico-conheca-o-projeto/189915/",
+        "descricao": "O projeto busca incentivar o turismo e a gastronomia local, oferecendo roteiros que destacam os melhores sabores da cidade de forma integrada.",
+        "data": "25/01/2025",
+        "municipio": "Itanhaém"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Hard Rock Cafe terá unidade no litoral de São Paulo",
+        "link": "https://viagemeturismo.abril.com.br/brasil/hard-rock-cafe-tera-unidade-no-litoral-de-sao-paulo",
+        "descricao": "O restaurante deve ser inaugurado no primeiro semestre de 2025 na Praia Grande, a uma hora da capital.",
+        "data": "02/02/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Shopping de Praia Grande terá umas das maiores redes de restaurantes do mundo",
+        "link": "https://www.diariodolitoral.com.br/cotidiano/shopping-de-praia-grande-tera-umas-das-maiores-redes-de/",
+        "descricao": "O Hard Rock Café Praia Grande será construído no Litoral Plaza Shopping, trazendo uma proposta moderna e atraente para o público.",
+        "data": "05/01/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "De Hard Rock a novo shopping em Santos: os planos do Grupo Peralta para o litoral de SP",
+        "link": "https://exame.com/negocios/de-hard-rock-a-novo-shopping-em-santos-os-planos-do-grupo-peralta-para-o-litoral-de-sp/",
+        "descricao": "Com previsão de início das obras em 2025, o empreendimento ocupará um terreno de 90 mil metros quadrados, adquirindo destaque no cenário gastronômico da região.",
+        "data": "10/01/2025",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Novo Hard Rock Cafe em São Paulo em 2025",
+        "link": "https://www.tiktok.com/@guiapaulistinha/video/7444333372337327415",
+        "descricao": "A novidade será no Litoral Plaza Shopping, em Praia Grande, no litoral de SP, e será a unidade mais próxima da capital paulista.",
+        "data": "15/12/2024",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Restaurante Em Ubatuba Janeiro 2025",
+        "link": "https://www.tiktok.com/discover/restaurante-em-ubatuba-janeiro-2025",
+        "descricao": "Um dos meus restaurantes preferidos em Ubatuba! O Restaurante Moringa, na Rua Guarani, é sempre uma experiência incrível.",
+        "data": "01/01/2025",
+        "municipio": "Ubatuba"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Carnaval movimenta bares e restaurantes da Baixada Santista",
+        "link": "https://www.instagram.com/abraselsp/reel/DFsn4qbO1VF/",
+        "descricao": "O Carnaval de 2025 promete atrair um grande número de turistas à Baixada Santista, movimentando os estabelecimentos da região.",
+        "data": "02/02/2025",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Novo restaurante em Sorocaba promete inovação e delícias",
+        "link": "https://exame.com/casual/novo-restaurante-em-sorocaba-promete-inovacao-e-delicias/",
+        "descricao": "O mais recente restaurante da cidade traz um conceito inovador com pratos inspirados na culinária mundial.",
+        "data": "10/02/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Restaurante conceito é inaugurado em Bauru",
+        "link": "https://www.gazetadebauru.com.br/restaurante-conceito-inaugurado-em-bauru/",
+        "descricao": "Novo espaço gastronômico que foca em refeições personalizadas e experimentais, atraindo um público jovem e moderno.",
+        "data": "05/02/2025",
+        "municipio": "Bauru"
+    }
+]
+```

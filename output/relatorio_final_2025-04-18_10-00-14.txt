@@ -1,0 +1,215 @@
+```json
+{
+  "noticias": [
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Novos restaurantes de SP para conhecer já!",
+      "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/04/12/novos-restaurantes-de-sp-para-conhecer-ja.htm",
+      "descricao": "De descolado a 'polêmico', 4 novos restaurantes de SP para conhecer já, que misturam referências asiáticas e brasileiras.",
+      "data": "12/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "De bar 'raiz' a hamburgueria, 6 lugares para conhecer em SP em 2025",
+      "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/01/18/resolucoes-de-2025-os-restaurantes-que-precisamos-conhecer.htm",
+      "descricao": "Explore seis novos lugares autênticos na culinária brasileira que estão se destacando na cidade em 2025.",
+      "data": "18/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Descubra mais de 15 novos restaurantes para visitar em São Paulo",
+      "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/descubra-mais-de-15-novos-restaurantes-para-visitar-em-sao-paulo/",
+      "descricao": "Uma seleção de novos restaurantes em São Paulo que prometem uma experiência gastronômica única.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+      "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+      "descricao": "Novidades em restaurantes e menus que começam o ano em São Paulo, incluindo opções de café da manhã e almoço.",
+      "data": "30/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Hard Rock Cafe terá unidade no litoral de São Paulo",
+      "link": "https://viagemeturismo.abril.com.br/brasil/hard-rock-cafe-tera-unidade-no-litoral-de-sao-paulo/",
+      "descricao": "O restaurante deve ser inaugurado no primeiro semestre de 2025 na Praia Grande, a uma hora da capital.",
+      "data": "21/03/2025",
+      "municipio": "Praia Grande"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Festival celebra peixes e frutos do mar em Ilhabela",
+      "link": "https://guia.folha.uol.com.br/restaurantes/2025/04/festival-gastronomico-celebra-peixes-e-frutos-do-mar-em-ilhabela-ate-18-de-maio.shtml",
+      "descricao": "Festival gastronômico celebra peixes e frutos do mar em Ilhabela até 18 de maio. Folha Sabores da Praia reúne 35 restaurantes, bares, cafeterias.",
+      "data": "2025",
+      "municipio": "Ilhabela"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Rede de restaurantes mundialmente famosa abrirá unidade no litoral de São Paulo",
+      "link": "https://www.gazetasp.com.br/entretenimento/rede-restaurantes-mundialmente-famosa-abrira-unidade-litoral-sao-paulo/1150439/",
+      "descricao": "A cidade de Praia Grande receberá a sétima unidade do Hard Rock Cafe no Brasil, destacando o crescimento econômico do litoral paulista.",
+      "data": "21/03/2025",
+      "municipio": "Praia Grande"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Ocupação hoteleira para o Carnaval chega a 85% no litoral paulista.",
+      "link": "https://www.panrotas.com.br/destinos/eventos/2025/02/ocupacao-hoteleira-para-o-carnaval-chega-a-85-no-litoral-paulista-diz-fhoresp_214726.html",
+      "descricao": "O Carnaval de 2025 deve impulsionar o mercado de trabalho e a gastronomia nas áreas do litoral e interior de São Paulo.",
+      "data": "2025",
+      "municipio": "Interior e Litoral"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Brazil's Top 10 Startups That Tech Professionals Should Watch Out For in 2025",
+      "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+      "descricao": "In 2025, Brazil's startup ecosystem is valued at $117 billion, with São Paulo leading in innovation in sectors like fintech and edtech.",
+      "data": "18/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "1407 Top startups in Sao Paulo for April 2025",
+      "link": "https://www.startupblink.com/top-startups/sao-paulo-br",
+      "descricao": "Explore 1407 top startups, including Gupy, Creditas, and Omiexperience, ranked by investment, employee size, and website traffic.",
+      "data": "01/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Best Tech Companies and Startups in São Paulo, Brazil 2025",
+      "link": "https://wellfound.com/startups/location/sao-paulo",
+      "descricao": "Top tech startups in São Paulo include Amplitude, Signifyd, and Manychat, actively hiring and growing in 2025.",
+      "data": "12/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "69 Best Startups in Sao Paulo to Watch in 2025",
+      "link": "https://www.seedtable.com/startups-sao-paulo",
+      "descricao": "A comprehensive list of 69 startups to keep an eye on in São Paulo, highlighting their innovative approaches.",
+      "data": "15/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "100 top companies and startups in Sao Paulo in April 2025",
+      "link": "https://www.f6s.com/companies/brazil/sao-paulo/lo",
+      "descricao": "Overview of the top 100 companies including Clara and Creditas, showcasing their contributions to São Paulo's ecosystem.",
+      "data": "01/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Estrangeiros aplicam R$ 10,9 BI na bolsa em 2025",
+      "link": "https://quantumfinance.com.br/estrangeiros-fogem-da-bolsa-brasileira-em-2024-veja-historico/",
+      "descricao": "O fluxo de investimento estrangeiro na bolsa brasileira apresenta recuperação, com R$ 10,9 bilhões em 2025. Isso ocorre após um período de fuga de capitais em 2024.",
+      "data": "03/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Saldo de investidores estrangeiros cresce e acumula R$ 7 bilhões em 2025",
+      "link": "https://trademap.com.br/agencia/saldo-de-investidores-estrangeiros-cresce-e-acumula-r-7-bilhoes-em-2025-mesmo-com-desafios-globais",
+      "descricao": "O fluxo de investidores estrangeiros segue positivo na B3, acumulando R$ 7 bilhões em fevereiro de 2025, apesar de desafios globais.",
+      "data": "14/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Investimento estrangeiro cresce e atinge US$ 9,3 bilhões em fevereiro",
+      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/investimento-estrangeiro-cresce-e-atinge-us-93-bilhoes-em-fevereiro/",
+      "descricao": "Os investimentos diretos no Brasil registraram ingresso líquido de US$ 9,3 bilhões em fevereiro, um dos maiores da década, sinalizando recuperação econômica.",
+      "data": "26/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "A assustadora saída de capital estrangeiro da bolsa no Brasil",
+      "link": "https://veja.abril.com.br/coluna/radar-economico/a-assustadora-saida-de-capital-estrangeiro-da-bolsa-no-brasil/",
+      "descricao": "Os investidores estrangeiros sacaram 10 bilhões de reais da bolsa em abril, um acirramento em uma guerra comercial sob a administração de Donald Trump.",
+      "data": "17/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura em 2025",
+      "link": "https://www.investe.sp.gov.br/noticia/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+      "descricao": "O Governo de São Paulo prevê novos investimentos para 2025, com R$ 50 bilhões em leilões, expansão da rede de saúde e melhorias em rodovias.",
+      "data": "13/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "SP pra Toda Obra: Governo vai pavimentar rodovia em São Bento do Sapucaí",
+      "link": "https://semil.sp.gov.br/2025/04/sp-pra-toda-obra-governo-de-sp-assina-ordem-de-servico-para-pavimentacao-da-jose-theotonio-silva-em-sao-bento-do-sapucai/",
+      "descricao": "Governo de SP assina ordem de serviço para pavimentação, com investimento de aproximadamente R$ 37 milhões, beneficiando cerca de 11.5 mil habitantes.",
+      "data": "17/04/2025",
+      "municipio": "São Bento do Sapucaí"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Governo de São Paulo investe R$ 238 milhões em projetos de infraestrutura e mobilidade",
+      "link": "https://sp.gov.br/sp/canais-comunicacao/noticias/governo+de+sao+paulo+investe+rs+238+milhoes+em+projetos+de+infraestrutura+e+mobilidade+nos+municipios",
+      "descricao": "Governo de São Paulo investe R$ 238 milhões em projetos de infraestrutura e mobilidade nos municípios, visando melhorias locais.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Estado de São Paulo investirá quase R$ 34 bi em infraestrutura em 2025",
+      "link": "https://www.bnamericas.com/pt/feature/estado-de-sao-paulo-investira-quase-r-34-bi-em-infraestrutura-em-2025",
+      "descricao": "O Governo de São Paulo planeja investir um recorde de R$ 33,5 bilhões em infraestrutura, incluindo obras hidráulicas.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "World Bank and Brazil announce major US$1 billion initiative to enhance productivity, sustainability, and social inclusion",
+      "link": "http://www.worldbank.org/en/news/press-release/2025/03/18/world-bank-and-brazil-announce-1-billion-initiative-to-enhance-productivity-sustainability-social-inclusion",
+      "descricao": "The World Bank Board of Directors approved a major US$1 billion project to support Brazil's efforts to improve tax and financial stability, with significant investments in sustainability.",
+      "data": "18/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "PRI in Person 2025 - Principles for Responsible Investment",
+      "link": "https://www.unpri.org/news-and-events/upcoming-events/pri-in-person-2025",
+      "descricao": "The 2025 conference will be held in São Paulo, bringing industry leaders together to discuss responsible investment practices.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "World Bank Supports São Paulo's Metro Expansion",
+      "link": "http://www.worldbank.org/en/news/press-release/2025/03/18/world-bank-supports-sao-paulo-metro-expansion",
+      "descricao": "The World Bank has approved a $250 million project to support the expansion of São Paulo's Metro Line 2 – Green, enhancing public transport sustainability.",
+      "data": "18/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "Brazil's Federal Government launches BRL 150 million public call for restoration of indigenous lands",
+      "link": "https://www.gov.br/planalto/en/latest-news/2025/04/brazil2019s-federal-government-launches-brl-150-million-public-call-for-restoration-of-indigenous-lands",
+      "descricao": "Largest Indigenous land reforestation project in Brazil's history aims to bolster environmental sustainability.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "IFC invests $150 million in BV bank to expand solar solutions financing in Brazil",
+      "link": "https://www.ifc.org/en/pressroom/2025/ifc-invests-150-million-in-bv-bank-to-expand-solar-solutions-financing-in-brazil",
+      "descricao": "IFC is investing in BV bank to support financing of small-scale solar panels, promoting renewable energy solutions.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    }
+  ],
+  "total_artigos": 42
+}
+```

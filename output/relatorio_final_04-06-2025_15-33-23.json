@@ -1,0 +1,98 @@
+[
+    {
+        "categoria": "Energia",
+        "titulo": "Isa Energia investe R$ 306 milhões na modernização da rede de transmissão em SP",
+        "link": "https://www.canalenergia.com.br/noticias/53312724/isa-energia-investe-r-306-milhoes-na-modernizacao-da-rede-de-transmissao-em-sp",
+        "descricao_detalhada": "A Isa Energia investiu R$ 306 milhões no primeiro trimestre de 2025 para a modernização do parque instalado no Estado de São Paulo, um volume 26% superior ao ano anterior.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 306000000,
+        "fonte_financiamento": "Isa Energia",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Com R$ 44,5 mi, BNDES apoia expansão e modernização do Grupo Terraverde",
+        "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Com-R$-445-mi-BNDES-apoia-expansao-e-modernizacao-do-Grupo-Terraverde/",
+        "descricao_detalhada": "O BNDES aprovou R$ 44,5 milhões para apoiar a expansão e modernização da fábrica do Grupo Terraverde em São Paulo, atendendo a crescente demanda por máquinas para os setores agrícola e de construção.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Expansão e Modernização",
+        "valor_estimado": 44500000,
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência de Notícias BNDES"
+    },
+    {
+        "categoria": "Transporte",
+        "titulo": "Com apoio do BNDES, Itapevi (SP) ganha nova estação de trens metropolitanos",
+        "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Com-apoio-do-BNDES-Itapevi-SP-ganha-nova-estacao-de-trens-metropolitanos/",
+        "descricao_detalhada": "Itapevi inaugura nova estação de trens metropolitanos, parte das comemorações dos 66 anos do município, com apoio do BNDES no fortalecimento da infraestrutura urbana em São Paulo.",
+        "data": "2025",
+        "municipio": "Itapevi",
+        "tipo_investimento": "Infraestrutura",
+        "valor_estimado": null,
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência de Notícias BNDES"
+    },
+    {
+        "categoria": "Transporte",
+        "titulo": "Trem ligará São Paulo à Baixada Santista e ao resto do litoral paulista",
+        "link": "https://www.atribuna.com.br/cidades/trem-ligara-s-o-paulo-a-baixada-santista-e-ao-resto-do-litoral-paulista-e-atendera-nove-cidades-saiba-tudo-do-projeto-1.463787",
+        "descricao_detalhada": "Novos estudos de viabilidade para o Trem Intercidades (TIC) – Eixo Sul foram anunciados, visando interligar a capital ao litoral, com investimentos substanciais para infraestrutura.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Estudo de Viabilidade",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Produção industrial tem alta de 0,1% de março para abril",
+        "link": "https://www.diariodaregiao.com.br/agencia/produc-o-industrial-tem-alta-de-0-1-de-marco-para-abril-1.2067218",
+        "descricao_detalhada": "A produção industrial de São Paulo subiu, destacando investimentos no setor, como parte das estratégias prolíficas da Federação das Indústrias do Estado de São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Investimentos no Setor",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "Diário da Região"
+    },
+    {
+        "categoria": "Transporte",
+        "titulo": "Linha 20 tem edital de licitação previsto para 1º trimestre de 2026",
+        "link": "https://www.dgabc.com.br/Noticia/4234362/linha-20-tem-edital-de-licitacao-previsto-para-1-trimestre-de-2026",
+        "descricao_detalhada": "A Linha 20 de metrô em São Paulo terá seu edital de licitação publicado no ano que vem, refletindo no planejamento e investimento visando o aumento da capacidade de transporte na região.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Licitação",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "DGABC"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "MME enquadra mais de R$ 676 mi em reforço na transmissão junto ao Reidi",
+        "link": "https://www.canalenergia.com.br/noticias/53310280/mme-enquadra-mais-de-r-676-mi-em-reforco-na-transmissao-junto-ao-reidi",
+        "descricao_detalhada": "O Ministério de Minas e Energia destaca a inclusão de R$ 676 milhões a projetos de infraestrutura elétrica no Estado de São Paulo, contribuindo para a modernização da rede.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Infraestrutura Elétrica",
+        "valor_estimado": 676000000,
+        "fonte_financiamento": "Ministério de Minas e Energia",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Construção",
+        "titulo": "CBIC participa de seminário sobre o futuro dos Fundos de Investimento",
+        "link": "https://cbic.org.br/cbic-participa-de-seminario-sobre-o-futuro-dos-fundos-de-investimento-apos-veto-presidencial/",
+        "descricao_detalhada": "A CBIC promoveu um seminário que abordou a situação atual dos fundos de investimento na construção civil, engajando diversos stakeholders de São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Seminário",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "CBIC"
+    }
+]

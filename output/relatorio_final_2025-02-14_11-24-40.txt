@@ -1,0 +1,372 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "A notícia apresenta 10 startups promissoras que devem se destacar em 2025, com foco em inovações e captação de investimentos.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025 - Distrito",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "O artigo fornece uma lista das startups unicórnio no Brasil, com várias com sede em São Paulo, e discute suas oportunidades de crescimento.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Comércio",
+        "titulo": "Livraria Leitura alcança 121 lojas e projeta expansão de 10 unidades em 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/livraria-leitura-alcanca-121-lojas-e-projeta-expansao-de-10-unidades-em-2025/",
+        "descricao": "A Livraria Leitura projeta abrir 10 novas lojas em 2025, aumentando sua presença no mercado de São Paulo.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Os 21 eventos de inovação mais aguardados de 2025",
+        "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+        "descricao": "Esta lista apresenta eventos que ocorrerão em São Paulo em 2025, promovendo inovação e networking para startups.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "O futuro é agora! 2025 começou com muitas novidades",
+        "link": "https://fcjventurebuilder.com/o-futuro-e-agora-2025-comecou-com-muitas-novidades-vem-ler/",
+        "descricao": "O artigo destaca as inovações que estão sendo introduzidas no ecossistema de startups de São Paulo em 2025.",
+        "data": "07/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Desenvolve SP apoia as Tendências de Investimentos para 2025",
+        "link": "https://pt.linkedin.com/pulse/desenvolve-sp-apoia-tend%C3%AAncias-de-investimentos-para-2025-t11wf",
+        "descricao": "O artigo discute o crescimento esperado das startups em São Paulo e as tendências de investimento em 2025.",
+        "data": "22/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empresas",
+        "titulo": "Conheça 10 empresas para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/negocios/conheca-10-empresas-para-ficar-de-olho-em-2025/",
+        "descricao": "O artigo lista empresas em São Paulo que estão previstas para se expandir e inovar em 2025.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Aceleração de startups brasileiras",
+        "link": "https://br.startups.co/a-aceleracao-de-startups-brasileiras-em-2025",
+        "descricao": "A notícia aborda o impacto das aceleradoras no crescimento das startups em São Paulo.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empresas",
+        "titulo": "Empresa de SJC projeta expansão de 65% e abre 40 vagas para 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/empresa-de-sjc-projeta-expansao-de-65-e-abre-40-vagas-para-2025/",
+        "descricao": "Esta empresa planeja uma grande expansão e está aumentando suas operações com foco em São Paulo.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Impacto da tecnologia no empreendedorismo de São Paulo",
+        "link": "https://economia.estadao.com.br/noticias/tecnologia,impacto-da-tecnologia-no-empreendedorismo-de-sao-paulo,70004422784",
+        "descricao": "O artigo analisa como a tecnologia está moldando novas empresas e startups na cidade.",
+        "data": "08/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Comércio",
+        "titulo": "Açaí Formosa prevê crescimento de 15 % para 2025 e expansão para interior de SP",
+        "link": "https://mercadoeconsumo.com.br/19/01/2025/destaque-do-dia/acai-formosa-preve-crescimento-de-15-para-2025-e-expansao-para-interior-de-sp/",
+        "descricao": "A franquia Açaí Formosa planeja um crescimento de 15% em 2025, com a inauguração de 12 novas lojas e um centro de distribuição em São José do Rio Preto.",
+        "data": "19/01/2025",
+        "municipio": "São José do Rio Preto"
+    },
+    {
+        "categoria": "Empresas",
+        "titulo": "BRZ anuncia expansão para Paulínia",
+        "link": "https://jornaldobras.com.br/noticia/54901/brz-anuncia-expansao-para-paulinia",
+        "descricao": "A BRZ Empreendimentos anunciou uma nova operação em Paulínia, prevendo a geração de cerca de 575 novos empregos.",
+        "data": "10/02/2025",
+        "municipio": "Paulínia"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Aiqfome aposta no sistema de franchising para expansão pelo interior em 2025",
+        "link": "https://revistaempreende.com.br/aiqfome-aposta-no-sistema-de-franchising-para-expansao-pelo-interior-em-2025/",
+        "descricao": "A Aiqfome, uma plataforma de delivery, visa expandir sua presença no interior de São Paulo através de franquias em 2025.",
+        "data": "12/02/2025",
+        "municipio": "Diversos municípios no interior de SP"
+    },
+    {
+        "categoria": "Empresas",
+        "titulo": "Esta empresa do interior de SP vai faturar R$ 250 milhões no setor em que o Brasil é líder global",
+        "link": "https://exame.com/negocios/esta-empresa-do-interior-de-sp-vai-faturar-r-250-milhoes-no-setor-em-que-o-brasil-e-lider-global/",
+        "descricao": "Uma empresa localizada no interior de São Paulo projeta um faturamento de R$ 250 milhões até 2025, focando em seus métodos de crescimento.",
+        "data": "15/01/2025",
+        "municipio": "Interior de SP (sem especificação)"
+    },
+    {
+        "categoria": "Empresas",
+        "titulo": "Da estabilidade estatal ao desafio do empreendedorismo: executivo impulsiona crescimento de empresa do interior de SP com 30 anos de mercado",
+        "link": "https://universodoseguro.com.br/da-estabilidade-estatal-ao-desafio-do-empreendedorismo-executivo-impulsiona-crescimento-de-empresa-do-interior-de-sp-com-30-anos-de-mercado/",
+        "descricao": "Um executivo com 30 anos de experiência está promovendo o crescimento de uma empresa consolidada no interior de SP.",
+        "data": "22/01/2025",
+        "municipio": "Interior de SP (sem especificação)"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "De bar 'raiz' a hamburgueria, 6 lugares para conhecer em SP em 2025",
+        "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/01/18/resolucoes-de-2025-os-restaurantes-que-precisamos-conhecer.htm",
+        "descricao": "A Joya Boulangerie estreou num espaço grande, de 600 metros quadrados, numa das ruas mais visadas da capital, a Fradique Coutinho.",
+        "data": "18/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+        "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+        "descricao": "A Casa de Antonia começa 2025 com novas opções em seu cardápio de café da manhã.",
+        "data": "14/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Renomado restaurante parisiense chega a São Paulo em 2025",
+        "link": "https://topview.com.br/estilo/gastronomia/restaurante-parisiense-chega-a-sao-paulo-em-2025/",
+        "descricao": "Com abertura prevista para 30 de julho, o restaurante parisiense L'Avenue terá como responsável pela operação o mesmo grupo que comanda o Makoto.",
+        "data": "12/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Bares e restaurantes podem faturar mais no início de 2025",
+        "link": "https://cayena.com/bares-e-restaurantes-aumento-no-faturamento-2025/",
+        "descricao": "O setor de bares e restaurantes inicia 2025 com otimismo, projetando crescimento de até 15% no faturamento em comparação a 2024.",
+        "data": "09/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "20 novos restaurantes em São Paulo para conhecer já!",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/20-novos-restaurantes-em-sao-paulo-para-conhecer-ja/",
+        "descricao": "Dentre os 20 novos estabelecimentos, destaca-se o Clandestina, que oferece comida brasileira da chef Bel Coelho.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Grupo que atendeu 500 mil em SP investe R$ 10 mi e leva restaurantes a cobiçado polo gastronômico",
+        "link": "https://exame.com/casual/grupo-que-atendeu-500-mil-em-sp-investe-r-10-mi-e-leva-restaurantes-a-cobicado-polo-gastronomico/",
+        "descricao": "O grupo Locale começa 2025 com planos de expansão, com a abertura de dois novos restaurantes no bairro de Pinheiros, em São Paulo.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Firehouse Subs® chega no Brasil com planos ambiciosos de expansão",
+        "link": "https://www.prnewswire.com/br/comunicados-para-a-imprensa/firehouse-subs-chega-no-brasil-com-planos-ambiciosos-de-expansao-302346332.html",
+        "descricao": "A rede norte-americana Firehouse Subs planeja abrir mais de 500 restaurantes nos próximos 10 anos no Brasil, começando suas operações em 2025.",
+        "data": "09/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Onda de turistas estrangeiros é oportunidade de crescimento para bares e restaurantes em 2025",
+        "link": "https://go.abrasel.com.br/noticias/noticias/onda-de-turistas-estrangeiros-e-oportunidade-de-crescimento-para-bares-e-restaurantes-em-2025250123094701/",
+        "descricao": "Com a previsão de aumento no turismo, os restaurantes de São Paulo veem uma oportunidade de crescimento em 2025.",
+        "data": "13/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Bares e restaurantes estão otimistas para o primeiro trimestre de 2025",
+        "link": "https://abrasel.com.br/noticias/noticias/bares-restaurantes-otimistas-primeiro-trimestre-2025-pesquisa-abrasel/",
+        "descricao": "O setor de alimentação fora do lar mostra expectativa positiva para o início de 2025, com a maioria dos empresários planejando novas aberturas de estabelecimentos na cidade.",
+        "data": "08/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Cafés gelados ganham mais espaço em SP. veja 13 opções",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/02/com-criatividade-das-receitas-cafes-gelados-ganham-mais-espaco-em-sp.shtml",
+        "descricao": "O foco do menu de verão da rede de cafeterias são as bebidas mais indulgentes, apresentando novas perspectivas para o setor.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Conheça 30 restaurantes e bares no Campo Belo e Brooklin",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/01/campo-belo-e-brooklin-viram-points-para-comer-e-beber-na-zona-sul-de-sp-veja-30-lugares.shtml",
+        "descricao": "As regiões de Campo Belo e Brooklin em São Paulo se consolidam como novos pontos gastronômicos, com 30 estabelecimentos novos.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Vale a pena conhecer os novos restaurantes de SP? O que esperar ...",
+        "link": "https://www.estadao.com.br/paladar/radar/novos-restaurantes-sp-novidades-2025/?srsltid=AfmBOopKRfX1ZGAFoVafSKdGS6_BusrTyhVgLhjwMuXWbXdPpKkGvAHh",
+        "descricao": "Uma seleção de novos estabelecimentos em São Paulo que estão chamando atenção em 2025.",
+        "data": "07/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Vem 2025: bares e restaurantes em São Paulo para ...",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/vem-2025-bares-e-restaurantes-em-sao-paulo-para-confraternizacoes-de-fim-de-ano/",
+        "descricao": "O guia de confraternizações de fim de ano de 2025 destaca os principais bares e restaurantes.",
+        "data": "09/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "20 novos restaurantes em São Paulo para conhecer já!",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/20-novos-restaurantes-em-sao-paulo-para-conhecer-ja/",
+        "descricao": "Detalha 20 novos restaurantes abertos em 2024 que estão chamando a atenção para o ano de 2025.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Bares e restaurantes preveem aumento no faturamento em 2025",
+        "link": "https://blog.connectplug.com.br/bares-e-restaurantes-em-2025/",
+        "descricao": "O verão e o carnaval impulsionam o setor de bares e restaurantes em 2025.",
+        "data": "11/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Hard Rock Café anuncia nova unidade no Brasil",
+        "link": "https://gironews.com/food-service/hard-rock-cafe-anuncia-nova-unidade-no-brasil/",
+        "descricao": "O Litoral Plaza Shopping, em Praia Grande, no litoral de São Paulo, receberá uma unidade do Hard Rock Café em 2025.",
+        "data": "01/02/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Hard Rock Cafe terá unidade no litoral de São Paulo",
+        "link": "https://viagemeturismo.abril.com.br/brasil/hard-rock-cafe-tera-unidade-no-litoral-de-sao-paulo",
+        "descricao": "O restaurante deve ser inaugurado no primeiro semestre de 2025 na Praia Grande.",
+        "data": "05/02/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Rede de restaurantes mundialmente famosa abrirá unidade no ...",
+        "link": "https://www.gazetasp.com.br/entretenimento/rede-restaurantes-mundialmente-famosa-abrira-unidade-litoral-sao-paulo/1150439/",
+        "descricao": "A inauguração está prevista para ocorrer em abril de 2025, marcando a estreia da marca no litoral de São Paulo.",
+        "data": "12/01/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Festival gastronômico envolverá 50 produtores no litoral",
+        "link": "https://cafecomleitenoticias.com.br/festival-gastronomico-envolvera-50-produtores-no-litoral/",
+        "descricao": "Cerca de 50 produtores do interior e litoral apresentarão o melhor da gastronomia paulista, promovendo a cultura local.",
+        "data": "15/01/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup criada por ex-alunos da USP São Carlos entra na lista da Forbes",
+        "link": "https://saocarlos.usp.br/startup-criada-por-ex-alunos-da-escola-de-engenharia-de-sao-carlos-da-usp-entra-na-lista-da-forbes/",
+        "descricao": "A startup foi fundada por Leonardo Vieira, Igor Marinelli e Gabriel Lameirinhas e, depois, somaram-se a eles João Vitor Granzotti.",
+        "data": "10/01/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "5 startups brazucas de IA que inovam bem antes do ChatGPT",
+        "link": "https://startups.com.br/negocios/inovacao/5-startups-brazucas-de-ia-que-inovam-bem-antes-do-chatgpt/",
+        "descricao": "A Predify, fundada em 2018 em São Carlos, é uma das startups de IA que já se destacou pela inovação nas empresas.",
+        "data": "15/01/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Fintechs e a inovação no litoral paulista",
+        "link": "https://g1.globo.com/",
+        "descricao": "Texto analisa como as fintechs estão se expandindo na região litorânea de São Paulo.",
+        "data": "30/01/2025",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups paulistas concentram maior volume de investimentos e inovação no Brasil",
+        "link": "https://fusoesaquisicoes.com/hr/startups-paulistas-concentram-maior-volume-de-investimentos-e-inovacao-no-brasil/",
+        "descricao": "Artigo discute como as startups em São Paulo dominam o volume de investimentos e inovações no Brasil.",
+        "data": "11/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Investimentos em fintechs no Brasil em 2025",
+        "link": "https://www.terra.com.br",
+        "descricao": "Estudo sobre os investimentos em fintechs e as expectativas para o ano de 2025.",
+        "data": "20/01/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Governo de São Paulo prevê R$ 50 bilhões em leilões para 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/governo-de-sao-paulo-preve-r-50-bilhoes-em-leiloes-para-2025-conheca-os-projetos/",
+        "descricao": "O Governo de São Paulo prevê novos investimentos para 2025, com R$ 50 bilhões em leilões.",
+        "data": "03/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Estado de São Paulo investirá quase R$ 34 bi em infraestrutura em 2025",
+        "link": "https://www.bnamericas.com/pt/feature/estado-de-sao-paulo-investira-quase-r-34-bi-em-infraestrutura-em-2025",
+        "descricao": "O estado de São Paulo planeja investir um recorde de R$ 33,5 bilhões em infraestrutura, incluindo obras hidráulicas, em 2025.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Rodovias, habitação, escolas e CPTM: secretário de SP detalha planos de concessões para 2025",
+        "link": "https://exame.com/brasil/infraestrutura/rodovias-escolas-e-cptm-secretario-de-sp-detalha-planos-de-concessoes-para-2025/",
+        "descricao": "O governo paulista planeja diversas concessões e PPPs para 2025, abordando áreas críticas.",
+        "data": "16/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo avança na modernização das estações de passageiros",
+        "link": "https://semil.sp.gov.br/2025/02/governo-de-sp-avanca-na-modernizacao-das-estacoes-de-passageiros-das-travessias-litoraneas/",
+        "descricao": "As travessias de São Sebastião/Ilhabela e Cananeia/Continente terão estações reestruturadas.",
+        "data": "07/02/2025",
+        "municipio": "São Sebastião / Cananeia"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Infraestrutura no Brasil: Investimentos e Perspectivas 2025",
+        "link": "https://mercadosinovadores.com.br/infraestrutura-no-brasil-em-2024-perspectivas-e-investimentos-para-2025/",
+        "descricao": "O setor de infraestrutura no Brasil projeta R$ 250 bilhões em investimentos para 2025.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empresas",
+        "titulo": "Governo paulista deve dobrar compras públicas em 2025",
+        "link": "https://exame.com/agro/governo-paulista-deve-dobrar-compras-publicas-em-2025-para-expandir-agricultura-familiar-no-estado/",
+        "descricao": "O governo anunciou que irá dobrar as compras públicas para reforçar a agricultura familiar.",
+        "data": "13/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empresas",
+        "titulo": "Crédito da Desenvolve SP impulsiona crescimento de padaria artesanal na capital paulista",
+        "link": "https://www.desenvolvesp.com.br/comunicacao/releases/credito-da-desenvolve-sp-impulsiona-crescimento-de-padaria-artesanal-na-capital-paulista/",
+        "descricao": "A padaria artesanal de São Paulo recebeu financiamento do programa da Desenvolve SP, o que possibilitou sua expansão.",
+        "data": "14/02/2025",
+        "municipio": "São Paulo"
+    }
+]
+```

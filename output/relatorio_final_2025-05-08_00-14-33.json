@@ -1,0 +1,242 @@
+[
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Conheça sete novos endereços que marcaram a cena gastronômica de SP em 2023",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2023/12/conheca-sete-novos-enderecos-que-marcaram-a-cena-gastronomica-de-sp-em-2023.shtml",
+        "descricao": "O ano de 2023 foi marcado por grandes novidades na cena gastronômica de São Paulo. O restaurante tailandês Ping Yang é um dos exemplos notáveis, além do bar Domo e outros como o Caracol na Barra Funda.",
+        "data": "29/12/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Redes de restaurantes voltam a expandir, após pandemia",
+        "link": "https://www.exmpartners.com.br/publicacoes/noticias/redes-de-restaurantes-voltam-a-expandir-apos-pandemia",
+        "descricao": "Investimentos da ordem de R$ 140 milhões resultam em cerca de 80 novas unidades, com destaque para Chips e Companhia Tradicional do Comércio que abrirão novas lojas na capital paulista.",
+        "data": "25/04/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Shopping Iguatemi terá teatro, rooftop e novos restaurantes no aniversário de 60 anos",
+        "link": "https://istoedinheiro.com.br/shopping-iguatemi-tera-teatro-rooftop-e-novas-lojas-em-2026/",
+        "descricao": "O Iguatemi São Paulo passará por uma remodelação que inclui um novo teatro e rooftop com novos restaurantes, com a entrega das novidades programada para 2026.",
+        "data": "20/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "FindUP recebe novo aporte e projeta expansão",
+        "link": "https://startupi.com.br/findup-recebe-novo-aporte-e-projeta-expansao/",
+        "descricao": "Com sede em São Paulo e origem em Recife, a companhia pretende atingir um crescimento de 80% em receita no próximo ano, apoiada na automação.",
+        "data": "29/01/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup polonesa capta R$ 25 milhões para expandir operações no Brasil",
+        "link": "https://revistapegn.globo.com/startups/noticia/2024/01/startup-polonesa-capta-r-25-milhoes-para-expandir-operacoes-no-brasil.ghtml",
+        "descricao": "A startup polonesa de CRM edrone anunciou nesta segunda-feira (29/1) a captação de um aporte de R$ 25 milhões com fundos de venture capital para expandir suas operações no Brasil, com foco em São Paulo.",
+        "data": "29/01/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "CredAluga capta R$ 22M para ampliar seus produtos financeiros",
+        "link": "https://startups.com.br/negocios/fintech/credaluga-capta-r-22m-para-ampliar-seus-produtos-financeiros/",
+        "descricao": "Com planos de expansão nacional, a CredAluga prevê superar os R$ 400 milhões de receita e alcançar um market share de 15% até o fim de 2029, com grande foco na capital paulista.",
+        "data": "30/01/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Av. Rebouças: o novo polo de startups em São Paulo",
+        "link": "https://distrito.me/blog/av-reboucas-o-novo-polo-de-startups-em-sao-paulo/",
+        "descricao": "Descubra as startups em São Paulo que impulsionam a Avenida Rebouças como polo de inovação no mapeamento exclusivo do Distrito.",
+        "data": "15/01/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups focam em crescimento regional para expandir atuações",
+        "link": "https://startupi.com.br/startups-focam-em-crescimento-regional-para-expandir-atuacoes/",
+        "descricao": "Startups estão expandindo suas operações por regiões paulistas, com um destaque para a Mecanizou, que conecta oficinas mecânicas e revendedores.",
+        "data": "08/01/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Vivo encerra 2024 com R$ 130 milhões em negócios realizados com startups",
+        "link": "https://br.wayra.com/blog-posts/vivo-encerra-2024-com-r-130-milhoes-em-negocios-realizados-com-startups",
+        "descricao": "A Vivo celebrou a conclusão de 2024 com investimentos substanciais em startups, destacando a continuidade de novos negócios e parcerias na capital.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup de logística do interior paulista alcança R$ 30 milhões em 2 anos",
+        "link": "https://exame.com/negocios/esta-empresa-do-interior-paulista-saiu-do-zero-para-os-r-30-milhoes-em-so-dois-anos/",
+        "descricao": "A Logik, fundada em Itupeva, teve um crescimento de 677% em receita líquida, atingindo quase R$ 30 milhões em 2023 e se destaca oferecendo soluções logísticas modulares.",
+        "data": "02/04/2025",
+        "municipio": "Itupeva"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Essas são as cidades de São Paulo com maior número de Startups",
+        "link": "https://www.correiobraziliense.com.br/cbradar/essas-sao-as-cidades-de-sao-paulo-com-maior-numero-de-startups/",
+        "descricao": "O Sebrae Startups Report 2024 destaca as cidades mais inovadoras de São Paulo, como Campinas e Ribeirão Preto, que abrigam milhares de startups e promovem iniciativas do governo para o crescimento.",
+        "data": "18/02/2025",
+        "municipio": "Várias cidades"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Litoral e interior estão na mira de startup de orgânicos",
+        "link": "https://www.agroplanning.com.br/2021/02/16/litoral-e-interior-estao-na-mira-de-startup-de-organicos/",
+        "descricao": "A startup Raízs expande sua operação para cidades do interior e litoral paulista, oferecendo alimentos orgânicos e visando um crescimento contínuo após a pandemia.",
+        "data": "16/02/2021",
+        "municipio": "Várias cidades"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Túnel Santos-Guarujá é destaque na Europa e reforça interesse de grupos estrangeiros na infraestrutura brasileira",
+        "link": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2025/04/tunel-santos-guaruja-e-destaque-na-europa-e-reforca-interesse-de-grupos-estrangeiros-na-infraestrutura-brasileira",
+        "descricao": "O túnel Santos-Guarujá, a maior obra do Novo PAC, atrai interesse de empresas europeias com experiência em infraestrutura logística. O ministro de Portos e Aeroportos e o governador de São Paulo apresentaram o projeto a investidores internacionais em busca de aporte.",
+        "data": "22/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Hotelaria",
+        "titulo": "Boom do turismo brasileiro impulsiona expansão hoteleira e atrai investidores globais",
+        "link": "https://www.mercadoeeventos.com.br/noticias/hotelaria/boom-do-turismo-brasileiro-impulsiona-expansao-hoteleira-e-attra-investidores-globais/",
+        "descricao": "O crescimento contínuo do turismo no Brasil está atraindo novos grupos hoteleiros internacionais, com negociações em andamento para ampliar a presença no país e em São Paulo.",
+        "data": "21/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Educação",
+        "titulo": "Grupos estrangeiros compram escolas de elite de SP",
+        "link": "https://www1.folha.uol.com.br/educacao/2024/09/estrangeiros-compram-escolas-de-elite-de-sp-com-a-promessa-de-preservar-suas-identidades.shtml",
+        "descricao": "Empresas internacionais estão adquirindo escolas de elite em São Paulo, prometendo manter suas características e identidades enquanto expandem suas operações no Brasil.",
+        "data": "24/09/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Turismo",
+        "titulo": "Investimentos estrangeiros no turismo brasileiro crescem 231% em 2024",
+        "link": "https://aracatuba.sp.gov.br/turismo/noticias/investimentos-estrangeiros-no-turismo-brasileiro-crescem-231-em-2024",
+        "descricao": "Os investimentos estrangeiros no setor de turismo no Brasil estão crescendo significativamente, impulsionando a chegada de novos operadores e grupos no mercado paulista.",
+        "data": "10/01/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Rede Unishop fecha 2024 com crescimento recorde e planeja expansão internacional em 2025",
+        "link": "https://economiasa.com.br/blog/rede-unishop-fecha-2024-com-crescimento-recorde-e-planeja-expansao-internacional-em-2025/",
+        "descricao": "A Unishop, rede de varejo de produtos de limpeza, encerrou 2024 com mais de 470 parceiros e previsão de R$200 milhões em receita total, enquanto expandiu para 45 lojas no litoral paulista.",
+        "data": "17/01/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Unilever investe R$265 milhões em expansão de fábrica de desodorantes",
+        "link": "https://www.investe.sp.gov.br/noticia/unilever-invste-r-265-milhoes-em-expansao-de-fabrica-de-desodorantes/",
+        "descricao": "Anunciou a ampliação da unidade de Aguaí, interior de SP, com a quarta linha de produção, aumentando a capacidade em mais de 30%, respondendo à crescente demanda pelo mercado de desodorantes.",
+        "data": "18/03/2025",
+        "municipio": "Aguaí"
+    },
+    {
+        "categoria": "Shopping",
+        "titulo": "De Hard Rock a novo shopping em Santos: os planos do Grupo Peralta para o litoral de SP",
+        "link": "https://exame.com/negocios/de-hard-rock-a-novo-shopping-em-santos-os-planos-do-grupo-peralta-para-o-litoral-de-sp/",
+        "descricao": "Com previsão de início das obras em 2025, o novo shopping ocupará 90 mil m² e incluirá a primeira unidade do Hard Rock Cafe no litoral paulista, promovendo um novo modelo de 'shopping lifestyle'.",
+        "data": "17/12/2024",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Abertura de vagas em PMEs cresceu 43% em 2024",
+        "link": "https://www.cartacapital.com.br/do-micro-ao-macro/abertura-de-vagas-em-pmes-cresceu-43-em-2024/",
+        "descricao": "Levantamento mostra que as pequenas e médias empresas tiveram um aumento significativo nas contratações no ano de 2024, refletindo o dinamismo do mercado.",
+        "data": "21/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "A Farma Conde, com 500 unidades próprias em São Paulo e Minas ...",
+        "link": "https://m.facebook.com/story.php?story_fbid=1148892737237636&id=100063507613101",
+        "descricao": "A Farma Conde anunciou planos ambiciosos para 2025: a abertura de 250 novas unidades, incluindo várias no litoral paulista.",
+        "data": "10/03/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Concessão prevê investimento de R$ 660 milhões e ampliação do ...",
+        "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2024/10/02/privatizacao-preve-investimento-de-r-660-milhoes-e-ampliacao-do-porto-de-sao-sebastiao-no-litoral-norte-de-sp.ghtml",
+        "descricao": "O Porto de São Sebastião, no litoral paulista, deve ser ampliado com um investimento de R$ 660 milhões, trazendo novas oportunidades para PMEs da região.",
+        "data": "02/10/2024",
+        "municipio": "São Sebastião"
+    },
+    {
+        "categoria": "Logística",
+        "titulo": "Amazon busca parcerias com 1,9 mil PMEs para expandir logística",
+        "link": "https://www.poder360.com.br/poder-empreendedor/amazon-busca-parcerias-com-19-mil-pmes-para-expandir-logistica/",
+        "descricao": "A Amazon anunciou a expansão de seu programa logístico no Brasil, procurando 1,9 mil novos parceiros PMEs para acelerar entregas em várias regiões.",
+        "data": "18/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Educação",
+        "titulo": "Estrangeiros compram escolas de elite de SP",
+        "link": "https://www1.folha.uol.com.br/educacao/2024/09/estrangeiros-compram-escolas-de-elite-de-sp-com-a-promessa-de-preservar-suas-identidades.shtml",
+        "descricao": "A compra da Escola Móbile pelo grupo Nord Anglia é um indicativo do crescimento no setor educacional, focando na manutenção da identidade educacional que atrai investidores.",
+        "data": "23/09/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP Nos Trilhos reúne mais de 40 projetos e mais de R$ 190 bilhões em investimentos",
+        "link": "https://www.ppi.sp.gov.br/sp-nos-trilhos-reune-mais-de-40-projetos-e-mais-de-r-190-bilhoes-em-investimentos/",
+        "descricao": "Programa lançado pelo governo paulista visa expandir o transporte ferroviário, com mais de 40 projetos e investimentos estimados em R$ 194 bilhões, abrangendo 1 mil km em todo o estado.",
+        "data": "2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Primeiro túnel imerso do Brasil: veja como será a construção da ligação Santos e Guarujá",
+        "link": "https://www.investe.sp.gov.br/noticia/primeiro-tunel-imerso-do-brasil-veja-como-sera-a-construcao-da-ligacao-santos-e-guaruja/",
+        "descricao": "O projeto de construção de um túnel imerso entre Santos e Guarujá será realizado por meio de parceria público-privada, com investimento estimado em R$ 6 bilhões.",
+        "data": "2024",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Maior usina solar de São Paulo é instalada em Sorocaba",
+        "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/maior-usina-solar-de-sao-paulo-e-instalada-em-sorocaba/",
+        "descricao": "A nova usina solar de Sorocaba é a maior do estado, com estrutura ocupando 53 mil metros quadrados, reforçando a busca por energias renováveis na região.",
+        "data": "2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Transporte",
+        "titulo": "Gestran expande operações para São Paulo com expectativas de crescimento de 20%",
+        "link": "https://www.tecnologistica.com.br/noticias/mercado/18385/gestran-expande-operacoes-para-sao-paulo-com-expectativas-de-crescimento-de-20/",
+        "descricao": "A empresa de gestão de frotas de Curitiba expande suas operações em São Paulo com planos robustos de crescimento, focando em interior e litoral.",
+        "data": "2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "ESG em ação: Desenvolve SP alavanca sustentabilidade com mais de 230 milhões em financiamentos",
+        "link": "https://www.desenvolvesp.com.br/comunicacao/noticias/esg-em-acao-desenvolve-sp-alavanca-sustentabilidade-com-mais-de-230-milhoes-em-financiamentos/",
+        "descricao": "Empresas como a Eureciclo, financiadas pela Desenvolve SP, exemplificam como o crédito sustentável está ampliando os resultados das práticas ESG no estado.",
+        "data": "25/01/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "7 em cada 10 empresas brasileiras adotam alguma prática de ESG",
+        "link": "https://www.cnnbrasil.com.br/economia/negocios/7-em-cada-10-empresas-brasileiras-adotam-alguma-pratica-de-esg/",
+        "descricao": "O estudo revela que 71% das empresas analisadas no Brasil, entre elas várias na capital paulista, já estão implementando práticas ESG, destacando o crescimento da sustentabilidade como norma em negócios.",
+        "data": "12/11/2024",
+        "municipio": "São Paulo"
+    }
+]

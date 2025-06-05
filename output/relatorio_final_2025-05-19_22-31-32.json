@@ -1,0 +1,92 @@
+```json
+[
+    {
+        "categoria": "Financiamento",
+        "titulo": "Com R$ 44,5 mi, BNDES apoia expansão e modernização do Grupo Terraverde",
+        "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Com-R$-445-mi-BNDES-apoia-expansao-e-modernizacao-do-Grupo-Terraverde/",
+        "descricao": "Recursos de linha de financiamento do BNDES permitirão a construção de lojas e a modernização de unidades que fornecem máquinas agrícolas.",
+        "data": "19/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Construção",
+        "titulo": "Setor da construção terá espaço na agenda da COP-30",
+        "link": "https://cbic.org.br/setor-da-construcao-tera-espaco-na-agenda-da-cop-30-sinaliza-correa-do-lago/",
+        "descricao": "Segmento importante para a economia e a qualidade de vida nas cidades, a indústria da construção terá espaço relevante na pauta de debates da Conferência.",
+        "data": "20/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Economia",
+        "titulo": "Empresas em Recuperação Judicial sobem 6,9% no 1º trimestre de 2025",
+        "link": "https://www.diariodaregiao.com.br/agencia/empresas-em-recuperac-o-judicial-sobem-6-9-no-1-trimestre-de-2025-1.2060111",
+        "descricao": "Empresas em Recuperação Judicial sobem 6,9% no 1º trimestre de 2025. Entre as recuperadas 80% retomaram as atividades normais.",
+        "data": "21/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Construção Civil",
+        "titulo": "Taxa de juros elevada é principal entrave da construção civil em 2025",
+        "link": "https://cbic.org.br/taxa-de-juros-elevada-e-principal-entrave-da-construcao-civil-em-2025/",
+        "descricao": "Mesmo diante do cenário de juros elevados, a CBIC manteve a projeção de crescimento de 2,3% para a construção civil em 2025.",
+        "data": "22/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Governança",
+        "titulo": "A contribuição das práticas ESG na reestruturação de ...",
+        "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-contribuicao-das-praticas-esg-na-reestruturacao-de-empresas-em-recuperacao-judicial/?srsltid=AfmBOoodZCoxRWAz9AQ2wL9nQkKDrjvzT0FYKUvyCGLQf-KwhlePFoui",
+        "descricao": "A implementação ou reestruturação de uma governança fortalece a confiança dos credores, investidores e mercado em geral, ao passo que traz transparência na ...",
+        "data": "20/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Supermercados",
+        "titulo": "Supermercados investem em práticas ESG e apps contra ...",
+        "link": "https://www.atribuna.com.br/projetos/esg/supermercados-investem-em-praticas-esg-e-apps-contra-desperdicio-ganham-forca-no-brasil-1.461887",
+        "descricao": "A ideia é buscar parceiros que ofereçam não só preço, mas também qualidade, segurança alimentar e alinhamento com práticas ESG. Certificações ambientais, ...",
+        "data": "21/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Aeroporto",
+        "titulo": "Cidade do litoral de SP terá novo aeroporto; saiba onde é ...",
+        "link": "https://www.estadao.com.br/sao-paulo/cidade-do-litoral-de-sp-tera-novo-aeroporto-saiba-onde-e-e-quando-vai-operar/?srsltid=AfmBOorGdoolHH1b-yscm_6bcfJVupkXYQavAWR--qH_KOfN1Srver7h",
+        "descricao": "Terminal com estrutura para operar voos comerciais deve receber primeiros aviões no primeiro semestre de 2026.",
+        "data": "19/03/2025",
+        "municipio": "Olímpia"
+    },
+    {
+        "categoria": "Construção",
+        "titulo": "Rodada de Negócios da CII/CBIC destaca crescimento do ...",
+        "link": "https://cbic.org.br/rodada-de-negocios-da-cii-cbic-destaca-crescimento-do-mercado-imobiliario-e-aproximacao-com-instituicoes-financeiras/",
+        "descricao": "Fortes mencionou ainda o equilíbrio observado entre lançamentos e vendas na região, com um desempenho sólido em muitas cidades, e apontou que o mercado no ...",
+        "data": "20/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Imóveis",
+        "titulo": "Imóveis de luxo de SP começam a chegar a novos bairros",
+        "link": "https://www.estadao.com.br/economia/negocios/imoveis-luxo-sp-novos-bairros/?srsltid=AfmBOooLTZPOkL48JRUcZT4EmEJV1vro4xSvszzGqk7PEbKFuTEDdKPD",
+        "descricao": "Escassez de terrenos impulsiona expansão do luxo para outros bairros, mas há desafios na criação de novos redutos luxuosos; entenda motivos.",
+        "data": "21/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Prêmio",
+        "titulo": "Inscrições para o 9º Prêmio Seconci-SP são prorrogadas ...",
+        "link": "https://cbic.org.br/inscricoes-para-o-9o-premio-seconci-sp-sao-prorrogadas-ate-19-de-maio/",
+        "descricao": "A iniciativa é voltada a empresas da construção civil com atuação em obras de edificações e de arte no Estado de São Paulo, e tem como objetivo reconhecer e dar ...",
+        "data": "22/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Aeroporto",
+        "titulo": "Como vai ser o novo aeroporto internacional de SP, na ...",
+        "link": "https://www.estadao.com.br/sao-paulo/como-vai-ser-o-novo-aeroporto-internacional-de-sp-na-cidade-conhecida-como-orlando-brasileira/?srsltid=AfmBOoov3u0iltbefWvQlczTt7hz50JkF6JLxu0RThPisSOawElSujEE",
+        "descricao": "Terminal em Olímpia terá capacidade para atender cerca de 1 milhão de passageiros por ano e será dimensionado para receber também aeronaves de carga.",
+        "data": "23/03/2025",
+        "municipio": "Olímpia"
+    }
+]
+```

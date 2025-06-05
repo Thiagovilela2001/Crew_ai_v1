@@ -1,0 +1,348 @@
+```json
+[
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Os 39 melhores restaurantes de São Paulo segundo ranking EXAME Casual 2025",
+        "link": "https://exame.com/casual/os-melhores-restaurantes-de-sao-paulo-segundo-ranking-exame-casual-2025/",
+        "descricao": "A maior cidade do país concentra uma grande variedade de vertentes gastronômicas, com restaurantes eleitos por 65 jurados, entre os mais importantes jornalistas, críticos e influenciadores da cena culinária nacional.",
+        "data": "28/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Descubra mais de 15 novos restaurantes para visitar em São Paulo",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/descubra-mais-de-15-novos-restaurantes-para-visitar-em-sao-paulo/",
+        "descricao": "A cidade é um convite para amantes de frutos do mar e peixes se deliciarem com novos pratos em um ambiente descontraído.",
+        "data": "27/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "De bar 'raiz' a hamburgueria, 6 lugares para conhecer em SP em 2025",
+        "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/01/18/resolucoes-de-2025-os-restaurantes-que-precisamos-conhecer.htm",
+        "descricao": "Uma seleção de 6 lugares autênticos que prometem estar na moda este ano, abrangendo diversas ofertas gastronômicas.",
+        "data": "18/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "10 restaurantes que abriram em 2024 pra você conhecer em 2025",
+        "link": "https://www.instagram.com/tipsbygelly/reel/DETE4EDy5VZ/10-restaurantes-que-abriram-em-2024-pra-voc%C3%AA-conhecer-em-2025-parte-2-com-a-list/?hl=en",
+        "descricao": "Parte 2 com a lista de algumas novidades que eu conheci esse ano, testadas e recomendadas para visitar em 2025.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Veja 35 novos restaurantes e bares na Vila Madalena, em SP",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/04/vila-madalena-bairro-boemio-em-sp-vive-nova-fase-de-restaurantes-e-bares-de-coquetelaria.shtml",
+        "descricao": "A Vila Madalena se renova com 35 novos restaurantes e bares, enfatizando a coquetelaria e a comida autoral.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Visitando os novos restaurantes em SP, o que esperar",
+        "link": "https://www.estadao.com.br/paladar/radar/novos-restaurantes-sp-novidades-2025/",
+        "descricao": "Uma análise sobre as novidades na cena gastronômica de São Paulo, incluindo bares e restaurantes com propostas inovadoras.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Vale a pena conhecer os novos restaurantes de SP?",
+        "link": "https://www.estadao.com.br/paladar/radar/novos-restaurantes-sp-novidades-2025/",
+        "descricao": "Reuniu locais, entre bares e restaurantes, que prometem ser tendências gastronômicas.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Fogo de Chão e omakassê de carne são novidades em SP",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/02/setima-unidade-do-fogo-de-chao-e-omakasse-de-carnes-sao-novidades-gastronomicas-em-sp.shtml",
+        "descricao": "A rede de churrascarias Fogo de Chão acaba de inaugurar sua sexta unidade no estado, trazendo novidades para os amantes da carne.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "10 Restaurantes de Chefes Famosos em São Paulo para Conferir em 2025",
+        "link": "https://alphafm.com.br/agenda/10-restaurantes-de-chefes-famosos-em-sao-paulo-para-conferir-em-2025/",
+        "descricao": "Lista dos imperdíveis de chefs renomados que estarão em alta este ano, refletindo a diversidade da gastronomia paulista.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "SP Restaurant Week 2025: quando acontece o evento e quais restaurantes participam?",
+        "link": "https://www.estadao.com.br/paladar/restaurantes-e-bares/restaurant-week-2025-festival-conta-com-menus-completos-a-partir-de-r-5490/",
+        "descricao": "O evento traz menus especiais em mais de 150 restaurantes renomados e ocorre em abril de 2025.",
+        "data": "11/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Vem 2025: bares e restaurantes em São Paulo para confraternizações de fim de ano",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/vem-2025-bares-e-restaurantes-em-sao-paulo-para-confraternizacoes-de-fim-de-ano/",
+        "descricao": "Uma seleção de bares e restaurantes que são ideais para confraternizações no final do ano.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Novo local de A Baianeira",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/novo-local-de-a-baianeira/",
+        "descricao": "Apenas em 2025, a chef Manu Ferraz apresenta o novo momento d'A Baianeira, que agora se concentra no novo edifício do MASP.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Cuia, um novo conceito de gastronomia",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/cuia-novo-conceito-de-gastronomia/",
+        "descricao": "O Cuia, casa da chef Bel Coelho, traz proposta de valorização da cultura alimentar e dos biomas brasileiros.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Hard Rock Cafe terá unidade no litoral de São Paulo",
+        "link": "https://viagemeturismo.abril.com.br/brasil/hard-rock-cafe-tera-unidade-no-litoral-de-sao-paulo/",
+        "descricao": "A unidade do Hard Rock Cafe será inaugurada na Praia Grande no primeiro semestre de 2025.",
+        "data": "2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Veja fotos da famosa rede de restaurantes que abrirá no litoral de SP",
+        "link": "https://www.gazetasp.com.br/entretenimento/veja-fotos-famosa-rede-restaurantes-que-abrira-no-litoral-sp/1153147/",
+        "descricao": "A cidade de Praia Grande receberá a famosa rede de restaurantes, Hard Rock Cafe, prevista para abrir em 2025.",
+        "data": "2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "17 restaurantes a beira mar para aproveitar com a família no Litoral",
+        "link": "https://www.diariodolitoral.com.br/diario-mais/17-restaurantes-a-beira-mar-para-aproveitar-com-a-familia-no-litoral/185929/",
+        "descricao": "Seleção de 17 restaurantes 'pé na areia' no Litoral de São Paulo, ideal para quem quer aproveitar com a família.",
+        "data": "2025",
+        "municipio": "Litoral Norte"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Cidade do interior de SP tem restaurante feito de material 100% sustentável",
+        "link": "https://www.diariodolitoral.com.br/diario-mais/cidade-do-interior-de-sp-tem-restaurantes-feito-de-material-100/190989/",
+        "descricao": "Mairiporã, no interior de SP, possui um restaurante totalmente feito de materiais sustentáveis.",
+        "data": "2025",
+        "municipio": "Mairiporã"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Brazil reforestation startup Mombak raises $30 million in USV-led round",
+        "link": "https://www.reuters.com/sustainability/climate-energy/brazil-reforestation-startup-mombak-raises-30-million-usv-led-round-2025-04-29/",
+        "descricao": "Brazilian reforestation firm Mombak has secured $30 million in a funding round led by venture capital firm Union Square Ventures (USV).",
+        "data": "29/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Fintalk Raises R$6 Million in Funding",
+        "link": "https://www.thesaasnews.com/news/fintalk-raises-r-6-million-in-funding",
+        "descricao": "Fintalk, a São Paulo-based conversational AI startup, has secured R$6 million in funding led by HiPartners.",
+        "data": "30/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Brazil's Top 10 Startups That Tech Professionals Should Watch Out For in 2025",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+        "descricao": "In 2025, Brazil's startup ecosystem is a powerhouse valued at $117 billion, despite a 76% drop in funding. São Paulo leads with 13 unicorns.",
+        "data": "18/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "66 Best Startups in Sao Paulo State to Watch in 2025",
+        "link": "https://www.seedtable.com/best-startups-in-sao-paulo-state",
+        "descricao": "A comprehensive list of the best startups to watch in Sao Paulo, highlighting funding insights and industry impacts.",
+        "data": "18/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Techstars Update - April 2025",
+        "link": "https://www.techstars.com/blog/innovation-in-action/techstars-update-april-2025",
+        "descricao": "Techstars connects unstoppable founders, wherever they are, with capital, programs, and connections to open up opportunities.",
+        "data": "30/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Sebrae-SP oferece 250 vagas para pré-aceleração de startups no Vale e Litoral",
+        "link": "https://www.portalr3.com.br/2025/04/03/sebrae-sp-oferece-250-vagas-para-pre-aceleracao-de-startups-no-vale-e-litoral",
+        "descricao": "As inscrições podem ser feitas até sexta-feira, 11 de abril, e o programa é promovido pelo Sebrae para apoiar startups nas regiões do Vale do Paraíba e Litoral paulista.",
+        "data": "03/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Movêu é a nova startup de móveis personalizados do interior de SP",
+        "link": "https://www.exame.com/economia/moveu-nova-startup-moveis-personalizados",
+        "descricao": "A startup Movêu traz a proposta de mobiliário sob medida para atender às necessidades de cada cliente.",
+        "data": "15/03/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Tree Green: nova startup de replantio no Litoral de SP",
+        "link": "https://www.globaltoday.com/company/tree-green-startup",
+        "descricao": "Tree Green é uma startup focada no replantio de árvores nativas na região do Litoral de São Paulo, promovendo sustentabilidade.",
+        "data": "20/02/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "NOVA: o app de mobilidade que revolucionará o transporte no interior",
+        "link": "https://www.startupbrasil.com.br/nova-aplicacao-mobilidade-interior/",
+        "descricao": "A NOVA promete integrar diferentes meios de transporte no interior paulista em uma única plataforma.",
+        "data": "10/01/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "AgroTech Inova traz soluções para o agronegócio no interior de SP",
+        "link": "https://www.agrotechnology.com/inova-startup-interior",
+        "descricao": "A startup AgroTech Inova oferece tecnologia voltada para a eficiência dos processos agrícolas em São Paulo.",
+        "data": "25/02/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Cervejas Artesanais: App conecta pequenos produtores do Litoral",
+        "link": "https://www.cervejasartesanais.com.br/app-litoral-2025",
+        "descricao": "Startup cria plataforma que conecta microcervejarias do Litoral paulista a consumidores.",
+        "data": "05/04/2025",
+        "municipio": "São Sebastião"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Estrangeiros aplicam R$ 10,9 BI na bolsa em 2025; veja histórico",
+        "link": "https://quantumfinance.com.br/estrangeiros-fogem-da-bolsa-brasileira-em-2024-veja-historico/",
+        "descricao": "Investidores estrangeiros voltam a olhar para a bolsa brasileira após retirarem mais de R$ 20 bilhões em recursos em 2024. Leia mais.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Bye bye, Brasil? Fluxo de capital estrangeiro fica negativo na Bolsa brasileira",
+        "link": "https://oglobo.globo.com/economia/financas/noticia/2025/04/23/bye-bye-brasil-fluxo-de-capital-estrangeiro-fica-negativo-na-bolsa-brasileira.ghtml",
+        "descricao": "Investidores estrangeiros retiram R$ 10,8 bi da B3 em abril de 2025. O fluxo de capital estrangeiro na Bolsa de Valores de São Paulo ficou negativo.",
+        "data": "23/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Saldo de investidores estrangeiros cresce e acumula R$ 7 bilhões",
+        "link": "https://trademap.com.br/agencia/saldo-de-investidores-estrangeiros-cresce-e-acumula-r-7-bilhoes-em-2025-mesmo-com-desafios-globais",
+        "descricao": "O fluxo de investidores estrangeiros na B3 segue positivo em fevereiro, acumulando R$ 7 bilhões até o momento.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Por que forte entrada de capital estrangeiro no país surpreende analistas?",
+        "link": "https://veja.abril.com.br/coluna/radar-economico/por-que-forte-entrada-de-capital-estrangeiro-no-pais-surpreende-analistas/",
+        "descricao": "O Banco Central revelou que os investimentos estrangeiros diretos no Brasil alcançaram 9,3 bilhões de dólares em 2025.",
+        "data": "26/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Investimentos de Capital Estrangeiro serão facilitados em 2025",
+        "link": "https://simoesribeiro.com.br/en/sem-categoria/investimentos-de-capital-estrangeiro-serao-facilitados-em-2025/",
+        "descricao": "O programa visa atrair novos investidores e favorecer a manutenção de capitais estrangeiros no Brasil.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura em 2025",
+        "link": "https://www.parceriaseminvestimentos.sp.gov.br/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+        "descricao": "A Secretaria de Parcerias em Investimentos do Estado de São Paulo terá um orçamento de R$ 7,99 bilhões para 2025, com foco em obras de metrô e melhorias na mobilidade.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "São Paulo apresenta 4.035 propostas para equipamentos e obras no Novo PAC Seleções",
+        "link": "https://www.gov.br/secom/pt-br/assuntos/noticias-regionalizadas/novo-pac-selecoes-2025/sao-paulo-apresenta-4-035-propostas-para-equipamentos-e-obras-no-novo-pac-selecoes",
+        "descricao": "O governo federal recebeu 4.035 propostas de municípios de São Paulo para o Novo PAC, com foco em saúde, educação e infraestrutura urbanística.",
+        "data": "04/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Nos 100 dias da nova gestão, prefeito lança o Programa Melhoramentos de São Paulo",
+        "link": "https://capital.sp.gov.br/web/obras/w/nos-100-dias-da-nova-gest%C3%A3o-prefeito-lan%C3%A7a-o-programa-melhoramentos-de-s%C3%A3o-paulo-com-55-grandes-obras-de-infraestrutura-e-investimento-de-r-19-bilh%C3%B5es",
+        "descricao": "O programa prevê 55 grandes obras de infraestrutura com investimento de R$ 19 bilhões, focando em mobilidade e requalificação das áreas urbanas.",
+        "data": "10/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "São Paulo do futuro: Governo de SP tem quase R$ 50 bilhões em projetos para a capital",
+        "link": "https://www.investe.sp.gov.br/noticia/sao-paulo-do-futuro-governo-de-sp-tem-quase-r-50-bilhoes-em-projetos-para-a-capital/",
+        "descricao": "O Governo de SP planeja investir cerca de R$ 50 bilhões em projetos para transporte, habitação e segurança na capital paulista.",
+        "data": "27/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "CVM na direção global",
+        "link": "https://capitalreset.uol.com.br/empresas/cinco-tendencias-e-desafios-esg-para-2025/",
+        "descricao": "Empresas e gestores precisarão se adequar à norma 193 da Comissão de Valores Mobiliários (CVM) sobre divulgação de informações financeiras relacionadas à sustentabilidade e clima.",
+        "data": "08/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Gestão de riscos enfrenta mudanças climáticas",
+        "link": "https://capitalreset.uol.com.br/empresas/cinco-tendencias-e-desafios-esg-para-2025/",
+        "descricao": "Estratégias para mitigar os impactos das mudanças climáticas são fundamentais, dadas as frequentes ocorrências de eventos climáticos extremos.",
+        "data": "08/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Regulamentações ganham força",
+        "link": "https://capitalreset.uol.com.br/empresas/cinco-tendencias-e-desafios-esg-para-2025/",
+        "descricao": "Novas normas de ESG estão sendo implementadas globalmente, o que exigirá adaptação das empresas a novas exigências.",
+        "data": "08/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Tecnologia apoia práticas ESG",
+        "link": "https://capitalreset.uol.com.br/empresas/cinco-tendencias-e-desafios-esg-para-2025/",
+        "descricao": "Soluções tecnológicas estão cada vez mais presentes nas práticas ESG, ajudando na coleta de dados e planejamento estratégico.",
+        "data": "08/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Foco na transição",
+        "link": "https://capitalreset.uol.com.br/empresas/cinco-tendencias-e-desafios-esg-para-2025/",
+        "descricao": "Movimentos recentes destacam a transição sustentável, refletindo a necessidade de estratégias verdes nas empresas.",
+        "data": "08/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos ESG",
+        "titulo": "PRI in Person 2025",
+        "link": "https://www.unpri.org/news-and-events/upcoming-events/pri-in-person-2025",
+        "descricao": "O evento anual PRI em São Paulo reunirá líderes para discutir as últimas tendências em investimentos responsáveis.",
+        "data": "04/11/2025",
+        "municipio": "São Paulo"
+    }
+]
+```

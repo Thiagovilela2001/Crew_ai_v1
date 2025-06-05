@@ -1,0 +1,140 @@
+```json
+[
+    {
+        "categoria": "Abertura",
+        "titulo": "Churrascaria D'Brescia anuncia unidade em São Bernardo ...",
+        "link": "http://turismo.dgabc.com.br/Mobile/Noticia/4229460/churrascaria-d-brescia-anuncia-unidade-em-sao-bernardo-a-6-da-rede",
+        "descricao": "Com investimento estimado entre R$ 18 milhões e R$ 20 milhões, o novo espaço será inaugurado em agosto de 2025, na saída do quilômetro 18 da Via Anchieta, onde ...",
+        "data": "DD/MM/AAAA",
+        "municipio": "São Bernardo do Campo"
+    },
+    {
+        "categoria": "Reabertura",
+        "titulo": "Restaurante Simone reabre em casa elegante e discreta ...",
+        "link": "https://www.estadao.com.br/paladar/por-ai/restaurante-simone-reabre-com-em-uma-casa-elegante-e-discreta-com-apenas-19-lugares/?srsltid=AfmBOooqCMB5Z0BLFII70HbXTcj6jEGwz6R0i3y3Tu31LIS30oGs5DQH",
+        "descricao": "Gosto deste prato desde que Simone Paratella abriu seu primeiro restaurante em São Paulo, em 2023. Acontece que para comer o tajarin preciso fazer uma ...",
+        "data": "2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Novos Estrelados",
+        "titulo": "Brasil tem quatro novos restaurantes estrelados no guia ...",
+        "link": "https://www.estadao.com.br/paladar/restaurantes-e-bares/brasil-tem-cinco-novos-restaurantes-estrelados-no-guia-michelin-rio-de-janeiro-sao-paulo-2025/?srsltid=AfmBOoqjmQ881QyPc6JhygZfSWdyL8qm3MJPbjeIx706UN-lRDXtusAY",
+        "descricao": "Brasil tem quatro novos restaurantes estrelados no guia Michelin Rio de Janeiro & São Paulo 2025. Nova seleção foi divulgada nesta segunda-feira (12); nenhum ...",
+        "data": "12/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Renovação",
+        "titulo": "Bistrot du Quartier, no Itaim, passa por renovação",
+        "link": "https://www.estadao.com.br/paladar/radar/bistrot-du-quartier-no-itaim-passa-por-renovacao-confira-as-novidades/?srsltid=AfmBOopnUfWVSOFVb9XFutAOU6csqzUOTfNaUw-0V-m-dKFXRdKwvLqk",
+        "descricao": "Inaugurado em 2023, como uma evolução do complexo Le Quartier, o restaurante é comandado por Claude Troisgros. A casa foi criada para atender ao desejo dos ...",
+        "data": "2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Contratação",
+        "titulo": "Lojas e restaurantes de SP recorrem a estrangeiros para ...",
+        "link": "https://dcomercio.com.br/publicacao/s/lojas-e-restaurantes-de-sp-recorrem-a-estrangeiros-para-preencher-vagas",
+        "descricao": "O Sacolão Perdizes, em Perdizes, começou a contratar mão de obra estrangeira em setembro do ano passado. Hoje, já oferta vagas para cerca de dez haitianos, ...",
+        "data": "2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Abertura",
+        "titulo": "Hard Rock Praia Grande: novo restaurante criará dezenas de vagas de emprego",
+        "link": "https://www.atribuna.com.br/cidades/praia-grande/hard-rock-praia-grande-novo-restaurante-criara-dezenas-de-vagas-de-emprego-no-litoral-de-s-o-paulo-saiba-mais-1.441962",
+        "descricao": "A chegada do Hard Rock Cafe ao Litoral Plaza Shopping, em Praia Grande, litoral de São Paulo, vai gerar de 80 a 100 vagas diretas de emprego na região.",
+        "data": "20/10/2023",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Abertura",
+        "titulo": "Hard Rock Praia Grande: Litoral de São Paulo receberá uma das maiores redes de restaurantes do mundo",
+        "link": "https://www.atribuna.com.br/cidades/praia-grande/hard-rock-praia-grande-litoral-de-s-o-paulo-recebera-uma-das-maiores-redes-de-restaurantes-do-planeta-1.441956",
+        "descricao": "O Litoral Plaza Shopping, em Praia Grande, receberá uma unidade do Hard Rock Cafe, uma das maiores redes de restaurantes do mundo.",
+        "data": "20/10/2023",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Abertura",
+        "titulo": "Com apoio do BNDES, Itapevi (SP) ganha nova estação de trens metropolitanos",
+        "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Com-apoio-do-BNDES-Itapevi-SP-ganha-nova-estacao-de-trens-metropolitanos/",
+        "descricao": "Integrada ao sistema metroferroviário da Grande São Paulo, estação Ambuitá deve atender 2,1 mil passageiros por dia. A obra faz parte do projeto de expansão e modernização das linhas 8 e 9, que conta com apoio de R$ 3,4 bilhões do Banco.",
+        "data": "05/05/2025",
+        "municipio": "Itapevi"
+    },
+    {
+        "categoria": "Construção",
+        "titulo": "Fórum em Santos debate expansão da energia solar e seus impactos",
+        "link": "https://www.atribuna.com.br/projetos/a-regiao-em-pauta/forum-em-santos-debate-expans-o-da-energia-solar-e-seus-impactos-na-matriz-energetica-1.459084",
+        "descricao": "Evento A Região em Pauta será realizado na segunda-feira, com especialistas discutindo geração fotovoltaica, sustentabilidade e oportunidades de mercado.",
+        "data": "20/10/2023",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Prêmio",
+        "titulo": "Inscrições para o 9º Prêmio Seconci-SP são prorrogadas",
+        "link": "https://cbic.org.br/inscricoes-para-o-9o-premio-seconci-sp-sao-prorrogadas-ate-19-de-maio/",
+        "descricao": "Organizado pelo Serviço Social da Construção Civil do Estado de São Paulo (Seconci-SP), o prêmio contempla obras residenciais, comerciais, industriais.",
+        "data": "19/05/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Construção",
+        "titulo": "Rodada de Negócios da CII/CBIC destaca crescimento do mercado",
+        "link": "https://cbic.org.br/rodada-de-negocios-da-cii-cbic-destaca-crescimento-do-mercado-imobiliario-e-aproximacao-com-instituicoes-financeiras/",
+        "descricao": "Durante a abertura, o presidente da CBIC, Renato Correia, ressaltou a importância da CII na trajetória da entidade e destacou o desempenho recente do mercado.",
+        "data": "20/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Abertura",
+        "titulo": "Com R$ 44,5 mi, BNDES apoia expansão e modernização do Grupo Terraverde",
+        "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Com-R$-445-mi-BNDES-apoia-expansao-e-modernizacao-do-Grupo-Terraverde/",
+        "descricao": "Recursos de linha de financiamento do BNDES permitirão a construção de lojas e a modernização de unidades que fornecem máquinas agrícolas. Projeto prevê a geração de 50 empregos diretos.",
+        "data": "07/05/2025",
+        "municipio": "Piracicaba e Jaú"
+    },
+    {
+        "categoria": "Modernização",
+        "titulo": "IA chega ao mercado de elevadores para levar mais segurança aos prédios",
+        "link": "https://imoveis.estadao.com.br/cidades-inteligentes/ia-chega-ao-mercado-de-elevadores-para-levar-mais-seguranca-aos-predios/",
+        "descricao": "Entre as novidades apresentadas no evento, estão soluções que prometem aumentar a autonomia, portas mais resistentes e elevadores que suportam ainda mais.",
+        "data": "2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Logística",
+        "titulo": "Logística e tecnologia para escoar a produção",
+        "link": "https://www.estadao.com.br/economia/logistica-e-tecnologia-para-escoar-a-producao/?srsltid=AfmBOoqeZc2NDN8S-prOQDxqyi0Eq6iisL5f8zrz6p1Cu7vPYllE19A-",
+        "descricao": "Prefeituras que aderirem ao programa receberão equipamentos – motoniveladoras, caminhões, retroescavadeiras, rolo compressor, entre outros – para a execução de.",
+        "data": "2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Seis em cada dez indústrias brasileiras adotam práticas de economia circular",
+        "link": "https://www.estadao.com.br/economia/governanca/industrias-brasileiras-economia-circular-cni/?srsltid=AfmBOop0lQ2Jv4b2nuhhcY_T_lHG0pwwHRbU59vphuQqep5oXkyOvkIN",
+        "descricao": "O levantamento aponta que as ações mais adotadas são a reciclagem de produtos (34%), seguida de oferecimento e/ou reparo dos itens durante o uso (32%) e a.",
+        "data": "2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Economia Circular",
+        "titulo": "Ircular Brain apresenta soluções de Economia Circular",
+        "link": "http://www.dgabc.com.br/Noticia/4233055/ircular-brain-apresenta-solucoes-de-economia-circular-de-eletronicos-em-forum-mundial",
+        "descricao": "A Circular Brain, empresa pioneira na implantação de uma plataforma que profissionalizou o mercado de reciclagem de eletrônicos e facilitou o fomento da.",
+        "data": "2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Como setor industrial de tintas no Brasil quer reduzir sua pegada de carbono",
+        "link": "https://www.estadao.com.br/economia/governanca/reducao-pegada-carbono-industria-tintas-brasil/?srsltid=AfmBOorE4k9UB8BwWOvBxV_UhMK9acnVrazDjpQBvxlZuExbmrUDVLKY",
+        "descricao": "As ações são bastante abrangentes e incluem investimentos em modernização de processos, tecnologias mais eficientes e ampliação do uso de energias de fontes.",
+        "data": "2023",
+        "municipio": "São Paulo"
+    }
+]
+```

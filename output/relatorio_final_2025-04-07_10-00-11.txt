@@ -1,0 +1,84 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "South Summit Brazil 2025: conheça as 50 startups finalistas da competição",
+        "link": "https://exame.com/negocios/south-summit-brazil-2025-conheca-as-50-startups-finalistas-da-competicao/",
+        "descricao": "O South Summit Brazil revelou as 50 startups finalistas de uma competição, com destaque para o crescimento do interesse internacional.",
+        "data": "13/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "Apresenta uma lista de startups brasileiras com elevada expectativa de crescimento e sucesso no mercado.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Av. Rebouças: o novo polo de startups em São Paulo",
+        "link": "https://distrito.me/blog/av-reboucas-o-novo-polo-de-startups-em-sao-paulo/",
+        "descricao": "A Avenida Rebouças se consolida como um novo centro de inovação, atraindo startups e investidores.",
+        "data": "11/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça as 4 startups selecionadas para o SXSW 2025",
+        "link": "https://institutocaldeira.org.br/blog/conheca-as-4-startups-brasileiras-selecionadas-para-o-sxsw-2025/",
+        "descricao": "Startups Abstra, Aprix, Drome e Planton representarão o Brasil no South by Southwest 2025.",
+        "data": "27/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Divibank levanta US$ 8,2M para crescer 10 vezes até o fim de 2025",
+        "link": "https://startups.com.br/negocios/rodada-de-investimento/divibank-levanta-us-82m-para-crescer-10-vezes-ate-o-fim-de-2025/",
+        "descricao": "A fintech Divibank garante financiamento significativo para expandir suas operações e iniciar novos serviços no mercado.",
+        "data": "22/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "Startup Day 2025 foi realizado na cidade",
+        "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-evento-de-empreendedorismo-e-inovacao-ocorre-em-22-de-marco-no-noroeste-paulista",
+        "descricao": "O famoso evento Startup Day visa fomentar a inovação e o empreendedorismo, promovido pelo Sebrae na cidade.",
+        "data": "22/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Conheça os 8 principais eventos para startups em 2025",
+        "link": "https://www.onfly.com.br/blog/principais-eventos-para-startups/",
+        "descricao": "Uma lista de eventos importantes que proporcionarão oportunidades de networking e aprendizado para startups.",
+        "data": "21/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "4 startups para ficar de olho em 2025",
+        "link": "https://industriainovadora.com.br/4-startups-para-ficar-de-olho-em-2025/",
+        "descricao": "Destaque para startups que contribuem para a preservação ambiental e a biodiversidade no Brasil.",
+        "data": "27/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Economia",
+        "titulo": "Brasil se prepara para retaliações com tarifas, afetando startups",
+        "link": "https://g1.globo.com/economia/noticia/2025/03/27/brasil-se-arma-para-retaliacao-ao-tarifaco-mas-plano-e-insistir-em-negociacao-com-eua.ghtml",
+        "descricao": "O governo analisa como as tarifas podem impactar os novos negócios e startups, preparando-se para negociações.",
+        "data": "27/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Fintech",
+        "titulo": "Nova fintech surge para facilitar pagamentos digitais entre pequenas empresas em SP",
+        "link": "https://www.estadao.com.br/tecnologia/nova-fintech-surge-para-facilitar-pagamentos-digitais-entre-pequenas-empresas-em-sp/",
+        "descricao": "A nova fintech promete revolucionar o mercado de pagamentos, especialmente para as pequenas e médias empresas de São Paulo.",
+        "data": "15/03/2025",
+        "municipio": "São Paulo"
+    }
+]
+```

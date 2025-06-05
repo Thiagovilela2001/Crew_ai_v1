@@ -1,0 +1,92 @@
+```json
+[
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo de São Paulo prevê R$ 50 bilhões em leilões para 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/governo-de-sao-paulo-preve-r-50-bilhoes-em-leiloes-para-2025-conheca-os-projetos/",
+        "descricao": "O Governo de São Paulo prevê novos investimentos para 2025, com R$ 50 bilhões em leilões, incluindo melhorias em rodovias no interior.",
+        "data": "03/01/2025",
+        "municipio": "Diversos municípios do interior"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Estado de São Paulo investirá quase R$ 34 bi em infraestrutura em 2025",
+        "link": "https://www.bnamericas.com/pt/feature/estado-de-sao-paulo-investira-quase-r-34-bi-em-infraestrutura-em-2025",
+        "descricao": "O estado de São Paulo planeja investir um recorde de R$ 33,5 bilhões em infraestrutura, incluindo obras hidráulicas.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo de São Paulo e Sabesp anunciam pacote de R$ 15 bilhões em obras em 2025",
+        "link": "https://www.arandanet.com.br/revista/hydro/noticia/10106-Governo-de-Sao-Paulo-e-Sabesp-anunciam-pacote-de-R$-15-bilhoes-em-obras-em-2025.html",
+        "descricao": "Este programa engloba a construção de 850 km de coletores e a ampliação de estações de tratamento de água.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "EDP vai investir R$ 2,3 bi em geração distribuída de energia solar",
+        "link": "https://conteudos.xpi.com.br/esg/edp-vai-investir-r23b-em-geracao-distribuida-de-energia-solar-ate-2026-cafe-com-esg-04-08/",
+        "descricao": "A meta é alcançar 530 megawatt-pico de potência através de investimentos em energia solar até 2026.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "Infraestrutura elétrica para atender data centers demanda grandes investimentos",
+        "link": "https://valor.globo.com/empresas/noticia/2025/01/28/infraestrutura-eltrica-para-atender-data-centers-demanda-grandes-investimentos-diz-vp-da-eletrobras.ghtml",
+        "descricao": "São necessários grandes investimentos em infraestrutura elétrica para atender a demanda de data centers em São Paulo.",
+        "data": "28/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Plano ferroviário será anunciado em fevereiro",
+        "link": "https://www1.folha.uol.com.br/mercado/2025/01/plano-ferroviario-do-governo-sera-anunciado-em-fevereiro-e-preve-ate-r-100-bi-em-investimentos.shtml",
+        "descricao": "Projeto volta-se para concessões de ferrovias e implica investimentos significativos.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "SP avança em geração de energia solar fotovoltaica",
+        "link": "https://semil.sp.gov.br/2025/01/sp-avanca-em-geracao-de-energia-solar-fotovoltaica-aponta-balanco-energetico-estadual-2024/",
+        "descricao": "Estudo divulgado aponta crescimento na matriz energética paulista em uso de fontes renováveis.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Resíduos",
+        "titulo": "Descarte e tratamento de resíduos plásticos em municípios do interior",
+        "link": "https://g1.globo.com/natureza/noticia/2025/02/01/descarte-e-tratamento-de-residuos-plasticos-em-municipios-do-interior.ghtml",
+        "descricao": "Iniciativa para o tratamento de resíduos plásticos e mudanças na legislação nas cidades do interior.",
+        "data": "01/02/2025",
+        "municipio": "Interior SP"
+    },
+    {
+        "categoria": "Educação",
+        "titulo": "Cidade do litoral de SP abre inscrições para curso de qualificação profissional em culinária",
+        "link": "https://g1.globo.com/sp/santos-regiao/culinaria-013/noticia/2025/02/04/cidade-do-litoral-de-sp-abre-inscricoes-para-curso-de-qualificacao-profissional-em-culinaria-veja-como-participar.ghtml",
+        "descricao": "Curso de culinária com inscrições abertas para moradores da cidade.",
+        "data": "04/02/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Educação",
+        "titulo": "Protocolo Não se Cale continua em 2025 e número de profissionais com o curso aumenta",
+        "link": "https://odiademarilia.com.br/protocolo-nao-se-cale-continua-em-2025-e-numero-de-profissionais-com-o-curso-aumenta/",
+        "descricao": "Curso de capacitação em saúde e proteção social para profissionais.",
+        "data": "06/01/2025",
+        "municipio": "Marília"
+    },
+    {
+        "categoria": "Educação",
+        "titulo": "São Vicente, SP, abre inscrições para capacitação em programas de software",
+        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2025/01/06/sao-vicente-sp-abre-inscricoes-para-capacitacao-em-programas-de-software-veja-como-participar.ghtml",
+        "descricao": "80 vagas para aprender a usar programas de informática importantes para o mercado.",
+        "data": "06/01/2025",
+        "municipio": "São Vicente"
+    }
+]
+```

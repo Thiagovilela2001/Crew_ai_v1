@@ -1,0 +1,182 @@
+```json
+{
+  "noticias": [
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Novos restaurantes de SP para conhecer já!",
+      "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/04/12/novos-restaurantes-de-sp-para-conhecer-ja.htm",
+      "descricao": "De descolado a 'polêmico', 4 novos restaurantes de SP para conhecer já, que misturam referências asiáticas e brasileiras.",
+      "data": "12/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "De bar 'raiz' a hamburgueria, 6 lugares para conhecer em SP em 2025",
+      "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/01/18/resolucoes-de-2025-os-restaurantes-que-precisamos-conhecer.htm",
+      "descricao": "Explore lugares autênticos na culinária brasileira e descubra 6 opções para visitar em 2025.",
+      "data": "18/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+      "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+      "descricao": "Novidades em cardápios e restaurantes que começam 2025 com força total.",
+      "data": "30/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Descubra mais de 15 novos restaurantes para visitar em São Paulo",
+      "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/descubra-mais-de-15-novos-restaurantes-para-visitar-em-sao-paulo/",
+      "descricao": "Novos restaurantes que oferecem uma vasta gama de experiências gastronômicas em São Paulo.",
+      "data": "01/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "13 NOVOS Restaurantes Em São Paulo Em 2025",
+      "link": "https://cronicasdasurdez.com/bares-e-restaurantes-em-sao-paulo/",
+      "descricao": "Lista com os principais bares e restaurantes para conhecer em 2025.",
+      "data": "07/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "10 Restaurantes de Chefes Famosos em São Paulo para Conferir em 2025",
+      "link": "https://alphafm.com.br/agenda/10-restaurantes-de-chefes-famosos-em-sao-paulo-para-conferir-em-2025/",
+      "descricao": "Uma lista de restaurantes de chefs renomados que estão imperdíveis em 2025.",
+      "data": "17/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Veja fotos da famosa rede de restaurantes que abrirá no litoral de SP",
+      "link": "https://www.gazetasp.com.br/entretenimento/veja-fotos-famosa-rede-restaurantes-que-abrira-no-litoral-sp/1153147/",
+      "descricao": "Inauguração está prevista para ocorrer em abril de 2025, marcando a estreia da marca no litoral de São Paulo.",
+      "data": "21/03/2025",
+      "municipio": "Praia Grande"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Hard Rock Cafe terá unidade no litoral de São Paulo",
+      "link": "https://viagemeturismo.abril.com.br/brasil/hard-rock-cafe-tera-unidade-no-litoral-de-sao-paulo/",
+      "descricao": "O restaurante deve ser inaugurado no primeiro semestre de 2025 na Praia Grande, a uma hora da capital.",
+      "data": "07/01/2025",
+      "municipio": "Praia Grande"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Baleia e tubarão gigantes abrigam restaurante e aquário no interior de SP",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2025/01/26/baleia-e-tubarao-gigantes-abrigam-restaurante-e-aquario-no-interior-de-sp-veja-fotos.ghtml",
+      "descricao": "Duas atrações inusitadas prometem transportar os visitantes para o fundo do mar, uma baleia gigante em Itapetininga e um tubarão de mais de 30 metros em Buri.",
+      "data": "26/01/2025",
+      "municipio": "Itapetininga"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Ocupação hoteleira para o Carnaval chega a 85% no litoral paulista",
+      "link": "https://www.panrotas.com.br/destinos/eventos/2025/02/ocupacao-hoteleira-para-o-carnaval-chega-a-85-no-litoral-paulista-diz-fhoresp_214726.html",
+      "descricao": "O Carnaval de 2025 deve dar um grande impulso na economia, incluindo o setor de restaurantes.",
+      "data": "26/02/2025",
+      "municipio": "Santos"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Creditas - Líder em empréstimos garantidos",
+      "link": "https://www.seedtable.com/startups-sao-paulo",
+      "descricao": "Creditas é uma fintech brasileira que oferece empréstimos pessoais garantidos, focando em inclusão financeira.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "QuintoAndar - Aluguel sem complicações",
+      "link": "https://www.seedtable.com/startups-sao-paulo",
+      "descricao": "QuintoAndar é uma plataforma online que facilita alugueis residenciais no Brasil.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "iFood - Delivery de comida revolucionário",
+      "link": "https://www.seedtable.com/startups-sao-paulo",
+      "descricao": "iFood é uma plataforma de entrega de alimentos que domina o mercado latino-americano.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Loggi - Logística eficiente",
+      "link": "https://www.seedtable.com/startups-sao-paulo",
+      "descricao": "Loggi é uma empresa que reinventa a logística no Brasil, oferecendo serviços de entrega rápida.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Gupy - Tecnologia de recrutamento",
+      "link": "http://gupy.io",
+      "descricao": "Gupy utiliza inteligência artificial para otimizar processos de recrutamento.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos Estrangeiros",
+      "titulo": "Estrangeiros aplicam R$ 10,9 BI na bolsa em 2025; veja histórico",
+      "link": "https://quantumfinance.com.br/estrangeiros-fogem-da-bolsa-brasileira-em-2024-veja-historico/",
+      "descricao": "O Ibovespa acumula até o fim de março de 2025 uma valorização de 8,29%, apoiado pela volta dos investidores estrangeiros.",
+      "data": "31/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos Estrangeiros",
+      "titulo": "Investidores estrangeiros permanecem compradores líquidos de ...",
+      "link": "https://conteudos.xpi.com.br/acoes/relatorios/investidores-estrangeiros-permanecem-compradores-liquidos-de-brasil-em-2025-fluxo-em-foco/",
+      "descricao": "Em 2025, a rotação global para fora dos EUA continua beneficiando os mercados emergentes e outras regiões ao redor do mundo.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos Estrangeiros",
+      "titulo": "Investimento estrangeiro cresce e atinge US$ 9,3 bilhões em fevereiro",
+      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/investimento-estrangeiro-cresce-e-atinge-us-93-bilhoes-em-fevereiro/",
+      "descricao": "O resultado do mês em 2025 foi um dos mais altos da série histórica, iniciada pelo BC em 1995.",
+      "data": "28/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura em 2025",
+      "link": "https://www.parceriaseminvestimentos.sp.gov.br/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+      "descricao": "A Secretaria de Parcerias em Investimentos do Estado de São Paulo (SPI-SP) terá em 2025 um orçamento 129% maior que o do ano passado, totalizando R$ 7,99 bilhões.",
+      "data": "14/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "SP pra Toda Obra vai modernizar 22,3 mil km de rodovias, estradas e vicinais",
+      "link": "https://semil.sp.gov.br/2025/04/sp-pra-toda-obra-melhorias-viarias-encurtam-distancias-garantem-seguranca-e-melhoram-renda-em-sp/",
+      "descricao": "O programa contará com investimentos de R$ 30 bilhões para modernizar as rodovias em todo o estado.",
+      "data": "04/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Rodovias, habitação, escolas e CPTM: secretário de SP detalha planos de concessões para 2025",
+      "link": "https://exame.com/brasil/infraestrutura/rodovias-escolas-e-cptm-secretario-de-sp-detalha-planos-de-concessoes-para-2025/",
+      "descricao": "O pipeline de concessões do governo de São Paulo para 2025 inclui 3 rodovias, 143 escolas e a projeção de R$ 9 bilhões em investimento.",
+      "data": "06/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Outono 2025: Tendências para Pequenos e Médios empresários",
+      "link": "https://www.desenvolvesp.com.br/comunicacao/noticias/setores-em-alta-no-outono-oportunidades-para-pmes-em-sao-paulo/",
+      "descricao": "Com temperaturas mais amenas e a sazonalidade de diversos produtos agrícolas, algumas áreas ganham destaque e apresentam crescimento nas vendas.",
+      "data": "24/02/2025",
+      "municipio": "São Paulo"
+    }
+  ]
+}
+```

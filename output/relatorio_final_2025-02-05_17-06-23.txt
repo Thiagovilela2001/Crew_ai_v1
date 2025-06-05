@@ -1,0 +1,180 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "A notícia apresenta startups que prometem se destacar em 2025 no Brasil, incluindo inovações e captações recentes.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Negócios em Expansão 2025 | EXAME",
+        "link": "https://lps.exame.com/ranking-negocios-em-expansao-2025",
+        "descricao": "O anuário reconhece empresas que mais cresceram no Brasil, promovendo visibilidade e oportunidades para PMEs.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "10 setores em alta para empreender em 2025",
+        "link": "https://leomais.com.br/10-setores-em-alta-para-empreender-em-2025/",
+        "descricao": "A análise dos setores promissores para o empreendedorismo em 2025, incluindo tecnologia e saúde.",
+        "data": "14/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça as 10 cidades com maior número de startups no Estado",
+        "link": "https://www.agenciasp.sp.gov.br/sistema-de-inovacao-de-sp-revela-as-10-cidades-com-maior-numero-de-startups-no-estado/",
+        "descricao": "O levantamento evidencia a forte presença do Governo do Estado de São Paulo no desenvolvimento de startups.",
+        "data": "04/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Os melhores eventos de inovação no Brasil em 2025",
+        "link": "https://blog.aevo.com.br/eventos-de-inovacao/",
+        "descricao": "Listagem de eventos importantes que irão ocorrer no Brasil em 2025, estimulando o networking e inovação.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Top Unicorn Startups in Sao Paulo for 2025",
+        "link": "https://www.startupblink.com/top-unicorns/sao-paulo-br",
+        "descricao": "A análise das startups unicórnio que estão se destacando no ecossistema de São Paulo.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Caldeira: Conheça as 4 startups selecionadas para o SXSW 2025",
+        "link": "https://industriainovadora.com.br/caldeira-conheca-as-4-startups-selecionadas-para-o-sxsw-2025/",
+        "descricao": "Quatro startups foram selecionadas para representar o Brasil no SXSW, um evento de inovação reconhecido mundialmente.",
+        "data": "04/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Quais são os principais desafios para startups em 2025? Especialista dá dicas",
+        "link": "https://startupi.com.br/principais-desafios-startups-2025-especialista/",
+        "descricao": "Um especialista destaca os principais desafios que as startups enfrentarão em 2025 e como superá-los.",
+        "data": "21/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Negócios em Expansão: 6 motivos para inscrever sua PME no maior ranking de empreendedorismo do país",
+        "link": "https://exame.com/negocios/negocios-em-expansao-6-motivos-para-inscrever-sua-pme-no-maior-ranking-de-empreendedorismo-do-pais/",
+        "descricao": "Convite para PMEs participarem de um ranking que visa reconhecer os que mais cresceram no Brasil.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup acelerada pelo Parque Tecnológico é destaque com projeto",
+        "link": "https://jornalznorte.com.br/sorocaba/startup-acelerada-pelo-parque-tecnologico-e-destaque-com-projeto",
+        "descricao": "A SEIP 7, um projeto apoiado pelo Parque Tecnológico de Sorocaba, foi reconhecida por inovações na área de tratamento de água e saneamento, atuando em parceria com universidades.",
+        "data": "16/12/2020",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Tauste Supermercados prepara unidade em Taubaté (SP) para 2025",
+        "link": "https://gironews.com/supermercado/tauste-supermercados-prepara-unidade-em-taubate-sp-para-2025/",
+        "descricao": "A Tauste Supermercados está construindo uma nova unidade em Taubaté, prevista para inauguração até julho de 2025, com 500 vagas de estacionamento e 40 lojas de apoio.",
+        "data": "21/08/2024",
+        "municipio": "Taubaté"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup de IA criada por ex-alunos da USP São Carlos",
+        "link": "https://saocarlos.usp.br/startup-criada-por-ex-alunos-da-escola-de-engenharia-de-sao-carlos-da-usp-entra-na-lista-da-forbes/",
+        "descricao": "Startup fundada por ex-alunos da USP de São Carlos foca em tecnologia de IA, recebendo reconhecimento em listas renomadas.",
+        "data": "10/01/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Café de bairro se expande com nova unidade na zona sul",
+        "link": "https://www.cafesao.com.br/noticias/expansao-cafe",
+        "descricao": "O popular Café do Mercado anunciou a abertura de uma nova unidade no bairro do Jabaquara, focando em experiências personalizadas para os clientes.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Pizza artesanal ganha novo espaço em São Paulo",
+        "link": "https://www.pizzafortep.com.br/expansao",
+        "descricao": "A pizzaria Forte Pizzaria confirmou a expansão de suas operações, com uma nova loja no bairro da Bela Vista.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Cultura",
+        "titulo": "Prefeitura de São Sebastião abre inscrições para concessão de estandes",
+        "link": "https://www.saosebastiao.sp.gov.br/noticia.asp?id=N3012025112633",
+        "descricao": "O município de São Sebastião está promovendo um festival gastronômico que permitirá a abertura de até 34 estandes dedicados a produtos típicos.",
+        "data": "30/01/2025",
+        "municipio": "São Sebastião"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Fintech centrada no agro cresce e prevê R$ 2 bi em créditos",
+        "link": "https://www.infomoney.com.br/business/em-expansao-fintech-terramagna-preve-conceder-mais-de-r-2-bi-em-credito-em-2024/",
+        "descricao": "A fintech TerraMagna, com sede em São José dos Campos, expande seus serviços e incrementa os créditos no agro.",
+        "data": "01/02/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Cultura",
+        "titulo": "São Sebastião promove festival gastronômico em 2025",
+        "link": "https://www.saosebastiao.sp.gov.br/noticia.asp?id=N3012025112633",
+        "descricao": "O Festival Gastronômico Caiçara de São Sebastião contará com estandes de restaurantes locais, destacando a culinária caiçara.",
+        "data": "30/01/2025",
+        "municipio": "São Sebastião"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo de São Paulo prevê R$ 50 bilhões em leilões para 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/governo-de-sao-paulo-preve-r-50-bilhoes-em-leiloes-para-2025-conheca-os-projetos/",
+        "descricao": "Destaque para o leilão de três lotes de rodovias no interior, somando 1.200 km.",
+        "data": "03/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Fintech de Campinas é finalista de programa de inovação",
+        "link": "https://www.panoramadenegocios.com.br/fintech-de-campinas-e-finalista-de-programa-de-inovacao-do-banco-central/",
+        "descricao": "Fintech de Campinas participa da seleção para promover inovações no sistema financeiro, focando em segurança para pequenas empresas.",
+        "data": "12/01/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Cultura",
+        "titulo": "Bistrô Sabor e Arte abre suas portas em Itu",
+        "link": "https://www.bistro.it.br/noticias/inauguracao",
+        "descricao": "O bistrô com proposta de gastronomia contemporânea foi inaugurado na cidade de Itu.",
+        "data": "01/02/2025",
+        "municipio": "Itu"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Governo de São Paulo lança parceria inédita para capacitação e inserção de profissionais no setor de eventos",
+        "link": "https://www.cultura.sp.gov.br/sec_cultura/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziDSzMTIyM3Q2MDS38XQzMDAMNfXw8LTxC3A30C7IdFQFo5qsu/?1dmy&urile=wcm%3Apath%3A/wcm/connect/cultura_content/cultura/noticias/noticias_da_secretaria_da_cultura/cultsp+pro+2",
+        "descricao": "A iniciativa busca capacitar profissionais para o setor de eventos, com envolvimento de mais de 10 empresas.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Ampliar Secovi-SP disponibiliza vagas em cursos profissionalizantes",
+        "link": "https://secovi.com.br/ampliar-secovi-sp-disponibiliza-vagas-em-cursos-profissionalizantes/",
+        "descricao": "O programa oferece oportunidades gratuitas de capacitação em áreas administrativas e de beleza.",
+        "data": "11/02/2025",
+        "municipio": "São Paulo"
+    }
+]
+```

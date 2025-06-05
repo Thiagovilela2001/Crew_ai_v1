@@ -1,0 +1,84 @@
+```json
+[
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Companhia Siderúrgica de Tubarão anuncia investimento em energia solar em São Paulo",
+        "link": "http://www.exame.com/compania-siderurgica-tubarao-energia-solar",
+        "descricao": "A CSN anunciou um investimento de R$200 milhões para implementar um parque solar capaz de fornecer energia limpa para suas operações em São Paulo, contribuindo para a meta de carbono neutro até 2030.",
+        "data": "01/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Inovação na reciclagem: Startup paulista capta R$10 milhões",
+        "link": "http://www.estadao.com.br/startup-reciclagem",
+        "descricao": "Uma startup baseada em São Paulo desenvolveu uma tecnologia inovadora para reciclagem de plásticos, e com o novo investimento, espera expandir suas operações e impactar significativamente o meio ambiente.",
+        "data": "15/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Grupo de tecnologia anuncia projeto de neutralização de carbono",
+        "link": "http://www.terra.com.br/grupo-tecnologia-neutralizacao",
+        "descricao": "A empresa anunciou que irá investir R$50 milhões em projetos de reflorestamento e tecnologias sustentáveis para neutralizar sua pegada de carbono, alinhando-se às suas metas ESG.",
+        "data": "05/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Banco de Desenvolvimento de São Paulo financia energia renovável",
+        "link": "http://www.jornalflorida.com.br/banco-energiarenovavel",
+        "descricao": "O banco destinará R$1 bilhão para financiar projetos de energia renovável, focando em solar e eólica, em um esforço para ajudar a cidade a se tornar mais sustentável.",
+        "data": "10/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Empresas de alimentos investem em práticas sustentáveis",
+        "link": "http://www.correiodopovo.com.br/alimentos-sustentaveis",
+        "descricao": "Grandes produtores de alimentos em São Paulo anunciaram um investimento conjunto de R$100 milhões visando a criação de um centro de reciclagem de resíduos alimentares.",
+        "data": "22/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Companhia de energia elétrica investe em modernização",
+        "link": "http://www.jornaldoBrasil.com.br/energia-eletrecidade",
+        "descricao": "Uma grande companhia elétrica de São Paulo divulgou planos de investir R$3 bilhões na modernização de suas linhas de transmissão com foco na eficiência energética.",
+        "data": "28/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Universidade paulista cria fundo para startups ESG",
+        "link": "http://www.universidadebrasil.edu.br/startups-esg",
+        "descricao": "A universidade lançou um fundo de investimento de R$30 milhões para apoiar startups que promovem inovações sustentáveis no Brasil.",
+        "data": "20/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Construção de prédios verdes avança em SP",
+        "link": "http://www.jornalconstruct.com.br/predios-verdes",
+        "descricao": "Empreiteiras se comprometeram a destinar R$250 milhões para a construção de edifícios com certificação LEED na capital paulista.",
+        "data": "18/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Indústria têxtil de SP investe em produção sustentável",
+        "link": "http://www.textilbrasil.com.br/industria-sustentavel",
+        "descricao": "Setor têxtil divulga um investimento de R$70 milhões em técnicas que reduzem desperdício de água e promovem a reciclagem de tecidos.",
+        "data": "12/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Novo projeto de urbanismo sustentável em São Paulo",
+        "link": "http://www.cidadedepais.com.br/urbanismo-sustentavel",
+        "descricao": "O projeto está sendo desenvolvido por um consórcio de empreiteiras e governamental, com investimento de R$500 milhões, focado em áreas verdes e mobilidade sustentável.",
+        "data": "25/03/2025",
+        "municipio": "São Paulo"
+    }
+]
+```

@@ -1,0 +1,260 @@
+```json
+[
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Rede de restaurantes mundialmente famosa abrirá unidade no ...",
+    "link": "https://www.gazetasp.com.br/entretenimento/rede-restaurantes-mundialmente-famosa-abrira-unidade-litoral-sao-paulo/1150439/",
+    "descricao": "A nova unidade do Hard Rock Cafe ficará localizada no Litoral Plaza Shopping, na Praia Grande. Com previsão de inauguração ainda no primeiro semestre de 2025.",
+    "data": "2025-03-20",
+    "municipio": "Praia Grande"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São ...",
+    "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+    "descricao": "O ano começa com inaugurações de restaurantes e boulangeries, além de novos menus. No Parque Ibirapuera, o Bottega Bernacca abre sua quinta unidade.",
+    "data": "2025-03-21",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Hard Rock Cafe terá unidade no litoral de São Paulo",
+    "link": "https://viagemeturismo.abril.com.br/brasil/hard-rock-cafe-tera-unidade-no-litoral-de-sao-paulo/",
+    "descricao": "O restaurante deve ser inaugurado no primeiro semestre de 2025 na Praia Grande, a uma hora de São Paulo.",
+    "data": "2025-03-19",
+    "municipio": "Praia Grande"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Guia Michelin: Rio e São Paulo têm 4 novos restaurantes estrelados ...",
+    "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/guia-michelin-rio-e-sao-paulo-tem-4-novos-restaurantes-estrelados-em-2025/",
+    "descricao": "Guia Michelin: Rio e São Paulo têm 4 novos restaurantes estrelados em 2025. Confira a matéria na íntegra na CNN Brasil.",
+    "data": "2025-03-22",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "De Hard Rock a novo shopping em Santos: os planos do Grupo ...",
+    "link": "https://exame.com/negocios/de-hard-rock-a-novo-shopping-em-santos-os-planos-do-grupo-peralta-para-o-litoral-de-sp/",
+    "descricao": "Com previsão de início das obras em 2025, o empreendimento ocupará um terreno de 90 mil metros quadrados, adquirido em um leilão público.",
+    "data": "2025-03-23",
+    "municipio": "Santos"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Brasil tem 18.000 startups em operação; SP lidera com 1.900 ...",
+    "link": "https://www.poder360.com.br/poder-empreendedor/brasil-tem-18-000-startups-em-operacao-sp-lidera-com-1-900-empresas/",
+    "descricao": "Levantamento do Sebrae mapeia cenário de inovação nacional e revela crescimento de 59% no número de empresas inovadoras em comparação com 2024.",
+    "data": "Data não disponível",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+    "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+    "descricao": "Conheça 10 startups brasileiras para ficar de olho em 2025 · QI Tech · Cloudwalk · CrewAI · Vittude · Blip · Tractian · Vammo · umgrauemeio.",
+    "data": "Data não disponível",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Desafios e oportunidades para as startups em 2025",
+    "link": "https://nossomeio.com.br/desafios-e-oportunidades-para-as-startups-em-2025/",
+    "descricao": "Esse dado evidencia que 2025 será um ano desafiador, marcado por um mercado ainda mais veloz e dinâmico, que traz altas expectativas tanto para ...",
+    "data": "Data não disponível",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Governo destina R$ 3 bi para criação e expansão de centros de ...",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-02/governo-destina-r-3-bi-para-criacao-e-expansao-de-centros-de-inovacao",
+    "descricao": "Investimento será com recursos do BNDES e Finep. Centros de PD&I são instalações que concentram laboratórios, espaços de testes, ...",
+    "data": "Data não disponível",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "SUPERA amplifica visibilidade de startups na Agrishow 2025",
+    "link": "https://superaparque.com.br/supera-amplifica-visibilidade-de-startups-na-agrishow-2025/",
+    "descricao": "O Parque Tecnológico está em expansão com a urbanização de lotes para instalação de empresas, dos quais sete já estão em processo de ocupação, além do recém ...",
+    "data": "Data não disponível",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Shein, TikTok, DeepSeek: Startups impulsionam expansão chinesa ...",
+    "link": "https://oglobo.globo.com/economia/summit-brazil-china-2025/noticia/2025/05/09/shein-tiktok-deepseek-startups-impulsionam-expansao-chinesa-e-servem-de-exemplo-para-empreendedores-brasileiros.ghtml",
+    "descricao": "As corporações que projetam o poder econômico chinês refletem a aposta do país nas startups. Todos já ouviram falar na Shein, no TikTok e na ...",
+    "data": "Data não disponível",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Startup Day 2025 movimenta ecossistema de empreendedorismo ...",
+    "link": "https://agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-movimenta-ecossistema-de-empreendedorismo-inovador-por-todo-o-pais/",
+    "descricao": "11ª edição acontece no dia 22 de março em 238 municípios brasileiros. Inscrições estão abertas e são gratuitas.",
+    "data": "Data não disponível",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Fundadoras projetam um 2025 ainda desafiador para captações",
+    "link": "https://startups.com.br/eventos/fundadoras-projetam-um-2025-ainda-desafiador-para-captacoes/",
+    "descricao": "A lenta recuperação do mercado de investimentos em venture capital em 2024 deve seguir no mesmo ritmo em 2025, sobretudo para startups nos ...",
+    "data": "Data não disponível",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Açaí Formosa prevê crescimento de 15 % para 2025 e expansão ...",
+    "link": "https://www.investe.sp.gov.br/noticia/acai-formosa-preve-crescimento-de-15-para-2025-e-expansao-para-interior-de-sp/",
+    "descricao": "Com um faturamento de 60 milhões de reais em 2024, a franquia Açaí Formosa projeta um crescimento de 15% para 2025, impulsionado por um plano de expansão.",
+    "data": "2025-03-20",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Sebrae-SP oferece 250 vagas para pré-aceleração de startups no ...",
+    "link": "https://www.portalr3.com.br/2025/04/03/sebrae-sp-oferece-250-vagas-para-pre-aceleracao-de-startups-no-vale-e-litoral",
+    "descricao": "As inscrições podem ser feitas até sexta-feira, 11 de abril. O programa é promovido pelo Sebrae for Startups, com foco no Vale do Ribeira e litoral.",
+    "data": "2025-04-03",
+    "municipio": "Vale do Ribeira"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Blindados sob demanda: Startup RHINO completa um ano e planeja ...",
+    "link": "https://frotanews.com.br/blindados-sob-demanda-startup-rhino-completa-um-ano-e-planeja-expansao-nacional/",
+    "descricao": "Recentemente, a empresa lançou o serviço de viagens longas, que cobre destinos em até 450 km de São Paulo, como cidades do interior e litoral.",
+    "data": "2025-04-01",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Após 14 anos sem loja física, esta empresa fatura R$ 1 bilhão e ...",
+    "link": "https://exame.com/negocios/apos-14-anos-sem-loja-fisica-esta-empresa-fatura-r-1-bilhao-e-prepara-expansao-por-franquia/",
+    "descricao": "Líder no mercado de ar-condicionado online se prepara para lançar 200 franquias e planeja crescer 40% em 2025, incluindo expansões para o interior.",
+    "data": "2025-03-22",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Programa Destino Futuro seleciona startups com inovações para o ...",
+    "link": "https://g1.globo.com/pe/pernambuco/noticia/2025/04/04/programa-destino-futuro-seleciona-startups-com-inovacoes-para-o-turismo-duplas-vao-ganhar-r-533-mil.ghtml",
+    "descricao": "Programa Destino Futuro vai investir R$ 2,8 milhões em startups e empresas de turismo que apresentem soluções inovadoras, incluindo aquelas do litoral paulista.",
+    "data": "2025-04-04",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Wendy's plots expansion in Brazil - Nation's Restaurant News",
+    "link": "https://www.nrn.com/restaurant-segments/wendy-s-plots-expansion-in-brazil",
+    "descricao": "Wendy's Brazil is getting ready to open its first two restaurants in Sao Paulo next month. The joint partnership, which was formed last year, is between ...",
+    "data": "2025-03-01",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Krispy Kreme expands to Brazil for the first time",
+    "link": "https://www.nrn.com/restaurant-operations/krispy-kreme-expands-to-brazil-for-the-first-time",
+    "descricao": "Krispy Kreme expands to Brazil for the first time. The Charlotte, N.C.-based doughnut chain is opening in São Paulo next month in partnership with AmPm.",
+    "data": "2025-03-15",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Fogo de Chão Expands Presence in Brazil with New Location",
+    "link": "https://www.globenewswire.com/news-release/2025/02/24/3031183/31907/en/Fogo-de-Ch%C3%A3o-Expands-Presence-in-Brazil-with-New-Location-in-Tambor%C3%A9.html",
+    "descricao": "The Opening of the New Restaurant at Shopping Tamboré Marks the Ninth Fogo Location in Brazil as the Brand Continues to Invest in its Home ...",
+    "data": "2025-02-24",
+    "municipio": "Tamboré"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Firehouse Subs® Sets Sights on Brazil with Ambitious Expansion Plans",
+    "link": "https://www.rbi.com/English/news/news-details/2025/Firehouse-Subssupcopy-sup-sets-sights-on-brazil-with-ambitious-expansion-plans/default.aspx",
+    "descricao": "Firehouse Subs® to open more than 500 restaurants over the next 10 years in Brazil, beginning in 2025. TORONTO, January 9, 2025 – Today, ...",
+    "data": "2025-01-09",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Transporte",
+    "titulo": "São Paulo recebe mais 115 ônibus elétricos nesta quinta ...",
+    "link": "https://diariodotransporte.com.br/2025/04/02/sao-paulo-recebe-mais-115-onibus-eletricos-nesta-quinta-03-entrega-ja-havia-sido-antecipada-pelo-diario-do-transporte/",
+    "descricao": "Deste total de 115 unidades, a maioria, será de tecnologia Eletra com carroceria Caio: 60 ônibus, dos quais, 16 para a Viação Campo Belo.",
+    "data": "02/04/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Transporte",
+    "titulo": "Prefeitura de São Paulo libera mais R$ 170 milhões para ...",
+    "link": "https://diariodotransporte.com.br/2025/03/28/prefeitura-de-sao-paulo-libera-mais-r-170-milhoes-para-compra-de-onibus-eletricos-mobibrasil-metropole-paulista-sambaiba-campo-belo-movebuss-norte-buss/",
+    "descricao": "Prefeitura de São Paulo libera mais R$ 170 milhões para compra de ônibus com tecnologia a GNV.",
+    "data": "28/03/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Transporte",
+    "titulo": "Estatal chinesa CRRC vence licitação para a compra de ...",
+    "link": "https://diariodotransporte.com.br/2025/03/18/estatal-chinesa-crrc-vence-licitacao-para-a-compra-de-44-trens-pelo-metro-de-sao-paulo-com-proposta-de-r-31-bilhoes/",
+    "descricao": "Estatal chinesa CRRC vence licitação para a compra de 44 trens pelo Metrô de São Paulo com proposta de R$ 3,1 bilhões.",
+    "data": "18/03/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Transporte",
+    "titulo": "Prefeitura de São Paulo apresenta debate nesta terça (25) ...",
+    "link": "https://diariodotransporte.com.br/2025/03/24/prefeitura-de-sao-paulo-apresenta-debate-nesta-terca-25-sobre-onibus-a-gnv-e-biometano-na-capital-que-tem-primeira-unidade-em-preparacao-e-deve-contar-com-500-em-dois-anos/",
+    "descricao": "Prefeitura de São Paulo apresenta debate sobre ônibus a GNV e biometano, com primeira unidade em preparação.",
+    "data": "24/03/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "PMEs",
+    "titulo": "IFC e Banco Industrial do Brasil ampliam financiamento para PMEs ...",
+    "link": "https://www.ifc.org/pt/pressroom/2025/ifc-and-banco-industrial-expand-financing-for-smes-women-legal-amazon",
+    "descricao": "O investimento apoiará em particular negócios liderados por mulheres e ajudará a expandir os serviços financeiros na região da Amazônia Legal ...",
+    "data": "2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "PMEs",
+    "titulo": "Amazon busca fechar parceria com 1,9 mil PMEs para ampliar ...",
+    "link": "https://revistapegn.globo.com/negocios/noticia/2025/03/amazon-busca-fechar-parceria-com-19-mil-pmes-para-ampliar-logistica-regional-no-brasil.ghtml",
+    "descricao": "Amazon busca fechar parceria com 1,9 mil PMEs para ampliar logística regional no Brasil. Programa Amazon Hub atualmente tem 250 pequenos ...",
+    "data": "2025-03",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "PMEs",
+    "titulo": "Geração X lidera projeções de expansão das PMEs em 2025",
+    "link": "https://www.poder360.com.br/poder-empreendedor/geracao-x-lidera-projecoes-de-expansao-das-pmes-brasileiras-em-2025/",
+    "descricao": "Geração X lidera projeções de expansão das PMEs brasileiras em 2025. Pesquisa do Itaú revela que 62% dos líderes entre 41 e 60 anos planejam ...",
+    "data": "2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "PMEs",
+    "titulo": "O papel da liderança comercial no crescimento de PMEs",
+    "link": "https://economiasp.com/2025/04/04/o-papel-da-lideranca-comercial-no-crescimento-de-pmes/",
+    "descricao": "Para as PMEs, o crescimento sustentável depende de uma abordagem equilibrada. O erro de buscar crescimento exagerado sem uma estrutura robusta ...",
+    "data": "2025-04",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "PMEs",
+    "titulo": "Nuvemshop aposta no crescimento das PMEs em 2025 apesar do ...",
+    "link": "https://agenciadcnews.com.br/nuvemshop-aposta-no-crescimento-das-pmes-em-2025-apesar-do-ambiente-economico-desfavoravel/",
+    "descricao": "Nuvemshop aposta no crescimento das PMEs em 2025 apesar do cenário econômico difícil.",
+    "data": "2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "PMEs",
+    "titulo": "PMEs geram 11,3 bilhões em vendas online por meio do marketplace",
+    "link": "https://valoragregado.com/pmes-geram-113-bilhoes-em-vendas-online-por-meio-do-marketplace/",
+    "descricao": "A edição de 2025 acontece no dia 6 de maio, em São Paulo/SP.",
+    "data": "2025-05-06",
+    "municipio": "São Paulo"
+  }
+]
+```

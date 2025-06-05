@@ -1,0 +1,476 @@
+```json
+[
+    {
+        "categoria": "Restaurantes",
+        "titulo": "De bar 'raiz' a hamburgueria, 6 lugares para conhecer em SP em 2025",
+        "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/01/18/resolucoes-de-2025-os-restaurantes-que-precisamos-conhecer.htm",
+        "descricao": "Uma lista de seis lugares autênticos que prometem estar na moda este ano, abrangendo diversas ofertas gastronômicas.",
+        "data": "2025-01-18",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Os 39 melhores restaurantes de São Paulo segundo ranking EXAME Casual 2025",
+        "link": "https://exame.com/casual/os-melhores-restaurantes-de-sao-paulo-segundo-ranking-exame-casual-2025/",
+        "descricao": "A seleção dos melhores restaurantes de São Paulo, abrangendo uma grande variedade de vertentes gastronômicas.",
+        "data": "2025-04-28",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Descubra mais de 15 novos restaurantes para visitar em São Paulo",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/descubra-mais-de-15-novos-restaurantes-para-visitar-em-sao-paulo/",
+        "descricao": "Artigo sobre novos restaurantes em São Paulo, incluindo opções sofisticadas e mais descomplicadas.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Novos restaurantes de SP para conhecer já!",
+        "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/04/12/novos-restaurantes-de-sp-para-conhecer-ja.htm",
+        "descricao": "Oportunidades de conhecer novos restaurantes em São Paulo, desde os mais descolados até os polêmicos.",
+        "data": "2025-04-12",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "10 Restaurantes de Chefes Famosos em São Paulo para Conferir em 2025",
+        "link": "https://alphafm.com.br/agenda/10-restaurantes-de-chefes-famosos-em-sao-paulo-para-conferir-em-2025/",
+        "descricao": "Uma lista dos imperdíveis de chefs renomados que estarão em alta este ano.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Fogo de Chão e omakassê de carne são novidades em SP",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/02/setima-unidade-do-fogo-de-chao-e-omakasse-de-carnes-sao-novidades-gastronomicas-em-sp.shtml",
+        "descricao": "A rede de churrascarias Fogo de Chão acaba de inaugurar sua sexta unidade no estado.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Veja 35 novos restaurantes e bares na Vila Madalena, em SP",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/04/vila-madalena-bairro-boemio-em-sp-vive-nova-fase-de-restaurantes-e-bares-de-coquetelaria.shtml",
+        "descricao": "Vila Madalena se renova com 35 novos restaurantes e bares, enfatizando a coquetelaria e a comida autoral.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Vale a pena conhecer os novos restaurantes de SP? O que esperar ...",
+        "link": "https://www.estadao.com.br/paladar/radar/novos-restaurantes-sp-novidades-2025/",
+        "descricao": "Uma análise sobre as novidades na cena gastronômica de São Paulo, incluindo bares e restaurantes com propostas inovadoras.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "SP Restaurant Week 2025: quando acontece o evento e quais restaurantes participam?",
+        "link": "https://www.estadao.com.br/paladar/restaurantes-e-bares/restaurant-week-2025-festival-conta-com-menus-completos-a-partir-de-r-5490/",
+        "descricao": "O evento traz menus especiais em diversos restaurantes renomados e ocorre em abril de 2025.",
+        "data": "2025-04-11",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "10 restaurantes que abriram em 2024 pra você conhecer em 2025",
+        "link": "https://www.instagram.com/tipsbygelly/reel/DETE4EDy5VZ/10-restaurantes-que-abriram-em-2024-pra-voc%C3%AA-conhecer-em-2025-parte-2-com-a-list/?hl=en",
+        "descricao": "Parte 2 com a lista de algumas novidades que eu conheci esse ano, testadas e recomendadas.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Registro abre a temporada 2025 do Festival Sabor de São Paulo",
+        "link": "https://registro.sp.gov.br/registro-abre-a-temporada-2025-do-festival-sabor-de-sao-paulo/",
+        "descricao": "O município de Registro sediará a abertura do Sabor São Paulo, com workshops e festival gastronômico aberto ao público.",
+        "data": "2025-02-19",
+        "municipio": "Registro"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Rede de restaurantes mundialmente famosa abrirá unidade no litoral de São Paulo",
+        "link": "https://www.gazetasp.com.br/entretenimento/rede-restaurantes-mundialmente-famosa-abrira-unidade-litoral-sao-paulo/1150439/",
+        "descricao": "A inauguração está prevista para ocorrer em abril de 2025, marcando a estreia da marca no litoral de São Paulo.",
+        "data": "2025-01-01",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Hard Rock Cafe terá unidade no litoral de São Paulo",
+        "link": "https://viagemeturismo.abril.com.br/brasil/hard-rock-cafe-tera-unidade-no-litoral-de-sao-paulo/",
+        "descricao": "Hard Rock Cafe terá unidade no litoral de São Paulo. O restaurante deve ser inaugurado no primeiro semestre de 2025.",
+        "data": "2025-01-01",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Cidade do interior de SP tem restaurante feito de material 100%",
+        "link": "https://www.diariodolitoral.com.br/diario-mais/cidade-do-interior-de-sp-tem-restaurantes-feito-de-material-100/190989/",
+        "descricao": "Litoral brasileiro ganha restaurante suspenso a trinta metros de altura; conheça.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Brazil reforestation startup Mombak raises $30 million in USV-led round",
+        "link": "https://www.reuters.com/sustainability/climate-energy/brazil-reforestation-startup-mombak-raises-30-million-usv-led-round-2025-04-29/",
+        "descricao": "Brazilian reforestation firm Mombak has secured $30 million in a funding round led by venture capital firm Union Square Ventures (USV), with plans to restore degraded farm land.",
+        "data": "2025-04-29",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Latin America Startup Funding Fell Sequentially In Q1",
+        "link": "https://news.crunchbase.com/venture/latin-america-startup-funding-fell-q1-2025/",
+        "descricao": "Latin America startup investment declined sequentially in the first quarter of this year, driven by a drop in later-stage dealmaking.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Brazil's Top 10 Startups That Tech Professionals Should Watch Out For",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+        "descricao": "In 2025, Brazil's startup ecosystem is a powerhouse valued at $117 billion, driven by key sectors including fintech and agtech.",
+        "data": "2025-02-18",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "66 Best Startups in Sao Paulo State to Watch in 2025",
+        "link": "https://www.seedtable.com/best-startups-in-sao-paulo-state",
+        "descricao": "Explore the fastest growing startups in Sao Paulo State with insights on funding and industry trends.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Gringo: Revolutionizing Automotive Services",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025#gringo",
+        "descricao": "Gringo has become a game-changer for automotive services, reaching 10 million drivers in Brazil and simplifying vehicle documentation.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Latitud: Bridging Business Across Latin America",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025#latitud",
+        "descricao": "Latitud has become a go-to platform for emerging founders across Latin America with a major fund for new startups.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Tenchi Security: Safeguarding Digital Frontiers",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025#tenchi",
+        "descricao": "Tenchi Security recently secured $7 million in Series A investment for their cybersecurity solutions tailored for third-party risks.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Gabriel: Pioneering Smart City Technology",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025#gabriel",
+        "descricao": "Gabriel is transforming urban safety in Latin America with smart camera systems, significantly improving crime detection capabilities.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Housi: Innovating Real Estate Solutions",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025#housi",
+        "descricao": "Housi has pioneered flexible housing solutions in Brazil, projected to significantly scale with recent venture funding.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Cellva Ingredients: Leading CleanTech/FoodTech Innovation",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025#cellva",
+        "descricao": "Cellva is revolutionizing food tech with lab-grown animal fats that are sustainable and efficient.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Estrangeiros aplicam R$ 10,9 BI na bolsa em 2025; veja histórico",
+        "link": "https://quantumfinance.com.br/estrangeiros-fogem-da-bolsa-brasileira-em-2024-veja-historico/",
+        "descricao": "Investidores estrangeiros voltam a olhar para a bolsa brasileira após retirarem mais de R$ 20 bilhões em recursos em 2024. Leia mais.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Saldo de investidores estrangeiros cresce e acumula R$ 7 bilhões em 2025",
+        "link": "https://trademap.com.br/agencia/saldo-de-investidores-estrangeiros-cresce-e-acumula-r-7-bilhoes-em-2025-mesmo-com-desafios-globais",
+        "descricao": "As primeiras semanas de fevereiro de 2025 têm sido marcadas por um cenário positivo para o fluxo de investidores estrangeiros na B3.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Afastados da bolsa, por que estrangeiros investiram R$ 6,5 bilhões em 2025",
+        "link": "https://valor.globo.com/financas/noticia/2025/01/20/estrangeiros-aportam-r-65-bilhoes-na-b3-em-16-de-janeiro-e-alcanam-supervit-pela-primeira-vez-em-2025.ghtml",
+        "descricao": "Entrada de R$ 6,5 bilhões por investidores estrangeiros na B3 é o maior ingresso diário em 13 anos.",
+        "data": "2025-01-20",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Por que forte entrada de capital estrangeiro no país surpreende analistas",
+        "link": "https://veja.abril.com.br/coluna/radar-economico/por-que-forte-entrada-de-capital-estrangeiro-no-pais-surpreende-analistas/",
+        "descricao": "O Banco Central revelou que os investimentos estrangeiros diretos no Brasil alcançaram 9,3 bilhões de dólares em fevereiro de 2025.",
+        "data": "2025-01-26",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "2025 inicia com fortes entradas de fluxos estrangeiros",
+        "link": "https://conteudos.xpi.com.br/acoes/relatorios/2025-inicia-com-fortes-entradas-de-fluxos-estrangeiros-fluxo-em-foco/",
+        "descricao": "Em janeiro, os investidores estrangeiros foram compradores líquidos de ações no Brasil, registrando um fluxo líquido positivo de R$ 11,3 bilhões.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Fluxo de capital estrangeiro fica negativo na Bolsa em abril",
+        "link": "https://oglobo.globo.com/economia/financas/noticia/2025/04/23/bye-bye-brasil-fluxo-de-capital-estrangeiro-fica-negativo-na-bolsa-brasileira.ghtml",
+        "descricao": "Investidores estrangeiros retiram R$ 10,8 bilhões da B3 em abril de 2025.",
+        "data": "2025-04-23",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Investimento estrangeiro cresce e atinge US$ 9,3 bilhões em fevereiro",
+        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/investimento-estrangeiro-cresce-e-atinge-us-93-bilhoes-em-fevereiro/",
+        "descricao": "O resultado do mês de fevereiro de 2025 foi um dos mais altos da série histórica, iniciada pelo BC em 1995.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP investe R$60 milhões para investir em infraestrutura e energia renovável no agronegócio",
+        "link": "https://agricultura.sp.gov.br/2025/05/01/sp-investe-r60-milhoes-para-investir-em-infraestrutura-e-energia-renovavel-no-agronegocio/",
+        "descricao": "O Governo de SP anuncia, na Agrishow 2025, o investimento de R$ 60 milhões destinados à logística rural e biocombustíveis.",
+        "data": "2025-05-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Com investimento recorde, infraestrutura brasileira evolui em dois anos",
+        "link": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2025/04/Com-investimento-recorde-infraestrutura-brasileira-evolui-em-dois-anos-e-garante-beneficios-a-populacao-afirma-Silvio-Costa-Filho",
+        "descricao": "Para 2025, estão previstos 21 arrendamentos e uma concessão, que somarão R$ 19,85 bilhões.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Estado de São Paulo avança no Plano de Logística e Investimentos",
+        "link": "https://semil.sp.gov.br/2025/04/estado-de-sao-paulo-avanca-no-plano-de-logistica-e-investimentos-com-articulacao-interinstitucional/",
+        "descricao": "Estamos estruturando um plano estratégico com horizonte até 2050 para a infraestrutura logística de São Paulo.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo de SP regulamenta o uso de faixas de domínio de rodovias",
+        "link": "https://semil.sp.gov.br/2025/04/governo-de-sp-anuncia-regulamentacao-inedita-que-permite-aos-produtores-rurais-usarem-faixas-de-dominio-de-rodovias-estaduais-para-ampliar-areas-de-plantio/",
+        "descricao": "Portaria do DER-SP regulamenta uso do entorno de rodovias, focando na redução de incêndios.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Infraestrutura: 2025 será o ano dos leilões",
+        "link": "https://portalbenews.com.br/opiniao/infraestrutura-2025-sera-o-ano-dos-leiloes/",
+        "descricao": "Serão pelo menos 87 concessões no setor de infraestrutura de transportes, abrangendo novos trechos de estradas.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura",
+        "link": "https://www.parceriaseminvestimentos.sp.gov.br/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+        "descricao": "O Governo de São Paulo prevê novos investimentos com R$ 50 bilhões em leilões e melhorias em rodovias.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "São Paulo apresenta 4.035 propostas para equipamentos e obras no novo PAC",
+        "link": "https://www.gov.br/secom/pt-br/assuntos/noticias-regionalizadas/novo-pac-selecoes-2025/sao-paulo-apresenta-4-035-propostas-para-equipamentos-e-obras-no-novo-pac-selecoes",
+        "descricao": "O programa vai investir R$ 49,2 bilhões em 19 tipos de empreendimentos no estado.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Tarcísio de Freitas apresenta panorama de infraestrutura de São Paulo",
+        "link": "https://noticias.portaldaindustria.com.br/noticias/infraestrutura/tarcisio-de-freitas-apresenta-panorama-de-infraestrutura-de-sao-paulo-ao-forum-nacional-da-industria/",
+        "descricao": "Reunião discutiu reforma tributária e transição energética com foco na infraestrutura.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Notícias sobre obras de infraestrutura",
+        "link": "https://www1.folha.uol.com.br/folha-topicos/infraestrutura/",
+        "descricao": "Leia notícias sobre infraestrutura de transporte, saneamento e outros tipos.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP pra Toda Obra vai modernizar 22,3 mil km de rodovias, estradas ...",
+        "link": "https://semil.sp.gov.br/2025/04/sp-pra-toda-obra-melhorias-viarias-encurtam-distancias-garantem-seguranca-e-melhoram-renda-em-sp/",
+        "descricao": "SP pra Toda Obra vai modernizar 22,3 mil km de rodovias, estradas e vicinais. 04/04/2025. Investimentos de R$ 30 bilhões do governo paulista e ...",
+        "data": "2025-04-04",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP pra Toda Obra: Governo do Estado lança maior programa de ...",
+        "link": "https://sp.gov.br/sp/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziDSzMTIyM3Q2MA4KDnA3MfA0tnX0t3Yw9nY31wyEKcABHA_0oovTjVhCF3_hw_ShCSgpyQyMM0hUVAcr914U!/?1dmy&urile=wcm%3Apath%3A/wcm/connect/saopaulo_content/saopaulo/canais+de+comunicacao/noticias/sp+pra+toda+obra+governo+do+estado+lanca+maior+programa+de+modernizacao+do+sistema+rodoviario+da+historia+e+soma+r%24+30+bi+de+investimentos",
+        "descricao": "SP pra Toda Obra: Governo do Estado lança maior programa de modernização do sistema rodoviário da história e soma R$ 30 bilhões de investimentos.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP mais que dobra recursos para investimentos em projetos de ...",
+        "link": "https://www.investe.sp.gov.br/noticia/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+        "descricao": "O Governo de São Paulo prevê novos investimentos para 2025, com R$ 50 bilhões em leilões, expansão da rede de saúde e melhorias em rodovias.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Cidade que mais cresce na Baixada Santista é comparada a Miami",
+        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2025/03/17/cidade-que-mais-cresce-no-litoral-de-sp-e-comparada-a-miami.ghtml",
+        "descricao": "O município de Praia Grande, no litoral de São Paulo, registrou o maior crescimento populacional da Baixada Santista. A comparação com a cidade ...",
+        "data": "2025-03-17",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Moradores de Itanhaém (SP) reclamam de falta de infraestrutura e ...",
+        "link": "https://noticias.r7.com/sao-paulo/litoral-vale/balanco-geral-litoral/moradores-de-itanhaem-sp-reclamam-de-falta-de-infraestrutura-e-de-rua-esburacada-na-regiao-02052025/",
+        "descricao": "Os moradores do bairro Tropical em Itanhaém (SP) enfrentam sérios problemas de infraestrutura, com ruas esburacadas, poças d'água e esgoto.",
+        "data": "2025-05-02",
+        "municipio": "Itanhaém"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Environmental groups blast JBS's US listing approval",
+        "link": "https://www.reuters.com/sustainability/climate-energy/environmental-groups-blast-jbss-us-listing-approval-wall-street-praises-it-2025-05-02/",
+        "descricao": "This year, JBS stock rose some 24% on the Sao Paulo Stock Exchange on expectations that the SEC would approve the U.S. listing, prompting criticism from environmental groups.",
+        "data": "2025-05-02",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Brazil Aims to Attract $20 Billion for ESG Projects Using $2 Billion Climate Fund",
+        "link": "https://esgnews.com/brazil-aims-to-attract-20-billion-for-esg-projects-using-2-billion-climate-fund-leverage/",
+        "descricao": "Brazil launches a new investment vehicle to boost sustainable projects, aiming to generate $10-20 billion in financing.",
+        "data": "2025-04-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "JBS plans New York listing amidst criticism",
+        "link": "https://www.reuters.com/business/esg-draws-criticism-amid-jbs-us-listing-2025-05-02/",
+        "descricao": "Environmentalists criticize JBS's dual listing plan in the context of its environmental record and historical shortfalls.",
+        "data": "2025-05-02",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Alerta PMEs: Inadimplência e Risco de Falência em 2025!",
+        "link": "https://jcagudos.com.br/noticia/9985/alerta-pmes-inadimplencia-e-risco-de-falencia-em-2025.html",
+        "descricao": "O ambiente econômico desafiador, marcado por altas taxas de juros e inflação, impacta negativamente a saúde financeira das PMEs em 2025.",
+        "data": "2025-02-26",
+        "municipio": "Agudos"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Fora das capitais, franquias do interior ganham espaço no mercado",
+        "link": "https://exame.com/pme/franquias-interior-ganham-espaco/",
+        "descricao": "Pequenos negócios do interior e litoral unem gestão e propósito para prosperar no mercado de franchising.",
+        "data": "2025-01-01",
+        "municipio": "Caraguatatuba"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Cidade do litoral de SP terá novo aeroporto; saiba onde é e quando abrirá",
+        "link": "https://www.estadao.com.br/sao-paulo/cidade-do-litoral-de-sp-tera-novo-aeroporto-saiba-onde-e-e-quando-vai-operar/",
+        "descricao": "Terminal com estrutura para operar voos comerciais deve receber primeiros aviões no primeiro semestre de 2026.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Rodovias do interior e litoral de SP registram congestionamento",
+        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/04/18/descida-para-o-litoral-de-sp-tem-mais-de-20km-de-lentidao-no-sistema-anchieta-imigrantes-na-manha-desta-sexta-feira-santa.ghtml",
+        "descricao": "O feriado de Páscoa e Tiradentes trouxe um aumento significativo no trânsito nas rodovias que levam ao interior e litoral de SP.",
+        "data": "2025-04-18",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Concessionária Novo Litoral começa a atender com motos em rodovias",
+        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2025/03/18/concessionaria-novo-litoral-comeca-a-atender-com-motos-em-rodovias-no-interior-e-litoral-de-sp.ghtml",
+        "descricao": "Serviço de atendimento com motos já está disponível em trechos administrados pela nova concessionária que liga o Alto Tietê ao litoral e interior.",
+        "data": "2025-03-18",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Aumento na demanda por produtos de higiene e limpeza gera oportunidade para PMEs",
+        "link": "https://www.estadao.com.br/economia/aumento-na-demanda-por-produtos-de-higiene-e-limpeza-gera-oportunidade-para-pmes/",
+        "descricao": "Com a pandemia, o aumento na procura por produtos de higiene criou uma nova perspectiva para micro e pequenas empresas do setor.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Novas startups de São Paulo buscam inovação em sustentabilidade",
+        "link": "https://exame.com/pme/startups-sao-paulo-inovacao-sustentabilidade-2025/",
+        "descricao": "O ecossistema de startups em São Paulo se expande, com foco em soluções sustentáveis e de impacto social.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Corte de linhas de crédito está afetando PMEs no interior de SP",
+        "link": "https://www.uol.com.br/economia/noticias/2025/03/30/corte-de-linhas-de-credito-afeta-pmes-no-interior-de-sp.htm",
+        "descricao": "A redução no acesso ao crédito tem dificultado a recuperação das micro e pequenas empresas em várias regiões do interior.",
+        "data": "2025-03-30",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Empreendedores são impactados pela inflação alta em 2025",
+        "link": "https://g1.globo.com/economia/noticia/2025/04/10/empreendedores-sao-impactados-pela-inflacao-alta-em-2025.ghtml",
+        "descricao": "As pequenas empresas enfrentam desafios financeiros devido às taxas elevadas e à inflação, afetando o fluxo de caixa e como resultado a atividade econômica.",
+        "data": "2025-04-10",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Programa de apoio às PMEs em São Paulo é ampliado em 2025",
+        "link": "https://ccisp.net/2025/01/05/programa-apoio-pmes-amplia/",
+        "descricao": "Novo apoio financeiro e capacitação para pequenas empresas foi anunciado pelo governo de SP.",
+        "data": "2025-01-05",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Feiras de empreendedorismo no interior de SP reúnem pequenos empresários",
+        "link": "https://www.estadao.com.br/sao-paulo/feiras-empresariais-interior-sp/",
+        "descricao": "Eventos de feiras ajudam no network e expansão das pequenas empresas em diversas regiões.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    }
+]
+```

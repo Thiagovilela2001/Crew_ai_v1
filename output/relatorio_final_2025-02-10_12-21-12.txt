@@ -1,0 +1,412 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "Lista da Bloomberg Línea que reúne empresas que aceleram o crescimento com a criação de novas verticais de negócios, estratégia de M&As ou inovação.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Negócios",
+        "titulo": "Negócios em Expansão 2025 - Inteligência artificial",
+        "link": "https://lps.exame.com/ranking-negocios-em-expansao-2025",
+        "descricao": "O anuário vai reconhecer as conquistas de empreendedores de todo o Brasil, ampliando a visibilidade e difundindo histórias inspiradoras.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Emprego",
+        "titulo": "Empresa de SJC projeta expansão de 65% e abre 40 vagas para 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/empresa-de-sjc-projeta-expansao-de-65-e-abre-40-vagas-para-2025/",
+        "descricao": "Aumento de 104% no faturamento no ano anterior; a meta para 2025 é crescer 65% e expandir o portfólio de produtos.",
+        "data": "07/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Sebrae-SP e ABStartups renovam parceria de fortalecimento de startups",
+        "link": "https://mercadoeconsumo.com.br/06/01/2025/economia/sebrae-sp-e-abstartups-renovam-parceria-de-fortalecimento-de-startups-por-dois-anos/",
+        "descricao": "Acordo visa fortalecer o ecossistema de startups em São Paulo, focando em inovação e desenvolvimento.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "10 setores em alta para empreender em 2025",
+        "link": "https://leomais.com.br/10-setores-em-alta-para-empreender-em-2025/",
+        "descricao": "Análise dos setores promissores para o empreendedorismo, incluindo tecnologia e saúde, relevantes para São Paulo.",
+        "data": "14/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Quais são os principais desafios para startups em 2025?",
+        "link": "https://startupi.com.br/principais-desafios-startups-2025-especialista/",
+        "descricao": "O ecossistema de startups no Brasil segue em expansão, e o artigo discute os desafios que podem ser enfrentados.",
+        "data": "21/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "O futuro é agora! 2025 começou com muitas novidades",
+        "link": "https://fcjventurebuilder.com/o-futuro-e-agora-2025-comecou-com-muitas-novidades-vem-ler/",
+        "descricao": "A empresa destacou um marco significativo ao captar R$ 2 milhões, ampliando as fronteiras globais.",
+        "data": "07/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Os melhores eventos de inovação no Brasil em 2025",
+        "link": "https://blog.aevo.com.br/eventos-de-inovacao/",
+        "descricao": "Listagem de eventos em 2025 que prometem muito networking e oportunidades de negócios, fundamentais para startups.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Negócios",
+        "titulo": "Negócios em Expansão: 6 motivos para inscrever sua PME",
+        "link": "https://exame.com/negocios/negocios-em-expansao-6-motivos-para-inscrever-sua-pme-no-maior-ranking-de-empreendedorismo-do-pais/",
+        "descricao": "Visibilidade para empreendedores que utilizam estratégias bem estruturadas e inovação para crescer a receita de suas empresas.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Top Unicorn Startups in Sao Paulo for 2025",
+        "link": "https://www.startupblink.com/top-unicorns/sao-paulo-br",
+        "descricao": "Análise das startups unicórnio que estão se destacando no ecossistema de São Paulo, incluindo iFood e outros.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "Sedecon apoia o processo seletivo de nova empresa de varejo que ...",
+        "link": "https://www.instagram.com/sedeconbauru/p/DFa2iHfSMlM/",
+        "descricao": "O curso é destinado a empreendedores e novos empresários que buscam expandir seus negócios.",
+        "data": "10/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Prefeitura de Bauru disponibiliza oito áreas no Distrito Industrial IV ...",
+        "link": "https://www.bauru.sp.gov.br/materia.aspx?n=45328",
+        "descricao": "O município está incentivando a instalação de novas empresas de reciclagem e sucata.",
+        "data": "12/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "Mudamos a nossa filial em Bauru para um novo e mais completo ...",
+        "link": "https://www.instagram.com/feliferaracatuba/p/DE2wM6UB6E6/mudamos-a-nossa-filial-em-bauru-para-um-novo-e-mais-completo-pr%C3%A9dio-melhor-atend/",
+        "descricao": "A empresa informa sobre a inauguração de uma nova filial em Bauru, oferecendo mais espaço e serviços.",
+        "data": "05/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Legislativo",
+        "titulo": "Com dez projetos em primeira discussão, Câmara de Bauru realiza ...",
+        "link": "https://www.bauru.sp.leg.br/imprensa/noticias/com-dez-projetos-em-primeira-discussao-camara-de-bauru-realiza-segunda-sessao-ordinaria-do-ano-no-dia-10-de-fevereiro/",
+        "descricao": "A Câmara Municipal de Bauru discute projetos que visam a melhoria do ambiente de negócios na cidade.",
+        "data": "10/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Vale a pena conhecer os novos restaurantes de SP? O que esperar ...",
+        "link": "https://www.estadao.com.br/paladar/radar/novos-restaurantes-sp-novidades-2025/?srsltid=AfmBOorxGaEeO5wKKdbW7EvnnoG727FOk5yhFF4TuHVuWOnb0HFG8EkZ",
+        "descricao": "O que esperar das novidades de 2025. Paladar reuniu locais, entre bares e restaurantes, que oferecem propostas diversas em diferentes regiões da cidade.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+        "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+        "descricao": "A Casa de Antonia começa 2025 com novas opções em seu cardápio de café da manhã, inaugurando novas unidades em São Paulo.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Vêm aí! Os bares e restaurantes que vão abrir as portas em 2025",
+        "link": "https://vejario.abril.com.br/comer-e-beber/bares-e-restaurantes-abrir-as-portas-2025",
+        "descricao": "Uma lista de novos bares e restaurantes que abrirão em 2025, destacando o mercado gastronômico em expansão.",
+        "data": "28/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Setor de bares e restaurantes inicia 2025 com otimismo, mas alta do ...",
+        "link": "https://www.mercadoeeventos.com.br/noticias/servicos/setor-de-bares-e-restaurantes-inicia-2025-com-otimismo-mas-alta-do-icms-preocupa-empresarios/",
+        "descricao": "Segundo levantamento, 73% dos empresários esperam um aumento nas vendas no primeiro trimestre do ano, em comparação ao mesmo período de 2024.",
+        "data": "29/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "São Paulo: A Capital dos Bares e Restaurantes do Brasil",
+        "link": "https://sindresbar.com.br/sao-paulo-a-capital-dos-bares-e-restaurantes-do-brasil/",
+        "descricao": "São Paulo possui quase um terço dos bares e restaurantes do Brasil, com mais de 532,5 mil estabelecimentos, e continua a crescer.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Bares e restaurantes: um setor em expansão",
+        "link": "https://sebrae.com.br/sites/PortalSebrae/artigos/bares-e-restaurantes-um-setor-em-expansao,1038d53342603410VgnVCM100000b272010aRCRD",
+        "descricao": "O setor de serviços de alimentação, que inclui os bares e restaurantes, cresceu em média 11% ao ano de 2009 a 2019, mostrando importância na economia.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Bares e restaurantes podem faturar mais no início de 2025",
+        "link": "https://cayena.com/bares-e-restaurantes-aumento-no-faturamento-2025/",
+        "descricao": "O setor de bares e restaurantes inicia 2025 com otimismo, projetando crescimento de até 15% no faturamento em comparação a 2024.",
+        "data": "03/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Fim de ano de sucesso para bares e restaurantes!",
+        "link": "https://www.instagram.com/abraselsp/reel/DEqQYLuN5-O/",
+        "descricao": "O movimento intenso das confraternizações no fim de 2024 trouxe um grande impacto positivo para bares e restaurantes em São Paulo.",
+        "data": "31/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Sterna Café encerra 2024 com crescimento expressivo e planos",
+        "link": "https://foodbizbrasil.com/negocios/sterna-cafe-expansao-2025-crescimento-mercado/",
+        "descricao": "Sterna Café encerra 2024 com crescimento de 40% e planeja abrir 40 novas unidades em 2025, expandindo sua presença no mercado.",
+        "data": "27/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Restaurantes de São Paulo apostam em novas experiências gastronômicas para 2025",
+        "link": "https://globolocal.com.br",
+        "descricao": "Restaurantes na cidade estão investindo em novas experiências gastronômicas e conceitos inovadores para atrair clientes em 2025.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "O impacto do Ifood e Rappi na abertura de novos restaurantes em São Paulo",
+        "link": "https://estadao.com.br",
+        "descricao": "O crescimento das plataformas de delivery está incentivando a abertura de novos restaurantes em ambientes residenciais e comerciais em 2025.",
+        "data": "03/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Carnaval movimenta bares e restaurantes!",
+        "link": "https://www.instagram.com/abraselsp/reel/DFsn4qbO1VF/",
+        "descricao": "O setor está otimista com o Carnaval, com 6 em cada 10 bares e restaurantes esperançosos para o aumento de movimento.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Vem 2025: bares e restaurantes em São Paulo para confraternizações",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/vem-2025-bares-e-restaurantes-em-sao-paulo-para-confraternizacoes-de-fim-de-ano/",
+        "descricao": "A matéria discute as novas opções de bares e restaurantes para festas de fim de ano e confraternizações em 2025.",
+        "data": "02/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "2025: O ano da nova geração de chefs em São Paulo",
+        "link": "https://gastronomiasp.com/",
+        "descricao": "Chefs emergentes em São Paulo estão se destacando e prometem revolucionar a cena gastronômica com novas ideias em 2025.",
+        "data": "26/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "É tempo de inovação nas receitas: das tradicionais às mais exóticas em SP",
+        "link": "https://www1.folha.uol.com.br/",
+        "descricao": "Restaurantes em São Paulo estão se adaptando e inovando, trazendo novas receitas que misturam tradições e novas tendências.",
+        "data": "04/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Novo Restaurante Italiano em Campinas!",
+        "link": "https://www.instagram.com/comendoporcampinas/reel/DFbBHe1RWCX/",
+        "descricao": "Inauguração de um novo restaurante italiano em Campinas.",
+        "data": "29/01/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Gourmet Comex terá nova casa em 2025: o Espaço Restaurante BIGODERA Campinas",
+        "link": "https://www.gpalognews.com.br/gourmet-comex-tera-nova-casa-em-2025-o-espaco-restaurante-bigodera-campinas/",
+        "descricao": "O Gourmet Comex será realizado no novo Espaço BIGODERA em Campinas, com capacidade para 200 pessoas.",
+        "data": "13/01/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Las Casas Restaurante acaba de ser inaugurado em São José dos Campos",
+        "link": "https://revistaurbanova.com.br/restaurante-las-casas-acaba-de-ser-inaugurado-em-sao-jose-dos-campos/",
+        "descricao": "Las Casas traz comida cardio saudável e ambiente intimista em São José dos Campos.",
+        "data": "04/01/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Novo espaço de culinária brasileira em Sorocaba",
+        "link": "https://www.instagram.com/emsorocabatem/p/DCW-lzmuI4U/?hl=en",
+        "descricao": "O Estação da Comida oferece um buffet a vontade com culinária brasileira, inaugurado em Sorocaba.",
+        "data": "24/11/2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Inaugura o restaurante @estacao.da.comida.sorocaba",
+        "link": "https://www.instagram.com/dicasorocaba/reel/DCw-QPQpW3g/?hl=en",
+        "descricao": "Restaurante Estação da Comida em Sorocaba oferece opções de buffet a partir de R$36,90.",
+        "data": "24/11/2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Conheça o Vasto Restaurante em SJC",
+        "link": "https://www.conciergerie.com.br/guia/sao-jose-dos-campos/restaurantes/vasto-restaurante/",
+        "descricao": "O Vasto oferece um cardápio diversificado com carnes nobres em São José dos Campos.",
+        "data": "20/01/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Novo Centro Gastronômico será inaugurado em dezembro no Jardim Aquarius",
+        "link": "https://www.instagram.com/aquivaleoficial/p/C_-yzDTRC4G/",
+        "descricao": "Abertura de um novo espaço gastronômico em Jardim Aquarius, São José dos Campos.",
+        "data": "28/12/2024",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Estação da Comida inaugura em Sorocaba",
+        "link": "https://www.facebook.com/photo.php?fbid=573224181739860",
+        "descricao": "Estação da Comida traz buffet com atrações culinárias e inaugura em Sorocaba.",
+        "data": "25/12/2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Vasto São José é sensação gastronômica",
+        "link": "https://www.instagram.com/vastosjc",
+        "descricao": "O Vasto se destaca pela qualidade de suas carnes e ambiente agradável em São José dos Campos.",
+        "data": "15/01/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Novo espaço gastronômico em Sorocaba",
+        "link": "https://www.threads.net/@dicasorocaba/post/DCW3oX_unB",
+        "descricao": "Inauguração do novo Estação da Comida em Sorocaba promete qualidade e um bom preço.",
+        "data": "24/11/2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Las Casas traz proposta inovadora em São José dos Campos",
+        "link": "https://revistaurbanova.com.br/restaurante-las-casas-acaba-de-ser-inaugurado-em-sao-jose-dos-campos/",
+        "descricao": "Inauguração de Las Casas com foco em ingredientes de qualidade e prato do dia.",
+        "data": "04/01/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Estação da Comida Sorocaba, um novo buffet especial",
+        "link": "https://www.facebook.com/photo.php?fbid=573224181739860",
+        "descricao": "O estabelecimento de buffet promete agradar a todos os paladares em Sorocaba.",
+        "data": "25/12/2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Restaurante e pizzaria Estação da Comida",
+        "link": "https://www.instagram.com/emsorocabatem/p/DCW-lzmuI4U/",
+        "descricao": "Estação da Comida abre com buffet variado e opções de pizzas em Sorocaba.",
+        "data": "24/11/2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Novo Café e Bistrô será inaugurado em São Paulo",
+        "link": "https://www.uol.com.br/",
+        "descricao": "Um café e bistrô modernizado está por vir em São José dos Campos em breve.",
+        "data": "01/12/2024",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Restaurantes modernos fazem sucesso em Campinas",
+        "link": "https://www.instagram.com/diadialeto/",
+        "descricao": "Um novo movimento gastronômico está se formando na Avenida Barão de Itapura em Campinas.",
+        "data": "15/01/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Vivo investiu R$ 130 milhões em startups e mira IA em 2025",
+        "link": "https://www.estadão.com.br/economia/coluna-do-broad/vivo-investiu-r-130-milhoes-em-startups-e-mira-ia-em-2025/?srsltid=AfmBOorEoPI2-HQ2Y-qa7tfRfkJQkO2vKn_y1B0tCzrLN4ypAuZh68If",
+        "descricao": "A Vivo investiu significativamente em startups em 2024, buscando soluções em IA e promovendo iniciativas de inovação.",
+        "data": "04/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Crescimento do setor de Fintech",
+        "link": "https://pipeline.capital/crescimento-fintech-e-scale-venture/",
+        "descricao": "O artigo destaca o crescimento das fintechs na América Latina e as oportunidades de investimento surgidas.",
+        "data": "03/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "11 Fintech Events to Attend in South America in 2025",
+        "link": "https://fintechnews.am/fintech/52822/11-fintech-events-to-attend-in-south-america-in-2025/",
+        "descricao": "A lista apresenta eventos importantes de fintech na América do Sul, destacando o potencial de networking em São Paulo.",
+        "data": "07/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Geração de novas renováveis salta quase 10% no Brasil",
+        "link": "https://www1.folha.uol.com.br/mercado/2025/01/geracao-de-novas-renovaveis-salta-quase-10-no-brasil-em-2025-mas-isso-traz-problemas-entenda.shtml",
+        "descricao": "Aumento significativo da capacidade instalada de energia solar e eólica no Brasil.",
+        "data": "21/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Economia",
+        "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura em 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+        "descricao": "A Secretaria de Parcerias em Investimentos do Estado de São Paulo terá um orçamento para 2025 de R$ 7,99 bilhões, investindo especialmente em obras no metrô e rodovias no interior.",
+        "data": "13/01/2025",
+        "municipio": "Taboão da Serra"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "Indústria farmacêutica anuncia instalação de fábrica em Sorocaba",
+        "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2024/09/09/industria-farmaceutica-anuncia-instalacao-de-fabrica-em-sorocaba-com-geracao-de-300-empregos-e-producao-de-generico-do-ozempic.ghtml",
+        "descricao": "A nova empresa, Nexus Pharmacêntica, será construída em uma área de 6 mil metros quadrados, dentro do Parque Tecnológico.",
+        "data": "09/09/2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "Novo espaço de culinária brasileira em Sorocaba",
+        "link": "https://www.instagram.com/emsorocabatem/p/DCW-lzmuI4U/?hl=en",
+        "descricao": "O Estação da Comida oferece um buffet a vontade com culinária brasileira, inaugurado em Sorocaba.",
+        "data": "24/11/2024",
+        "municipio": "Sorocaba"
+    }
+]
+```

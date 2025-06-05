@@ -1,0 +1,102 @@
+```json
+[
+    {
+        "titulo": "Novas fábricas aumentam capacidade da indústria automotiva",
+        "link": "https://www1.folha.uol.com.br/colunas/eduardosodre/2025/01/novas-fabricas-aumentarao-capacidade-da-industria-automotiva-em-2025.shtml",
+        "descricao": "O início das operações fabris das chinesas BYD e GWM vai aumentar a capacidade de produção da indústria automotiva nacional a partir de 2025.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Quimatic terá nova sede em 2025",
+        "link": "https://www.arandanet.com.br/revista/mm/noticia/9213-Quimatic-tera-nova-sede-em-2025.html",
+        "descricao": "A empresa Quimatic anunciou que vai construir uma nova fábrica em conceito modular, que permitirá triplicar a produção de especialidades químicas.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "GWM inaugurará nova fábrica no Brasil em maio de 2025",
+        "link": "https://www.lingopass.com.br/blog/gwm-inaugurara-fabrica-no-brasil-maio-2025",
+        "descricao": "A GWM abrirá sua primeira fábrica no Brasil em maio de 2025, impulsionando a indústria automotiva nacional e criando empregos em Iracemápolis.",
+        "data": "01/05/2025",
+        "municipio": "Iracemápolis"
+    },
+    {
+        "titulo": "Açaí Formosa prevê crescimento de 15% para 2025 e expansão para o interior de SP",
+        "link": "https://www.investe.sp.gov.br/noticia/acai-formosa-preve-crescimento-de-15-para-2025-e-expansao-para-interior-de-sp/",
+        "descricao": "A Açaí Formosa planeja abrir um novo centro de distribuição em São José do Rio Preto.",
+        "data": "2025",
+        "municipio": "São José do Rio Preto"
+    },
+    {
+        "titulo": "Valmet inaugura nova unidade industrial em Sorocaba, SP",
+        "link": "https://industriasa.com.br/com-investimento-de-r-33-milhoes-valmet-inaugura-nova-unidade-industrial-em-sorocaba-sp/",
+        "descricao": "Com investimento de R$ 33 milhões, a nova operação da Valmet em Sorocaba atenderá às indústrias de papel e celulose.",
+        "data": "01/04/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Australian Steakhouse chega em Marília",
+        "link": "https://marilianoticia.com.br/marilia-ganha-novo-ponto-de-referencia-gastronomica-com-o-australian-steakhouse/",
+        "descricao": "O Australian Steakhouse inaugurou em Marília, trazendo um ambiente australiano e pratos diferenciados.",
+        "data": "08/02/2025",
+        "municipio": "Marília"
+    },
+    {
+        "titulo": "Outback Steakhouse inaugura em São Carlos",
+        "link": "https://saocarlosnotoque.com/outback-steakhouse-inaugura-restaurante-no-iguatemi-sao-carlos/",
+        "descricao": "O Outback abrirá um novo restaurante em São Carlos, gerando 75 novos empregos.",
+        "data": "22/07/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "titulo": "Incubadora do Parque Tecnológico de Sorocaba já acelerou um total de 390 startups",
+        "link": "https://jornalznorte.com.br/sorocaba/incubadora-do-parque-tecnologico-de-sorocaba-ja-acelerou-um-total-de-390-startups",
+        "descricao": "A Hubiz, incubadora do Parque Tecnológico de Sorocaba, já acelerou 390 startups com foco em diversas áreas.",
+        "data": "16/02/2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Startups do agronegócio podem se inscrever no programa Speed Agro do Sebrae",
+        "link": "https://www.acidadeon.com/saocarlos/economia/sebrae-abre-inscricoes-para-programa-de-aceleracao-de-startups-do-agro-em-sao-carlos/",
+        "descricao": "O Sebrae oferece um programa de aceleração para startups do agronegócio, com foco em vendas e conexão com o ecossistema do agro.",
+        "data": "11/09/2024",
+        "municipio": "São Carlos"
+    },
+    {
+        "titulo": "Multinacional alemã inaugura primeira fábrica e centro de pesquisa no Brasil",
+        "link": "https://www.investe.sp.gov.br/noticia/multinacional-alema-inaugura-primeira-fabrica-e-centro-de-pesquisa-global-no-brasil/",
+        "descricao": "A DVA Agro inaugura sua primeira unidade fabril e centro de pesquisa em Indaiatuba.",
+        "data": "30/01/2025",
+        "municipio": "Indaiatuba"
+    },
+    {
+        "titulo": "Incubadora do Parque Tecnológico de Sorocaba já acelerou um total de 390 startups",
+        "link": "https://startupi.com.br/apoio-sebrae-greentech-faturar-18-milhao-em-2025/",
+        "descricao": "Yágua, uma startup de tecnologia sustentável, busca crescer e faturar alto com o apoio do SEBRAE.",
+        "data": "10/01/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Chinesa GAC chega em 2025 com investimento bilionário",
+        "link": "https://www.uol.com.br/carros/noticias/redacao/2024/12/12/montadora-chinesa-gac-chega-em-2025-ao-brasil-com-investimento-bilionario.htm",
+        "descricao": "A montadora chinesa GAC anunciou investimento de R$ 5,8 bilhões para sua nova fábrica em São Paulo, focando na produção de veículos elétricos.",
+        "data": "2025-01-20",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Montadoras chinesas começam a produzir carros elétricos no Brasil",
+        "link": "https://oglobo.globo.com/economia/negocios/noticia/2025/01/12/montadoras-chinesas-comecam-a-produzir-carros-eletricos-no-brasil-em-2025-e-acirram-disputa-no-mercado.ghtml",
+        "descricao": "As montadoras chinesas BYD e GWM iniciam a produção de um novo modelo de carros elétricos no Brasil em 2025.",
+        "data": "2025-01-12",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Stellantis vai contratar 1.500 no Brasil em 2025",
+        "link": "https://economia.uol.com.br/noticias/reuters/2025/01/30/stellantis-vai-contratar-1500-funcionarios-no-brasil-em-2025-lanca-marca-chinesa-leapmotor-em-abril.htm",
+        "descricao": "A Stellantis anunciou a criação de 1.500 novas vagas de emprego em São Paulo.",
+        "data": "2025-01-30",
+        "municipio": "São Paulo"
+    }
+]
+```

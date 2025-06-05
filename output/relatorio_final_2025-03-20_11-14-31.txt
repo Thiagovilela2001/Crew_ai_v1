@@ -1,0 +1,84 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "South Summit Brazil 2025: conheça as 50 startups finalistas da competição",
+        "link": "https://exame.com/negocios/south-summit-brazil-2025-conheca-as-50-startups-finalistas-da-competicao/",
+        "descricao": "O South Summit Brasil 2025 apresenta 50 startups finalistas que prometem inovação e crescimento, destacando várias localizadas em São Paulo.",
+        "data": "15/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "A lista da Bloomberg Línea reúne empresas promissoras que se destacam em inovações e captação de investimentos, com destaque para São Paulo.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Av. Rebouças: o novo polo de startups em São Paulo",
+        "link": "https://distrito.me/blog/av-reboucas-o-novo-polo-de-startups-em-sao-paulo/",
+        "descricao": "Este artigo explora o surgimento da Avenida Rebouças como um novo centro de inovação e startups em São Paulo.",
+        "data": "12/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Os 21 eventos de inovação mais aguardados de 2025",
+        "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+        "descricao": "A lista destaca eventos de inovação programados em São Paulo que promovem networking e desenvolvimento de startups em 2025.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "O artigo fornece uma lista de startups unicórnio no Brasil, destacando aquelas sediadas em São Paulo.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Negócios em Expansão 2025 - Inteligência artificial",
+        "link": "https://lps.exame.com/ranking-negocios-em-expansao-2025",
+        "descricao": "O ranking identifica os negócios em expansão no Brasil, incluindo uma análise de startups promissoras em São Paulo.",
+        "data": "07/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "São Paulo bate recorde em abertura de empresas, com média de quase mil novos negócios por dia",
+        "link": "https://www.investe.sp.gov.br/noticia/sao-paulo-bate-recorde-em-abertura-de-empresas-com-media-de-quase-mil-novos-negocios-por-dia/",
+        "descricao": "A reportagem destaca que São Paulo ultrapassou 647 mil novas empresas no acumulado de 2023 e 2024, revelando um crescimento significativo no setor.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Startup Day 2025: evento de empreendedorismo e inovação ocorre em 22 de março",
+        "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-evento-de-empreendedorismo-e-inovacao-ocorre-em-22-de-marco-no-noroeste-paulista",
+        "descricao": "O Startup Day 2025 promete ser um marco de inovação e networking em São Paulo, reunindo empreendedores e investidores.",
+        "data": "22/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "Biotrop fechará ano no 'azul' e vai abrir nova fábrica em SP em 2025",
+        "link": "https://revistarpanews.com.br/biotrop-fechara-ano-no-azul-e-vai-abrir-nova-fabrica-em-sp-em-2025/",
+        "descricao": "A Biotrop irá investir R$ 50 milhões em uma nova fábrica de biofungicidas em Jagariúna (SP), buscando eficiência e crescimento no setor de bioinsumos.",
+        "data": "14/03/2025",
+        "municipio": "Jagariúna"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Startup Day está com inscrições abertas para eventos em 3 cidades da região",
+        "link": "https://www.imparcial.com.br/noticias/startup-day-esta-com-inscricoes-abertas-para-eventos-em-3-cidades-da-regiao,71593",
+        "descricao": "O Startup Day 2025 será realizado em 22 de março em Presidente Prudente, Dracena e Osvaldo Cruz, promovendo a inovação e empreendedorismo com a participação de diversas instituições.",
+        "data": "14/03/2025",
+        "municipio": "Presidente Prudente, Dracena, Osvaldo Cruz"
+    }
+]
+```

@@ -1,0 +1,62 @@
+[
+    {
+        "categoria": "Financiamento",
+        "titulo": "Com R$ 44,5 mi, BNDES apoia expansão e modernização do Grupo Terraverde",
+        "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Com-R$-445-mi-BNDES-apoia-expansao-e-modernizacao-do-Grupo-Terraverde/",
+        "descricao_detalhada": "O BNDES apoiou a expansão e modernização do Grupo Terraverde com um investimento de R$ 44,5 milhões, visando atender à crescente demanda por máquinas e equipamentos em São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Ampliação",
+        "valor_estimado": "R$ 44,5 milhões",
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência BNDES"
+    },
+    {
+        "categoria": "Habitação",
+        "titulo": "Estado lança chamamento ao mercado para contratação de moradias em Santo André e Mauá",
+        "link": "http://www.dgabc.com.br/Noticia/4236482/estado-lanca-chamamento-ao-mercado-para-contratacao-de-moradias-em-santo-andre-e-maua",
+        "descricao_detalhada": "O Estado de São Paulo lançou um chamamento para a construção de moradias em 70 municípios, incluindo Santo André e Mauá, como parte de um projeto habitacional.",
+        "data": "2025",
+        "municipio": "Santo André e Mauá",
+        "tipo_investimento": "Implantação",
+        "valor_estimado": "Não informado",
+        "fonte_financiamento": "Governo do Estado",
+        "fonte_noticia": "D.GABC"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "CPFL Energia vê lucro recuar 8% no 1º trimestre do ano",
+        "link": "https://www.canalenergia.com.br/noticias/53311164/cpfl-energia-ve-lucro-recuar-8-no-1o-trimestre-do-ano",
+        "descricao_detalhada": "A CPFL Energia informa sobre a expansão de obra de R$ 1,1 bilhão no estado de São Paulo em 2025, que visa melhorias no fornecimento e infraestrutura energética.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Ampliação",
+        "valor_estimado": "R$ 1,1 bilhão",
+        "fonte_financiamento": "CPFL",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Agronegócio",
+        "titulo": "Irrigação nas áreas de renovação em 2025",
+        "link": "https://www.canaonline.com.br/conteudo/irrigacao-nas-areas-de-renovacao-em-2025.html",
+        "descricao_detalhada": "Regiões de São Paulo, especialmente Jaú, estão aumentando a adoção de tecnologias de irrigação visando melhorias na produtividade agrícola em 2025.",
+        "data": "2025",
+        "municipio": "Jaú",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "Não informado",
+        "fonte_financiamento": "Não informado",
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "categoria": "Energias Renováveis",
+        "titulo": "Indústria brasileira de etanol apresenta grande potencial de lucro",
+        "link": "http://www.canaonline.com.br/conteudo/industria-brasileira-de-etanol-apresenta-grande-potencial-de-lucro-com-captura-e-armazenamento-de-carbono.html",
+        "descricao_detalhada": "A indústria de etanol no estado de São Paulo pode capturar mais de 15 milhões de toneladas de CO2 por meio de práticas de captura e armazenamento neste ano.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Crescimento",
+        "valor_estimado": "Não informado",
+        "fonte_financiamento": "Não informado",
+        "fonte_noticia": "Cana Online"
+    }
+]

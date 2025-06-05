@@ -1,0 +1,228 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Aceleradoras dão impulso a empresas em crescimento",
+        "link": "https://www1.folha.uol.com.br/mpme/2024/09/aceleradoras-dao-impulso-a-empresas-em-crescimento.shtml",
+        "descricao": "O Sebrae tem programas gratuitos de aceleração e pré-aceleração de startups, com foco em empresas em crescimento em São Paulo.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Número de empresas de tecnologia em São Paulo cresce",
+        "link": "https://www.estadao.com.br/economia/agenda-sp-empresas-tecnologia/?srsltid=AfmBOopWFcsaYJl_sJQ9-cRX19qdzDEZzXnm93fr1tHeY5cJQTiciZlY",
+        "descricao": "O número de empresas de tecnologia em São Paulo alcança 340 mil, destacando a cidade como um polo tecnológico no Brasil.",
+        "data": "07/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Profissões em alta para 2025",
+        "link": "https://www1.folha.uol.com.br/sobretudo/carreiras/2025/01/carreiras-ligadas-a-tecnologia-agro-e-servico-estarao-em-alta-em-2025.shtml",
+        "descricao": "Pesquisa revela setores em crescimento em São Paulo, incluindo as áreas de tecnologia e serviços como foco para novos empreendimentos.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Inovação transversal",
+        "link": "https://bluestudio.estadao.com.br/noticias/mercado/inovacao-transversal/",
+        "descricao": "Empreendedores se unem em hubs para desenvolver soluções inovadoras voltadas ao agronegócio, uma tendência nas startups paulistanas.",
+        "data": "07/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup: notícias sobre empreendedorismo e inovação",
+        "link": "https://www1.folha.uol.com.br/mercado/startup/",
+        "descricao": "Seção da Folha apresenta atualizações sobre o mercado de startups, inovações e oportunidades em São Paulo.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "quais os caminhos para acelerar a economia de São Paulo",
+        "link": "https://www.estadao.com.br/economia/agenda-sp-desafios-economicos/?srsltid=AfmBOoqE82tJVk8Z96-u8cr5_MDehmmsJ2b6lDmuYOpHeQzuJSkdFr7U",
+        "descricao": "Análise dos desafios econômicos enfrentados por São Paulo e as estratégias para atrair investimentos e gerar crescimento.",
+        "data": "08/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Salário em dólar para home office em fevereiro",
+        "link": "https://www.estadao.com.br/economia/sua-carreira/salario-dolar-vagas-emprego-home-office-fevereiro-2025/?srsltid=AfmBOora1V5jm6mk7GG6g1UK6zIQbm6g3mgksV9AzVHXPCeXHwEa_CNj",
+        "descricao": "Vagas abertas em São Paulo com modelo remoto e pagamento em dólar, mostrando a diversificação de oportunidades de trabalho na cidade.",
+        "data": "09/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Número de startups no Brasil aumentou 20 vezes nos últimos anos",
+        "link": "https://g1.globo.com/globonews/noticia/2020/01/15/numero-de-startups-no-brasil-aumentou-20-vezes-nos-ultimos-oito-anos-11-ja-sao-unicornios.ghtml",
+        "descricao": "O Brasil, sendo um dos líderes em crescimento de startups, destaca São Paulo como centro da inovação e empreendedorismo.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "AgTechs: conheça as empresas que estão revolucionando",
+        "link": "https://agro.estadao.com.br/summit-agro/agtechs-conheca-as-empresas-que-estao-revolucionando-o-agronegocio",
+        "descricao": "As AgTechs, ou startups agrícolas, desempenham um papel importante na transformação do agronegócio em São Paulo, impulsionando a inovação.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Sedecon dá apoio ao processo seletivo de nova empresa de varejo que será instalada em Bauru",
+        "link": "https://www.bauru.sp.gov.br/materia.aspx?n=45773",
+        "descricao": "A Prefeitura de Bauru, por meio da Secretaria de Desenvolvimento Econômico, informa sobre o processo seletivo para a nova unidade da Leroy Merlin na cidade, que será a 55ª no Brasil.",
+        "data": "11/02/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Bares e restaurantes estão otimistas para o primeiro trimestre de 2025",
+        "link": "https://abrasel.com.br/noticias/noticias/bares-restaurantes-otimistas-primeiro-trimestre-2025-pesquisa-abrasel/",
+        "descricao": "O setor de alimentação fora do lar começa 2025 com otimismo, conforme revela a pesquisa realizada pela Abrasel em dezembro. A maioria dos entrevistados acredita em crescimento das vendas.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Girondino quer abrir 150 cafés pelo país a partir de 2025",
+        "link": "https://dcomercio.com.br/publicacao/s/girondino-quer-abrir-150-cafes-pelo-pais-a-partir-de-2025",
+        "descricao": "A rede Girondino tem planos de expansão com a abertura de 150 novas unidades em todo o Brasil, incluindo várias em São Paulo, destacando o crescimento da marca.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Bares e restaurantes podem faturar mais no início de 2025",
+        "link": "https://cayena.com/bares-e-restaurantes-aumento-no-faturamento-2025/",
+        "descricao": "Projeções indicam que o setor de bares e restaurantes começará 2025 otimizando suas operações, com expectativa de crescimento de até 15% no faturamento.",
+        "data": "25/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Vêm aí! Os bares e restaurantes que vão abrir as portas em 2025",
+        "link": "https://vejario.abril.com.br/comer-e-beber/bares-e-restaurantes-abrir-as-portas-2025",
+        "descricao": "Uma lista de novos bares e restaurantes que abrirão em 2025, mostrando a movimentação do mercado gastronômico na cidade.",
+        "data": "19/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Café Amado - Restaurante e Wine Bar será inaugurado neste segundo semestre de 2025",
+        "link": "https://letsgobahia.com.br/noticia/colunas/cafe-amado-restaurante-e-wine-bar-sera-inaugurado-neste-segundo-semestre-de-2025",
+        "descricao": "O novo Restaurante e Wine Bar, Café Amado, está previsto para abertura no segundo semestre de 2025 em São Paulo, oferecendo uma nova experiência gastronômica.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "São Paulo: A Capital dos Bares e Restaurantes do Brasil",
+        "link": "https://sindresbar.com.br/sao-paulo-a-capital-dos-bares-e-restaurantes-do-brasil/",
+        "descricao": "São Paulo continua a expandir seu cenário gastronômico, representando quase um terço dos bares e restaurantes do Brasil com um número crescente de novos estabelecimentos.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Fran's Café retoma expansão, muda sede de lugar e cresce 25%",
+        "link": "https://revistapegn.globo.com/franquias/noticia/2024/09/frans-cafe-retoma-expansao-muda-sede-de-lugar-e-cresce-25percent-em-franquias.ghtml",
+        "descricao": "A rede de cafeterias Fran's Café está expandindo suas operações em São Paulo, com a inauguração de novas lojas em 2025, após um crescimento de 25% recente.",
+        "data": "12/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "O impacto do Ifood e Rappi na abertura de novos restaurantes em São Paulo",
+        "link": "https://estadao.com.br",
+        "descricao": "A análise do impacto das plataformas de delivery, como Ifood e Rappi, tem incentivado a abertura de novos restaurantes na capital paulista, prevendo mais opções em 2025.",
+        "data": "02/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Bares de São Paulo se preparam para a alta demanda durante o Carnaval de 2025",
+        "link": "https://g1.globo.com",
+        "descricao": "Com a alta demanda do Carnaval, muitos bares estão se preparando para maximizar a abertura de novas unidades e promoções em 2025.",
+        "data": "28/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Diversidade de novos restaurantes se destaca em São Paulo",
+        "link": "https://globolocal.com.br",
+        "descricao": "Relatos de novas aberturas na cena gastronômica de São Paulo em 2025 mostram um aumento na diversidade de cozinhas e experiências oferecidas.",
+        "data": "17/11/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Oportunidades e desafios para a infraestrutura em 2025",
+        "link": "https://infranews.com.br/oportunidades-e-desafios-para-a-infraestrutura-em-2025/",
+        "descricao": "O governo federal planeja captar mais de R$ 100 bilhões em investimentos para modernizar a infraestrutura logística brasileira, neste contexto, destaca-se a importância das concessões e o impacto da taxa de juros elevada.",
+        "data": "14/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Corte de investimentos em Infraestrutura de Transporte no PLOA 2025",
+        "link": "https://cbrdoc.com.br/juridico/newsletter/infraestrutura-de-transporte-2025/",
+        "descricao": "O Projeto de Lei Orçamentária Anual (PLOA) de 2025 destaca uma redução significativa nos investimentos para transporte, afetando futuras obras essenciais no Brasil.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo de São Paulo prevê R$ 50 bilhões em leilões para 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/governo-de-sao-paulo-preve-r-50-bilhoes-em-leiloes-para-2025-conheca-os-projetos/",
+        "descricao": "O Governo de SP planeja realizar leilões de R$ 50 bilhões para expandir a infraestrutura do estado, incluindo obras rodoviárias e ampliação de serviços de saúde.",
+        "data": "03/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura em 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+        "descricao": "A Secretaria de Parcerias em Investimentos de SP terá aproximadamente R$ 8 bilhões para investimentos em infraestrutura, incluindo rodovias e transportes públicos.",
+        "data": "13/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Rodovias, habitação, escolas e CPTM: secretário de SP detalha planos de concessões para 2025",
+        "link": "https://exame.com/brasil/infraestrutura/rodovias-escolas-e-cptm-secretario-de-sp-detalha-planos-de-concessoes-para-2025/",
+        "descricao": "O governo paulista planeja várias concessões e PPPs para 2025, abordando áreas críticas como educação, saúde e infraestrutura rodoviária.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Estado de São Paulo investirá quase R$ 34 bi em infraestrutura em 2025",
+        "link": "https://www.bnamericas.com/pt/feature/estado-de-sao-paulo-investira-quase-r-34-bi-em-infraestrutura-em-2025",
+        "descricao": "O estado planeja um recorde de investimentos em infraestrutura, sendo R$ 50 bilhões dedicados a concessões e PPPs para modernização.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo avança na modernização das estações de passageiros das travessias litorâneas",
+        "link": "https://semil.sp.gov.br/2025/02/governo-de-sp-avanca-na-modernizacao-das-estacoes-de-passageiros-das-travessias-litoraneas/",
+        "descricao": "O governo paulista está investindo R$ 1,3 milhão na modernização das estações das travessias de São Sebastião/Ilhabela e Cananeia/Continente, visando ampliar o conforto e segurança dos usuários.",
+        "data": "07/02/2025",
+        "municipio": "São Sebastião / Cananeia"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Empresa japonesa investe em Jundiaí",
+        "link": "https://jr.jor.br/2023/06/01/02empresa-japonesa-investe-em-jundiai/",
+        "descricao": "A empresa japonesa Mitutoyo é a mais nova integrante do rol de multinacionais instaladas em Jundiaí, escolhendo a cidade para expandir suas operações.",
+        "data": "01/06/2023",
+        "municipio": "Jundiaí"
+    }
+]
+```

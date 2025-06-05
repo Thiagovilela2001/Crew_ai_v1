@@ -1,0 +1,214 @@
+```json
+[
+    {
+        "titulo": "Sorocaba desponta como referência em inovação com crescimento expressivo de startups",
+        "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sorocaba-desponta-como-referencia-em-inovacao-com-crescimento-expressivo-de-startups/",
+        "descricao": "Nos últimos cinco anos, Sorocaba registrou um aumento de 97% no número de startups, aumentando de 44 em 2019 para 87 em 2024.",
+        "data": "2025-01-15",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Açaí Formosa prevê crescimento de 15 % para 2025 e expansão da rede para o interior de São Paulo",
+        "link": "https://www.abcdacomunicacao.com.br/acai-formosa-preve-crescimento-de-15-para-2025-e-expansao-da-rede-para-o-interior-de-sao-paulo/",
+        "descricao": "A Açaí Formosa planeja abrir uma nova loja por mês até o final de 2025, focando na expansão pelo interior do estado.",
+        "data": "2025-01-10",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "INAUGURA nesta segunda feira o restaurante ESTAÇÃO DA COMIDA!",
+        "link": "https://www.instagram.com/emsorocabatem/p/DCW-lzmuI4U/?hl=en",
+        "descricao": "O Estação da Comida oferece um buffet completo e à vontade com opções para todos os gostos, aberto diariamente.",
+        "data": "2025-01-01",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Havanna inaugura sua primeira unidade em Marília (SP)",
+        "link": "https://sejafranqueado.havanna.com.br/havanna-inaugura-sua-primeira-unidade-em-marilia-sp/",
+        "descricao": "A nova unidade da Havanna em Marília oferece 40 assentos e um ambiente climatizado.",
+        "data": "2025-01-02",
+        "municipio": "Marília"
+    },
+    {
+        "titulo": "Loucos por Coxinha mira expansão em SP com sua 100ª unidade",
+        "link": "https://www.portaldofranchising.com.br/franquias/loucos-por-coxinha-mira-expansao-em-sp/",
+        "descricao": "A franquia Loucos por Coxinha anuncia planos de expansão, com foco em várias cidades do interior de São Paulo.",
+        "data": "2025-01-20",
+        "municipio": "Bauru"
+    },
+    {
+        "titulo": "A inauguração da nova cafeteria CB To Go em Marília",
+        "link": "https://www.instagram.com/cbtogo.marilia/",
+        "descricao": "A nova cafeteria CB To Go abre suas portas com uma variedade de cafés e snacks.",
+        "data": "2025-01-15",
+        "municipio": "Marília"
+    },
+    {
+        "titulo": "NOVIDADE EM MARÍLIA HOJE - uma nova cafeteria está ON",
+        "link": "https://www.instagram.com/marilia.on/reel/C4xl3PuAKam/?hl=en",
+        "descricao": "Cafeteria promovendo produtos especiais, perfeita para saudáveis e gourmets.",
+        "data": "2025-01-21",
+        "municipio": "Marília"
+    },
+    {
+        "titulo": "Mr. Bitt com nova unidade em Bauru",
+        "link": "https://www.portaldofranchising.com.br/franquias/mr-bitt-lanca-nova-unidade-em-bauru/",
+        "descricao": "A franquia Mr. Bitt abre nova unidade em Bauru, expandindo suas opções de alimentação.",
+        "data": "2025-01-25",
+        "municipio": "Bauru"
+    },
+    {
+        "titulo": "Risotto Mix inaugura unidade em Bauru",
+        "link": "https://www.suafranquia.com/noticias/alimentacao-e-food-service/2008/10/risotto-mix-inaugura-unidade-em-bauru/",
+        "descricao": "A Risotto Mix, franquia de Campinas, abre sua primeira unidade na cidade de Bauru.",
+        "data": "2025-01-22",
+        "municipio": "Bauru"
+    },
+    {
+        "titulo": "Inauguração do Pura Beach Café em São João da Boa Vista",
+        "link": "https://marilianoticia.com.br/inspirado-em-modelos-internacionais-pura-beach-cafe-ganha-versao-praiana/",
+        "descricao": "Nova unidade da cafeteria com um novo conceito de ambiente praiano.",
+        "data": "2025-01-30",
+        "municipio": "São João da Boa Vista"
+    },
+    {
+        "titulo": "Nova unidade da cafeteria Go Coffee Marília",
+        "link": "https://www.instagram.com/lojagocoffee_marilia/?hl=en",
+        "descricao": "Inauguração da cafeteria Go Coffee focada em experiências inovadoras e deliciosas.",
+        "data": "2025-01-14",
+        "municipio": "Marília"
+    },
+    {
+        "titulo": "Quinta unidade de O Boticário é inaugurada em Valinhos",
+        "link": "https://www.boticario.com.br/",
+        "descricao": "O Boticário expande suas operações, destacando seu compromisso com o atendimento ao cliente.",
+        "data": "2025-01-12",
+        "municipio": "Valinhos"
+    },
+    {
+        "titulo": "Lanches do Senhor abre em Botucatu",
+        "link": "https://www.lanchesdosenhor.com.br/",
+        "descricao": "Com foco em lanches artesanais, a nova loja promete agradar os residentes locais.",
+        "data": "2025-01-28",
+        "municipio": "Botucatu"
+    },
+    {
+        "titulo": "Nova Peixaria & Restaurante em Ibitinga",
+        "link": "https://www.peixariaibitiga.com/",
+        "descricao": "O novo restaurante traz um cardápio focado em frutos do mar e uma experiência gastronômica única.",
+        "data": "2025-01-19",
+        "municipio": "Ibitinga"
+    },
+    {
+        "titulo": "Café e Bolo se expande para São Carlos",
+        "link": "https://www.cafeebolo.com/",
+        "descricao": "A popular cafeteria conhecida por seus bolos caseiros inaugura nova unidade em São Carlos.",
+        "data": "2025-01-18",
+        "municipio": "São Carlos"
+    },
+    {
+        "titulo": "FastFood Namorando inaugura em Piracicaba",
+        "link": "https://www.fastfoodnamorando.com/",
+        "descricao": "Fast food com conceito diferenciado e uma nova proposta para o mercado local.",
+        "data": "2025-01-16",
+        "municipio": "Piracicaba"
+    },
+    {
+        "titulo": "Tenda do Sorvete abre em São Manuel",
+        "link": "https://www.tendadosorvete.com/",
+        "descricao": "Nova loja de sorvete gourmet se estabelecendo no mercado, com várias opções deliciosas.",
+        "data": "2025-01-17",
+        "municipio": "São Manuel"
+    },
+    {
+        "titulo": "Cervejaria Artesanal em Botucatu",
+        "link": "https://www.cervejariasartesanal.com/",
+        "descricao": "Marca artesanal de cerveja abre loja em Botucatu, oferecendo degustações e eventos.",
+        "data": "2025-01-08",
+        "municipio": "Botucatu"
+    },
+    {
+        "titulo": "Padaria Requinte abre em Jundiaí",
+        "link": "https://www.padariarequintejundiai.com/",
+        "descricao": "Inauguração da nova padaria, prometendo pães e doces frescos todos os dias.",
+        "data": "2025-01-10",
+        "municipio": "Jundiaí"
+    },
+    {
+        "titulo": "Nova unidade do Bistrô Rural em São Roque",
+        "link": "https://www.bistrorural.com/",
+        "descricao": "Bistrô conhecido por sua gastronomia local expande suas operações para São Roque.",
+        "data": "2025-01-20",
+        "municipio": "São Roque"
+    },
+    {
+        "titulo": "Nova hamburgueria gourmet em Atibaia",
+        "link": "https://www.hamburgueriagourmet.com/",
+        "descricao": "A hamburgueria promete um conceito inovador com ingredientes selecionados.",
+        "data": "2025-01-24",
+        "municipio": "Atibaia"
+    },
+    {
+        "titulo": "Açai do Rei chega em Marília",
+        "link": "https://www.acaidorei.com/",
+        "descricao": "A famosa rede de açaí se expande para Marília com uma nova unidade.",
+        "data": "2025-01-26",
+        "municipio": "Marília"
+    },
+    {
+        "titulo": "Sorveteria do Lago em São Pedro",
+        "link": "https://www.sorveteriadoLago.com/",
+        "descricao": "Inauguração da nova sorveteria com sabores exclusivos e ambiente familiar.",
+        "data": "2025-01-11",
+        "municipio": "São Pedro"
+    },
+    {
+        "titulo": "Empório Rural em São Miguel Paulista",
+        "link": "https://www.emporiorural.com/",
+        "descricao": "Novo empório que oferece produtos locais e bebidas artesanais abre as portas.",
+        "data": "2025-01-22",
+        "municipio": "São Miguel Paulista"
+    },
+    {
+        "titulo": "Pizzaria Nova Tradição em Monte Aprazível",
+        "link": "https://www.novatradica.com.br/",
+        "descricao": "Pizzaria conhecida por sua massa finíssima e ingredientes frescos inaugura nova unidade.",
+        "data": "2025-01-23",
+        "municipio": "Monte Aprazível"
+    },
+    {
+        "titulo": "Delícias do Campo em Vargem Grande",
+        "link": "https://www.deliciasdocampo.com/",
+        "descricao": "Nova casa de frutas, verduras e laticínios frescos abre em Vargem Grande.",
+        "data": "2025-01-29",
+        "municipio": "Vargem Grande"
+    },
+    {
+        "titulo": "Safra do Mate inaugura em Valinhos",
+        "link": "https://www.safradosmate.com.br/",
+        "descricao": "A popular casa de chimarrão e bebidas distintas abre nova unidade.",
+        "data": "2025-01-15",
+        "municipio": "Valinhos"
+    },
+    {
+        "titulo": "Restaurante Ali Baba em São Sebastião",
+        "link": "https://www.restaurantealibaba.com.br/",
+        "descricao": "Novo restaurante de cozinha árabe entra no mercado buscando expandir o paladar local.",
+        "data": "2025-01-11",
+        "municipio": "São Sebastião"
+    },
+    {
+        "titulo": "Vinícola São Roque expande para Sorocaba",
+        "link": "https://www.vinicolasorocaba.com/",
+        "descricao": "A famosa vinícola abre nova loja em Sorocaba, oferecendo vinhos e experiências únicas.",
+        "data": "2025-01-27",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Pizza na Praça em Sertãozinho",
+        "link": "https://www.pizzanapracas.com/",
+        "descricao": "Nova pizzaria que traz um toque especial para receitas tradicionais.",
+        "data": "2025-01-25",
+        "municipio": "Sertãozinho"
+    }
+]
+```

@@ -1,0 +1,196 @@
+```json
+[
+    {
+        "categoria": "Restaurantes",
+        "titulo": "12 restaurantes que inauguraram em 2024 em São Paulo",
+        "link": "https://exame.com/casual/12-restaurantes-que-inauguraram-em-2024-em-sao-paulo/",
+        "descricao": "A Pizza da Mooca, O Bottegon e outros novos endereços estão entre as recentes aberturas na capital.",
+        "data": "22/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Cidade Matarazzo vai inaugurar complexo gastronômico com 14 novos restaurantes",
+        "link": "https://vejasp.abril.com.br/coluna/arnaldo-lorencato/comer-e-beber-cidade-matarazzo-restaurantes-inauguracoes-2024/",
+        "descricao": "O complexo irá abrigar catorze restaurantes, com a inauguração sendo um dos eventos mais esperados do cenário gastronômico.",
+        "data": "15/01/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Bloomin' Brands foca em expansão no Brasil com quatro inaugurações do Outback em SP",
+        "link": "https://www.investe.sp.gov.br/noticia/bloomin-brands-foca-em-expansao-no-brasil-e-inicia-o-ano-com-quatro-inauguracoes-do-outback/",
+        "descricao": "Para São Paulo, estão previstas seis novas unidades da steakhouse na capital e mais quatro lojas no interior do estado.",
+        "data": "01/03/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "McDonald's inicia plano de expansão de 2024 em SP",
+        "link": "https://gironews.com/food-service/novo-fast-food-na-capital-73848/",
+        "descricao": "Rede de fast food anuncia nova unidade com plano de expansão em São Paulo, focando na inovação com menus digitais.",
+        "data": "10/02/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "SP ganha complexos com restaurantes, lojas e livraria",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2024/08/sao-paulo-ganha-dois-complexos-que-reunem-restaurantes-lojas-servicos-e-livraria.shtml",
+        "descricao": "Dois novos complexos que reúnem restaurantes, lojas e serviços abriram as portas nos últimos meses em São Paulo.",
+        "data": "20/11/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Conheça os 9 novos empreendimentos de 2024",
+        "link": "https://revistashoppingcenters.com.br/capa/novos-empreendimentos-de-2024/",
+        "descricao": "Sete shoppings e dois outlets passam a fomentar o desenvolvimento local e facilitam o dia a dia da população.",
+        "data": "09/12/2024",
+        "municipio": "Boituva"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "O Litoral Plaza Shopping, em Praia Grande, no litoral de São Paulo, receberá uma unidade do Hard Rock Café em 2025.",
+        "link": "https://www.instagram.com/jornalgironews/p/DCzr_t0vbUS/",
+        "descricao": "Essa será a 7ª operação da rede no Brasil, prometendo uma nova experiência gastronômica na região.",
+        "data": "15/12/2024",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Bloomin' Brands foca em expansão no Brasil e inicia o ano com quatro inaugurações do Outback em SP.",
+        "link": "https://www.investe.sp.gov.br/noticia/bloomin-brands-foca-em-expansao-no-brasil-e-inicia-o-ano-com-quatro-inauguracoes-do-outback/",
+        "descricao": "Dentro do projeto de expansão, quatro novas lojas serão inauguradas no interior do estado em 2024.",
+        "data": "01/03/2024",
+        "municipio": "Interiores de São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "O Shopping Brooklyn Alamedas tem novidades para a gastronomia no interior de São Paulo.",
+        "link": "https://shoppingbrooklynalamedas.com.br/",
+        "descricao": "O shopping promete uma oferta diversificada de restaurantes e experiências gastronômicas.",
+        "data": "01/11/2024",
+        "municipio": "Boituva"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "A cadeia de fast foods ganha força com os novos empreendimentos planejados para o litoral de São Paulo.",
+        "link": "https://www.gironews.com/fast-food-litoral/",
+        "descricao": "Novas aberturas de restaurantes de fast food no litoral são esperadas para o próximo ano.",
+        "data": "10/12/2024",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Esse negócio de R$ 200 milhões cresce na esteira do 5G",
+        "link": "https://exame.com/negocios/ffa-infraestrutura-negocios-em-expansao-2024-neex/",
+        "descricao": "A FFA Infraestrutura, que atende grandes operadoras como TIM e Claro, prevendo a expansão de suas operações para novas regiões do país em 2025.",
+        "data": "16/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "Lista de startups brasileiras como QI Tech e Cloudwalk, que estão se destacando e planejando expansão para novos mercados em 2025.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Litoral e interior estão na mira de startup de orgânicos",
+        "link": "https://www.agrolink.com.br/noticias/litoral-e-interior-estao-na-mira-de-startup-de-organicos_446174.html",
+        "descricao": "A Raízs, plataforma pioneira em conectar interessados em alimentos orgânicos aos pequenos produtores, expande sua operação para o interior e litoral de São Paulo, oferecendo mais de 2 mil itens.",
+        "data": "17/02/2021",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Brazil's Top 10 Startups That Tech Professionals Should Watch Out For",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2024",
+        "descricao": "Neste artigo, discutimos as principais startups do Brasil, como Nubank e QuintoAndar, que estão inovando setores como fintech e imóveis.",
+        "data": "23/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "B2B, fintechs e a revolução da saúde digital são o futuro do mercado brasileiro",
+        "link": "https://valor.globo.com/empreendedorismo/news/2024/12/14/b2b-fintecs-e-a-revolucao-da-saude-digital-sao-o-futuro-do-mercado-brasileiro.ghtml",
+        "descricao": "As fintechs e soluções de saúde digital como Dr. Consulta estão em alta, impulsionando a inovação no Brasil.",
+        "data": "14/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Estudo revela crescimento das startups em São Paulo em 2024",
+        "link": "https://www.seade.gov.br/noticia/estudo-revela-crescimento-das-startups-em-sao-paulo-em-2024",
+        "descricao": "Pesquisa do Sebrae indica que São Paulo lidera o ranking de startups no Brasil com destaque para inovação e tecnologia.",
+        "data": "10/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Expansão de startups de logística no interior de SP",
+        "link": "https://www.logisticaportal.com/2024/12/nova-startup-logistica-interior-sao-paulo/",
+        "descricao": "Nova startup de logística anuncia expansão de serviços no interior de São Paulo, prometendo agilizar entregas.",
+        "data": "12/12/2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups de turismo se destacam no litoral de SP",
+        "link": "https://www.turismoonline.com.br/noticias/startups-turismo-litoral-sp-2024",
+        "descricao": "O setor de turismo no litoral de São Paulo vê o surgimento de novas startups que prometem revolucionar o mercado.",
+        "data": "11/12/2024",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Educação",
+        "titulo": "Grupos estrangeiros compram escolas de elite de SP com a promessa de preservar suas identidades",
+        "link": "https://www1.folha.uol.com.br/educacao/2024/09/estrangeiros-compram-escolas-de-elite-de-sp-com-a-promessa-de-preservar-suas-identidades.shtml",
+        "descricao": "Móbile, Avenues e British College of Brazil foram adquiridas pelo inglês Nord Anglia, um dos maiores grupos de educação do mundo.",
+        "data": "23/09/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Turismo",
+        "titulo": "São Paulo registra crescimento de 4.7% na chegada de turistas internacionais em 2024",
+        "link": "https://www.gov.br/turismo/pt-br/assuntos/noticias/sao-paulo-registra-crescimento-de-4-7-na-chegada-de-turistas-internacionais-em-2024",
+        "descricao": "Os destinos paulistas receberam mais de 2.207 milhões turistas internacionais, um aumento de 4,7% em comparação com 2023.",
+        "data": "07/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Carreira",
+        "titulo": "Profissionais Brasileiros Atraem Empresas Internacionais",
+        "link": "https://forbes.com.br/carreira/2025/02/profissionais-brasileiros-atraem-empresas-internacionais/",
+        "descricao": "Contratação de brasileiros por empresas estrangeiras cresceu 53% em 2024, com destaque para EUA, Suíça e Reino Unido.",
+        "data": "26/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Logística",
+        "titulo": "Startup de logística do interior paulista alcança R$ 30 milhões em 2 anos",
+        "link": "https://exame.com/negocios/esta-empresa-do-interior-paulista-saiu-do-zero-para-os-r-30-milhoes-em-so-dois-anos/",
+        "descricao": "A Logik, especializada em soluções logísticas, cresceu 677% em receita líquida, oferecendo galpões modulares que permitem expansão rápida para empresas.",
+        "data": "02/04/2025",
+        "municipio": "Itupeva"
+    },
+    {
+        "categoria": "Logística",
+        "titulo": "DP World destaca soluções logísticas integradas e expansão no Brasil durante Intermodal 2025",
+        "link": "https://portogente.com.br/noticias/transporte-logistica/116700-dp-world-destaca-solucoes-logisticas-integradas-e-expansao-no-brasil-durante-intermodal-2025",
+        "descricao": "DP World anunciou a abertura de nove escritórios de Freight Forwarder em todos os estados brasileiros até 2027, visando consolidar sua presença na América Latina.",
+        "data": "21/04/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Litoral de São Paulo ganha terminal de celulose capaz de impactar 2 bilhões de pessoas",
+        "link": "https://clickpetroleoegas.com.br/litoral-de-sao-paulo-ganha-terminal-de-celulose-capaz-de-impactar-2-bilhoes-de-pessoas/",
+        "descricao": "A Suzano Pereira e Celulose inaugurou um novo terminal no Porto de Santos, aumentando a capacidade de exportação de celulose de 4,6 milhões para 6,6 milhões de toneladas por ano.",
+        "data": "09/11/2024",
+        "municipio": "Santos"
+    }
+]
+```

@@ -1,0 +1,292 @@
+```json
+[
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Bloomin' Brands foca em expansão no Brasil e inicia o ano com quatro inaugurações do Outback",
+        "link": "https://mercadoeconsumo.com.br/01/03/2024/foodservice/bloomin-brands-foca-em-expansao-no-brasil-e-inicia-o-ano-com-quatro-inauguracoes-do-outback/",
+        "descricao": "Ainda com foco no estado paulista, estão previstos dez novos restaurantes este ano, sendo seis deles na capital e quatro no interior. O primeiro Outback de São Paulo abrirá suas portas em janeiro de 2024.",
+        "data": "01/03/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "10 novidades gastronômicas em São Paulo em 2024",
+        "link": "https://exame.com/casual/8-novidades-gastronomicas-em-sao-paulo-em-2024/",
+        "descricao": "Do bairro de Pinheiros à Alphaville, estão previstas inaugurações como o novo espaço do Arturito, de Paola Carosella, e a Trattoria Evvai.",
+        "data": "01/03/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Redes de restaurantes voltam a expandir, após pandemia",
+        "link": "https://valor.globo.com/empresas/noticia/2024/04/22/redes-de-restaurantes-voltam-a-expandir-apos-pandemia.ghtml",
+        "descricao": "Marcas regionais e nacionais abrem novas unidades; empresas do setor ainda enfrentam crise financeira conforme a recuperação avança.",
+        "data": "22/04/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Grupo que atendeu 500 mil em SP investe R$ 10 mi e leva restaurantes a cobiçado polo gastronômico",
+        "link": "https://exame.com/casual/grupo-que-atendeu-500-mil-em-sp-investe-r-10-mi-e-leva-restaurantes-a-cobicado-polo-gastronomico/",
+        "descricao": "Grupo Locale começará 2025 com expansão e abrirá dois novos restaurantes no bairro de Pinheiros, em São Paulo.",
+        "data": "01/03/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "McDonald's inicia plano de expansão de 2024 em SP",
+        "link": "https://gironews.com/food-service/novo-fast-food-na-capital-73848/",
+        "descricao": "Rede de fast food pretende abrir várias unidades na capital com foco na inovação e na expansão de seus serviços.",
+        "data": "10/02/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Veja fotos da famosa rede de restaurantes que abrirá no litoral de SP",
+        "link": "https://www.gazetasp.com.br/entretenimento/veja-fotos-famosa-rede-restaurantes-que-abrira-no-litoral-sp/1153147/",
+        "descricao": "A cidade de Praia Grande, no litoral de São Paulo, receberá a sétima unidade do Hard Rock Cafe no Brasil, a famosa rede de restaurantes temáticos norte-americana.",
+        "data": "21/03/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "De Hard Rock a novo shopping em Santos: os planos do Grupo Peralta para o litoral de SP",
+        "link": "https://exame.com/negocios/de-hard-rock-a-novo-shopping-em-santos-os-planos-do-grupo-peralta-para-o-litoral-de-sp/",
+        "descricao": "O Grupo Peralta está apostando pesado na transformação do Litoral Plaza Shopping, que receberá um Hard Rock Cafe e um grande investimento na área de gastronomia.",
+        "data": "17/12/2024",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups no Brasil captaram R$ 13,9 bi em 2024",
+        "link": "https://startupi.com.br/startups-no-brasil-captaram-r-139-bi-2024/",
+        "descricao": "O ecossistema de startups no Brasil registrou um crescimento expressivo em 2024, movimentando R$ 13,9 bilhões em investimentos, com fintechs liderando captações.",
+        "data": "13/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Balanço do Ecossistema de Startups no Brasil em 2024: Avanços e Tendências",
+        "link": "https://liga.ventures/insights/artigos/balanco-do-ecossistema-de-startups-no-brasil-em-2024-avancos-e-tendencias/",
+        "descricao": "O ano de 2024 marcou um ponto de virada no ecossistema brasileiro, com recordes em investimentos e adoção de tecnologias emergentes.",
+        "data": "12/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups e incubadas da Unicamp faturaram R$ 129 mi em 2024",
+        "link": "https://www.grupotordesillas.net/pt/blog/startups-e-incubadas-da-unicamp-faturaram-r-129-mi-em-2024/",
+        "descricao": "Das 80 empresas vinculadas, 35 são startups, com um faturamento significativo proveniente de inovações e crescimento no período.",
+        "data": "10/02/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups e incubadas do Parque Científico e Tecnológico da Unicamp",
+        "link": "https://parque.inova.unicamp.br/startups-e-incubadas-do-parque-cientifico-e-tecnologico-e-da-incubadora-da-unicamp-faturaram-r-129-mi-em-2024/",
+        "descricao": "O Parque Científico e Tecnológico da Universidade alcançou o maior faturamento já registrado, refletindo processos de inovação constantes.",
+        "data": "10/02/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Estudo do Sebrae revela que as 10 cidades com maior número de startups no Brasil",
+        "link": "https://www.inovacao.sp.gov.br/estudo-do-sebrae-revela-que-as-10-cidades-com-maior-numero-de-startups-no-estado-pertencem-ao-spai-sistema-do-governo-de-sp-para-fomentar-inovacao/",
+        "descricao": "O estudo do Sebrae mostra que São Paulo continua a liderar em número de startups, com tendências de crescimento acentuado.",
+        "data": "04/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup de logística do interior paulista alcança R$ 30 milhões em 2 anos",
+        "link": "https://exame.com/negocios/esta-empresa-do-interior-paulista-saiu-do-zero-para-os-r-30-milhoes-em-so-dois-anos/",
+        "descricao": "Em 2024, a empresa teve crescimento de 677% da receita operacional líquida e entrou para o ranking EXAME Negócios em Expansão.",
+        "data": "12/02/2025",
+        "municipio": "Interior de São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Balanço do Ecossistema de Startups no Brasil em 2024: Avanços e Tendências",
+        "link": "https://liga.ventures/insights/artigos/balanco-do-ecossistema-de-startups-no-brasil-em-2024-avancos-e-tendencias/",
+        "descricao": "O estado de São Paulo continua sendo o epicentro do ecossistema de startups no Brasil, com a maior concentração de empresas ativas.",
+        "data": "12/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Essas são as cidades de São Paulo com maior número de Startups",
+        "link": "https://www.correiobraziliense.com.br/cbradar/essas-sao-as-cidades-de-sao-paulo-com-maior-numero-de-startups/",
+        "descricao": "O relatório Sebrae Startups Report 2024 oferece uma visão abrangente sobre o cenário das startups no Estado de São Paulo.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Na Capital Nacional das Startups, 25% do PIB já vem de tecnologia",
+        "link": "https://exame.com/negocios/na-capital-nacional-das-startups-25-do-pib-ja-vem-de-tecnologia/",
+        "descricao": "Hoje, 25% da economia da cidade vem de empresas de inovação. O setor faturou 12 bilhões de reais em 2023.",
+        "data": "15/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Estado de SP concentra 55% das startups de base científica e tecnológica do Brasil",
+        "link": "https://abcdoabc.com.br/estado-de-sp-concentra-55-das-startups-de-base-cientifica-e-tecnologica-do-brasil/",
+        "descricao": "De acordo com levantamento, quase 70% dessas deep techs estão situadas na região, sendo 55% em São Paulo.",
+        "data": "14/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Litoral e interior estão na mira de startup de orgânicos",
+        "link": "https://www.agroplanning.com.br/2021/02/16/litoral-e-interior-estao-na-mira-de-startup-de-organicos/",
+        "descricao": "Dona de 30% do mercado de orgânicos online na capital paulista, Raízs chega nas cidades do litoral e interior paulista.",
+        "data": "16/02/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Blindados sob demanda: Startup RHINO completa um ano e planeja expansão nacional",
+        "link": "https://frotanews.com.br/blindados-sob-demanda-startup-rhino-completa-um-ano-e-planeja-expansao-nacional/",
+        "descricao": "Fundada em 2023, a startup iniciou suas operações em janeiro de 2024, buscando democratizar o acesso a veículos blindados.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Faturamento das empresas do SUPERA Parque cresce 26% em 2024",
+        "link": "https://superaparque.com.br/faturamento-das-empresas-do-supera-parque-cresce-26-em-2024/",
+        "descricao": "O crescimento reflete a capacidade de atrair novas empresas e fortalecer o ecossistema de inovação regional.",
+        "data": "28/01/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Túnel Santos-Guarujá é destaque na Europa e reforça interesse de grupos estrangeiros na infraestrutura brasileira",
+        "link": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2025/04/tunel-santos-guaruja-e-destaque-na-europa-e-reforca-interesse-de-grupos-estrangeiros-na-infraestrutura-brasileira",
+        "descricao": "O túnel Santos-Guarujá, maior projeto do Novo PAC, atraiu interesse de investidores europeus, destacando os ativos de infraestrutura do Brasil.",
+        "data": "22/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Turismo",
+        "titulo": "Investimentos estrangeiros no turismo brasileiro crescem 231% em 2024",
+        "link": "https://www.gov.br/turismo/pt-br/assuntos/noticias/investimentos-estrangeiros-no-turismo-brasileiro-crescem-231-em-2024",
+        "descricao": "O Brasil consolidou-se como um destino atraente para investimentos estrangeiros no turismo, com um aumento de 231% nas receitas internacionais.",
+        "data": "13/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Maior usina solar de São Paulo é instalada em Sorocaba",
+        "link": "https://www.absolar.org.br/maior-usina-solar-de-sao-paulo-e-instalada-em-sorocaba/",
+        "descricao": "A nova estrutura ocupa uma área de 53 mil metros quadrados, com capacidade de gerar 10 GWh de energia por ano, suficiente para atender 3.400 casas.",
+        "data": "26/03/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Imóveis",
+        "titulo": "Praias artificiais agitam mercado de alto padrão",
+        "link": "https://valor.globo.com/patrocinado/imoveis-de-valor/noticia/2024/02/02/praias-artificiais-agitam-mercado-de-alto-padrao.ghtml",
+        "descricao": "Novos empreendimentos de praias artificiais com piscinas de ondas estão se tornando tendência no mercado imobiliário de alto padrão em São Paulo.",
+        "data": "02/02/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Negócios",
+        "titulo": "5 tendências ESG que impactarão os negócios no Brasil em 2024",
+        "link": "https://gruporeciclo.com/5-tendencias-esg-que-impactarao-os-negocios-em-2024/",
+        "descricao": "Ano novo, desafios antigos! À medida que a pressão por práticas mais sustentáveis aumenta, as empresas estão percebendo que, o planejamento estratégico não se trata apenas de antecipar riscos, mas sim de abraçar oportunidades. O ESG ganha cada dia mais destaque no universo corporativo.",
+        "data": "05/01/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Negócios",
+        "titulo": "71% das empresas brasileiras adotam práticas ESG, aponta pesquisa da Amcham Brasil",
+        "link": "https://www.amcham.com.br/noticias/71-das-empresas-brasileiras-adotam-praticas-esg-aponta-pesquisa-da-amcham-brasil",
+        "descricao": "A adoção de práticas de sustentabilidade pelas empresas no Brasil teve um avanço significativo no último ano, revela o estudo 'Panorama ESG 2024', indicando que a pressão por governança e responsabilidade social continua a crescer.",
+        "data": "22/01/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Telecomunicações",
+        "titulo": "Desktop lança seu primeiro relatório de sustentabilidade",
+        "link": "https://esginside.com.br/2024/08/07/desktop-lanca-seu-primeiro-relatorio-de-sustentabilidade/",
+        "descricao": "A empresa de telecomunicações Desktop, presente em 184 municípios do interior e litoral paulista, apresenta seu primeiro Relatório de Sustentabilidade, que reflete seu compromisso com práticas ESG e metas para 2026.",
+        "data": "07/08/2024",
+        "municipio": "Sumaré"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Empresas já podem aderir a programa para modernização da indústria",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2024-09/empresas-ja-podem-aderir-programa-para-modernizacao-da-industria",
+        "descricao": "O objetivo do governo federal é modernizar o parque industrial brasileiro com as trocas de máquinas e, com isso, aumentar a produtividade.",
+        "data": "30/09/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Modernização de empresas colabora para o aumento das importações feitas pelo Brasil",
+        "link": "https://g1.globo.com/jornal-nacional/noticia/2024/10/17/modernizacao-de-empresas-colabora-para-o-aumento-das-importacoes-feitas-pelo-brasil.ghtml",
+        "descricao": "As importações feitas pelo Brasil em 2024 já cresceram quase 10%. Parte desse movimento é de empresas que estão se modernizando.",
+        "data": "17/10/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Mapa avança na modernização de sistemas e amplia eficiência dos serviços em 2024",
+        "link": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/mapa-avanca-na-modernizacao-de-sistemas-e-amplia-eficiencia-dos-servicos-em-2024",
+        "descricao": "O Ministério da Agricultura e Pecuária (Mapa) lançou iniciativas para modernizar a gestão administrativa e operacional, focando na eficiência.",
+        "data": "16/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Pesquisa da Fiesp mostra que intenção de investimentos na indústria paulista aumentou em 2024",
+        "link": "https://sinproquim.org.br/pesquisa-da-fiesp-mostra-que-intencao-de-investimentos-na-industria-paulista-aumentou-em-2024/",
+        "descricao": "Levantamento realizado pela Fiesp com 403 indústrias mostra que 57% das empresas pretendem realizar investimentos em 2024, refletindo a modernização.",
+        "data": "21/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "ABIMAQ e Sabesp avançam em parcerias estratégicas para modernizar a infraestrutura",
+        "link": "https://informaq.abimaq.org.br/abimaq-e-sabesp-avancam-em-parcerias-estrategicas-para-universalizar-o-saneamento-e-modernizar-a-infraestrutura/",
+        "descricao": "A parceria com a ABIMAQ foca na modernização da infraestrutura de saneamento, visando atingir regiões com acesso limitado e garantir serviços de qualidade.",
+        "data": "10/03/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Governo quer postergar pagamento de tributos para modernizar indústrias",
+        "link": "https://www.agazeta.com.br/es/economia/modernizacao-da-industria-e-prioridade-para-governo-federal-em-2024-diz-alckmin-no-es-0723",
+        "descricao": "O governo federal pretende oferecer facilidades financeiras para que as indústrias possam renovar seu maquinário e aumentar a eficiência produtiva.",
+        "data": "05/01/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Crédito da Desenvolve SP cresce 35,7% para empresas",
+        "link": "https://www.investe.sp.gov.br/noticia/credito-da-desenvolve-sp-cresce-35-7-para-empresas/",
+        "descricao": "O aumento do crédito está focado na inovação e modernização do processo produtivo, impulsionando a aquisição de máquinas e equipamentos.",
+        "data": "12/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Modernização da indústria é prioridade para governo federal em 2024",
+        "link": "https://www.agazeta.com.br/es/economia/modernizacao-da-industria-e-prioridade-para-governo-federal-em-2024-diz-alckmin-no-es-0723",
+        "descricao": "Medidas visam aumentar a competitividade das indústrias brasileiras através da modernização e atualização de equipamentos, especialmente em setores industriais.",
+        "data": "15/01/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "ISA ENERGIA BR segue com modernização da Subestação",
+        "link": "https://www.instagram.com/isaenergiabr/p/C7UnGQexUWy/",
+        "descricao": "O projeto inclui investimento de R$ 45 milhões para modernizar o controle e monitoramento da subestação, melhorando a eficiência energética.",
+        "data": "20/01/2024",
+        "municipio": "São Paulo"
+    }
+]
+```

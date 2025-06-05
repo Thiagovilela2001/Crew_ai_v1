@@ -1,0 +1,198 @@
+```json
+{
+  "noticias": [
+    {
+      "categoria": "Startups",
+      "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+      "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+      "descricao": "Lista das startups que são esperadas para ter crescimento significativo em 2025.",
+      "data": "06/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "South Summit Brazil 2025: conheça as 50 startups finalistas da competição",
+      "link": "https://exame.com/negocios/south-summit-brazil-2025-conheca-as-50-startups-finalistas-da-competicao/",
+      "descricao": "O South Summit Brazil revelou 50 startups finalistas da competição, com um aumento no interesse internacional.",
+      "data": "13/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Av. Rebouças: o novo polo de startups em São Paulo",
+      "link": "https://distrito.me/blog/av-reboucas-o-novo-polo-de-startups-em-sao-paulo/",
+      "descricao": "A Avenida Rebouças se torna um centro emergente para startups e inovação em São Paulo.",
+      "data": "11/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Startup Day 2025 foi realizado na cidade",
+      "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-evento-de-empreendedorismo-e-inovacao-ocorre-em-22-de-marco-no-noroeste-paulista",
+      "descricao": "Evento de empreendedorismo promovido pelo Sebrae, focado em inovações e startups em São Paulo.",
+      "data": "22/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Governo de SP vai capacitar e apoiar a internacionalização de startups",
+      "link": "https://www.investe.sp.gov.br/noticia/governo-de-sp-vai-capacitar-e-apoiar-a-internacionalizacao-de-startups/",
+      "descricao": "O Governo de São Paulo anunciará apoio para 100 startups paulistas a se internacionalizarem.",
+      "data": "19/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "O que é inovação industrial e como as startups estão revolucionando o setor?",
+      "link": "https://distrito.me/blog/o-que-e-inovacao-industrial-e-como-as-startups-estao-revolucionando-o-setor/",
+      "descricao": "Explicação sobre como startups estão transformando o setor industrial no Brasil, especialmente em São Paulo.",
+      "data": "09/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "São Paulo é líder nacional em startups voltadas ao agronegócio",
+      "link": "https://agricultura.sp.gov.br/2025/03/11/sao-paulo-e-lider-nacional-em-startups-voltadas-ao-agro/",
+      "descricao": "O estado de São Paulo possui um grande número de startups focadas em tecnologia para o agronegócio.",
+      "data": "11/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Startup Day 2025: evento traz grandes nomes do empreendedorismo a São Paulo",
+      "link": "https://www.instagram.com/ostenmoove/reel/DHZFw2IpW4Y/",
+      "descricao": "Evento focado em inovação realizado em São Paulo, reunindo empreendedores e startups.",
+      "data": "15/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Brasil se destaca na competição de startups em Austin",
+      "link": "https://startups.com.br/negocios/varias-startups-brasileiras-se-destacam-no-evento-sxsw-2025/",
+      "descricao": "Startups de São Paulo se destacaram na competição internacional SXSW, mostrando seu potencial inovador.",
+      "data": "25/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "SP House, da InvestSP, busca investimentos no SXSW 2025",
+      "link": "https://economicnewsbrasil.com.br/2025/03/12/sp-house-fortalece-inovacao-e-atrai-investimentos-no-sxsw-2025/",
+      "descricao": "A SP House participa do SXSW 2025 visando promover inovações e conexões para startups de São Paulo.",
+      "data": "12/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Startup de 'hacker do bem' capta US$ 13,5 milhões e desembarca no Brasil",
+      "link": "https://revistapegn.globo.com/startups/noticia/2025/03/startup-de-hacker-do-bem-capta-us-135-milhoes-e-desembarca-no-brasil.ghtml",
+      "descricao": "A Strike vai investir US$ 2 milhões inicialmente para dar o start nas operações no Brasil, com escritório em São Paulo.",
+      "data": "26/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Governo de SP lança programa de internacionalização de startups",
+      "link": "https://www.poder360.com.br/poder-empreendedor/governo-de-sp-lanca-programa-de-internacionalizacao-de-startups/",
+      "descricao": "Lançamento do programa SP GlobalTech, que selecionará startups paulistas para apoio na internacionalização.",
+      "data": "19/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Fintech - Informações sobre startups em destaque no Brasil",
+      "link": "https://www.cnnbrasil.com.br/tudo-sobre/fintech/",
+      "descricao": "Apresenta as principais fintechs que estão moldando o cenário financeiro no Brasil, incluindo inovações e tendências.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Novo espaço gastronômico Mercado 2025 inicia operações em São Paulo",
+      "link": "https://eater.com/sao-paulo-mercado-2025-inauguracao",
+      "descricao": "O novo espaço reúne diversos restaurantes em um só local e promete ser atraente para moradores e turistas.",
+      "data": "16/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Coca-Cola Femsa Brasil investe R$ 94 milhões em novo Centro de Distribuição em Bauru",
+      "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45672",
+      "descricao": "A Coca-Cola Femsa Brasil anunciou um investimento de R$ 94 milhões na construção de um novo Centro de Distribuição em Bauru, promovendo geração de empregos e desenvolvimento econômico.",
+      "data": "15/03/2025",
+      "municipio": "Bauru"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Sedecon apoia o processo seletivo de nova empresa de varejo que será instalada em Bauru",
+      "link": "https://www.instagram.com/sedeconbauru/p/DFa2iHfSMlM/",
+      "descricao": "A Secretaria de Desenvolvimento Econômico de Bauru está apoiando o processo seletivo para uma nova empresa de varejo que será instalada na cidade, trazendo novas oportunidades de emprego.",
+      "data": "12/03/2025",
+      "municipio": "Bauru"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Bauru tem mais de 300 vagas abertas para quem está em busca do primeiro emprego",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2025/03/23/bauru-tem-mais-de-300-vagas-abertas-para-quem-esta-em-busca-do-primeiro-emprego.ghtml",
+      "descricao": "O programa municipal oferece 310 vagas para jovens entre 14 e 24 anos, além de oportunidades em uma rede de supermercados, que está com 100 novas vagas.",
+      "data": "23/03/2025",
+      "municipio": "Bauru"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Café Cultura segue em expansão e abre primeira unidade própria em São Paulo",
+      "link": "https://mercadoeconsumo.com.br/24/02/2025/foodservice/cafe-cultura-segue-em-expansao-e-abre-primeira-unidade-propria-em-sao-paulo/",
+      "descricao": "A rede atua no franchising desde 2014 e o planos de expansão para 2025 são ambiciosos: a expectativa é inaugurar mais 25 lojas ao longo de 2025.",
+      "data": "24/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Governo de São Paulo prevê R$ 50 bilhões em leilões para 2025",
+      "link": "https://www.investe.sp.gov.br/noticia/governo-de-sao-paulo-preve-r-50-bilhoes-em-leiloes-para-2025-conheca-os-projetos/",
+      "descricao": "A gestão paulista inicia o novo ano com a previsão de leiloar R$ 50 bilhões, ampliando as oportunidades de investimento em infraestrutura.",
+      "data": "2025",
+      "municipio": "Vários municípios"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Estado de São Paulo investirá quase R$ 34 bi em infraestrutura em 2025",
+      "link": "https://www.bnamericas.com/pt/feature/estado-de-sao-paulo-investira-quase-r-34-bi-em-infraestrutura-em-2025",
+      "descricao": "O estado de São Paulo planeja investir um recorde de R$ 33,5 bilhões em infraestrutura, incluindo obras hidráulicas, em 2025.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Investimentos em infraestrutura impulsionam desenvolvimento de Santos e região",
+      "link": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2025/03/investimentos-em-infraestrutura-alavancam-o-desenvolvimento-de-santos-e-regiao",
+      "descricao": "Detalhes sobre o leilão do megaterminal Tecon Santos 10, com R$ 5,6 bilhões em investimentos, e a construção do túnel aquaviário Santos-Guarujá para melhorar a logística.",
+      "data": "19/03/2025",
+      "municipio": "Santos"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "R$ 250 bilhões em 2025: o apetite do setor privado na infraestrutura",
+      "link": "https://neofeed.com.br/economia/r-250-bilhoes-em-2025-o-apetite-do-setor-privado-na-infraestrutura/",
+      "descricao": "Expectativas de mais de 110 leilões para o ano em infraestrutura.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Cidade do litoral de SP espera receber investimentos do Catar",
+      "link": "https://www.diariodolitoral.com.br/cotidiano/cidade-do-litoral-de-sp-espera-receber-investimentos-do-catar-para/191597/",
+      "descricao": "O prefeito de Guarujá se reuniu com o embaixador do Catar para discutir financiamentos que visem desenvolver a cidade, incluindo infraestrutura, saúde e turismo.",
+      "data": "16/02/2025",
+      "municipio": "Guarujá"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Governo de São Paulo apresenta programas e busca investimentos estrangeiros para Habitação em Cannes",
+      "link": "https://www.habitacao.sp.gov.br/habitacao/noticias/governo-sp-apresenta-programas-e-busca-investimentos-estrangeiros-para-habitacao-em-cannes/",
+      "descricao": "O governo de São Paulo apresenta novos programas em busca de investimentos estrangeiros para habitação durante evento em Cannes.",
+      "data": "Conforme o evento, data futura não especificada",
+      "municipio": "São Paulo"
+    }
+  ]
+}
+```

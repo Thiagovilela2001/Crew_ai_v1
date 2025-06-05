@@ -1,0 +1,434 @@
+[
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Madero planeja novas lojas para 2025 e diz que dívida não é problema",
+        "link": "https://www.estadao.com.br/economia/madero-novas-lojas-2025-divida-nao-e-problema/?srsltid=AfmBOor_xXqpKV2t_BWDR8VR9dMkWjavZhbxqYskRJvEnhZRXkASoGC5",
+        "descricao": "A rede de restaurantes Madero planeja retomar o crescimento no número de unidades no País em 2025, abrindo entre 20 e 25 lojas, sendo a maioria delas em São Paulo.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Outback abre 150ª loja e prepara plano de expansão dos negócios",
+        "link": "https://bluestudio.estadao.com.br/outback-abre-150a-loja-e-prepara-plano-de-expansao-dos-negocios-em-todo-pais/",
+        "descricao": "O plano de expansão visa aumentar o faturamento da rede por meio das novas unidades, já que os atuais restaurantes não conseguem manter o mesmo ritmo de receitas.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Fogo de Chão retoma crescimento após perdas da pandemia",
+        "link": "https://www.estadao.com.br/economia/negocios/fogo-de-chao-retoma-crescimento-planeja-novas-lojas/?srsltid=AfmBOoqo9mchlwpRD9-2kTNED1FCRjeqIUlSCRvsn8dbJj89UJrDAJrj",
+        "descricao": "Retomada de crescimento após a pandemia fará empresa abrir de um a dois restaurantes por ano, começando por São Paulo e Rio de Janeiro.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Lojas e restaurantes de SP recorrem a estrangeiros para preencher vagas",
+        "link": "https://dcomercio.com.br/publicacao/s/lojas-e-restaurantes-de-sp-recorrem-a-estrangeiros-para-preencher-vagas",
+        "descricao": "Lojas e restaurantes de SP recrutam estrangeiros para preencher vagas, demonstrando ação adaptativa para enfrentar a escassez de mão de obra.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Polo gastronômico impulsiona o turismo de Santo André",
+        "link": "https://www.dgabc.com.br/Noticia/4097008/polo-gastronomico-impulsiona-o-turismo-de-santo-andre",
+        "descricao": "A consolidação de Santo André como o principal polo gastronômico da Grande São Paulo é impulsionada pela diversidade de opções em restaurantes.",
+        "data": "01/01/2023",
+        "municipio": "Santo André"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Dia dos Pais deve elevar em 20% faturamento de bares e restaurantes",
+        "link": "https://front1.diariodaregiao.com.br/agencia/dia-dos-pais-deve-elevar-em-20-faturamento-de-bares-e-restaurantes-1.1984222",
+        "descricao": "Pesquisa revela que 7% dos empresários esperam expansão significativa no faturamento durante as comemorações do Dia dos Pais, indicando dinamismo no setor.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups do Cubo, do Itaú, faturam R$ 10 bi em 2024",
+        "link": "https://www.estadao.com.br/economia/coluna-do-broad/startups-do-cubo-do-itau-faturam-r-10-bi-em-2024/?srsltid=AfmBOoo127bYw7PakLTP8xbS28OiyXWwQjxWSTZPEwDns4oSz-StWIeC",
+        "descricao": "Criado pelo Itaú em 2015, o Cubo funciona como um ambiente de aceleração de startups e também de aproximação entre elas e grandes empresas que buscam inovações ...",
+        "data": "01/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Hubs de inovação: como grandes empresas se alinham à ...",
+        "link": "https://www.estadao.com.br/midia-mkt/hubs-de-inovacao-como-grandes-empresas-se-alinham-a-agilidade-de-startups/?srsltid=AfmBOooBF-KfxlCMv2_6MPvCv1HC250wFWqk9eEfLJieuaJEYINfi4FE",
+        "descricao": "Inaugurado em agosto de 2022, o hub se dedica a uma diversidade de parceiros, entre startups, universidades, designers, fornecedores e clientes. Publicidade.",
+        "data": "15/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Governo destina R$ 3 bi para criação e expansão de centros ...",
+        "link": "https://www.diariodaregiao.com.br/agencia/governo-destina-r-3-bi-para-criac-o-e-expans-o-de-centros-de-inovac-o-1.2038314",
+        "descricao": "Empresas do Brasil e do exterior podem se habilitar para receber recursos destinados à implantação ou expansão de Centros de Pesquisa, ...",
+        "data": "02/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "BTG vira sócio de quatro startups, com consolidação ...",
+        "link": "https://www.estadao.com.br/economia/coluna-do-broad/btg-vira-socio-de-quatro-startups-com-consolidacao-de-programa-de-aceleracao/?srsltid=AfmBOoqTGHMvoE748ot6Ah7dYl22Og4wkgbbyXPu2a1fK_RUDThcqu9w",
+        "descricao": "Nessa nova fase, o banco vai investir R$ 1 milhão em cada um dos selecionados (valor que pode chegar a R$ 2 milhões), em troca de 3% de participação no negócio.",
+        "data": "20/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "BNDES anuncia R$ 1,39 bi para indústria farmacêutica ...",
+        "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/BNDES-anuncia-R$-139-bi-para-industria-farmaceutica-desenvolver-medicamentos-inovadores-e-acessiveis/",
+        "descricao": "O Banco também vai estruturar o Fundo de Investimento em Biotecnologia para startups de saúde, com ênfase em empresas com soluções baseadas ciência e ...",
+        "data": "25/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Número de empresas de tecnologia em São Paulo cresce ...",
+        "link": "https://www.estadao.com.br/economia/agenda-sp-empresas-tecnologia/?srsltid=AfmBOopqIRRYYrfqPjZPOemhaZq2t0lIQ5d2fVTHTSyNX8tPs_A3S4g6",
+        "descricao": "Nos últimos 10 anos, o número de companhias ligadas à área tecnológica na capital paulista cresceu 60%, passando de 211 mil, em 2014, para 339 mil neste ano, ...",
+        "data": "30/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "INOVAÇÃO ABERTA E EM REDE NA CONSTRUÇÃO CIVIL",
+        "link": "https://cbic.org.br/wp-content/uploads/2024/03/construcao20304-1.pdf",
+        "descricao": "Este ecossistema oferece recursos como financiamento, conhecimento, tecnologia e talento, criando um ambiente propício para o desenvolvimento de novas ideias e ...",
+        "data": "05/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Marketing de influência: cinco pontos para transformar o ...",
+        "link": "https://www.estadao.com.br/midia-mkt/marketing-de-influencia-cinco-pontos-para-transformar-o-setor/?srsltid=AfmBOop6pwcO99mcBs5RRdKMysFTQl2Ch8drE0hyqmtSn9D9W0EMGp7w",
+        "descricao": "Com crises de reputação e cancelamento em crescimento, mercado vê 2025 como o ano em que a profissionalização da creator economy precisa finalmente ocorrer.",
+        "data": "12/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups do agro quase dobram em 5 anos",
+        "link": "https://agro.estadao.com.br/inovacao/startups-do-agro-quase-dobram-em-5-anos-e-revelam-maturidade-do-setor",
+        "descricao": "O número de startups voltadas ao agronegócio, as chamadas agtechs, cresceu significativamente nos últimos anos...",
+        "data": "08/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Elie Horn entra em cena e ajuda a levar fintech da Cyrela ...",
+        "link": "https://www.estadao.com.br/economia/coluna-do-broad/elie-horn-entra-em-cena-e-ajuda-a-levar-fintech-da-cyrela-da-perda-ao-lucro/?srsltid=AfmBOorhFpmdp72tW_Od1BUfUtuU9G2hvNgnZrWRa9KMRGlvs6YW2gR_",
+        "descricao": "A CashMe, fintech da Cyrela, passou por uma reorganização sob as diretrizes do fundador e presidente do conselho do grupo, o empresário Elie Horn.",
+        "data": "11/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Mercado de fusões e aquisições deve crescer até 20% em 2025, prevê PwC",
+        "link": "https://www.estadao.com.br/economia/coluna-do-broad/mercado-de-fusoes-e-aquisicoes-deve-crescer-ate-20-em-2025-preve-pwc/?srsltid=AfmBOorwOAxz3e0peCFusdsR6XSi5t3SxFqpguVBC_Mj62o4_dmRiZ8t",
+        "descricao": "A empresa de auditoria e consultoria PwC Brasil mapeou 99 negócios só em janeiro, um crescimento de 16% em relação ao mesmo mês de 2024.",
+        "data": "03/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "‘O Brasil está na frente da fila para receber recursos de estrangeiros’, diz presidente do UBS/BB",
+        "link": "https://www.estadao.com.br/economia/negocios/entrevista-ubs-bb-daniel-bassan-brasil-fila-investidores-estrangeiros/?srsltid=AfmBOorJ9Bqhe1up2pXFT5HKJFOPC2H8GvC5KpnLDxDDGkbwaoi_GJGj",
+        "descricao": "Daniel Bassan acredita que os IPOs voltarão em 2024 e vão ajudar a melhorar outras transações, como fusões e aquisições.",
+        "data": "27/11/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Brasil tem 500 projetos de infraestrutura em elaboração ...",
+        "link": "https://www.estadao.com.br/economia/brasil-projetos-infraestrutura-leiloados-veja-mapas/?srsltid=AfmBOooEU1bWdoj3ySiWvqctMXFrd60crufjuwRxm8kJVSN46ImfY0xq",
+        "descricao": "No PPI, há projetos previstos para diferentes áreas: portos e hidrovias, mineração, irrigação, óleo e gás, saneamento, iluminação pública, parques, estruturação ...",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "III Summit Concessões de Rodovias acontece em São Paulo ...",
+        "link": "https://cbic.org.br/iii-summit-concessoes-de-rodovias-acontece-em-sao-paulo-com-debates-sobre-o-futuro-da-infraestrutura-viaria-no-brasil/",
+        "descricao": "Durante o encontro, serão discutidas alternativas para agilizar a estruturação de projetos, os processos de financiamento e as parcerias público-privadas (PPPs) ...",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Deu na mídia: Investimento em infraestrutura deve crescer ...",
+        "link": "https://cbic.org.br/deu-na-midia-investimento-em-infraestrutura-deve-crescer-11-este-ano-empresas-buscam-recursos-no-mercado/",
+        "descricao": "O Globo destaca que empresas brasileiras intensificam captação de recursos para infraestrutura, com aportes atingindo R$ 259 bilhões em 2024, um crescimento ...",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "CBIC discute perspectivas para infraestrutura no Brasil ...",
+        "link": "https://cbic.org.br/cbic-discute-perspectivas-para-infraestrutura-no-brasil-com-abcr-e-apeop/",
+        "descricao": "Durante o encontro, serão discutidas alternativas para agilizar a estruturação de projetos, os processos de financiamento e as parcerias público-privadas (PPPs) ...",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "10 ações de ESG na indústria da construção",
+        "link": "https://cbic.org.br/10-acoes-de-esg-na-industria-da-construcao/",
+        "descricao": "Os projetos identificam os principais gargalos do setor para oferecer soluções e iniciativas, promove e apoia programas de capacitação profissional e fortalece ...",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP avança na modelagem 3D de projetos das rodovias ...",
+        "link": "https://mobilidade.estadao.com.br/mobilidade-para-que/modelagem-3d-passa-a-fazer-parte-de-projetos-das-rodovias-concedidas-de-sp/",
+        "descricao": "Uso do BIM está previsto no programa Nova Industria Brasil e agora passa a fazer parte de projetos de concessão das rodovias des em São Paulo.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "COINFRA avança em modernização de contratos e ...",
+        "link": "https://cbic.org.br/coinfra-avanca-em-modernizacao-de-contratos-e-promocao-de-infraestrutura-sustentavel-em-2024/",
+        "descricao": "Durante o encontro, serão discutidas alternativas para agilizar a estruturação de projetos, os processos de financiamento e as parcerias público-privadas (PPPs) ...",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Conheça cinco projetos importantes de infraestrutura que ...",
+        "link": "https://www.estadao.com.br/economia/negocios/5-projetos-infraestrutura-se-arrastam-por-decadas/?srsltid=AfmBOoqEmGC3LOe60qnr4LCYqIUU6kXyrVPTwBf_kS22nU5N17izW0F2",
+        "descricao": "Casos exemplares são os da Ferrovia de Integração Oeste Leste-FIOL, da ferrovia Transnordestina, da usina nuclear Angra 3, da rodovia BR-163 e da transposição ...",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Hub de Projetos",
+        "link": "https://hubdeprojetos.bndes.gov.br/",
+        "descricao": "Oportunidades de investimentos no Brasil em projetos de infraestrutura, na modalidade de concessões ou PPPs, e privatizações estruturados pelo BNDES.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Fundo de Desenvolvimento da Infraestrutura Regional ...",
+        "link": "https://cbic.org.br/fundo-de-desenvolvimento-da-infraestrutura-regional-sustentavel-sera-debatido-pelo-coinfra-e-midr-em-reuniao/",
+        "descricao": "O FDIRS, criado em 2024 para apoiar projetos de Parcerias Público-Privadas (PPPs) e concessões em áreas de interesse social, tem sido um caminho para ...",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Governança",
+        "titulo": "Governança, a base das ações nos eixos social e ambiental",
+        "link": "https://www.atribuna.com.br/projetos/esg/governanca-a-base-das-ac-es-nos-eixos-social-e-ambiental-1.442297",
+        "descricao": "“Se não tem governança global ou corporativa, não há como falar em boas práticas ambientais e sociais. As empresas podem até apresentar ações pontuais - por ...",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Construção",
+        "titulo": "10 ações de ESG na indústria da construção",
+        "link": "https://cbic.org.br/10-acoes-de-esg-na-industria-da-construcao/",
+        "descricao": "A cartilha detalha, de forma didática, os benefícios diretos e indiretos para as empresas, as tendências do mercado, como mitigar riscos, o que fazer a curto ...",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Governança",
+        "titulo": "A governança é um pilar para se atingir a sustentabilidade ...",
+        "link": "https://www.atribuna.com.br/projetos/esg/a-governanca-e-um-pilar-para-se-atingir-a-sustentabilidade-nos-negocios-1.423177",
+        "descricao": "Investir em práticas de governança robustas não é apenas uma decisão estratégica, mas uma responsabilidade essencial para empresas que desejam prosperar e ...",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Bem-estar",
+        "titulo": "Entenda como o ESG pode transformar o bem-estar dos ...",
+        "link": "https://www.atribuna.com.br/projetos/esg/entenda-como-o-esg-pode-transformar-o-bem-estar-dos-colaboradores-nas-empresas-1.441522",
+        "descricao": "O conceito ESG — em português, ambiental, social e governança — pode auxiliar diretamente no bem-estar dos colaboradores de uma empresa ao impulsionar práticas ...",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Supermercados",
+        "titulo": "Supermercados investem em práticas ESG e apps contra ...",
+        "link": "https://www.atribuna.com.br/projetos/esg/supermercados-investem-em-praticas-esg-e-apps-contra-desperdicio-ganham-forca-no-brasil-1.461887",
+        "descricao": "A ideia é buscar parceiros que ofereçam não só preço, mas também qualidade, segurança alimentar e alinhamento com práticas ESG. Certificações ambientais, ...",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Pequenas e Médias Empresas",
+        "titulo": "Faturamento de pequenas e médias empresas cresce 11,5 %",
+        "link": "https://www.estadao.com.br/pme/pequenas-medias-empresas-faturamento-2024-primeiro-trimestre-nprei/?srsltid=AfmBOorJw4AFZLsantdnI23hJFnXrakB7eA9tIY7SGGCWiEDGEBONeHK",
+        "descricao": "Faturamento de pequenas e médias empresas cresce 11,5% no primeiro trimestre · Alta em 2024 ocorreu em comparação com o mesmo período do ano passado; setor de ...",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Pequenas e Médias Empresas",
+        "titulo": "Brasil bate recorde na abertura de pequenos negócios no 1º trimestre",
+        "link": "https://www.diariodaregiao.com.br/agencia/brasil-bate-recorde-na-abertura-de-pequenos-negocios-no-1-trimestre-1.2053742",
+        "descricao": "O Brasil bateu recorde na abertura de pequenos negócios nos três primeiros meses deste ano, com mais de 1,4 milhão de registros.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Pequenas e Médias Empresas",
+        "titulo": "Número de empresas de tecnologia em São Paulo cresce 60%",
+        "link": "https://www.estadao.com.br/economia/agenda-sp-empresas-tecnologia/?srsltid=AfmBOopEkVzJ9pcM3RxOsb8mi40s4T47zDqcYdrxMrQcb-nAGB6xEtmz",
+        "descricao": "Nos últimos 10 anos, o número de companhias ligadas à área tecnológica na capital paulista cresceu 60%, passando de 211 mil, em 2014, para 339 mil neste ano.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Pequenas e Médias Empresas",
+        "titulo": "Líderes de pequenas e médias empresas enfrentam solidão na gestão",
+        "link": "https://www.diariodaregiao.com.br/agencia/lideres-de-pequenas-e-medias-empresas-enfrentam-solid-o-na-gest-o-1.2003339",
+        "descricao": "Uma pesquisa realizada pelo Instituto Locomotiva revela que 60% dos líderes das pequenas e médias empresas brasileiras têm a intenção de expandir o negócio.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Pequenas e Médias Empresas",
+        "titulo": "Como as pequenas empresas podem se preparar para o futuro",
+        "link": "https://www.estadao.com.br/pme/pequenas-empresas-economia-2025-o-que-esperar/?srsltid=AfmBOooRsEOI82h5cV_w5Epel6yEvG4HLb5VzYAEJMfSa4GK-b8bOoRZ",
+        "descricao": "Dados do Sebrae mostram que somente em novembro foram abertos 321 mil pequenos negócios, o que indica um crescimento de 13% em relação ao mesmo período do ano passado.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Pequenas e Médias Empresas",
+        "titulo": "Micro e pequenas empresas criam sete de cada 10 empregos",
+        "link": "https://www.diariodaregiao.com.br/agencia/micro-e-pequenas-empresas-criam-sete-de-cada-10-empregos-no-pais-1.1252916",
+        "descricao": "Só em maio, os pequenos negócios responderam por 70% (108.406 dos 155.270) dos novos vínculos empregatícios. Um aumento de 2 pontos percentuais em relação aos meses anteriores.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Pequenas e Médias Empresas",
+        "titulo": "Economia criativa vai gerar 1 milhão de empregos até 2030",
+        "link": "https://front3.diariodaregiao.com.br/agencia/economia-criativa-vai-gerar-1-milh-o-de-empregos-ate-2030-1.1486978",
+        "descricao": "Um milhão de novos empregos serão gerados pela economia criativa até 2030, elevando, em consequência, a atual participação de 3,11% do setor no Produto Interno Bruto (PIB).",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Pequenas e Médias Empresas",
+        "titulo": "SindusCon-SP e FGV Ibre preveem crescimento de 3% do PIB da construção",
+        "link": "https://cbic.org.br/sinduscon-sp-e-fgv-ibre-preveem-crescimento-de-3-do-pib-da-construcao-para-2025/",
+        "descricao": "Estimativa é de desaceleração na comparação com a projeção de aumento de 4,4% em 2024. Em um cenário básico, o PIB da construção deve crescer 3% em 2025.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Pequenas e Médias Empresas",
+        "titulo": "BNDES lucra R$ 5,6 bi no primeiro trimestre de 2025",
+        "link": "https://www.diariodaregiao.com.br/agencia/bndes-lucra-r-5-6-bi-no-primeiro-trimestre-de-2025-alta-de-7-3-1.2062160",
+        "descricao": "O apoio dado às micro, pequenas e médias empresas (MPMEs) foi de R$ 34,7 bilhões, alta de 87,7% na comparação com mesmo período de 2024.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Pequenas e Médias Empresas",
+        "titulo": "Foram abertos 4,2 milhões de pequenos negócios em 2024",
+        "link": "https://dcomercio.com.br/publicacao/s/foram-abertos-4-2-milhoes-de-pequenos-negocios-em-2024-um-numero-recorde",
+        "descricao": "O número de pequenos negócios abertos em 2024 somou quase 4,2 milhões (4.158.122), recorde do levantamento feito pelo Sebrae.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Pequenas e Médias Empresas",
+        "titulo": "Brasil bate recorde na abertura de pequenos negócios no 1º trimestre",
+        "link": "https://www.diariodaregiao.com.br/agencia/brasil-bate-recorde-na-abertura-de-pequenos-negocios-no-1-trimestre-1.2053742",
+        "descricao": "O Brasil bateu recorde na abertura de pequenos negócios nos três primeiros meses deste ano, com mais de 1,4 milhão de registros.",
+        "data": "01/01/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Modernização",
+        "titulo": "Taxa de inovação das empresas foi de 68,1% em 2022",
+        "link": "https://www.diariodaregiao.com.br/agencia/taxa-de-inovac-o-das-empresas-foi-de-68-1-em-2022-1.1947204",
+        "descricao": "As atividades que mais se beneficiaram de apoio público foram fabricação de equipamentos de informática, produtos eletrônicos e ópticos (60,9%); fabricação de ...",
+        "data": "01/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Modernização",
+        "titulo": "IA chega ao mercado de elevadores para levar mais segurança aos prédios",
+        "link": "https://imoveis.estadao.com.br/cidades-inteligentes/ia-chega-ao-mercado-de-elevadores-para-levar-mais-seguranca-aos-predios/",
+        "descricao": "O setor passa por um processo de aporte de novas tecnologias, como o monitoramento remoto do elevador por IA e IoT. Isso possibilitará, por exemplo, que, se o ...",
+        "data": "01/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Modernização",
+        "titulo": "RA de Campinas lidera os investimentos em indústrias",
+        "link": "https://correio.rac.com.br/campinasermc/ra-de-campinas-lidera-os-investimentos-em-industrias-1.1648649",
+        "descricao": "A Região Administrativa de Campinas (RA) foi a que mais recebeu investimentos em indústrias no Estado de São Paulo entre 2022 e 2024, captando R$ 26,7 ...",
+        "data": "01/10/2023",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Modernização",
+        "titulo": "INOVAÇÃO ABERTA E EM REDE NA CONSTRUÇÃO CIVIL",
+        "link": "https://cbic.org.br/wp-content/uploads/2024/03/construcao20304-1.pdf",
+        "descricao": "Aproveitamento de Ideias Externas: Incorporar ideias e tecnologias de fora da empresa para aprimorar processos, produtos e serviços internos.",
+        "data": "01/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Modernização",
+        "titulo": "Da Revolução Industrial à Era Digital: Tendências e desafios",
+        "link": "https://www.estadao.com.br/economia/gestao-e-negocios/da-revolucao-industrial-a-era-digital-tendencias-e-desafios-para-o-setor-financeiro/?srsltid=AfmBOorFi0rSSh08Mv6WMpk6DqSNmsTzuEasi7i1JcwbNp_OFguoPEUt",
+        "descricao": "A convergência das tecnologias digitais, físicas e biológicas da Indústria 4.0 está remodelando profundamente o ambiente de negócios e finanças.",
+        "data": "01/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Modernização",
+        "titulo": "Aneel autoriza melhorias no sistema de transmissão da Eletrobras",
+        "link": "https://www.canalenergia.com.br/noticias/53308158/aneel-autoriza-melhorias-no-sistema-de-transmissao-da-eletrobras",
+        "descricao": "A Agência Nacional de Energia Elétrica (Aneel) autorizou a Eletrobras a realizar melhorias em seu sistema de transmissão de energia.",
+        "data": "01/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Modernização",
+        "titulo": "Eletrobras avança para melhorar conectividade de subestações",
+        "link": "https://www.canalenergia.com.br/noticias/53302758/eletrobras-avanca-para-melhorar-conectividade-de-subestacoes-e-usinas",
+        "descricao": "O projeto consiste na atualização de toda infraestrutura de redes e cabeamento, instalações de Switches e access-points.",
+        "data": "01/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Modernização",
+        "titulo": "Logística e tecnologia para escoar a produção",
+        "link": "https://www.estadao.com.br/economia/logistica-e-tecnologia-para-escoar-a-producao/?srsltid=AfmBOoo_enDtICSLo6A3DMFtXlVB2vwafMW5Qs4b3Bp9Nz5I8vwvTPdq",
+        "descricao": "Recuperação de estradas rurais e ampliação da conectividade no campo aumentam a proximidade física e virtual.",
+        "data": "01/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Modernização",
+        "titulo": "Se essa rua fosse minha: projeto ganha instalação e painel",
+        "link": "https://cbic.org.br/se-essa-rua-fosse-minha-projeto-ganha-instalacao-e-painel-no-enic-100/",
+        "descricao": "O objetivo central do projeto é chamar a atenção para os equipamentos essenciais que devem estar presentes nas ruas das cidades brasileiras.",
+        "data": "01/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Modernização",
+        "titulo": "Hughes do Brasil demonstra solução de IoT via satélite na Agrishow 2025",
+        "link": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/prnewswire/hughes-do-brasil-demonstra-solucao-de-iot-via-satelite-na-agrishow-2025/",
+        "descricao": "Com foco em aplicações críticas e gestão remota de ativos, solução combina tecnologia satelital de última geração com inteligência operacional.",
+        "data": "01/10/2023",
+        "municipio": "São Paulo"
+    }
+]

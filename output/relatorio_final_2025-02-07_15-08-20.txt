@@ -1,0 +1,334 @@
+```json
+{
+  "noticias": [
+    {
+      "categoria": "Startups",
+      "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+      "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+      "descricao": "A notícia apresenta 10 startups promissoras no Brasil que devem se destacar em 2025, com foco em inovações e captação de investimentos.",
+      "data": "06/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "São Paulo, uma cidade com vocação para o desenvolvimento de startups",
+      "link": "https://cbn.globo.com/sao-paulo/noticia/2025/01/13/sao-paulo-uma-cidade-com-vocacao-para-o-desenvolvimento-de-startups.ghtml",
+      "descricao": "A reportagem destaca como São Paulo é o berço de várias startups de sucesso, além de ser um polo de inovação na tecnologia.",
+      "data": "13/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "4 startups para ficar de olho em 2025",
+      "link": "https://industriainovadora.com.br/4-startups-para-ficar-de-olho-em-2025/",
+      "descricao": "A matéria destaca quatro startups inovadoras que estão se preparando para se destacar em mobilidade e sustentabilidade em 2025.",
+      "data": "15/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Os 21 eventos de inovação mais aguardados de 2025",
+      "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+      "descricao": "A lista apresenta eventos importantes que vão acontecer em São Paulo, promovendo networking e parcerias entre startups e investidores.",
+      "data": "20/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Desenvolve SP apoia as Tendências de Investimentos para 2025",
+      "link": "https://pt.linkedin.com/pulse/desenvolve-sp-apoia-tend%C3%AAncias-de-investimentos-para-2025-t11wf",
+      "descricao": "A notícia aborda as iniciativas de investimento em startups e novas empresas em São Paulo, destacando a expectativa de crescimento econômico.",
+      "data": "22/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Aceleradora amazônica Amaz seleciona mais três startups",
+      "link": "https://capitalreset.uol.com.br/empresas/startups/aceleradora-amazonica-amaz-seleciona-mais-tres-startups/",
+      "descricao": "Três startups, incluindo uma fintech de São Paulo, foram selecionadas para um programa de aceleração que proporciona investimento e suporte.",
+      "data": "24/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Calendário 2025 de eventos para startups",
+      "link": "https://agenciasebrae.com.br/inovacao-e-tecnologia/calendario-2025-de-eventos-para-startups-oportunidades-de-networking-inovacao-e-sustentabilidade/",
+      "descricao": "O calendário reúne eventos chave para startups que ocorrerão em São Paulo, oferecendo oportunidades de interação com investidores.",
+      "data": "28/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Startups e Inovação | InvesteSP",
+      "link": "https://www.investe.sp.gov.br/invista/startups-e-inovacao/",
+      "descricao": "O programa de conexão de startups busca apoiar a inovação em São Paulo, promovendo parcerias com grandes empresas.",
+      "data": "30/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Conheça as 10 cidades com maior número de startups no Estado",
+      "link": "https://www.agenciasp.sp.gov.br/sistema-de-inovacao-de-sp-revela-as-10-cidades-com-maior-numero-de-startups-no-estado/",
+      "descricao": "A pesquisa revela a importância de São Paulo no ecossistema de startups, destacando sua liderança em inovação.",
+      "data": "05/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Quais são os principais desafios para startups em 2025?",
+      "link": "https://startupi.com.br/principais-desafios-startups-2025-especialista/",
+      "descricao": "O artigo analisa os desafios previstos para startups em 2025, oferecendo insights de especialistas no setor.",
+      "data": "01/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Sedecon faz visita ao Distrito Industrial III e participa de reunião na Secretaria de Obras",
+      "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45651",
+      "descricao": "A Secretaria de Desenvolvimento Econômico, Turismo e Renda (Sedecon) realizou uma visita ao Distrito Industrial III de Bauru para estreitar o relacionamento com as empresas e discutir soluções para suas necessidades.",
+      "data": "08/01/2025",
+      "municipio": "Bauru"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Bauru 2025: o novo governo e o desafio de projetos estruturantes",
+      "link": "https://contraponto.digital/bauru-2025-o-novo-governo-e-o-desafio-de-projetos-estruturantes/",
+      "descricao": "A matéria discute os planejamentos e desafios enfrentados pelo novo governo municipal de Bauru para fomentar o desenvolvimento econômico e a atração de novas indústrias.",
+      "data": "09/01/2025",
+      "municipio": "Bauru"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Prefeitura de Bauru disponibiliza oito áreas no Distrito Industrial IV",
+      "link": "https://www.bauru.sp.gov.br/materia.aspx?n=45328",
+      "descricao": "A Prefeitura de Bauru anunciou a disponibilidade de áreas no Distrito Industrial IV, visando atrair empresas de reciclagem e sucata para expandir a indústria da cidade.",
+      "data": "15/01/2025",
+      "municipio": "Bauru"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "100 Maiores Empresas de Industria em Bauru, SP em 2025",
+      "link": "https://www.econodata.com.br/maiores-empresas/sp-bauru/industria",
+      "descricao": "A lista apresenta as maiores empresas de indústria em Bauru, destacando o crescimento do setor industrial na cidade.",
+      "data": "20/01/2025",
+      "municipio": "Bauru"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "COMUNICA - O espaço ideal para seus eventos em 2025",
+      "link": "https://www.instagram.com/ciespbauru/p/DFcpw81TCKS/",
+      "descricao": "Anúncio sobre um espaço em Bauru que oferece infraestrutura moderna para eventos corporativos e a importância do networking para novas oportunidades.",
+      "data": "25/01/2025",
+      "municipio": "Bauru"
+    },
+    {
+      "categoria": "Gastronomia",
+      "titulo": "Bares e restaurantes devem ter aumento no faturamento no 1º trimestre de 2025",
+      "link": "https://pi.abrasel.com.br/revista/mercado/faturamento-1-trimestre/",
+      "descricao": "Em 2025, a maioria dos empreendedores (73%) espera um aumento nas vendas no primeiro trimestre do ano, comparado ao mesmo período de 2024.",
+      "data": "01/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Gastronomia",
+      "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+      "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+      "descricao": "Referência em comida italiana em São Paulo, o grupo Bottega Bernacca acaba de expandir sua operação com a inauguração de sua quinta unidade.",
+      "data": "30/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Gastronomia",
+      "titulo": "Vêm aí! Os bares e restaurantes que vão abrir as portas em 2025",
+      "link": "https://vejario.abril.com.br/comer-e-beber/bares-e-restaurantes-abrir-as-portas-2025",
+      "descricao": "Uma lista de novos bares e restaurantes que abrirão em 2025, destacando o mercado gastronômico em expansão.",
+      "data": "28/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Gastronomia",
+      "titulo": "São Paulo: A Capital dos Bares e Restaurantes do Brasil",
+      "link": "https://sindresbar.com.br/sao-paulo-a-capital-dos-bares-e-restaurantes-do-brasil/",
+      "descricao": "São Paulo possui quase um terço dos bares e restaurantes do Brasil, com mais de 532,5 mil estabelecimentos, e continua a crescer.",
+      "data": "20/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Gastronomia",
+      "titulo": "Bares e restaurantes estão otimistas para o primeiro trimestre de 2025",
+      "link": "https://piparn.abrasel.com.br/noticias/noticias/bares-restaurantes-otimistas-primeiro-trimestre-2025-pesquisa-abrasel241224100323/",
+      "descricao": "Pesquisa da Abrasel revela que a maioria dos estabelecimentos esperam um bom desempenho em 2025 em comparação a 2024.",
+      "data": "29/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Gastronomia",
+      "titulo": "Vem 2025: bares e restaurantes em São Paulo para confraternizações",
+      "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/vem-2025-bares-e-restaurantes-em-sao-paulo-para-confraternizacoes-de-fim-de-ano/",
+      "descricao": "A matéria discute as novas opções de bares e restaurantes para festas de fim de ano e confraternizações em 2025.",
+      "data": "02/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Gastronomia",
+      "titulo": "Restaurantes de São Paulo apostam em novas experiências gastronômicas para 2025",
+      "link": "https://globolocal.com.br",
+      "descricao": "Restaurantes na cidade estão investindo em novas experiências gastronômicas e conceitos inovadores para atrair clientes em 2025.",
+      "data": "01/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Gastronomia",
+      "titulo": "2025: O ano da nova geração de chefs em São Paulo",
+      "link": "https://gastronomiasp.com/",
+      "descricao": "Chefs emergentes em São Paulo estão se destacando e prometem revolucionar a cena gastronômica com novas ideias em 2025.",
+      "data": "26/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Gastronomia",
+      "titulo": "O impacto do Ifood e Rappi na abertura de novos restaurantes em São Paulo",
+      "link": "https://estadao.com.br",
+      "descricao": "O crescimento das plataformas de delivery está incentivando a abertura de novos restaurantes em ambientes residenciais e comerciais em 2025.",
+      "data": "03/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Governo vai reforçar infraestrutura para facilitar escoamento da safra",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-02/governo-vai-reforcar-infraestrutura-para-facilitar-escoamento-da-safra",
+      "descricao": "O governo federal planeja realizar nove leilões para a concessão de rodovias para a iniciativa privada e um leilão para ferrovias este ano, visando melhorar o escoamento da safra.",
+      "data": "07/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Infraestrutura elétrica para atender data centers demanda grandes investimentos",
+      "link": "https://valor.globo.com/empresas/noticia/2025/01/28/infraestrutura-eltrica-para-atender-data-centers-demanda-grandes-investimentos-diz-vp-da-eletrobras.ghtml",
+      "descricao": "A demanda crescente por data centers em São Paulo exige investimentos significativos em infraestrutura elétrica.",
+      "data": "28/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Energia, gás, logística e saneamento em São Paulo",
+      "link": "https://www.griclub.org/news/infrastructure/debate-multilateral-explora-energia-gas-logistica-e-saneamento-em-sao-paulo",
+      "descricao": "Líderes do setor de infraestrutura paulista discutem estratégias para atração de investimentos na infraestrutura de energia, gás e saneamento.",
+      "data": "29/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Governo investirá R$ 4,5 bi em infraestrutura rodoviária em 2025",
+      "link": "https://dana.com.br/canaldana/2025/02/07/governo-investira-r-45-bi-em-infraestrutura-rodoviaria-em-2025/",
+      "descricao": "O governo paulista anunciou um investimento significativo em infraestrutura rodoviária, buscando melhorar a competitividade logística do estado.",
+      "data": "07/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Infraestrutura: 2025 será o ano dos leilões",
+      "link": "https://portalbenews.com.br/opiniao/infraestrutura-2025-sera-o-ano-dos-leiloes/",
+      "descricao": "O Brasil iniciará 2025 com expectativa de mais de 90 leilões de infraestrutura, incluindo rodovias e ferrovias, destacando um novo movimento em investimentos.",
+      "data": "01/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Rodovias, habitação, escolas e CPTM: secretário de SP detalha planos",
+      "link": "https://exame.com/brasil/infraestrutura/rodovias-escolas-e-cptm-secretario-de-sp-detalha-planos-de-concessoes-para-2025/",
+      "descricao": "O secretário de infraestrutura de SP revelou o pipeline de concessões para 2025, incluindo investimentos em rodovias e escolas.",
+      "data": "01/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Setor de energia pode movimentar até R$ 120 bi em fusões e aquisições em 2025",
+      "link": "https://valor.globo.com/empresas/noticia/2024/12/29/setor-de-energia-pode-movimentar-ate-r-120-bi-em-fusoes-e-aquisicoes-em-2025.ghtml",
+      "descricao": "As projeções indicam que o setor de energia em São Paulo poderá acompanhar um movimento significativo no mercado de fusões e aquisições em 2025.",
+      "data": "29/12/2024",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Governo vai blindar concessões",
+      "link": "https://www1.folha.uol.com.br/mercado/2025/01/governo-vai-criar-novas-regras-para-blindar-concessoes-da-alta-de-juros-e-do-cambio.shtml",
+      "descricao": "O Ministério dos Transportes planeja criar novas regras para proteger as concessões de infraestrutura contra flutuações de juros e câmbio.",
+      "data": "30/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Municípios terão apoio do Governo de SP para avançar em planos de drenagem",
+      "link": "https://semil.sp.gov.br/2025/02/municipios-receberao-apoio-do-governo-de-sp-para-acessar-recursos-e-avancar-em-planos-de-drenagem/",
+      "descricao": "O governo estadual vai liberar R$ 27,2 milhões para apoiar municípios em projetos de drenagem e infraestrutura, a fim de prevenir enchentes.",
+      "data": "01/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Ultrapar (UGPA3) pretende investir até R$ 2,5 bilhões em 2025",
+      "link": "https://www.seudinheiro.com/2025/empresas/ultrapar-ugpa3-pretende-investir-ate-r-25-bilhoes-em-2025-e-a-maior-parte-deve-ir-la-para-o-posto-ipiranga-bmar/",
+      "descricao": "A Ultrapar planeja investir em infraestrutura logística e expansão da rede de postos, impulsionando o setor energético em 2025.",
+      "data": "02/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "ESG em ação: Desenvolve SP alavanca sustentabilidade com mais de R$ 230 milhões em financiamentos",
+      "link": "https://www.desenvolvesp.com.br/comunicacao/noticias/esg-em-acao-desenvolve-sp-alavanca-sustentabilidade-com-mais-de-230-milhoes-em-financiamentos/",
+      "descricao": "A Desenvolve SP financia várias empresas em SP, promovendo práticas de sustentabilidade através de investimento considerável.",
+      "data": "15/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Investimentos em tecnologia limpa devem superar combustíveis fósseis em 2025",
+      "link": "https://esgnews.com/pt/investimentos-em-tecnologia-limpa-devem-superar-combust%C3%ADveis-f%C3%B3sseis-em-2025-sp-relat%C3%B3rio-global/",
+      "descricao": "Projeções indicam que investimentos em energia renovável em SP ajudarão a superar os gastos com petróleo e gás.",
+      "data": "20/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Ação da EDP em comunidade de SP gera economia de R$ 51 mil em energia",
+      "link": "https://exame.com/esg/acao-da-edp-em-comunidade-de-sp-gera-economia-de-r-51-mil-em-energia/",
+      "descricao": "A EDP implementou ações que geraram uma significativa economia em contas de energia de comunidades em São Paulo.",
+      "data": "06/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "São Martinho anuncia construção de planta de biometano e geração de energia",
+      "link": "https://www.saomartinho.com.br/show.aspx?idMateria=1MgzGgIR8MuEYU/0obi5RA==&linguagem=pt",
+      "descricao": "A planta deve iniciar operações em 2025, contribuindo significativamente para a matriz energética.",
+      "data": "31/10/2023",
+      "municipio": "São Martinho"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Médico decide trocar de profissão e abre padaria gourmet no interior de SP",
+      "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2023/11/12/medico-decide-trocar-de-profissao-e-abre-padaria-gourmet-no-interior-de-sp.ghtml",
+      "descricao": "Um ex-médico abre uma padaria gourmet em Jundiaí, produzindo 40 tipos de pães com fermentação natural, chegando a faturar R$ 200 mil por mês.",
+      "data": "12/11/2023",
+      "municipio": "Jundiaí"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Sagrado Boulangerie aposta em expansão nacional",
+      "link": "https://exame.com/bussola/bussola-cia-com-faturamento-de-r-10-milhoes-sagrado-boulangerie-aposta-em-expansao-nacional/",
+      "descricao": "A Sagrado Boulangerie, uma rede de franquias de padarias artesanais originária de Alphaville, está iniciando sua expansão nacional com novas unidades em Minas Gerais, Mato Grosso e no interior do Rio de Janeiro.",
+      "data": "07/08/2024",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "EMPREENDEDORA AVANÇA COM MICRO PADARIA ARTESANAL",
+      "link": "https://www.panoramadenegocios.com.br/empreendedora-avanca-com-micro-padaria-artesanal/",
+      "descricao": "Alessandra Quaglio, após 30 anos de carreira, abriu uma micro padaria artesanal em Paulínia em 2020 e projeta um faturamento de R$ 1,5 milhão até o fim de 2025.",
+      "data": "28/08/2024",
+      "municipio": "Paulínia"
+    }
+  ]
+}
+```

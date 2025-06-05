@@ -1,0 +1,214 @@
+```json
+[
+    {
+        "titulo": "Novas fábricas aumentarão capacidade da indústria automotiva em 2025",
+        "link": "https://www1.folha.uol.com.br/colunas/eduardosodre/2025/01/novas-fabricas-aumentarao-capacidade-da-industria-automotiva-em-2025.shtml",
+        "descricao": "As montadoras chinesas BYD e GWM abrirão fábricas no Brasil, aumentando a capacidade de produção da indústria automotiva. A GWM começará operações em Iracemápolis, criando 700 empregos.",
+        "data": "06/01/2025",
+        "municipio": "Iracemápolis"
+    },
+    {
+        "titulo": "Quimatic terá nova sede em 2025",
+        "link": "https://www.arandanet.com.br/revista/mm/noticia/9213-Quimatic-tera-nova-sede-em-2025.html",
+        "descricao": "A Quimatic anuncia a construção de uma nova fábrica modular, que triplicará sua produção de especialidades químicas.",
+        "data": "01/02/2025",
+        "municipio": "Araraquara"
+    },
+    {
+        "titulo": "Gupy muda marca e inaugura escritório voltado à comunidade de RH",
+        "link": "https://exame.com/negocios/gupy-muda-marca-inaugura-escritorio-comunidade-de-rh/",
+        "descricao": "A Gupy, startup de tecnologia, apresenta nova identidade e inaugura um espaço em São Paulo para apoiar a comunidade de recursos humanos.",
+        "data": "03/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Nova unidade do Avança Tech Freguesia do Ó é inaugurada",
+        "link": "https://capital.sp.gov.br/web/prefeitura-de-sao-paulo/w/nova-unidade-do-avan%C3%A7a-tech-freguesia-do-%C3%B3-%C3%A9-inaugurada-pela-prefeitura",
+        "descricao": "A unidade do programa de aceleração Avança Tech foi inaugurada, promovendo o desenvolvimento de startups na Freguesia do Ó.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Inaugurada a Casa Cortez em Jundiaí",
+        "link": "https://tribunadejundiai.com.br/gastronomia/casa-cortez-inauguracao/",
+        "descricao": "A Casa Cortez, focada em gastronomia artesanal, é inaugurada em Jundiaí, oferecendo um menu variado e produtos locais.",
+        "data": "10/01/2025",
+        "municipio": "Jundiaí"
+    },
+    {
+        "titulo": "Mercado da Gastronomia abre nova unidade em São Carlos",
+        "link": "https://saocarlosagora.com.br/publieditorial/inauguracao-mercado-da-gastronomia/",
+        "descricao": "O Mercado da Gastronomia inaugura em São Carlos, trazendo uma nova experiência de compras e alimentação para a região.",
+        "data": "15/01/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "titulo": "Café do Mercado é inaugurado em Sorocaba",
+        "link": "https://jornalznorte.com.br/sorocaba/cafe-do-mercado-e-inaugurado-em-sorocaba/",
+        "descricao": "Um novo café faz sua estreia em Sorocaba, oferecendo uma variedade de produtos locais e um espaço para a comunidade.",
+        "data": "18/01/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Desenvolvimento Sustentável: Hub Green Sampa inaugurado",
+        "link": "https://itforum.com.br/sao-paulo-inaugura-hub-green-sampa-com-investimento-de-r-17-milhao/",
+        "descricao": "O Hub Green Sampa foi aberto em Pinheiros, focando em startups de tecnologia verde com investimento significativo.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Juntos Energia inaugura nova sede em Itajubá",
+        "link": "https://www.inovai.org.br/juntos-energia-inaugura-nova-sede-e-planeja-expansao-e-contratacoes/",
+        "descricao": "A Juntos Energia abre uma nova sede em Itajubá e planeja expansões e contratações.",
+        "data": "05/02/2025",
+        "municipio": "Itajubá"
+    },
+    {
+        "titulo": "Startup Power Office oferece soluções para clínicas",
+        "link": "https://conectasc.com.br/2025/01/17/279265-startup-para-clinicas-apresenta-solucoes-para-2025/",
+        "descricao": "A Power Office, uma startup voltada para clínicas, apresenta soluções inovadoras para gestão de produtividade.",
+        "data": "17/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Açaí Formosa prevê crescimento de 15 % para 2025 e expansão para interior de SP",
+        "link": "https://www.investe.sp.gov.br/noticia/acai-formosa-preve-crescimento-de-15-para-2025-e-expansao-para-interior-de-sp/",
+        "descricao": "Com um faturamento de 60 milhões de reais em 2024, a franquia Açaí Formosa projeta um crescimento de 15% para 2025, com planos de expansão em cidades do interior.",
+        "data": "24/01/2025",
+        "municipio": "Não especificado (interior de SP)"
+    },
+    {
+        "titulo": "10 Cafés em São Paulo para Conferir em 2025",
+        "link": "https://alphafm.com.br/agenda/10-cafes-em-sao-paulo-para-conferir-em-2025/",
+        "descricao": "Em 2025, a cena cafeeira da cidade tem novos locais vibrantes, como opções de cafés especialmente elaborados.",
+        "data": "20/01/2025",
+        "municipio": "Não específico"
+    },
+    {
+        "titulo": "Santa Clara inaugura cafeteria no Beach Park",
+        "link": "https://turismoemfoco.com.br/v1/2025/01/24/santa-clara-inaugura-cafeteria-no-beach-park/",
+        "descricao": "O cardápio é variado, com opções de cafeteria clássica, espressos, cappuccinos e bebidas refrescantes.",
+        "data": "24/01/2025",
+        "municipio": "Não específico"
+    },
+    {
+        "titulo": "novo Hard Rock Cafe em São Paulo em 2025",
+        "link": "https://www.tiktok.com/@guiapaulistinha/video/7444333372337327415",
+        "descricao": "São Paulo ganhará uma nova unidade do Hard Rock Cafe em 2025.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Grupo Way Acelera Expansão com Novo Modelo",
+        "link": "https://www.portaldofranchising.com.br/noticias/grupo-way-acelera-expansao-com-modelo-inovador-de-negocios/",
+        "descricao": "O Grupo Way cresce 50% e aposta no modelo dark kitchen para expandir.",
+        "data": "05/02/2025",
+        "municipio": "Não especificado"
+    },
+    {
+        "titulo": "Mr. Black Café projeta mais 50 unidades",
+        "link": "https://diariodocomercio.com.br/negocios/mr-black-cafe-projeta-50-unidades-alta-faturamento-2025/",
+        "descricao": "A rede mineira de franquias espera crescer com 50 novas unidades em 2025.",
+        "data": "10/02/2025",
+        "municipio": "Não especificado"
+    },
+    {
+        "titulo": "Alta de 20% no Faturamento - Mr. Black",
+        "link": "https://diariodocomercio.com.br/negocios/mr-black-cafe-projeta-50-unidades-alta-faturamento-2025/",
+        "descricao": "A ideia é abrir novas unidades em cidades do interior de São Paulo.",
+        "data": "10/02/2025",
+        "municipio": "Não específico"
+    },
+    {
+        "titulo": "USP deseja se tornar carbono neutro até final de 2025",
+        "link": "https://ipesi.com.br/usp-deseja-se-tornar-carbono-neutro-ate-final-de-2025/",
+        "descricao": "A Ambipar investirá R$ 5 milhões nos próximos cinco anos e apoiará a USP no desenvolvimento de iniciativas de descarbonização.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Transição para fábricas de baixo carbono no Brasil vai demandar R$ 40 bi até 2050",
+        "link": "https://oglobo.globo.com/mundo/g20-no-brasil/noticia/2024/08/29/transicao-para-fabricas-de-baixo-carbono-no-brasil-vai-demandar-r-40-bi-ate-2050.ghtml",
+        "descricao": "Meta é que toda a produção brasileira seja neutra em carbono até 2030.",
+        "data": "29/08/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Grupo CCR anuncia compromisso de se tornar neutro em carbono",
+        "link": "https://www.grupoccr.com.br/noticias/grupo-ccr-anuncia-compromisso/",
+        "descricao": "O compromisso de neutralidade carbônica faz parte da Ambição 2035 do Grupo CCR.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Escritório Regional da Cabot em SP recebe Certificação Carbono Neutro",
+        "link": "https://www.borrachaatual.com.br/materia?id=MTg5Mg==",
+        "descricao": "Para promover sua jornada de sustentabilidade, a Cabot anunciou sua ambição de atingir zero emissões líquidas até 2050.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Rumo ao net zero, Ambev neutraliza emissões de três novas fábricas",
+        "link": "https://exame.com/negocios/net-zero-ambev-neutraliza-emissoes-novas-fabricas/",
+        "descricao": "A Ambev anunciou as primeiras unidades carbono neutro nos estados de São Paulo e Rio de Janeiro.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Nestlé anuncia plano de plantio e cultivo de 6 milhões de árvores",
+        "link": "https://www.nestle.com.br/media/pressreleases/allpressreleases/nestle-anuncia-plano-de-plantio-e-cultivo-de-6-milhoes-de-arvores-nativas",
+        "descricao": "Fase de plantio será realizada até 2027 em áreas de nascentes, córregos e rios.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Projeto de reflorestamento em SP tem maior primata das Américas",
+        "link": "https://www.saneamentoambiental.com.br/noticias/projeto-de-reflorestamento-em-sp-tem-maior-primata-das-americas",
+        "descricao": "O projeto Barreiro Rico faz parte da restauração de áreas monitoradas visando a biodiversidade.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "São Paulo renova isenção de ICMS para geração solar distribuída",
+        "link": "https://www.pv-magazine-brasil.com/2025/01/07/sao-paulo-renova-isencao-de-icms-para-geracao-solar-distribuida/",
+        "descricao": "Governo paulista estendeu benefício para a geração solar até o final de 2026, liderando instalações de energia renovável.",
+        "data": "07/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Energia solar deve trazer mais de R$ 39,4 bilhões em novos investimentos",
+        "link": "https://fitecambiental.com.br/energia-solar-deve-trazer-mais-de-r-394-bilhoes-em-novos-investimentos-em-2025-ao-brasil/",
+        "descricao": "Projeções indicam que a energia solar deverá adicionar 13,2 gigawatts (GW) de capacidade instalada até 2025.",
+        "data": "Não especificada",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Energia limpa no Brasil termina 2024 com saldo positivo",
+        "link": "https://www1.folha.uol.com.br/mercado/2025/01/energia-limpa-no-brasil-termina-2024-com-saldo-positivo-e-setor-descarta-efeito-trump-para-2025.shtml",
+        "descricao": "Os setores eólico e solar tiveram investimentos próximos de R$ 78 bilhões em 2024, com expectativa de crescimento contínuo.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Geração de novas renováveis salta quase 10% no Brasil",
+        "link": "https://www1.folha.uol.com.br/mercado/2025/01/geracao-de-novas-renovaveis-salta-quase-10-no-brasil-em-2025-mas-isso-traz-problemas-entenda.shtml",
+        "descricao": "Embora tenha havido avanço, a geração de renováveis enfrenta desafios, com cortes significativos em capacidades de geração.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Inaugurada a Casa Cortez em Jundiaí",
+        "link": "https://tribunadejundiai.com.br/gastronomia/casa-cortez-inauguracao/",
+        "descricao": "A Casa Cortez, focada em gastronomia artesanal, é inaugurada em Jundiaí, oferecendo um menu variado e produtos locais.",
+        "data": "10/01/2025",
+        "municipio": "Jundiaí"
+    },
+    {
+        "titulo": "Hub de inovação em São José do Rio Preto recebe investimento",
+        "link": "https://agencia.fapesp.br/parque-tecnologico-de-sao-jose-do-rio-preto-recebe-investimento/14425",
+        "descricao": "Investimento significativo para a expansão do hub de inovação em São José do Rio Preto, focando em startups e tecnologia.",
+        "data": "12/02/2025",
+        "municipio": "São José do Rio Preto"
+    }
+]
+```

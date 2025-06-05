@@ -1,0 +1,124 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "South Summit Brazil 2025: conheça as 50 startups finalistas da competição",
+        "link": "https://exame.com/negocios/south-summit-brazil-2025-conheca-as-50-startups-finalistas-da-competicao/",
+        "descricao": "O South Summit Brasil, um dos principais eventos de inovação e negócios da América Latina, revelou as 50 startups finalistas da competição, destacando várias com sede em São Paulo.",
+        "data": "15/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "Lista da Bloomberg Línea reúne empresas que aceleram o crescimento com a criação de novas verticais de negócios, com destaque para as que estão localizadas em São Paulo.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025 - Distrito",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "O Distrito apresenta uma lista das atuais startups unicórnio brasileiras e aquelas que podem se tornar unicórnios em breve, com várias localizadas em São Paulo.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Os 21 eventos de inovação mais aguardados de 2025 - Startups",
+        "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+        "descricao": "Esta lista destaca eventos de inovação programados em São Paulo que promovem networking e desenvolvimento de startups em 2025.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "4 startups para ficar de olho em 2025 - Indústria Inovadora",
+        "link": "https://industriainovadora.com.br/4-startups-para-ficar-de-olho-em-2025/",
+        "descricao": "Confira negócios inovadores que irão ganhar ainda mais destaque em 2025 com suas soluções focadas em mobilidade, biodiversidade e tecnologia, todas com forte atuação em São Paulo.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup Day 2025: evento de empreendedorismo e inovação ocorre em 22 de março",
+        "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-evento-de-empreendedorismo-e-inovacao-ocorre-em-22-de-marco-no-noroeste-paulista",
+        "descricao": "O evento Startup Day 2025 promete ser um marco de inovação e networking em São Paulo, reunindo empreendedores e investidores.",
+        "data": "22/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "São Paulo bate recorde em abertura de empresas, com média de quase mil novos negócios por dia",
+        "link": "https://www.investe.sp.gov.br/noticia/sao-paulo-bate-recorde-em-abertura-de-empresas-com-media-de-quase-mil-novos-negocios-por-dia/",
+        "descricao": "A reportagem destaca que São Paulo ultrapassou 647 mil novas empresas no acumulado de 2023 e 2024, revelando um crescimento significativo no setor.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Vale a pena investir em startups em 2025? Saiba onde está o verdadeiro potencial",
+        "link": "https://exame.com/negocios/vale-a-pena-investir-em-startups-em-2025-saiba-onde-esta-o-verdadeiro-potencial/",
+        "descricao": "O artigo discute as oportunidades e desafios de se investir em startups em 2025, com um enfoque nas inovações sendo desenvolvidas em São Paulo.",
+        "data": "12/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Negócios em Expansão 2025 - Inteligência artificial",
+        "link": "https://lps.exame.com/ranking-negocios-em-expansao-2025",
+        "descricao": "O ranking identifica os negócios em expansão no Brasil, incluindo uma análise de startups promissoras em São Paulo que utilizam tecnologia de inteligência artificial.",
+        "data": "07/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "Sedecon apoia o processo seletivo de nova empresa de varejo que será instalada em Bauru",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45720",
+        "descricao": "A Prefeitura de Bauru, através da Sedecon, divulgou a abertura de vagas de emprego para a nova unidade da Leroy Merlin que será inaugurada na cidade, criando 120 empregos.",
+        "data": "29/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "Coca-Cola Femsa Brasil investe R$ 94 milhões em novo Centro de Distribuição em Bauru",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45672",
+        "descricao": "A empresa Coca-Cola Femsa Brasil anunciou um investimento de R$ 94 milhões para a construção de um novo centro de distribuição em Bauru, que vai gerar cerca de 120 novos empregos.",
+        "data": "16/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "Baixada Santista registra 10 mil novas empresas no ramo de serviços",
+        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2024/09/26/baixada-santista-registra-10-mil-novas-empresas-no-ramo-de-servicos-e-tem-alta-de-20percent-nas-contratacoes.ghtml",
+        "descricao": "O relatório da Jucesp destaca que a Baixada Santista registrou um grande aumento no número de novas empresas no setor de serviços, resultando em uma alta de 20% nas contratações.",
+        "data": "26/09/2024",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup Day 2025 em Sorocaba",
+        "link": "https://www.instagram.com/ciespsorocaba/p/DHbm3Vmulsn/",
+        "descricao": "O Sebrae Sorocaba convida para o Startup Day 2025, um evento que visa fortalecer o ecossistema de inovação e empreendedorismo com a exposição de startups e parceiros.",
+        "data": "22/03/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Estão abertas as inscrições para o Startup Day, realizado em Sorocaba",
+        "link": "https://noticias.sorocaba.sp.gov.br/estao-abertas-as-inscricoes-para-o-startup-day-realizado-pelo-sebrae-em-parceria-com-o-parque-tecnologico-de-sorocaba/",
+        "descricao": "O evento de empreendedorismo e inovação, o Startup Day 2025, será realizado em 22 de março em Sorocaba, focando em oportunidades para startups.",
+        "data": "10/02/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Registro abre a temporada 2025 do Festival Sabor de São Paulo",
+        "link": "https://registro.sp.gov.br/registro-abre-a-temporada-2025-do-festival-sabor-de-sao-paulo/",
+        "descricao": "Os visitantes poderão apreciar pratos dos restaurantes locais Budista Gastrobar e Kabanna Steakehouse, bem como dos produtores do Sítio Shimada.",
+        "data": "15/02/2025",
+        "municipio": "Registro"
+    }
+]
+```

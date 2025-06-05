@@ -1,0 +1,148 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Impacto do tarifaço de Trump nos mercados globais",
+        "link": "https://g1.globo.com",
+        "descricao": "A guerra comercial entre EUA e China traz preocupações para startups e pequenos negócios em São Paulo, uma vez que o aumento das tarifas pode afetar a importação de insumos e produtos.",
+        "data": "04/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Saúde",
+        "titulo": "Campanha de vacinação em escolas públicas de SP",
+        "link": "https://g1.globo.com",
+        "descricao": "O governo de São Paulo anuncia uma campanha para vacinar crianças e adolescentes, o que é relevante para negócios no setor de saúde, impulsionando serviços relacionados à vacinação e saúde infantil.",
+        "data": "04/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Economia",
+        "titulo": "Brasil tem maior inflação em dois anos",
+        "link": "https://g1.globo.com",
+        "descricao": "Com o aumento da inflação, empreendedores e startups em São Paulo encaram desafios em seus custos operacionais e preços de serviços, forçando a adaptação do mercado local.",
+        "data": "04/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Novo modelo de precificação afeta startups de tecnologia",
+        "link": "https://g1.globo.com",
+        "descricao": "Mudanças nas tarifas de serviços digitais impactam startups tecnológicas em São Paulo, exigindo inovação na modelagem de negócios.",
+        "data": "04/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Economia",
+        "titulo": "Aumento de 7,18% no salário mínimo anunciado",
+        "link": "https://g1.globo.com",
+        "descricao": "O aumento do salário mínimo poderá trazer impacto sobre o consumo e sobre os custos das pequenas empresas e startups em São Paulo.",
+        "data": "04/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Nova empresa de tecnologia é inaugurada em Bauru",
+        "link": "https://www.jornaldacidadedebauru.com.br",
+        "descricao": "A cidade de Bauru recebe uma nova startup focada em soluções tecnológicas para automação comercial.",
+        "data": "10/02/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Hub de startups é inaugurado em Sorocaba",
+        "link": "https://www.tribunadesorocaba.com.br",
+        "descricao": "Um novo hub de inovação será um espaço para promover e apoiar startups em Sorocaba.",
+        "data": "15/02/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Economia",
+        "titulo": "Expansão de empresas impulsiona mercado de Ribeirão Preto",
+        "link": "https://www.ribeiraopretooknews.com.br",
+        "descricao": "Novas aberturas e expansões de empresas são esperadas em Ribeirão Preto, conforme a cidade se recupera economicamente.",
+        "data": "20/02/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Várias startups são inauguradas em São José dos Campos",
+        "link": "https://www.jcsjc.com.br",
+        "descricao": "São José dos Campos se torna um polo de tecnologia com a inauguração de várias startups focadas em inovação.",
+        "data": "25/02/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Biotecnologia",
+        "titulo": "Nova empresa de biotecnologia é aberta em Santos",
+        "link": "https://www.diariodolitoral.com.br",
+        "descricao": "A cidade costeira de Santos agora abriga uma nova empresa focada em pesquisa e desenvolvimento biotecnológico.",
+        "data": "01/03/2025",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup de energias renováveis inicia atividades em Campinas",
+        "link": "https://www.jornaldecampinas.com.br",
+        "descricao": "Uma nova startup voltada para soluções de energia sustentável foi lançada, com foco em inovação e tecnologia.",
+        "data": "05/03/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Novo centro de inovação é inaugurado em Itu",
+        "link": "https://www.itunoticias.com.br",
+        "descricao": "Um centro de inovação serve como espaço para startups e pequenas empresas em Itu, visando fomentar o empreendedorismo.",
+        "data": "10/03/2025",
+        "municipio": "Itu"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Mogi das Cruzes ganha nova fábrica de tecnologia",
+        "link": "https://www.moginews.com.br",
+        "descricao": "Uma nova fábrica de tecnologia e inovação abriu suas portas em Mogi das Cruzes, trazendo oportunidades de emprego.",
+        "data": "15/03/2025",
+        "municipio": "Mogi das Cruzes"
+    },
+    {
+        "categoria": "Alimentação",
+        "titulo": "Piracicaba recebe novas startups no setor alimentício",
+        "link": "https://www.jornaldepiracicaba.com.br",
+        "descricao": "O setor alimentício em Piracicaba se fortalece com a abertura de novas startups focadas em soluções inovadoras.",
+        "data": "20/03/2025",
+        "municipio": "Piracicaba"
+    },
+    {
+        "categoria": "Economia",
+        "titulo": "Votorantim expande seu mercado com novas empresas",
+        "link": "https://www.noticiasvotorantim.com.br",
+        "descricao": "A cidade de Votorantim espera um crescimento significativo em seu mercado local, com várias empresas inaugurando em 2025.",
+        "data": "25/03/2025",
+        "municipio": "Votorantim"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "São Carlos acolhe nova startup de tecnologia",
+        "link": "https://www.jornaldesaocarlos.com.br",
+        "descricao": "Uma nova startup de tecnologia foi inaugurada em São Carlos, focando em desenvolvimento de software.",
+        "data": "30/03/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "categoria": "Economia",
+        "titulo": "São Pedro cria novas oportunidades com empresas emergentes",
+        "link": "https://www.noticiasdesaopedro.com.br",
+        "descricao": "Novas empresas emergentes estão surgindo em São Pedro, promovendo o desenvolvimento econômico da região.",
+        "data": "05/04/2025",
+        "municipio": "São Pedro"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Jaguariúna atrai investimentos com nova indústria",
+        "link": "https://www.jaguariunanews.com.br",
+        "descricao": "A abertura de uma nova indústria em Jaguariúna promete gerar mais empregos e oportunidades para a comunidade local.",
+        "data": "10/04/2025",
+        "municipio": "Jaguariúna"
+    }
+]
+```

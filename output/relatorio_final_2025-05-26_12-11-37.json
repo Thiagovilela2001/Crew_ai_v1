@@ -1,0 +1,138 @@
+[
+    {
+        "categoria": "Construção",
+        "titulo": "Com apoio do BNDES, Itapevi (SP) ganha nova estação de trens metropolitanos",
+        "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Com-apoio-do-BNDES-Itapevi-SP-ganha-nova-estacao-de-trens-metropolitanos/",
+        "descricao": "Iniciadas em abril do ano passado, as obras receberam um investimento total de R$ 26,5 milhões. A estação deverá atender, em média, 2,1 mil passageiros por dia.",
+        "data": "01/10/2023",
+        "municipio": "Itapevi"
+    },
+    {
+        "categoria": "Construção",
+        "titulo": "Com R$ 10,65 bi, BNDES financia Rodoanel, Linha 2 do metrô e ônibus elétricos em SP",
+        "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Com-R$-1065-bilhoes-BNDES-financia-Rodoanel-Linha-2-do-metro-Trem-InterCidades-e-onibus-eletricos-em-SP/",
+        "descricao": "Os recursos serão investidos no Rodoanel Norte, no Metrô de São Paulo, no Trem InterCidades Eixo Norte e na aquisição de 1.300 ônibus elétricos para a capital.",
+        "data": "15/09/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Falta de investimento deixa infraestrutura brasileira em estado crítico",
+        "link": "https://www.estadao.com.br/economia/negocios/falta-de-investimento-deixa-infraestrutura-brasileira-em-estado-critico/",
+        "descricao": "O Brasil precisa ampliar os investimentos em infraestrutura para, pelo menos, 4% ou 4,5% do Produto Interno Bruto (PIB) por ano.",
+        "data": "20/09/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP pagará R$ 344 milhões por obra de monotrilho que não saiu do papel",
+        "link": "https://www.dgabc.com.br/Noticia/4235037/sp-pagara-r-344-milhoes-por-obra-de-monotrilho-que-nao-saiu-do-papel-entenda",
+        "descricao": "O governo de São Paulo vai pagar indenização de pelo menos R$ 344 milhões para encerrar definitivamente o projeto do monotrilho que ligaria a capital à região do ABC.",
+        "data": "21/09/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Construção",
+        "titulo": "Indústria da construção abre 559,5 mil vagas em 4 anos",
+        "link": "https://www.dgabc.com.br/Noticia/4235140/industria-da-construcao-abre-559-5-mil-vagas-em-4-anos-salto-de-29-4-na-ocupacao-mostra-ibge",
+        "descricao": "Em 2023, a indústria da construção gerou R$ 484,2 bilhões em valor de incorporações, obras e/ou serviços da construção.",
+        "data": "10/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Renan espera que 2025 seja o mais exitoso da história em concessões",
+        "link": "https://www.diariodaregiao.com.br/agencia/renan-espera-que-2025-seja-o-mais-exitoso-da-historia-em-concess-es-1.2040373",
+        "descricao": "Com a expectativa de realizar 15 leilões em 2025, o Ministério dos Transportes espera obter o melhor ano em concessões rodoviárias de sua história.",
+        "data": "05/09/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Construção",
+        "titulo": "Estudo sobre o Impacto Econômico da Construção é lançado",
+        "link": "https://cbic.org.br/estudo-sobre-o-impacto-economico-da-construcao-industrial-e-corporativa-no-pais-e-lancado-durante-reuniao-da-coic/",
+        "descricao": "Entre os temas abordados estão as oportunidades no setor, o impacto no PIB e os investimentos em capital.",
+        "data": "30/09/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Infraestrutura: sem dinheiro, governo dependerá ainda mais do setor privado",
+        "link": "https://www.estadao.com.br/economia/infraestrutura-sem-dinheiro-governo-dependera-ainda-mais-do-setor-privado-para-obras-em-2025/",
+        "descricao": "O governo está contando com o setor privado para alavancar obras de infraestrutura nos próximos anos.",
+        "data": "12/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Número de empresas de tecnologia em São Paulo cresce 60% em 10 anos",
+        "link": "https://www.estadao.com.br/economia/agenda-sp-empresas-tecnologia/?srsltid=AfmBOooIBQXIj21sekXaAlz447XUP5_y7IEolhS6-2nr8nLJWfAQ3Rne",
+        "descricao": "Nos últimos 10 anos, o número de companhias ligadas à área tecnológica na capital paulista cresceu 60%, passando de 211 mil, em 2014, para 339 mil neste ano.",
+        "data": "10/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Agronegócio",
+        "titulo": "Com R$ 44,5 mi, BNDES apoia expansão e modernização do Grupo Terraverde",
+        "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Com-R$-445-mi-BNDES-apoia-expansao-e-modernizacao-do-Grupo-Terraverde/",
+        "descricao": "Recursos de linha de financiamento do BNDES permitirão a construção de lojas e a modernização de unidades que fornecem máquinas agrícolas.",
+        "data": "05/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Agronegócio",
+        "titulo": "AgTechs: conheça as empresas que estão revolucionando o agronegócio",
+        "link": "https://agro.estadao.com.br/summit-agro/agtechs-conheca-as-empresas-que-estao-revolucionando-o-agronegocio",
+        "descricao": "As AgTechs, ou Agricultural Technologies, são empresas que utilizam tecnologia para desenvolver soluções inovadoras no setor agrícola.",
+        "data": "02/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Setor Público",
+        "titulo": "Ministros assinam acordos de cooperação para modernizar estatais",
+        "link": "https://www.diariodaregiao.com.br/agencia/ministros-assinam-acordos-de-cooperac-o-para-modernizar-estatais-1.2021203",
+        "descricao": "O Inova moderniza os instrumentos de gestão e administração das empresas estatais, promovendo a inclusão de políticas de diversidade e transparência.",
+        "data": "09/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Saúde",
+        "titulo": "Enel SP investe R$ 4 mi em modernização no Hospital das Clínicas da USP",
+        "link": "https://www.canalenergia.com.br/noticias/53306659/enel-sp-investe-r-4-mi-em-modernizacao-no-hospital-das-clinicas-da-usp",
+        "descricao": "A Enel SP avança na modernização do sistema de climatização do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo.",
+        "data": "07/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Governo destina R$ 3 bi para criação e expansão de centros de inovação",
+        "link": "https://www.diariodaregiao.com.br/agencia/governo-destina-r-3-bi-para-criac-o-e-expans-o-de-centros-de-inovac-o-1.2038314",
+        "descricao": "As missões são desenvolvimentos nas áreas de infraestrutura, moradia e mobilidade; agroindústria; complexo industrial de saúde; transformação digital.",
+        "data": "08/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "São Paulo planeja 'mini Vale do Silício' perto da Cidade Universitária",
+        "link": "https://www.estadao.com.br/educacao/distrito-inovacao-sao-paulo-usp-butanta-ipt-ipen/?srsltid=AfmBOoo_dFvsUfwRSi5n5gntsLn3dpQO6KUVpO2SChaXUP3QQS3qwkCC",
+        "descricao": "Distrito de inovação vai juntar a universidade, o Butantã, o IPT e o Ipen para pesquisas conjuntas, com incubadoras de startups e outros projetos.",
+        "data": "01/10/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Taxa de inovação das empresas foi de 68,1% em 2022",
+        "link": "https://www.diariodaregiao.com.br/agencia/taxa-de-inovac-o-das-empresas-foi-de-68-1-em-2022-1.1947204",
+        "descricao": "As atividades que mais se beneficiaram de apoio público foram fabricação de equipamentos de informática, produtos eletrônicos e ópticos.",
+        "data": "15/09/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "SPIC Brasil investe R$ 1,2 bilhão na modernização da UHE São Simão",
+        "link": "https://www.canalenergia.com.br/noticias/53292935/spic-brasil-investe-r-12-bilhao-na-modernizacao-da-uhe-sao-simao",
+        "descricao": "A SPIC Brasil investiu cerca de R$ 1,2 bilhão na modernização da usina hidrelétrica (UHE) São Simão.",
+        "data": "12/09/2023",
+        "municipio": "São Simão"
+    }
+]

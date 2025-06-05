@@ -1,0 +1,454 @@
+```json
+{
+  "noticias": [
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Novos restaurantes de SP para conhecer já!",
+      "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/04/12/novos-restaurantes-de-sp-para-conhecer-ja.htm",
+      "descricao": "De descolado a 'polêmico', 4 novos restaurantes de SP para conhecer já, que misturam referências asiáticas e brasileiras.",
+      "data": "12/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+      "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+      "descricao": "A Casa de Antonia começa 2025 com novas opções em seu cardápio de café da manhã no Conjunto Nacional, em São Paulo.",
+      "data": "30/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "De bar 'raiz' a hamburgueria, 6 lugares para conhecer em SP em 2025",
+      "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/01/18/resolucoes-de-2025-os-restaurantes-que-precisamos-conhecer.htm",
+      "descricao": "Uma lista para quem está em busca de lugares autênticos na culinária brasileira e pretende estar na moda em 2025.",
+      "data": "18/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Descubra mais de 15 novos restaurantes para visitar em São Paulo",
+      "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/descubra-mais-de-15-novos-restaurantes-para-visitar-em-sao-paulo/",
+      "descricao": "Novos restaurantes surgem a cada dia, oferecendo de tudo, desde estabelecimentos sofisticados até opções mais descomplicadas.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "13 NOVOS Restaurantes Em São Paulo Em 2025",
+      "link": "https://cronicasdasurdez.com/bares-e-restaurantes-em-sao-paulo/",
+      "descricao": "Lista dos principais bares e restaurantes em São Paulo para 2025, com foco em novos hot spots.",
+      "data": "07/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "SP Restaurant Week 2025: quando acontece o evento e quais restaurantes participam?",
+      "link": "https://www.estadao.com.br/paladar/restaurantes-e-bares/restaurant-week-2025-festival-conta-com-menus-completos-a-partir-de-r-5490/?srsltid=AfmBOorOLyoQn8xzdYTuemA4DKXLKzHYiAtnIAUq7o-9I7KbBYJlsmCv",
+      "descricao": "O festival traz menus especiais em mais de 150 restaurantes renomados. A 34ª edição começa em abril de 2025.",
+      "data": "11/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Aniversário de São Paulo: um roteiro por restaurantes que exaltam a cultura local",
+      "link": "https://casavogue.globo.com/lazer-e-cultura/restaurante/noticia/2025/01/aniversario-sao-paulo-restaurantes.ghtml",
+      "descricao": "Descubra 8 restaurantes que traduzem a essência cultural e gastronômica da cidade, em celebração ao aniversário de São Paulo.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Hard Rock Cafe terá unidade no litoral de São Paulo",
+      "link": "https://viagemeturismo.abril.com.br/brasil/hard-rock-cafe-tera-unidade-no-litoral-de-sao-paulo/",
+      "descricao": "O restaurante deve ser inaugurado no primeiro semestre de 2025 na Praia Grande, trazendo a tradição da rede com uma decoração musical.",
+      "data": "07/01/2025",
+      "municipio": "Praia Grande"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Festival celebra peixes e frutos do mar em Ilhabela",
+      "link": "https://guia.folha.uol.com.br/restaurantes/2025/04/festival-gastronomico-celebra-peixes-e-frutos-do-mar-em-ilhabela-ate-18-de-maio.shtml",
+      "descricao": "Festival gastronômico reúne 35 restaurantes, bares e cafeterias em Ilhabela até 18 de maio de 2025.",
+      "data": "20/04/2025",
+      "municipio": "Ilhabela"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Descubra mais de 15 novos restaurantes para visitar em São Paulo",
+      "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/descubra-mais-de-15-novos-restaurantes-para-visitar-em-sao-paulo/",
+      "descricao": "Novos restaurantes surgem a cada dia, oferecendo opções sofisticadas e descomplicadas.",
+      "data": "01/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Vale a viagem! 27 restaurantes imperdíveis no interior do estado",
+      "link": "https://vejario.abril.com.br/comer-e-beber/vale-a-viagem-27-restaurantes-interior-estado/",
+      "descricao": "De Angra dos Reis a Visconde de Mauá, é possível desfrutar de refeições memoráveis em meio a belos cenários.",
+      "data": "15/02/2025",
+      "municipio": "Interior de São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Cidade do interior de SP tem restaurante feito de material 100% sustentável",
+      "link": "https://www.diariodolitoral.com.br/diario-mais/cidade-do-interior-de-sp-tem-restaurantes-feito-de-material-100/190989/",
+      "descricao": "Mairiporã, no interior de São Paulo, possui um restaurante sustentável que exalta a culinária local.",
+      "data": "10/04/2025",
+      "municipio": "Mairiporã"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Cardápio pet? Restaurantes investem em menu com opção para tutores e animais",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2025/04/13/cardapio-pet-restaurantes-investem-em-menu-com-opcao-para-tutores-e-animais-no-interior-de-sp.ghtml",
+      "descricao": "Restaurantes no interior de SP oferecem receitas preparadas para cães e gatos em seus cardápios.",
+      "data": "13/04/2025",
+      "municipio": "Sorocaba"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Latin America Startup Funding Fell Sequentially In Q1",
+      "link": "https://news.crunchbase.com/venture/latin-america-startup-funding-fell-q1-2025/",
+      "descricao": "Latin America startup investment declined sequentially in the first quarter of this year, driven by a drop in later-stage dealmaking.",
+      "data": "01/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Brazil's Top 10 Startups That Tech Professionals Should Watch Out ...",
+      "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+      "descricao": "In 2025, Brazil's startup ecosystem is valued at $117 billion, showcasing 13 unicorns in São Paulo with growing sectors like fintech, edtech, and agtech.",
+      "data": "18/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Startups in Brazil - 2025 Latest Funding Rounds, Trends and News",
+      "link": "https://tracxn.com/d/geographies/brazil/__8hyB0gzx2OtUvKmJSyeRmYi5_7jls2YD01MABluXkeQ",
+      "descricao": "2025 has seen a 15.85% drop in funding in companies in Brazil compared to 2024, shedding light on the challenges faced by startups.",
+      "data": "20/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Friday Fund Day: What Startups Made Headlines The Week Of April ...",
+      "link": "https://hypepotamus.com/startup-news/friday-fund-day-what-startups-made-headlines-the-week-of-april-7-2025/",
+      "descricao": "Highlights of the noteworthy investments and developments in the startup ecosystem for the week of April 7, 2025.",
+      "data": "07/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Gringo: Revolutionizing Automotive Services",
+      "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+      "descricao": "Gringo simplifies vehicle documentation and fees for drivers, growing to 10 million users and securing significant funding.",
+      "data": "18/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Latitud: Bridging Business Across Latin America",
+      "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+      "descricao": "Latitud helps founders with investments and expands access in the tech ecosystem, supporting 169 startups.",
+      "data": "18/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Tenchi Security: Safeguarding Digital Frontiers",
+      "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+      "descricao": "Tenchi Security received major investment to enhance its cyber risk management platform crucial for urban security.",
+      "data": "18/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Kamino: Innovating Financial Services",
+      "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+      "descricao": "Kamino utilizes AI to assist businesses with financial insights and flexible loans, aiming to improve access to capital.",
+      "data": "18/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Gabriel: Pioneering Smart City Technology",
+      "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+      "descricao": "Gabriel aims to enhance urban safety through AI-driven camera tech and has significant traction in São Paulo.",
+      "data": "18/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Arado: Transforming Agritech Industry",
+      "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+      "descricao": "Arado connects farmers with retailers, significantly reducing food waste through innovative tech-driven logistics.",
+      "data": "18/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Cayena: Streamlining Food Procurement",
+      "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+      "descricao": "Cayena’s marketplace connects food suppliers with businesses, securing substantial funding for expansion.",
+      "data": "18/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Zippi: Redefining Financial Services for Users",
+      "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+      "descricao": "Zippi offers accessible credit to micro-entrepreneurs with innovative fintech solutions, focusing on user-friendly technology.",
+      "data": "18/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Housi: Innovating Real Estate Solutions",
+      "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+      "descricao": "Housi, a pioneer of flexible digital housing in Brazil, continues to expand its model that simplifies moving.",
+      "data": "18/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Cellva Ingredients: Leading CleanTech/FoodTech Innovation",
+      "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+      "descricao": "Cellva creates a cultivated animal fat technology aiming to revolutionize the food industry in Brazil.",
+      "data": "18/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Latin America Startup Funding Declined in Q1 2025",
+      "link": "https://news.crunchbase.com/venture/latin-america-startup-funding-fell-q1-2025/",
+      "descricao": "Investment in startups in Latin America has faced a sequential drop in Q1 2025 due to fewer later-stage deals.",
+      "data": "01/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Record-Breaking Investments in São Paulo for 2025",
+      "link": "https://www.riotimesonline.com/brazil-news/brazil/sao-paulo-set-to-break-investment-records-in-2025-governor-announces/",
+      "descricao": "Governor Tarcísio de Freitas announced nearly R$40 billion in new investments in the first two months of 2025, with major infrastructure projects impacting the startup ecosystem.",
+      "data": "27/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Brazil's Startup Ecosystem Faces Funding Challenges",
+      "link": "https://tracxn.com/d/geographies/brazil/__8hyB0gzx2OtUvKmJSyeRmYi5_7jls2YD01MABluXkeQ",
+      "descricao": "Funding for startups in Brazil saw a 15.85% drop in 2025, highlighting challenges faced by the ecosystem despite growth in various sectors.",
+      "data": "20/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos Estrangeiros",
+      "titulo": "Estrangeiros aplicam R$ 10,9 BI na bolsa em 2025; veja histórico",
+      "link": "https://quantumfinance.com.br/estrangeiros-fogem-da-bolsa-brasileira-em-2024-veja-historico/",
+      "descricao": "O fluxo de investimento estrangeiro foi positivo em março de 2025, acumulando R$ 10,9 bilhões até agora.",
+      "data": "03/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos Estrangeiros",
+      "titulo": "Saldo de investidores estrangeiros cresce e acumula R$ 7 bilhões em 2025, mesmo com desafios globais",
+      "link": "https://trademap.com.br/agencia/saldo-de-investidores-estrangeiros-cresce-e-acumula-r-7-bilhoes-em-2025-mesmo-com-desafios-globais",
+      "descricao": "O saldo de investimentos estrangeiros na B3 continua positivo, acumulando R$ 7 bilhões até fevereiro de 2025.",
+      "data": "14/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos Estrangeiros",
+      "titulo": "Investimento estrangeiro cresce e atinge US$ 9,3 bilhões em fevereiro",
+      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/investimento-estrangeiro-cresce-e-atinge-us-93-bilhoes-em-fevereiro/",
+      "descricao": "Os investimentos diretos no Brasil, em fevereiro de 2025, alcançaram US$ 9,3 bilhões, um dos maiores valores na série histórica.",
+      "data": "26/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos Estrangeiros",
+      "titulo": "Por que forte entrada de capital estrangeiro no país surpreende analistas",
+      "link": "https://veja.abril.com.br/coluna/radar-economico/por-que-forte-entrada-de-capital-estrangeiro-no-pais-surpreende-analistas/",
+      "descricao": "Os investimentos estrangeiros diretos no Brasil somaram US$ 9,3 bilhões em fevereiro, superando as expectativas dos analistas.",
+      "data": "26/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura",
+      "link": "https://www.parceriaseminvestimentos.sp.gov.br/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+      "descricao": "A Secretaria de Parcerias em Investimentos do Estado de São Paulo (SPI-SP) terá em 2025 orçamento 129% maior do que foi no ano passado.",
+      "data": "2025-01-01",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Infraestrutura Urbana e Obras - Prefeitura de São Paulo",
+      "link": "https://capital.sp.gov.br/web/obras/w/nos-100-dias-da-nova-gest%C3%A3o-prefeito-lan%C3%A7a-o-programa-melhoramentos-de-s%C3%A3o-paulo-com-55-grandes-obras-de-infraestrutura-e-investimento-de-r-19-bilhões-1",
+      "descricao": "O novo “Melhoramentos de São Paulo” envolve 55 grandes obras em todas as regiões da cidade e tem investimentos previstos de R$ 19 bilhões.",
+      "data": "2025-01-01",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "SP espera movimentar R$ 340 bilhões com turismo em 2025",
+      "link": "https://www.poder360.com.br/poder-economia/sp-espera-movimentar-r-340-bilhoes-com-turismo-em-2025/",
+      "descricao": "Governo do Estado estima visitas de 51 milhões pessoas, com criação de 33.000 novos postos de trabalho.",
+      "data": "2025-01-01",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Investimento em infraestrutura deve crescer 11% este ano",
+      "link": "https://oglobo.globo.com/economia/negocios/noticia/2025/03/16/investimento-em-infraestrutura-deve-crescer-11percent-este-ano-empresas-buscam-recursos-no-mercado.ghtml",
+      "descricao": "Investimento em infraestrutura deve crescer 11% este ano, com empresas buscando recursos no mercado.",
+      "data": "16/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Turismo em São Paulo deverá gerar R$ 340 bilhões neste ano",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-03/turismo-em-sao-paulo-devera-gerar-r-340-bilhoes-neste-ano",
+      "descricao": "O montante deverá representar 9,7% do Produto Interno Bruto (PIB) paulista de 2025.",
+      "data": "01/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "SP do futuro: Governo tem quase R$ 50 bilhões em projetos para a capital",
+      "link": "https://www.agenciasp.sp.gov.br/sp-do-futuro-governo-tem-quase-r-50-bilhoes-em-projetos-para-a-capital/",
+      "descricao": "Para 2025, governo de São Paulo vai investir R$5,067 bilhões na expansão da malha do Metrô e na modernização das linhas existentes.",
+      "data": "01/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Governo de São Paulo prevê R$ 50 bilhões em leilões para 2025",
+      "link": "https://www.investe.sp.gov.br/noticia/governo-de-sao-paulo-preve-r-50-bilhoes-em-leiloes-para-2025-conheca-os-projetos/",
+      "descricao": "Gestão inicia novo ano trazendo R$ 780 bilhões ao estado com leilões programados.",
+      "data": "01/05/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "SP pra Toda Obra vai modernizar 22,3 mil km de rodovias, estradas e vicinais",
+      "link": "https://semil.sp.gov.br/2025/04/sp-pra-toda-obra-melhorias-viarias-encurtam-distancias-garantem-seguranca-e-melhoram-renda-em-sp/",
+      "descricao": "Investimentos de R$ 30 bilhões do governo paulista e concessionárias impactam vida de motoristas e comerciantes.",
+      "data": "04/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Projeto de concessão deve transformar rodovias do interior de São Paulo",
+      "link": "https://www.diariodolitoral.com.br/cotidiano/projeto-de-concessao-deve-transformar-rodovias-do-interior-de-sao/193233/",
+      "descricao": "Um projeto de concessão de rodovias do interior de São Paulo promete modernizar a infraestrutura viária do estado.",
+      "data": "2025",
+      "municipio": "Interior de São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Governo de SP inicia obras na estrada de acesso a Barra do Una",
+      "link": "https://semil.sp.gov.br/2025/04/governo-de-sp-inicia-obras-na-estrada-de-acesso-a-barra-do-una-em-peruibe/",
+      "descricao": "Início dos serviços de melhoria na estrada do Guaraú em Peruíbe.",
+      "data": "17/04/2025",
+      "municipio": "Peruíbe"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Obras de infraestrutura turística acrescentam 630 mil visitantes a SP",
+      "link": "https://www.turismo.sp.gov.br/publico/noticia.php?codigo=4596&cod_menu=4596",
+      "descricao": "Investimentos podem gerar até R$ 80 milhões por ano na economia do estado, beneficiando destinos do litoral e do interior paulista.",
+      "data": "2025",
+      "municipio": "Litoral de São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Guarujá investe em segurança e infraestrutura para a temporada 2025",
+      "link": "https://abcdoabc.com.br/guaruja-investe-em-seguranca-e-infraestrutura-para-a-temporada-2025/",
+      "descricao": "Ações estratégicas para o desenvolvimento turístico em Guarujá.",
+      "data": "2025",
+      "municipio": "Guarujá"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "Our ESG practices",
+      "link": "https://www.grupoccr.com.br/en/esg/our-practices/",
+      "descricao": "CCR Group highlights its commitment to environmental, social, and governance best practices, with ambitious goals set for 2025.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "B3 publishes New Issuer Regulation with news on ESG issues",
+      "link": "https://www.stoccheforbes.com.br/en/post/b3-publishes-new-issuer-regulation-with-news-on-esg-issues",
+      "descricao": "B3's new Issuer Regulation introduces ESG-related measures, requiring companies to implement or justify their non-adoption by 2025.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "ESG practices get traction among real estate developers",
+      "link": "https://siila.com.br/news/esg-practices-get-traction-among-real-estate-developers/271/lang/en",
+      "descricao": "A study found that many real estate developers in Brazil have integrated ESG practices into their operations, signifying a growing trend in the sector.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Brasil registra abertura de 1,4 milhão de pequenos negócios no 1° trimestre de 2025",
+      "link": "https://www.gov.br/secom/pt-br/assuntos/noticias/2025/04/brasil-registra-abertura-de-1-4-milhao-de-pequenos-negocios-no-primeiro-trimestre-do-ano",
+      "descricao": "No primeiro trimestre do ano, o volume de MEIs registrados no país cresceu 35% em comparação com o mesmo período de 2024.",
+      "data": "01/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Empresas de menor porte têm o pior desempenho em dois anos",
+      "link": "https://www1.folha.uol.com.br/colunas/painelsa/2025/02/empresas-de-menor-porte-tem-o-pior-desempenho-em-dois-anos.shtml",
+      "descricao": "O faturamento de pequenas e médias empresas registrou recuo de 1,5% em janeiro deste ano frente ao mesmo mês do ano passado.",
+      "data": "01/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Crédito da Desenvolve SP cresce 35,7% para empresas",
+      "link": "https://www.desenvolvesp.com.br/comunicacao/releases/credito-da-desenvolve-sp-cresce-357-para-o-setor-privado/",
+      "descricao": "Valor total liberado para micro, pequenas e médias empresas foi de R$ 17,17 milhões em janeiro de 2025.",
+      "data": "01/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Quase 60% das pequenas e médias empresas têm expectativa de crescimento para 2025",
+      "link": "https://embraps.com.br/quase-60-das-pequenas-e-medias-empresas-tem-expectativa-de-crescimento-para-2025/",
+      "descricao": "A pesquisa revela que 60% das PMEs acreditam que suas receitas vão aumentar em 2025.",
+      "data": "01/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Senai atenderá 10,8 mil micro, pequenas e médias indústrias em 2025",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-02/senai-atendera-108-mil-micro-pequenas-e-mediadas-industrias-em-2025",
+      "descricao": "O atendimento envolve o aumento da eficiência energética, manufatura enxuta e transformação digital.",
+      "data": "01/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Faturamento das pequenas e médias empresas do Sudeste cresceu 37% em 2024",
+      "link": "http://fcdlesp.org.br/faturamento-das-pequenas-e-medias-empresas-do-sudeste-cresceu-37-em-2024/",
+      "descricao": "Para 2025, as perspectivas indicam crescimento de 2,4% para as PMEs na região Sudeste.",
+      "data": "01/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Alerta PMEs: Inadimplência e Risco de Falência em 2025!",
+      "link": "https://jcagudos.com.br/noticia/9985/alerta-pmes-inadimplencia-e-risco-de-falencia-em-2025.html",
+      "descricao": "O ano de 2024 registrou um aumento preocupante nos pedidos de recuperação judicial das PMEs, com perspectiva desafiadora para 2025.",
+      "data": "26/02/2025",
+      "municipio": "São Paulo"
+    }
+  ]
+}
+```

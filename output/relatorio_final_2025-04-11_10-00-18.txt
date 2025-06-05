@@ -1,0 +1,84 @@
+```json
+[
+  {
+    "categoria": "Infraestrutura",
+    "titulo": "Clube que reproduz praia na marginal de SP acerta com Bodytech",
+    "link": "https://www.folha.uol.com.br/",
+    "descricao": "Rede de academias VIP cuidará de academia do Beyond, clube de R$ 1,1 bilhão com ondas do mar e Gabriel Medina como investidor.",
+    "data": "10/04/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Tecnologia",
+    "titulo": "Google apresenta auxiliar digital que trabalha em hospital e quer popularizar funcionários de IA",
+    "link": "https://www.folha.uol.com.br/",
+    "descricao": "Big tech mostra ferramenta para criar apps sem conhecimento em programação entre outros recursos, buscando inovação em saúde em São Paulo.",
+    "data": "10/04/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Energia",
+    "titulo": "Acordo no STF ajuda Eletrobras a buscar comprador para fatia na Eletronuclear",
+    "link": "https://www.folha.uol.com.br/",
+    "descricao": "Com desfecho de impasse societário com União no Supremo, empresa quer vender suas ações da estatal nuclear, impactando setor de energia em São Paulo.",
+    "data": "09/04/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Agronegócio",
+    "titulo": "Tarcísio quer leiloar áreas ativas de pesquisa agropecuária",
+    "link": "https://www.folha.uol.com.br/",
+    "descricao": "Uma das propriedades desenvolveu nova técnica de poda e colheita que elevou a qualidade de vinhos de São Roque; governo diz que cogita venda parcial das terras.",
+    "data": "09/04/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Finanças",
+    "titulo": "Itau apresenta superávit em 2024 e promete manter tarifa para o consumidor",
+    "link": "https://www.folha.uol.com.br/",
+    "descricao": "Conselho de Administração da usina binacional Itaipu informa saldo de US$ 680 milhões no ano passado, relevando crescimento e novos investimentos possíveis em São Paulo.",
+    "data": "09/04/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Economia",
+    "titulo": "Inflação dos EUA cai para 2,4% em março, abaixo do esperado",
+    "link": "https://www.folha.uol.com.br/",
+    "descricao": "Economistas consultados previam que índice seria entre 2,5% e 2,6%, impactando decisões econômicas que podem influenciar as startups em São Paulo.",
+    "data": "09/04/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Turismo",
+    "titulo": "Procon determina que Hurb suspenda vendas e governo dá prazo para empresa divulgar lista de clientes",
+    "link": "https://www.folha.uol.com.br/",
+    "descricao": "Órgão recomenda que os consumidores não comprem os serviços de viagens, impactando o mercado de turismo em São Paulo.",
+    "data": "09/04/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Sustentabilidade",
+    "titulo": "WWF apresenta plano para conservação de biodiversidade na Amazônia",
+    "link": "https://www.folha.uol.com.br/",
+    "descricao": "Iniciativa pode abrir novas oportunidades de negócios e startups focadas em sustentabilidade em São Paulo.",
+    "data": "08/04/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Tecnologia",
+    "titulo": "Setor de tecnologia cresce em São Paulo, criando novas oportunidades de emprego na área",
+    "link": "https://www.folha.uol.com.br/",
+    "descricao": "O aumento no número de startups em São Paulo reflete um crescimento no setor tecnológico.",
+    "data": "07/04/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Empreendedorismo",
+    "titulo": "Estudo revela o aumento no número de empreendedores em áreas de baixo custo na capital",
+    "link": "https://www.folha.uol.com.br/",
+    "descricao": "Novos eventos e palestras sobre empreendedorismo estão sendo realizados em várias regiões de São Paulo, fomentando a criação de novos negócios.",
+    "data": "06/04/2025",
+    "municipio": "São Paulo"
+  }
+]
+```

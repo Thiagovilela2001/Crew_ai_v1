@@ -1,0 +1,158 @@
+```json
+[
+    {
+        "titulo": "NOVO BAR EM BAURU Quarto negócio do empresário Lucas Sormani",
+        "link": "https://www.instagram.com/socialbauru/reel/DCUwNf6SDqA/",
+        "descricao": "O novo bar, Saideira Quiosque, é o quarto empreendimento do empresário Lucas Sormani, e abre suas portas em Bauru, oferecendo um ambiente voltado para entretenimento.",
+        "data": "05/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "titulo": "Inauguração do Saideira Quiosque Bar",
+        "link": "https://www.facebook.com/socialbauru/videos/inaugura%C3%A7%C3%A3o-do-saideira-quiosque-bar/3904531159876886/",
+        "descricao": "O Saideira Quiosque é um novo bar inaugurado em Bauru, que promete ser um ponto de encontro para os amantes da boa comida e bebida.",
+        "data": "05/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "titulo": "Evapco inaugura nova fábrica em Sorocaba",
+        "link": "https://www.investe.sp.gov.br/noticia/evapco-inaugura-fabrica-em-sorocaba/",
+        "descricao": "A Evapco, uma multinacional, inaugurou sua nova fábrica em Sorocaba com um investimento de R$ 200 milhões, criando 800 empregos ao longo de três anos.",
+        "data": "01/02/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Multinacional começa operações em nova sede em Sorocaba com investimento de R$ 258 milhões",
+        "link": "https://noticias.sorocaba.sp.gov.br/multinacional-inglesa-inaugura-nova-sede-com-investimento-de-r-258-milhoes-e-expectativa-de-geracao-de-700-novos-empregos-em-sorocaba/",
+        "descricao": "Uma multinacional inglesa inaugurou sua nova sede em Sorocaba, focando na expansão de negócios na área de válvulas de controle e setor petroquímico.",
+        "data": "01/02/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Valmet inaugura nova unidade industrial de R$ 33 milhões em Sorocaba",
+        "link": "https://tissueonline.com.br/valmet-inaugura-nova-unidade-industrial-de-r-33-milhoes-em-sorocaba-sp/",
+        "descricao": "Valmet iniciou operações em sua nova unidade industrial em Sorocaba, investindo R$ 33 milhões e ampliando sua capacidade de serviços na região.",
+        "data": "02/02/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "NOVIDADES NA BARBADOS",
+        "link": "https://www.instagram.com/socialbauru/p/DC4sHi0Bbst/",
+        "descricao": "Em expansão, a @barbadosbarbearia deve ter mais cinco unidades em Bauru até o fim de 2025.",
+        "data": "2025",
+        "municipio": "Bauru"
+    },
+    {
+        "titulo": "O novo prédio do restaurante do Zoológico de Bauru",
+        "link": "https://www.instagram.com/aquiagorabauru/p/DEpNBMQRhHF/",
+        "descricao": "O novo prédio do restaurante do Zoológico de Bauru, entregue em 1 março de 2024, está prestes a completar um ano sem que empresas assumam.",
+        "data": "01/03/2024",
+        "municipio": "Bauru"
+    },
+    {
+        "titulo": "Restaurante do Zoo está pronto há quase 1 ano, mas segue vazio",
+        "link": "https://sampi.net.br/bauru/noticias/2877781/politica/2025/01/restaurante-do-zoo-esta-pronto-ha-quase-1-ano-mas-segue-vazio",
+        "descricao": "Prédio foi entregue no dia 1 de março de 2024, mas por conta de aluguel alto, licitações não encontraram interessados.",
+        "data": "01/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "titulo": "BAR NOVO EM BAURU",
+        "link": "https://www.instagram.com/socialbauru/reel/C72SKGaOgvr/?hl=en",
+        "descricao": "O @barangabauru inaugurou recentemente uma nova unidade em Bauru.",
+        "data": "2025",
+        "municipio": "Bauru"
+    },
+    {
+        "titulo": "Entregas do novo Restaurante dentro do Parque Zoológico de Bauru",
+        "link": "https://www.instagram.com/prefeituradebauru/reel/C3_Oi3OO9Mh/",
+        "descricao": "Chegou o momento que todos esperavam: a entrega da obra do novo Restaurante dentro do Parque Zoológico Municipal de Bauru!",
+        "data": "2025",
+        "municipio": "Bauru"
+    },
+    {
+        "titulo": "Com foco em Indústria 4.0, Yágua prepara 1ª captação para 2025",
+        "link": "https://startups.com.br/negocios/sustentabilidade/com-foco-em-industria-4-0-yagua-prepara-1a-captacao-para-2025/",
+        "descricao": "Startup usa tecnologia proprietária e IA para identificar e combater plantas daninhas, reduzindo o uso de produtos químicos no campo.",
+        "data": "2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Fintech nascida em Rio Preto recebe R$ 5 milhões em investimentos.",
+        "link": "https://www.gazetaderiopreto.com.br/economia/noticia/2019/11/fintech-nascida-em-rio-preto-recebe-r-5-milhoes-em-investimentos-de-fundo-norte-americano.html",
+        "descricao": "A plataforma Cobre Fácil vai expandir seu portfólio de atuação e criar, pelo menos, 30 novas vagas de emprego com o investimento de R$ 5 milhões.",
+        "data": "2025",
+        "municipio": "São José do Rio Preto"
+    },
+    {
+        "titulo": "O Programa Startup Ribeirão Preto começou acelerado em 2025.",
+        "link": "https://www.facebook.com/organicacursos/videos/o-programa-startup-ribeir%C3%A3o-preto-come%C3%A7ou-acelerado-em-2025-aqui-na-org%C3%A2nica-reu/1266289847762444/",
+        "descricao": "O Programa Startup Ribeirão Preto começou acelerado em 2025. Aqui na Orgânica reunimos as startups selecionadas, professores, mentores.",
+        "data": "2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "titulo": "Start Up Ribeirão - Inscrições",
+        "link": "https://www.startupribeirao.com.br/",
+        "descricao": "O Start Up Ribeirão promove o desenvolvimento e a expansão de startups na região de Ribeirão Preto através de um programa de residência distribuído.",
+        "data": "2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "titulo": "Programa de aceleração OASIS promove Demo Day com startups graduadas.",
+        "link": "https://softex.br/programa-de-aceleracao-oasis-promove-demo-day-com-startups-graduadas-em-seu-1-ciclo/",
+        "descricao": "O programa OASIS promove um Demo Day com as startups graduadas em seu primeiro ciclo, focando em energia e Inteligência Artificial.",
+        "data": "2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Com apoio do Sebrae, greentech pretende faturar R$ 1,8 milhão em 2025.",
+        "link": "https://startupi.com.br/apoio-sebrae-greentech-faturar-18-milhao-em-2025/",
+        "descricao": "A startup Yágua, focada em tecnologia sustentável, recebeu apoio do SEBRAE para sua expansão e previsão de faturamento.",
+        "data": "2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Aceleração OASIS - Sorocaba",
+        "link": "https://fit-tecnologia.org.br/oasis/",
+        "descricao": "O FIT possui know-how de IA, IoT e Hardtechs com grandes empresas, desde a concepção até a evolução de um produto.",
+        "data": "2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "O startup de IA DigAÍ discute inovações para 2025.",
+        "link": "https://www.instagram.com/digai.ai/reel/DFDTuE9RgmJ/",
+        "descricao": "A DigAÍ, startup de IA, comenta sobre as expectativas e inovações planejadas para 2025.",
+        "data": "2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "titulo": "Desafios da Metrópole: agritechs ganham força e se expandem.",
+        "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2025/01/01/desafios-da-metropole-agritechs-ganham-forca-e-se-expandem-no-entorno-da-capital-do-agronegocio.ghtml",
+        "descricao": "Análise do crescimento das agritechs e a força dos hubs de inovação em Ribeirão Preto.",
+        "data": "2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "titulo": "Amazon abre polo logístico em Botucatu",
+        "link": "https://acontecebotucatu.com.br/geral/amazon-abre-polo-logistico-em-botucatu/",
+        "descricao": "A Amazon anunciou a expansão significativa de suas operações, incluindo um novo polo logístico em Botucatu, contribuindo para o crescimento econômico e a geração de empregos.",
+        "data": "2024",
+        "municipio": "Botucatu"
+    },
+    {
+        "titulo": "SENAI e Centroflora firmam parceria em Botucatu",
+        "link": "https://www.econodata.com.br/maiores-empresas/sp-botucatu/logistica-e-transporte",
+        "descricao": "A parceria entre o SENAI e o Centroflora visa criar um novo centro logístico e capacitações profissionais para jovens da região.",
+        "data": "2025",
+        "municipio": "Botucatu"
+    },
+    {
+        "titulo": "Energias renováveis ganham espaço em Itapetininga com novas iniciativas.",
+        "link": "https://www.inovacoes.com.br/itapetininga-energias-renovaveis-2025",
+        "descricao": "Novas empresas estão implementando sistemas de energia solar, promovendo a sustentabilidade e a independência energética.",
+        "data": "2025",
+        "municipio": "Itapetininga"
+    }
+]
+```

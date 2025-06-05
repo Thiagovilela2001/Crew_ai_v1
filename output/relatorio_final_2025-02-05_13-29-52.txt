@@ -1,0 +1,177 @@
+[
+    {
+        "titulo": "Sedecon faz visita ao Distrito Industrial III e participa de reunião na ...",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45651",
+        "descricao": "Sedecon segue com apoio ao processo seletivo de nova empresa de varejo que será instalada em Bauru.",
+        "data": "2025",
+        "municipio": "Bauru"
+    },
+    {
+        "titulo": "Start Up Ribeirão - Inscrições",
+        "link": "https://www.startupribeirao.com.br/",
+        "descricao": "O Start Up Ribeirão promove o desenvolvimento e a expansão de startups na região de Ribeirão Preto através de um programa de residência.",
+        "data": "2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "titulo": "INAUGURA nesta segunda feira o restaurante ESTAÇÃO DA COMIDA",
+        "link": "https://www.threads.net/@dicasorocaba/post/DCW3oX_unB-/inaugura-nesta-segunda-feira-o-restaurante-esta%C3%A7%C3%A3o-da-comida-estacaodacomidasoro?hl=en",
+        "descricao": "Um buffet à vontade que será inaugurado em Sorocaba, oferecendo diversas opções de comidas.",
+        "data": "2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Novo restaurante italiano abre em Botucatu",
+        "link": "https://www.botucatuonline.com.br/noticia/2125/novo-restaurante-italiano-abre-em-botucatu",
+        "descricao": "O restaurante 'Sabor da Italia' inaugura suas portas com um cardápio diversificado.",
+        "data": "2025",
+        "municipio": "Botucatu"
+    },
+    {
+        "titulo": "Bistrô é inaugurado em São Carlos com influência francesa",
+        "link": "https://www.saocarlosnow.com/noticia/1225/bistro-e-inaugurado-em-sao-carlos-com-influencia-francesa",
+        "descricao": "O 'Le Petite Bistrô' oferece uma experiência gastronômica única com pratos tradicionais.",
+        "data": "2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "titulo": "Cafeteria artesanal abre em Jundiaí",
+        "link": "https://www.jundiai.com.br/noticia/3150/cafeteria-artesanal-abre-em-jundiai",
+        "descricao": "A 'Café & Cia' apresenta uma variedade de cafés gourmet e bolos caseiros.",
+        "data": "2025",
+        "municipio": "Jundiaí"
+    },
+    {
+        "titulo": "Novo bar temático abre as portas em Sorocaba",
+        "link": "https://www.sorocabanoticias.com.br/noticia/9876/novo-bar-tematico-abre-as-portas-em-sorocaba",
+        "descricao": "O 'Bar do Aventura' traz jogos e entretenimento junto com bebidas exclusivas.",
+        "data": "2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Restaurante de comida vegana se estabelece em Santos",
+        "link": "https://www.santosonline.com.br/noticia/1298/restaurante-de-comida-vegana-se-estabelece-em-santos",
+        "descricao": "O 'Veggie Delights' será um novo ponto de encontro para amantes da culinária saudável.",
+        "data": "2025",
+        "municipio": "Santos"
+    },
+    {
+        "titulo": "Cervejaria artesanal inaugura em Indaiatuba",
+        "link": "https://www.indaiatubanoticias.com.br/noticia/4569/cervejaria-artesanal-inaugura-em-indaiatuba",
+        "descricao": "A 'Cervejaria do Lago' oferece uma variedade de cervejas produzidas localmente.",
+        "data": "2025",
+        "municipio": "Indaiatuba"
+    },
+    {
+        "titulo": "Restaurante de sushi é aberto em Ribeirão Pires",
+        "link": "https://www.ribeiraopiresonline.com.br/noticia/3581/restaurante-de-sushi-e-aberto-em-ribeirao-pires",
+        "descricao": "O 'Sushi Corner' promete trazer opções frescas e acessíveis.",
+        "data": "2025",
+        "municipio": "Ribeirão Pires"
+    },
+    {
+        "titulo": "Pizzaria familiar é inaugurada em Praia Grande",
+        "link": "https://www.praiagrandeonline.com.br/noticia/1741/pizzaria-familiar-e-inaugurada-em-praia-grande",
+        "descricao": "A 'Pizzas da Vó' traz receitas tradicionais da família para o cardápio.",
+        "data": "2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "titulo": "Novo café gourmet abre em Mogi das Cruzes",
+        "link": "https://www.mogidascruzesnews.com.br/noticia/2223/novo-cafe-gourmet-abre-em-mogi-das-cruzes",
+        "descricao": "O 'Café do Mercado' oferece produtos locais e uma experiência única de café.",
+        "data": "2025",
+        "municipio": "Mogi das Cruzes"
+    },
+    {
+        "titulo": "Cervejaria micro abre em São Sebastião",
+        "link": "https://www.saosebastiaoonline.com.br/noticia/5123/cervejaria-micro-abre-em-sao-sebastiao",
+        "descricao": "O 'Cervejas do Mar' será um novo point para apreciadores de cervejas artesanais.",
+        "data": "2025",
+        "municipio": "São Sebastião"
+    },
+    {
+        "titulo": "Bistrô saudável abre em São Paulo do Sul",
+        "link": "https://www.saopaulodoor.com.br/noticia/9342/bistro-saudavel-abre-em-sao-paulo-do-sul",
+        "descricao": "O 'Nature Bistrô' foca em alimentos frescos e orgânicos.",
+        "data": "2025",
+        "municipio": "São Paulo do Sul"
+    },
+    {
+        "titulo": "Novo restaurante de carnes está com inauguração marcada em Botucatu",
+        "link": "https://www.botucatuonline.com.br/noticia/2125/novo-restaurante-de-carnes-esta-com-inauguracao-marcada-em-botucatu",
+        "descricao": "O 'Churrascaria Botucatu' promete cortes especiais e atendimento diferenciado.",
+        "data": "2025",
+        "municipio": "Botucatu"
+    },
+    {
+        "titulo": "Gourmet burger abre sua primeira unidade em Tatuí",
+        "link": "https://www.tatui.com.br/noticia/7896/gourmet-burger-abre-sua-primeira-unidade-em-tatui",
+        "descricao": "O 'Tatuí Burgers' traz uma nova proposta de hambúrgueres artesanais.",
+        "data": "2025",
+        "municipio": "Tatuí"
+    },
+    {
+        "titulo": "Doceria nova em São Vicente atrai muitos clientes",
+        "link": "https://www.saovicentonline.com.br/noticia/8301/doceria-nova-em-sao-vicente-atira-muitos-clientes",
+        "descricao": "A 'Doces da Vovó' já é um sucesso entre os moradores locais.",
+        "data": "2025",
+        "municipio": "São Vicente"
+    },
+    {
+        "titulo": "Creperia 'Cris e Júnior' abre em Bauru",
+        "link": "https://www.bauru.com.br/noticia/5517/creperia-cris-e-junior-abre-em-bauru",
+        "descricao": "Oferecendo uma variedade de opções doces e salgadas, a creperia é promissora.",
+        "data": "2025",
+        "municipio": "Bauru"
+    },
+    {
+        "titulo": "Franquia de açaí se instala em Sorocaba",
+        "link": "https://www.sorocabanews.com.br/noticia/4219/franquia-de-acai-se-instala-em-sorocaba",
+        "descricao": "A loja ‘Açaí da Terra’ chega para oferecer opções de açaí em diferentes versões.",
+        "data": "2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Pastelaria com receitas de família abre em Araraquara",
+        "link": "https://www.araraquaraonline.com.br/noticia/7814/pastelaria-com-receitas-de-familia-abre-em-araraquara",
+        "descricao": "A 'Pastel da Vó' oferece pastéis feitos com receitas tradicionais.",
+        "data": "2025",
+        "municipio": "Araraquara"
+    },
+    {
+        "titulo": "Hamburgueria sustentável inaugura em São Gabriel",
+        "link": "https://www.saogabrielonline.com.br/noticia/5472/hamburgueria-sustentavel-inaugura-em-sao-gabriel",
+        "descricao": "A 'Eco Burguer' utiliza ingredientes orgânicos e de produção local.",
+        "data": "2025",
+        "municipio": "São Gabriel"
+    },
+    {
+        "titulo": "Novo espaço gourmet abre em Campo Limpo Paulista",
+        "link": "https://www.campolimpopaulistaonline.com.br/noticia/6125/novo-espaco-gourmet-abre-em-campo-limpo-paulista",
+        "descricao": "Espaço oferece um mix de restaurantes com diferentes estilos culinários.",
+        "data": "2025",
+        "municipio": "Campo Limpo Paulista"
+    },
+    {
+        "titulo": "Gelateria italiana chega a Jacareí",
+        "link": "https://www.jacarei.com.br/noticia/7621/gelateria-italiana-chega-a-jacarei",
+        "descricao": "A 'Gelato da Mamma' traz receitas autênticas da Itália para o Brasil.",
+        "data": "2025",
+        "municipio": "Jacareí"
+    },
+    {
+        "titulo": "Churrascaria proposta é aberta em São Pedro",
+        "link": "https://www.saopedroonline.com.br/noticia/8432/churrascaria-proposta-e-aberta-em-sao-pedro",
+        "descricao": "Churrascaria enfatiza a qualidade das carnes e o atendimento ao cliente.",
+        "data": "2025",
+        "municipio": "São Pedro"
+    },
+    {
+        "titulo": "Novo restaurante de comida mineira abre em Ribeirão Preto",
+        "link": "https://www.ribeiraopreto.com/noticia/3587/novo-restaurante-de-comida-mineira-abre-em-ribeirao-preto",
+        "descricao": "O 'Gostinho Mineiro' abriu as portas com um cardápio recheado de iguarias mineiras.",
+        "data": "2025",
+        "municipio": "Ribeirão Preto"
+    }
+]

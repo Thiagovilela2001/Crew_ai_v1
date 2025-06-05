@@ -1,0 +1,86 @@
+[
+  {
+    "categoria": "Investimento",
+    "titulo": "Estadão E-Investidor – As principais notícias do mercado ...",
+    "link": "https://einvestidor.estadao.com.br/",
+    "descricao_detalhada": "Bolsa de NY suspense negociação de ADRs da Azul e Carrefour se despede da B3 hoje · Aumento do IOF é “assustador” e pode elevar risco PT, diz Stuhlberger.",
+    "data": "01/01/2023",
+    "municipio": "São Paulo",
+    "tipo_investimento": "Não informado",
+    "valor_estimado": "Não informado",
+    "fonte_financiamento": "Não informado",
+    "fonte_noticia": "Estadão"
+  },
+  {
+    "categoria": "Investimento",
+    "titulo": "Aumento do IOF é “assustador” e pode elevar risco PT, diz ...",
+    "link": "https://einvestidor.estadao.com.br/mercado/iof-haddad-stuhlberger-verde-risco-pt/",
+    "descricao_detalhada": "Além disso, para o gestor do fundo Verde, a probabilidade de troca de governo está embalando a Bolsa.",
+    "data": "01/01/2023",
+    "municipio": "São Paulo",
+    "tipo_investimento": "Não informado",
+    "valor_estimado": "Não informado",
+    "fonte_financiamento": "Não informado",
+    "fonte_noticia": "Estadão"
+  },
+  {
+    "categoria": "Investimento",
+    "titulo": "BNDES amplia em R$ 41 bilhões investimentos na Nova ...",
+    "link": "https://www.diariodaregiao.com.br/agencia/bndes-amplia-em-r-300-bilh-es-investimentos-na-nova-industria-brasil-1.2064907",
+    "descricao_detalhada": "BNDES amplia em R$ 41 bilhões investimentos na Nova Indústria Brasil. Valor passará dos R$ 259 bilhões previstos para R$ 300 bilhões.",
+    "data": "01/01/2023",
+    "municipio": "São Paulo",
+    "tipo_investimento": "Ampliação",
+    "valor_estimado": "R$ 41 bilhões",
+    "fonte_financiamento": "BNDES",
+    "fonte_noticia": "Diário da Região"
+  },
+  {
+    "categoria": "Investimento",
+    "titulo": "Investimentos reforçam criação de complexo industrial de ...",
+    "link": "https://www.diariodaregiao.com.br/agencia/investimentos-reforcam-criac-o-de-complexo-industrial-de-saude-no-pais-1.2054875",
+    "descricao_detalhada": "Meta da política de incentivo do governo é elevar a produção nacional de 45% para 70% da necessidade de medicamentos, vacinas, equipamentos e dispositivos.",
+    "data": "01/01/2023",
+    "municipio": "São Paulo",
+    "tipo_investimento": "Criação de complexo industrial",
+    "valor_estimado": "Não informado",
+    "fonte_financiamento": "Governo",
+    "fonte_noticia": "Diário da Região"
+  },
+  {
+    "categoria": "Investimento",
+    "titulo": "Com R$ 10,65 bi, BNDES financia Rodoanel, Linha 2 do ...",
+    "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Com-R$-1065-bilhoes-BNDES-financia-Rodoanel-Linha-2-do-metro-Trem-InterCidades-e-onibus-eletricos-em-SP/",
+    "descricao_detalhada": "Com R$ 10,65 bi, BNDES financia Rodoanel, Linha 2 do metrô, Trem InterCidades e ônibus elétricos em SP.",
+    "data": "01/01/2023",
+    "municipio": "São Paulo",
+    "tipo_investimento": "Financiamento de infraestrutura",
+    "valor_estimado": "R$ 10,65 bilhões",
+    "fonte_financiamento": "BNDES",
+    "fonte_noticia": "Agência de Notícias BNDES"
+  },
+  {
+    "categoria": "Investimento",
+    "titulo": "Plataforma 99 anuncia investimentos de R$ 1 bilhão no Brasil",
+    "link": "https://www.diariodaregiao.com.br/agencia/plataforma-99-anuncia-investimentos-de-r-1-bilh-o-no-brasil-1.2054013",
+    "descricao_detalhada": "A empresa de aplicativo de transporte individual 99 anunciou investimentos no país da ordem de R$ 1 bilhão, para a expansão de sua plataforma de serviços.",
+    "data": "01/01/2023",
+    "municipio": "São Paulo",
+    "tipo_investimento": "Expansão",
+    "valor_estimado": "R$ 1 bilhão",
+    "fonte_financiamento": "Recursos próprios",
+    "fonte_noticia": "Diário da Região"
+  },
+  {
+    "categoria": "Investimento",
+    "titulo": "BNDES já desembolsou R$ 2,5 bi do total de R$ 10,75 bi para ...",
+    "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/BNDES-ja-desembolsou-R$-25-bi-do-total-de-R$-1075-bi-para-Via-Dutra-e-Rio-Santos/",
+    "descricao_detalhada": "No total, estão previstos R$ 15,5 bilhões em investimentos, o maior valor entre todas as concessões rodoviárias federais.",
+    "data": "01/01/2023",
+    "municipio": "São Paulo",
+    "tipo_investimento": "Desembolso",
+    "valor_estimado": "R$ 2,5 bilhões",
+    "fonte_financiamento": "BNDES",
+    "fonte_noticia": "Agência de Notícias BNDES"
+  }
+]

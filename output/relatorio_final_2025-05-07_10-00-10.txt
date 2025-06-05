@@ -1,0 +1,164 @@
+```json
+[
+    {
+        "categoria": "Restaurantes",
+        "titulo": "De bar 'raiz' a hamburgueria, 6 lugares para conhecer em SP em 2025",
+        "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/01/18/resolucoes-de-2025-os-restaurantes-que-precisamos-conhecer.htm",
+        "descricao": "Uma lista de seis lugares autênticos que prometem estar na moda este ano, abrangendo diversas ofertas gastronômicas.",
+        "data": "2025-01-18",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Os 39 melhores restaurantes de São Paulo segundo ranking EXAME Casual 2025",
+        "link": "https://exame.com/casual/os-melhores-restaurantes-de-sao-paulo-segundo-ranking-exame-casual-2025/",
+        "descricao": "A seleção dos melhores restaurantes de São Paulo, abrangendo uma grande variedade de vertentes gastronômicas.",
+        "data": "2025-04-28",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Descubra mais de 15 novos restaurantes para visitar em São Paulo",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/descubra-mais-de-15-novos-restaurantes-para-visitar-em-sao-paulo/",
+        "descricao": "Artigo sobre novos restaurantes em São Paulo, incluindo opções sofisticadas e mais descomplicadas.",
+        "data": "2025-03-27",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Novos restaurantes de SP para conhecer já!",
+        "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/04/12/novos-restaurantes-de-sp-para-conhecer-ja.htm",
+        "descricao": "Oportunidades de conhecer novos restaurantes em São Paulo, desde os mais descolados até os polêmicos.",
+        "data": "2025-04-12",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "10 Restaurantes de Chefes Famosos em São Paulo para Conferir em 2025",
+        "link": "https://alphafm.com.br/agenda/10-restaurantes-de-chefes-famosos-em-sao-paulo-para-conferir-em-2025/",
+        "descricao": "Uma lista dos imperdíveis de chefs renomados que estarão em alta este ano.",
+        "data": "2025-01-17",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Fogo de Chão e omakassê de carne são novidades em SP",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/02/setima-unidade-do-fogo-de-chao-e-omakasse-de-carnes-sao-novidades-gastronomicas-em-sp.shtml",
+        "descricao": "A rede de churrascarias Fogo de Chão acaba de inaugurar sua sexta unidade no estado.",
+        "data": "2025-02-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Veja 35 novos restaurantes e bares na Vila Madalena, em SP",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/04/vila-madalena-bairro-boemio-em-sp-vive-nova-fase-de-restaurantes-e-bares-de-coquetelaria.shtml",
+        "descricao": "Vila Madalena se renova com 35 novos restaurantes e bares, enfatizando a coquetelaria e a comida autoral.",
+        "data": "2025-04-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Vale a pena conhecer os novos restaurantes de SP? O que esperar ...",
+        "link": "https://www.estadao.com.br/paladar/radar/novos-restaurantes-sp-novidades-2025/",
+        "descricao": "Uma análise sobre as novidades na cena gastronômica de São Paulo, incluindo bares e restaurantes com propostas inovadoras.",
+        "data": "2025-04-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "SP Restaurant Week 2025: quando acontece o evento e quais restaurantes participam?",
+        "link": "https://www.estadao.com.br/paladar/restaurantes-e-bares/restaurant-week-2025-festival-conta-com-menus-completos-a-partir-de-r-5490/",
+        "descricao": "O evento traz menus especiais em diversos restaurantes renomados e ocorre em abril de 2025.",
+        "data": "2025-04-11",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Cidade do interior de SP tem restaurante feito de material 100%",
+        "link": "https://www.diariodolitoral.com.br/diario-mais/cidade-do-interior-de-sp-tem-restaurantes-feito-de-material-100/190989/",
+        "descricao": "Litoral brasileiro ganha restaurante suspenso a trinta metros de altura; conheça.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Os 100 melhores restaurantes do Brasil segundo o ranking ...",
+        "link": "https://exame.com/casual/os-100-melhores-restaurantes-do-brasil-2025/",
+        "descricao": "A lista destaca a rica gastronomia do país, representada por estabelecimentos de 23 cidades de todas as cinco regiões.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "OS 10 MELHORES restaurantes - Litoral Norte Paulista",
+        "link": "https://www.tripadvisor.com.br/Restaurants-g4004034-Litoral_Norte_Paulista_State_of_Sao_Paulo.html",
+        "descricao": "Entre os melhores restaurantes estão opções no Litoral Norte Paulista.",
+        "data": "2025-01-01",
+        "municipio": "Litoral Norte"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Interior de São Paulo: melhores restaurantes ao ar livre",
+        "link": "https://pezinhosmundoafora.com.br/interior-de-sao-paulo-melhores-restaurantes-ao-ar-livre/",
+        "descricao": "Um guia sobre os melhores restaurantes ao ar livre no interior de São Paulo.",
+        "data": "2025-01-01",
+        "municipio": "Interior São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Cidade do interior de SP tem restaurante feito de material 100%",
+        "link": "https://www.diariodolitoral.com.br/diario-mais/cidade-do-interior-de-sp-tem-restaurantes-feito-de-material-100/190989/",
+        "descricao": "O Velhão, um restaurante feito totalmente de material sustentável, local de destaque em Mairiporã.",
+        "data": "2025-02-01",
+        "municipio": "Mairiporã"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "3114 Top startups in Brazil for May 2025",
+        "link": "https://www.startupblink.com/top-startups/brazil",
+        "descricao": "Explore 3114 top Startups in Brazil, including Gupy, JusBrasil, and Creditas, ranked by investment, employee size, and website traffic.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Brazil's Top 10 Startups That Tech Professionals Should Watch Out For",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+        "descricao": "In 2025, Brazil's startup ecosystem is a powerhouse valued at $117 billion, despite a 76% drop in funding. São Paulo leads with 13 unicorns, supported by key sectors like fintech, edtech, and agtech.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos Estrangeiros",
+        "titulo": "Estrangeiros aplicam R$ 10,8 BI na bolsa em 2025; veja histórico",
+        "link": "https://quantumfinance.com.br/estrangeiros-fogem-da-bolsa-brasileira-em-2024-veja-historico/",
+        "descricao": "A virada de ano foi positiva para a bolsa brasileira. O Ibovespa acumula até o fim de abril de 2025 uma valorização de 12,29%...",
+        "data": "2025-04-30",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Estado de São Paulo avança no Plano de Logística e Investimentos",
+        "link": "https://semil.sp.gov.br/2025/04/estado-de-sao-paulo-avanca-no-plano-de-logistica-e-investimentos-com-articulacao-interinstitucional/",
+        "descricao": "O Governo do Estado avança em um plano estratégico que visa melhorias na infraestrutura logística até 2050.",
+        "data": "2025-04-30",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "PRI in Person 2025 - Principles for Responsible Investment",
+        "link": "https://www.unpri.org/news-and-events/upcoming-events/pri-in-person-2025",
+        "descricao": "The 2025 conference will be the 17th annual event and our first visit to Latin America in over ten years. The programme will include experts from PRI.",
+        "data": "2025-11-05",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "PMEs - ANBA News Agency",
+        "link": "https://anba.com.br/en/tag/pmes/",
+        "descricao": "Opportunities for SMEs in the Middle East and Brazil's VP calls for diversification.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo"
+    }
+]
+```

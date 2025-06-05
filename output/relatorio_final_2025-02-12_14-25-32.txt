@@ -1,0 +1,564 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "Lista da Bloomberg Línea que reúne empresas que estão acelerando seu crescimento com inovações significativas, com destaque para aquelas que têm sede em São Paulo.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "4 startups para ficar de olho em 2025",
+        "link": "https://brasilinovador.com.br/4-startups-para-ficar-de-olho-em-2025/",
+        "descricao": "A matéria destaca quatro startups inovadoras que estão se preparando para se destacar em mobilidade e biodiversidade em 2025, com forte atuação em São Paulo.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "O artigo fornece uma lista de startups unicórnio no Brasil, com diversas delas localizadas em São Paulo, e discute oportunidades de crescimento.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "10 setores em alta para empreender em 2025",
+        "link": "https://leomais.com.br/10-setores-em-alta-para-empreender-em-2025/",
+        "descricao": "O artigo analisa setores promissores para o empreendedorismo em 2025, destacando o potencial de mercado em São Paulo.",
+        "data": "14/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Quais são os principais desafios para startups em 2025?",
+        "link": "https://startupi.com.br/principais-desafios-startups-2025-especialista/",
+        "descricao": "Especialistas discutem os desafios antecipados para startups em 2025, com foco no cenário de inovação em São Paulo.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "O futuro é agora! 2025 começou com muitas novidades. Vem ler!",
+        "link": "https://fcjventurebuilder.com/o-futuro-e-agora-2025-comecou-com-muitas-novidades-vem-ler/",
+        "descricao": "A empresa compartilha um marco significativo em sua captação de recursos, destacando o ecossistema de startups de São Paulo.",
+        "data": "07/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Os 21 eventos de inovação mais aguardados de 2025",
+        "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+        "descricao": "Lista de eventos programados para 2025 que fomentam um ambiente de inovação e parcerias para startups em São Paulo.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Desenvolve SP apoia as Tendências de Investimentos para 2025",
+        "link": "https://pt.linkedin.com/pulse/desenvolve-sp-apoia-tend%C3%AAncias-de-investimentos-para-2025-t11wf",
+        "descricao": "Discorre sobre o aumento da expectativa para investimentos em startups e novos negócios, destacando São Paulo como líder.",
+        "data": "22/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empresas",
+        "titulo": "Empresa de SJC projeta expansão de 65% e abre 40 vagas para 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/empresa-de-sjc-projeta-expansao-de-65-e-abre-40-vagas-para-2025/",
+        "descricao": "Aumento no faturamento e plano de expansão da empresa, com forte presença no mercado de São Paulo.",
+        "data": "07/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Sebrae-SP e ABStartups renovam parceria de fortalecimento de startups",
+        "link": "https://mercadoeconsumo.com.br/06/01/2025/economia/sebrae-sp-e-abstartups-renovam-parceria-de-fortalecimento-de-startups-por-dois-anos/",
+        "descricao": "Parceria visando o fortalecimento do ecossistema de startups em São Paulo, com foco em inovação e desenvolvimento.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Novas fábricas aumentam capacidade da indústria automotiva",
+        "link": "https://www1.folha.uol.com.br/colunas/eduardosodre/2025/01/novas-fabricas-aumentarao-capacidade-da-industria-automotiva-em-2025.shtml",
+        "descricao": "O início das operações fabris das chinesas BYD e GWM vai aumentar a capacidade de produção da indústria automotiva nacional a partir de 2025.",
+        "data": "05/01/2025",
+        "municipio": null
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Prefeitura de Nova Odessa anuncia novo Centro de Distribuição do Grupo DPSP",
+        "link": "https://novaodessa.sp.gov.br/prefeitura-de-nova-odessa-anuncia-novo-centro-de-distribuicao-do-grupo-dpsp-que-vai-gerar-500-empregos",
+        "descricao": "A nova empresa deve gerar 500 empregos na cidade ao longo do próximo ano. A inauguração está prevista para o primeiro semestre de 2025.",
+        "data": "12/01/2025",
+        "municipio": "Nova Odessa"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Com sede em Bauru, a startup pretende implantar uma unidade em Sorocaba.",
+        "link": "https://www.instagram.com/inova.sorocaba/p/DE5HSNYg9hB/",
+        "descricao": "A startup inova.sorocaba visa implantar uma unidade e está fomentando a inovação na cidade.",
+        "data": "10/01/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup para clínicas apresenta soluções para 2025",
+        "link": "https://conectasc.com.br/2025/01/17/279265-startup-para-clinicas-apresenta-solucoes-para-2025/",
+        "descricao": "Power Office é um software para clínicas odontológicas que promete aumentar a produtividade na rotina clínica.",
+        "data": "17/01/2025",
+        "municipio": null
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Monking, startup de comunicação, tem nova sede no Cubo Itaú e inaugura estúdio",
+        "link": "https://herveltcesar.com.br/monking-startup-de-comunicacao-tem-nova-sede-no-cubo-itau-e-inaugura-estudio/",
+        "descricao": "A Monking, originada em Florianópolis, agora é residente no Cubo Itaú, um dos maiores hubs de inovação e tecnologia.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Correio Popular | Campinas é a cidade do interior de SP com a maior quantidade de startups",
+        "link": "https://www.inova.unicamp.br/2025/01/correio-popular-campinas-e-a-cidade-do-interior-de-sp-com-a-maior-quantidade-de-startups/",
+        "descricao": "O Parque Científico e Tecnológico da Unicamp atinge sua capacidade com 60 empresas incubadas e startups.",
+        "data": "08/01/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Sebrae-SP lança programa de aceleração de startups com foco em Primeiras Vendas",
+        "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/sebrae-sp-lanca-programa-de-aceleracao-de-startups-com-foco-em-primeiras-vendas-3/",
+        "descricao": "O Sebrae-SP abriu inscrições para o programa que visa acelerar o crescimento de 150 startups em fase inicial.",
+        "data": "11/01/2025",
+        "municipio": null
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Programa do Sebrae-SP para startups tem vagas abertas na região de São Carlos",
+        "link": "https://regiaoemdestake.com.br/2025/02/06/programa-do-sebrae-sp-para-startups-tem-vagas-abertas-para-a-regiao-de-sao-carlos/",
+        "descricao": "O programa está com 10 mil vagas disponíveis para apoiar startups em diversas fases de desenvolvimento.",
+        "data": "06/02/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Dabi Business Park: Startups lançam programa de inovação aberta em indústria 4.0",
+        "link": "https://www.revistavarejobrasil.com.br/startups-lancam-programa-de-inovacao-aberta-em-industria-4-0-agro-rh-e-varejo-no-interior-paulista/",
+        "descricao": "O Dabi Business Park visa conectar startups com empresas ligadas à inovação e evolução tecnológica no setor.",
+        "data": "15/01/2025",
+        "municipio": null
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "AFL: SUPERA Parque impulsiona startups do interior de SP para o mundo",
+        "link": "https://startups.com.br/alem-da-faria-lima/afl-supera-parque-impulsiona-startups-do-interior-de-sp-para-o-mundo/",
+        "descricao": "O Supera Parque tem 80 startups e atua principalmente nas áreas de saúde e tecnologia, promovendo a inserção desses negócios no mercado global.",
+        "data": "10/02/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Bares e restaurantes estão otimistas para o primeiro trimestre de 2025",
+        "link": "https://abrasel.com.br/noticias/noticias/bares-restaurantes-otimistas-primeiro-trimestre-2025-pesquisa-abrasel/",
+        "descricao": "O setor de alimentação fora do lar começa 2025 com otimismo, conforme revela a pesquisa realizada pela Abrasel em dezembro. A maioria dos empresários espera um aumento nas vendas.",
+        "data": "05/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Bares e restaurantes podem faturar mais no início de 2025 - Cayena",
+        "link": "https://cayena.com/bares-e-restaurantes-aumento-no-faturamento-2025/",
+        "descricao": "O setor de bares e restaurantes inicia 2025 com otimismo, projetando crescimento de até 15% no faturamento em comparação a 2024.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Setor de bares e restaurantes inicia 2025 com otimismo, mas alta do ICMS preocupa empresários",
+        "link": "https://www.mercadoeeventos.com.br/noticias/servicos/setor-de-bares-e-restaurantes-inicia-2025-com-otimismo-mas-alta-do-icms-preocupa-empresarios/",
+        "descricao": "Segundo o levantamento, 73% dos empresários esperam um aumento nas vendas no primeiro trimestre do ano, em comparação ao mesmo período de 2024.",
+        "data": "09/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Fran's Café retoma expansão, muda sede de lugar e cresce 25%",
+        "link": "https://revistapegn.globo.com/franquias/noticia/2024/09/frans-cafe-retoma-expansao-muda-sede-de-lugar-e-cresce-25percent-em-franquias.ghtml",
+        "descricao": "Foram 13 lojas novas nos últimos 18 meses, um crescimento de 25%, além de quatro revitalizações de unidades. Hoje, são 65 cafeterias em operação após a expansão.",
+        "data": "10/01/2025",
+        "municipio": null
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "O que esperar do setor de bares e restaurantes em 2025",
+        "link": "https://sebrae.com.br/sites/PortalSebrae/artigos/bares-e-restaurantes-um-setor-em-expansao,1038d53342603410VgnVCM100000b272010aRCRD",
+        "descricao": "O setor de serviços de alimentação tem mostrado crescimento e ótimas perspectivas para o ano de 2025, com várias aberturas programadas.",
+        "data": "12/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Restaurante Applebee's reabre em Sorocaba com investimento de R$ 2 milhões",
+        "link": "https://noticias.sorocaba.sp.gov.br/restaurante-applebees-reabre-em-sorocaba-com-investimento-de-r-2-milhoes-e-geracao-de-150-empregos/",
+        "descricao": "O restaurante da rede norte-americana reabre, com um investimento significativo, e promete gerar 150 empregos na região.",
+        "data": "01/01/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Na próxima segunda-feira, Sorocaba ganhará um novo restaurante",
+        "link": "https://www.instagram.com/emsorocabatem/p/DCW-lzmuI4U/?hl=en",
+        "descricao": "Um novo restaurante está prestes a abrir com um cardápio diversificado e um ambiente temático.",
+        "data": "18/11/2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Abertura de nova unidade do Piselli em Campinas prevista para janeiro de 2025",
+        "link": "https://www.instagram.com/restaurantepiselli/p/DDX0qyTSHXy/",
+        "descricao": "O restaurante Piselli está expandindo sua presença com uma nova unidade no Shopping Iguatemi Campinas.",
+        "data": "01/01/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "21ª Campinas Restaurant Week 2025",
+        "link": "https://www.acheiaquicampinas.com.br/post/campinas-restaurant-week-2025",
+        "descricao": "Evento gastronômico que reunirá os melhores restaurantes da região, oferecendo menus com preços fixos de 20 de março a 20 de abril de 2025.",
+        "data": "20/02/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Onda de turistas estrangeiros é oportunidade de crescimento para bares e restaurantes em 2025",
+        "link": "https://rn.abrasel.com.br/seccional-mato-grosso/noticias/noticias/onda-de-turistas-estrangeiros-e-oportunidade-de-crescimento-para-bares-e-restaurantes-em-2025250123094701/",
+        "descricao": "Com o aumento no fluxo de turistas, bares e restaurantes precisam se preparar para atender a uma clientela internacional, o que representa uma oportunidade de expansão.",
+        "data": "22/01/2025",
+        "municipio": "São Sebastião"
+    },
+    {
+        "categoria": "Fintechs",
+        "titulo": "36 Top FinTech Companies in Sao Paulo · February 2025",
+        "link": "https://www.f6s.com/companies/fintech/brazil/sao-paulo/co",
+        "descricao": "Apresenta uma lista das 36 principais empresas de fintech e startups em São Paulo em fevereiro de 2025, incluindo empresas como Conta Simples e Stark Bank.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Fintechs",
+        "titulo": "Top 20 startups in FinTech in Brazil in Feb, 2025",
+        "link": "https://tracxn.com/d/explore/fintech-startups-in-brazil/__75cf4fbjdePCeE5STj0a6tJXFnJaV-ixJBQT81EhohE/companies",
+        "descricao": "Lista os 20 principais startups de fintech no Brasil em fevereiro de 2025, com ênfase nas localizadas em São Paulo, como Nubank e Creditas.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Fintechs",
+        "titulo": "1385 Top startups in Sao Paulo for February 2025",
+        "link": "https://www.startupblink.com/top-startups/sao-paulo-br",
+        "descricao": "Lista as 1385 melhores startups em São Paulo, destacando as que receberam investimentos significativos, como Gupy e Omiexperience.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Fintechs",
+        "titulo": "Brazil's Top 10 Startups That Tech Professionals Should Watch Out For in 2025",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+        "descricao": "Examina 10 startups brasileiras, incluindo as que estão baseadas em São Paulo, e os investimentos que receberam, destacando seu potencial para 2025.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Fintechs",
+        "titulo": "Latin America fintech will be a market to watch in 2025",
+        "link": "https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/",
+        "descricao": "Discute o crescimento do mercado financeiro na América Latina, com foco nas fintechs em São Paulo e seus impactos no cenário de investimentos.",
+        "data": "24/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Campinas terá distrito voltado para pesquisa e inovação tecnológica",
+        "link": "https://liberal.com.br/cidades/campinas/campinas-tera-distrito-voltado-para-pesquisa-e-inovacao-tecnologica-2226332/",
+        "descricao": "Um novo hub para inovações tecnológicas será criado, integrando universidades e empresas.",
+        "data": "12/02/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Ribeirão Preto recebe investimento superior a R$ 700 mil para projeto inovador",
+        "link": "https://www.acidadeon.com/ribeiraopreto/economia/ribeirao-preto-recebe-investimento-superior-a-r-700-mil-para-projeto-inovador/",
+        "descricao": "Investimento anunciado para o Polo Genômico com foco no desenvolvimento de inovações de genética.",
+        "data": "13/01/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "IGNITE 2025: chamada científica para a América Latina",
+        "link": "https://eesc.usp.br/fomento/post.php?guidn=ignite-2025-chamada-cientifica-para-a-america-latina&catid=editais-de-fomento-a-pesquisa-e-bolsas",
+        "descricao": "Programa que investe em startups de biotecnologia na América Latina.",
+        "data": "10/02/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "categoria": "Mobilidade",
+        "titulo": "Prefeitura apoia startup para mobilidade urbana",
+        "link": "https://saosebastiao.sp.gov.br/noticia.asp?id=N21122018175245",
+        "descricao": "Apoio à startup Wave de locação de patinetes elétricos promovendo uma alternativa de mobilidade sustentável.",
+        "data": "21/12/2018",
+        "municipio": "São Sebastião"
+    },
+    {
+        "categoria": "Turismo",
+        "titulo": "Empreendedor que viajou por 75 países cria hostel premiado em Ilhabela, que fatura R$ 4 milhões",
+        "link": "https://revistapegn.globo.com/ideias-de-negocios/noticia/2024/11/empreendedor-que-viajou-por-75-paises-cria-hostel-premiado-em-ilhabela-que-fatura-r-4-milhoes.ghtml",
+        "descricao": "O Hostel da Vila, criado por Felipe Gamba, investiu R$ 300 mil e faturou R$ 4 milhões, oferecendo estadias diferenciadas.",
+        "data": "03/11/2024",
+        "municipio": "Ilhabela"
+    },
+    {
+        "categoria": "Investimento",
+        "titulo": "Raio Capital anuncia investimento de até R$ 100 milhões em startups",
+        "link": "https://exame.com/negocios/raio-capital-anuncia-investimento-de-ate-r-100-milhoes-em-startups/",
+        "descricao": "Raio Capital irá investir até R$ 100 milhões, com foco na primeira fase em 25 a 30 startups.",
+        "data": null,
+        "municipio": "São Vicente"
+    },
+    {
+        "categoria": "Turismo",
+        "titulo": "Cidade Inteligente, Santos investe em tecnologia em diversos setores e impulsiona Parque Tecnológico",
+        "link": "https://www.santos.sp.gov.br/?q=noticia/cidade-inteligente-santos-investe-em-tecnologia-em-diversos-setores-e-impulsiona-parque-tecnologico",
+        "descricao": "Iniciativa de modernização em tecnologia e suporte ao ecossistema no Parque Tecnológico.",
+        "data": "01/01/2025",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Mogi das Cruzes reúne startups para apresentação do programa Frutificar",
+        "link": "http://www.mogidascruzes.sp.gov.br/noticia/mogi-das-cruzes-reune-startups-para-apresentacao-do-programa-frutificar",
+        "descricao": "Programa para cultivar ideias e projetos inovadores, focando em startups com soluções para a gestão pública.",
+        "data": "05/02/2025",
+        "municipio": "Mogi das Cruzes"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Distrito aponta as 20 startups mais promissoras da região",
+        "link": "https://businessmoment.com.br/distrito-aponta-as-20-startups-mais-promissoras-da-regiao/",
+        "descricao": "Discussão sobre as startups promissoras na região, incluindo Guarujá como um ponto importante no ecossistema.",
+        "data": null,
+        "municipio": "Guarujá"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Economia criativa de SP: missões internacionais geram R$ 725 milhões em potencial de negócios",
+        "link": "https://www.agenciasp.sp.gov.br/economia-criativa-missoes-internacionais-de-sp-geram-r-725-milhoes-em-potencial-de-negocios/",
+        "descricao": "O programa Creative SP levou 103 empresas ao exterior em 2024, gerando R$ 725 milhões em negócios e movimentando mais de 6.448 empregos.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimento",
+        "titulo": "Anúncios de investimentos no Brasil somam mais de 54 bilhões de ...",
+        "link": "https://apexbrasil.com.br/br/pt/conteudo/noticias/BIF-2024-anuncios-de-investimentos-no-Brasil-durante-o-evento-somam-mais-de-54-bilhoes-de-reais.html",
+        "descricao": "Raizen, Shell Brasil e Senai SP anunciaram investimento no setor de energia, incluindo um novo Centro de Bioenergia em São Paulo.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimento",
+        "titulo": "Governo planeja programa para facilitar investimento estrangeiro - BPMoney",
+        "link": "https://bpmoney.com.br/brasil/governo-vai-lancar-programa-para-atrair-investimentos-estrangeiros/",
+        "descricao": "O governo prevê um programa para desburocratizar investimentos estrangeiros, planejado para 2026, alertando sobre a importância da plataforma para permitir acesso à informação.",
+        "data": "12/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimento",
+        "titulo": "Ibovespa avança em meio a maior interesse de investidor estrangeiro",
+        "link": "https://valor.globo.com/financas/noticia/2025/02/12/ibovespa-avanca-em-meio-a-maior-interesse-de-investidor-estrangeiro.ghtml",
+        "descricao": "O aumento do interesse dos investidores estrangeiros nas ações brasileiras é impulsionado por um cenário favorável no mercado local, abrangendo São Paulo.",
+        "data": "12/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "CCR RioSP inicia nova frente de obras em São José dos Campos",
+        "link": "https://rodovias.grupoccr.com.br/riosp/noticias/2024-02/ccr-riosp-inicia-nova-frente-de-obras-em-sao-jose-dos-campos/",
+        "descricao": "O investimento da CCR RioSP nas obras em São José dos Campos é de cerca de R$ 650 milhões, gerando quase mil empregos diretos e indiretos.",
+        "data": "01/02/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Município de São José dos Campos (SP) receberá recursos do BID",
+        "link": "https://cnm.org.br/comunicacao/noticias/munic%C3%ADpio-de-s%C3%A3o-jos%C3%A9-dos-campos-sp-receber%C3%A1-recursos-do-bid",
+        "descricao": "O empréstimo do BID garantirá recursos para as obras de Infraestrutura e Mobilidade Urbana em São José dos Campos nos próximos cinco anos.",
+        "data": "20/01/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Veja o que se sabe sobre novo bairro no 'Terreno das Vaquinhas'",
+        "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2024/11/25/investimentos-obras-e-dimensoes-veja-o-que-se-sabe-sobre-o-bairro-que-sera-desenvolvido-no-terreno-das-vaquinhas-em-sao-jose.ghtml",
+        "descricao": "O projeto contempla obras de infraestrutura como energia e saneamento, com investimento estimado em R$ 120 milhões.",
+        "data": "15/12/2024",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Sorocaba recebe investimento de R$ 80 milhões e geração de 400 empregos diretos e indiretos",
+        "link": "https://www.parquetecsorocaba.com.br/blog/sorocaba-recebe-investimento-de-r-80-milhes-e-gerao-de-400-empregos-diretos-e-indiretos-com-a-instalao-da-empresa-ecosan-no-parque-tecnolgico-de-sorocaba-972282331",
+        "descricao": "A instalação da empresa Ecosan no Parque Tecnológico resultará em investimentos de R$ 80 milhões e a criação de 400 novas oportunidades de emprego na cidade.",
+        "data": "10/01/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Sorocaba tem orçamento recorde de R$ 5,6 bilhões para 2025",
+        "link": "https://noticias.sorocaba.sp.gov.br/sorocaba-tem-orcamento-recorde-de-r-56-bilhoes-para-2025/",
+        "descricao": "O orçamento de 2025 da Prefeitura de Sorocaba prioriza investimentos em todas as áreas, incluindo infraestrutura.",
+        "data": "02/01/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Campos do Jordão será sede do Sindepat Summit 2025",
+        "link": "https://camposdojordao.com.br/campos-do-jordao-sera-sede-do-sindepat-summit-2025-evento-de-destaque-na-industria-de-parques-e-atracoes.html",
+        "descricao": "O evento reunirá líderes do setor, promovendo a infraestrutura turística na cidade e atraindo investimentos significativos.",
+        "data": "14/05/2025",
+        "municipio": "Campos do Jordão"
+    },
+    {
+        "categoria": "Turismo",
+        "titulo": "Campos do Jordão lança candidatura a Cidade Criativa da UNESCO",
+        "link": "https://www.portalr3.com.br/2025/01/08/campos-do-jordao-lanca-candidatura-a-cidade-criativa-da-unesco",
+        "descricao": "A candidatura visa atrair novos investimentos e melhorias em infraestrutura cultural e turística.",
+        "data": "08/01/2025",
+        "municipio": "Campos do Jordão"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Duplicação da Rio-Santos entre Caraguá e Ubatuba começa em 2025",
+        "link": "https://gazetadejacarei.com.br/noticia/2123/duplicacao-da-rio-santos-entre-caragua-e-ubatuba-comeca-em-2025",
+        "descricao": "A duplicação da estrada contemplará 45 km com um investimento de R$ 3 bilhões, visando melhorar o tráfego entre as cidades.",
+        "data": "10/01/2025",
+        "municipio": "Ubatuba"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Extensão da Tamoios até Ubatuba começa em 2025",
+        "link": "https://informa.life/extensao-da-tamoios-ate-ubatuba-comeca-em-2025/",
+        "descricao": "O projeto prevê investimentos de R$ 2 bilhões a R$ 3 bilhões, com intuito de impulsionar o turismo e criar novas oportunidades econômicas.",
+        "data": "12/01/2025",
+        "municipio": "Ubatuba"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Obras de revitalização da Estrada do Cais estão em fase final",
+        "link": "https://www.ubatuba.sp.gov.br/destaques/obras-estrada-cais/",
+        "descricao": "A revitalização inclui melhorias significativas na infraestrutura da via, com foco no recapeamento e reformas de plataformas.",
+        "data": "03/01/2025",
+        "municipio": "Ubatuba"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "ESG em ação: Desenvolve SP alavanca sustentabilidade com mais de R$ 230 milhões",
+        "link": "https://www.desenvolvesp.com.br/comunicacao/noticias/esg-em-acao-desenvolve-sp-alavanca-sustentabilidade-com-mais-de-230-milhoes-em-financiamentos/",
+        "descricao": "O programa de financiamento da Desenvolve SP visa alavancar ações sustentáveis com recursos voltados para energia renovável, reciclagem e eficiência energética.",
+        "data": "28/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "2025: Um marco para ações sustentáveis em prol do meio ambiente",
+        "link": "https://lexlegal.com.br/2025-um-marco-para-acoes-sustentaveis-em-prol-do-meio-ambiente/",
+        "descricao": "O artigo discute a importância da reciclagem e como ela é essencial na luta contra as mudanças climáticas, destacando a matriz energética brasileira.",
+        "data": "04/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Instituto Clima e Sociedade busca projetos de transição energética para investir até R$ 6 milhões",
+        "link": "https://exame.com/esg/instituto-clima-e-sociedade-busca-projetos-de-transicao-energetica-para-investir-ate-r-6-milhoes/",
+        "descricao": "O Instituto Clima e Sociedade lançou edital para apoiar projetos de transição energética com foco em justiça energética e energias renováveis.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "EDP vai investir R$ 2,3 bi em geração distribuída de energia solar",
+        "link": "https://conteudos.xpi.com.br/esg/edp-vai-investir-r23b-em-geracao-distribuida-de-energia-solar-ate-2026-cafe-com-esg-04-08/",
+        "descricao": "A EDP planeja investir R$ 2,3 bilhões em geração distribuída de energia solar no Brasil até 2026, ampliando sua capacidade e contribuindo para a adoção de energias renováveis.",
+        "data": "04/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimento",
+        "titulo": "Por que investir em cidades paulistas?",
+        "link": "https://www.em.com.br/emfoco/2024/12/26/por-que-investir-em-cidades-paulistas/",
+        "descricao": "O ranking 'TOP 10 ESG' destaca cidades de São Paulo com forte compromisso em práticas sustentáveis. Santos lidera, seguida por São Caetano do Sul e Campinas, com políticas públicas eficazes em energia renovável e gestão de resíduos.",
+        "data": "26/12/2024",
+        "municipio": "Santos, São Caetano do Sul, Campinas"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Expansão da Pague Menos avança com 30 lojas em SP",
+        "link": "https://conteudos.xpi.com.br/acoes/relatorios/entrega-xp-as-principais-noticias-que-movem-o-setor-do-varejo-junho-24/",
+        "descricao": "A Pague Menos está ampliando sua presença no estado de São Paulo com a inauguração de 30 novas lojas, refletindo um crescimento no varejo farmacêutico.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Pão de Açúcar e Extra projetam aumento nas vendas de panetones",
+        "link": "https://conteudos.xpi.com.br/acoes/relatorios/entrega-xp-as-principais-noticias-que-movem-o-setor-do-varejo-outubro-24/",
+        "descricao": "As redes Pão de Açúcar e Extra iniciaram a fabricação própria de panetones visando um aumento significativo nas vendas durante a temporada de festas.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "FIPAN 2025: Feira Internacional de Panificação e Confeitaria",
+        "link": "http://www.showseye.com/fairs/FIPAN.html",
+        "descricao": "A FIPAN 2025 será realizada em São Paulo, focando em inovações e oportunidades para o setor de panificação e confecção, promovendo a expansão das PMEs do setor.",
+        "data": "Evento programado para 22-25/07/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Agroindústria",
+        "titulo": "Agritechs revolucionam agronegócio no interior de São Paulo e mostram crescimento exponencial",
+        "link": "https://clickpetroleoegas.com.br/agritechs-revolucionam-agronegocio-no-interior-de-sao-paulo-e-mostram-crescimento-exponencial/",
+        "descricao": "Startups estão desenvolvendo soluções tecnológicas que melhoram a produtividade das culturas na região de Ribeirão Preto, impulsionando a inovação no agronegócio.",
+        "data": "02/01/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Oxxo planeja expansão com 30 novas lojas no interior de São Paulo",
+        "link": "https://gironews.com/supermercado/oxxo-planeja-expansao-de-30-lojas-no-interior-de-sao-paulo/",
+        "descricao": "A rede Oxxo prevê abrir 30 novas lojas na região do Vale do Paraíba, gerando aproximadamente 300 empregos na localidade.",
+        "data": "04/07/2024",
+        "municipio": "São José dos Campos, Taubaté, Jacareí"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Be Honest espera ampliar faturamento e lojas em 2025",
+        "link": "https://diariodocomercio.com.br/negocios/be-honest-espera-ampliar-faturamento-numero-lojas-2025/",
+        "descricao": "A rede mineira de mercados autônomos prevê um crescimento superior a 60% em 2025 tanto no número de lojas quanto no faturamento.",
+        "data": "12/02/2025",
+        "municipio": "Minas Gerais (expansão em São Paulo mencionada)"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Assaí revisa metas de expansão e reduz abertura de novas lojas para 2025",
+        "link": "https://www.supervarejo.com.br/varejo/assai-revisa-metas-de-expansao-e-reduz-abertura-de-novas-lojas-para-2025",
+        "descricao": "A empresa Assaí irá investir entre R$ 1,0 a 1,2 bilhão em 2025, com focos em reavaliação de metas de expansão.",
+        "data": "12/02/2025",
+        "municipio": "Vários municípios de SP"
+    }
+]
+```

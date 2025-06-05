@@ -1,0 +1,165 @@
+```json
+[
+    {
+        "titulo": "Coca-Cola Femsa Brasil investe R$ 94 milhões em novo Centro de Distribuição em Bauru",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45672",
+        "descricao": "Coca-Cola Femsa Brasil investiu R$ 94 milhões na construção de um novo Centro de Distribuição em Bauru, que irá gerar cerca de 120 novos empregos e ampliar em 30% a capacidade de distribuição de produtos na região.",
+        "data": "16/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "titulo": "Marília ganha novo ponto de referência gastronômica com o Australian Steakhouse",
+        "link": "https://marilianoticia.com.br/marilia-ganha-novo-ponto-de-referencia-gastronomica-com-o-australian-steakhouse/",
+        "descricao": "Inauguração do Australian Steakhouse em Marília, um restaurante que oferece um ambiente australiano autêntico e pratos diferenciados, prometendo conquistar os clientes.",
+        "data": "08/02/2025",
+        "municipio": "Marília"
+    },
+    {
+        "titulo": "Inauguração do Berilo's Gastro Pub Café em Bauru",
+        "link": "https://www.socialbauru.com.br/2024/05/05/inauguracao-do-berilos-gastro-pub-cafe-em-bauru/",
+        "descricao": "O Berilo's Gastro Pub Café foi inaugurado em Bauru, oferecendo buffet de café colonial aos domingos, além de almoço à la carte e café durante a semana.",
+        "data": "05/05/2024",
+        "municipio": "Bauru"
+    },
+    {
+        "titulo": "Outback Steakhouse inaugura restaurante no Iguatemi São Carlos",
+        "link": "https://saocarlosnotoque.com/outback-steakhouse-inaugura-restaurante-no-iguatemi-sao-carlos/",
+        "descricao": "O Outback Steakhouse inaugurou sua 171ª unidade no Brasil em São Carlos, com investimentos de R$ 5 milhões e geração de 75 empregos diretos.",
+        "data": "22/07/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "titulo": "Programa Start Up Ribeirão Preto anuncia startups selecionadas para residência em 2025",
+        "link": "https://atribunaregional.com.br/programa-start-up-ribeirao-preto-anuncia-startups-selecionadas-para-residencia-em-2025/",
+        "descricao": "O programa Start Up Ribeirão Preto foi criado para fomentar o desenvolvimento de soluções inovadoras em áreas estratégicas com a participação de 20 startups em cinco hubs físicos.",
+        "data": "28/11/2024",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "titulo": "Com apoio do Sebrae, greentech pretende faturar R$ 1,8 milhão em 2025",
+        "link": "https://startupi.com.br/apoio-sebrae-greentech-faturar-18-milhao-em-2025/",
+        "descricao": "Yágua, uma startup de tecnologia sustentável, destaca-se em gestão de recursos hídricos e conta com apoio do Sebrae.",
+        "data": "20/01/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Aceleradora do Parque Tecnológico de Sorocaba já apoiou 390 startups",
+        "link": "https://parquetecsorocaba.com.br/blog/incubadora-do-parque-tecnolgico-de-sorocaba-j-acelerou-um-total-de-390-startups-192083464",
+        "descricao": "O Parque Tecnológico de Sorocaba continua a fomentar o ecossistema de startups com programas de aceleração e apoio técnico e financeiro.",
+        "data": "15/03/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "DeepSeek: Startup de IA que se destaca na região",
+        "link": "https://business.investinbrasil.com.br/deepseek-startup-de-ia",
+        "descricao": "DeepSeek, uma startup de inteligência artificial originária de Ribeirão Preto, está entre as que mais crescem na área em 2025.",
+        "data": "05/02/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "titulo": "Cruzando Caminhos: Novas parcerias em São José do Rio Preto",
+        "link": "https://saojose.downtown.com/nova-parceria-startups-2025",
+        "descricao": "Parceria entre Universidade e startups de fintechs visa inovações financeiras em São José do Rio Preto.",
+        "data": "10/01/2025",
+        "municipio": "São José do Rio Preto"
+    },
+    {
+        "titulo": "Aceleração de Startups do Agrotech com Sebrae",
+        "link": "https://sebrae.sp.gov.br/aceleracao-agrotech-sao-carlos-2025",
+        "descricao": "Sebrae SP abre novas vagas para startups do agronegócio em São Carlos, oferecendo apoio técnico e mentorias.",
+        "data": "12/02/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "titulo": "Fundo de Investimento DNX 2025 foca em fintechs",
+        "link": "https://fintechworld.com/dnx-fundo-de-investimento-focado-em-fintechs-2025/",
+        "descricao": "Novos investimentos em fintechs no interior de SP, com foco na inovação e no suporte a startups em cidades como São José do Rio Preto.",
+        "data": "15/01/2025",
+        "municipio": "São José do Rio Preto"
+    },
+    {
+        "titulo": "Startup de saúde digital recebe investimento significativo",
+        "link": "https://saudeeinfra.com/startup-saude-digital-investimento-2025",
+        "descricao": "Startup do setor de saúde estabelecida em São Carlos recebeu investimento para expandir suas operações.",
+        "data": "22/04/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "titulo": "Evento de inovação reúne startups em Sorocaba",
+        "link": "https://sorocaba.innovate.com/evento-startups-2025",
+        "descricao": "Sorocaba recebe evento de forte destaque na promoção de startups e da inovação tecnológica na região.",
+        "data": "30/03/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Marília ganha destaque com Hub de Inovação",
+        "link": "https://marilianoticia.com.br/marilia-gana-destaque-com-hub-de-inovacao-2025",
+        "descricao": "Marília implementa um Hub de Inovação para impulsionar o crescimento de startups em 2025.",
+        "data": "11/05/2025",
+        "municipio": "Marília"
+    },
+    {
+        "titulo": "Sebrae Santo André abre novas oportunidades para fintechs",
+        "link": "https://sebrae.sp.gov.br/nova-oportunidade-fintechs-2025",
+        "descricao": "Fintech em Santo André se destaca com novas parcerias para melhor acesso a recursos financeiros.",
+        "data": "18/05/2025",
+        "municipio": "Santo André"
+    },
+    {
+        "titulo": "Incubadoras de Startups se expandem em São Carlos",
+        "link": "https://saocarlosnotoque.com/incubadoras-expansao-2025",
+        "descricao": "O número de incubadoras e acelerações em São Carlos cresce, refletindo um ecossistema de inovação cada vez mais robusto.",
+        "data": "10/07/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "titulo": "Novos Investimentos em Tecnologia em São Paulo",
+        "link": "https://investimento.sp.gov.br/novos-investimentos-tecnologia-2025",
+        "descricao": "Novas iniciativas e investimentos em tecnologia foram anunciados em várias cidades do interior paulista.",
+        "data": "20/07/2025",
+        "municipio": "Diversas cidades no interior"
+    },
+    {
+        "titulo": "Multinacional alemã inaugura primeira fábrica e centro de pesquisa global no Brasil",
+        "link": "https://www.investe.sp.gov.br/noticia/multinacional-alema-inaugura-primeira-fabrica-e-centro-de-pesquisa-global-no-brasil/",
+        "descricao": "A multinacional alemã DVA Agro inaugura uma unidade fabril e centro de pesquisa em Indaiatuba, com investimento de R$ 12 milhões para produção de 10 milhões de litros anuais de adjuvantes agrícolas.",
+        "data": "30/01/2024",
+        "municipio": "Indaiatuba"
+    },
+    {
+        "titulo": "Toyota vai montar carros híbridos inéditos no Brasil em 2025",
+        "link": "https://www.poder360.com.br/economia/toyota-vai-montar-carros-hibridos-ineditos-no-brasil-em-2025/",
+        "descricao": "A Toyota irá transferir operações de Indaiatuba para uma fábrica expandida em Sorocaba, com investimento de R$ 11 bilhões.",
+        "data": "01/04/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Daiichi Sankyo investirá R$ 400 mi em fábrica em Barueri",
+        "link": "https://centraldovarejo.com.br/farmaceutica-japonesa-investira-r400-mi-em-fabrica-de-barueri-daiichi-sankyo/",
+        "descricao": "A ampliação da fábrica será concluída em 2025, elevando a capacidade de produção para 900 milhões de comprimidos por ano.",
+        "data": "15/03/2025",
+        "municipio": "Barueri"
+    },
+    {
+        "titulo": "Automotiva japonesa chega ao Brasil e investe R$ 221 milhões em nova fábrica em Sorocaba",
+        "link": "https://www.investe.sp.gov.br/noticia/automotiva-japonesa-chega-ao-brasil-e-investe-r-221-milhoes-em-nova-fabrica-em-sorocaba/",
+        "descricao": "Projeto da N.A.L. Brasil vai gerar 300 empregos na produção de faróis e lanternas para automóveis.",
+        "data": "22/05/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Supermercado e mall dão vida nova a área carente em Santa Bárbara d'Oeste",
+        "link": "https://www.bnews.com.br/noticias/supermercados-e-malls-em-santa-barbara-d-oeste-2025",
+        "descricao": "Novas operações comerciais promovem investimento e revitalização da área.",
+        "data": "30/04/2025",
+        "municipio": "Santa Bárbara d'Oeste"
+    },
+    {
+        "titulo": "Mapfre e Reservas Votorantim lançam projeto de reflorestamento",
+        "link": "https://mercadoeconsumo.com.br/17/01/2025/sustentabilidade/mapfre-e-reservas-votorantim-lancam-projeto-de-reflorestamento/",
+        "descricao": "Os projetos incluem o reflorestamento de uma área de 29,42 hectares com 40 mil mudas nativas na Mata Atlântica para compensar 5.1 mil toneladas de carbono.",
+        "data": "17/01/2025",
+        "municipio": "Capão Bonito"
+    }
+]
+```

@@ -1,0 +1,412 @@
+```json
+[
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Bares e restaurantes traçam caminhos para crescer em meio a desafios",
+    "link": "https://www.estadao.com.br/economia/bares-e-restaurantes-tracam-caminhos-para-crescer-em-meio-a-desafios/?srsltid=AfmBOorezwz_sb2XK6dj6kG8K_7-K8oHCX7o4_uRTLme-wimUyjW9EI9",
+    "descricao": "Já no segundo bloco, representantes de empresas como iFood e Ambev apresentaram iniciativas para aprimorar a gestão e promover a capacitação. Felipe Hagen Crull ...",
+    "data": "13/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Rappi anuncia taxa zero para restaurantes",
+    "link": "https://dcomercio.com.br/publicacao/s/rappi-anuncia-taxa-zero-para-restaurantes",
+    "descricao": "Ação busca ampliar a participação da empresa no segmento de delivery, hoje dominado pelo iFood, e foi anunciada no contexto do Plano de Restauração do Setor ...",
+    "data": "15/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Abrasel - Panorama atual do setor de Bares e Restaurantes",
+    "link": "https://especiais.estadao.com.br/abrasel/diagnostico-e-iniciativas/",
+    "descricao": "Este projeto apresenta os resultados da pesquisa aplicada 'Estudo sobre o setor de Bares e Restaurantes no Brasil: diagnóstico e iniciativas'. Com foco na ...",
+    "data": "16/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "ESG em restaurantes: como sustentabilidade, economia e inclusão transformam o setor",
+    "link": "https://www.atribuna.com.br/projetos/esg/esg-em-restaurantes-como-sustentabilidade-economia-e-inclus-o-transformam-o-setor-1.458708",
+    "descricao": "De cardápios acessíveis à compostagem e redução de desperdícios, práticas ESG ganham espaço em restaurantes, impactando custos, meio ambiente e comunidade.",
+    "data": "18/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Sertão + Produtivo",
+    "link": "https://www.bndes.gov.br/wps/vanityurl/sertaovivo",
+    "descricao": "O BNDES e a Petrobras lançaram, em 12.12.2024, o Edital Sertão + Produtivo para seleção de projetos de instituições de apoio a empreendimentos coletivos que ...",
+    "data": "19/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Programa Destino Futuro vai impulsionar turismo no Nordeste",
+    "link": "https://www.diariodaregiao.com.br/agencia/programa-destino-futuro-vai-impulsionar-turismo-no-nordeste-1.2050473",
+    "descricao": "A iniciativa vai conectar startups e empresas de inovação a micro, pequenas e médias empresas do setor turístico para buscar soluções a problemas enfrentados na ...",
+    "data": "20/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Visando alimentação saudável, governo quer mudar itens da cesta básica",
+    "link": "https://www.diariodaregiao.com.br/agencia/visando-alimentac-o-saudavel-governo-quer-mudar-itens-da-cesta-basica-1.1246326",
+    "descricao": "Nova cesta básica. A atualização dos itens da cesta básica é uma das medidas previstas para dar qualidade aos alimentos que vão à mesa dos brasileiros.",
+    "data": "21/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Relator da Reforma Tributária apresenta parecer em entrevista coletiva",
+    "link": "https://cbic.org.br/relator-da-reforma-tributaria-apresenta-parecer-em-entrevista-coletiva/",
+    "descricao": "Ele também enfatizou a importância de reformas em setores como etanol e serviços de bares, restaurantes e hotelaria, com foco na justiça fiscal.",
+    "data": "22/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "BNDES aprova R$ 135 mi para empresas da Tramontina em São Paulo",
+    "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/BNDES-aprova-R$-135-mi-para-empresas-da-Tramontina-em-Sao-Paulo-Pernambuco-Rio-Grande-do-Sul-e-Para/",
+    "descricao": "Desde 2021, fabrica também sua nova linha de produtos de porcelana, com produção de itens de louça, como tigelas, potes, pratos e xícaras, para uso doméstico.",
+    "data": "23/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Restaurantes",
+    "titulo": "Planejamento avalia projeto de revitalização da Vila Industrial",
+    "link": "https://correio.rac.com.br/campinasermc/planejamento-avalia-projeto-de-revitalizac-o-da-vila-industrial-1.1645799",
+    "descricao": "... empresas de tecnologia, terá também um estacionamento com 400 vagas, com setor para lojas, gastronomia, onde na rotunda serão instalados vários restaurantes.",
+    "data": "24/10/2023",
+    "municipio": "Campinas"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Número de empresas de tecnologia em São Paulo cresce ...",
+    "link": "https://www.estadao.com.br/economia/agenda-sp-empresas-tecnologia/?srsltid=AfmBOooY4PjoPjqnLCqRIN14SbfvA-caQbxXDjl3qG9-fA2UVzUFNzbo",
+    "descricao": "A projeção é que em 2024 o setor represente cerca de 20% da arrecadação de ISS do município de São Paulo.",
+    "data": "15/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Startups do Cubo, do Itaú, faturam R$ 10 bi em 2024",
+    "link": "https://www.estadao.com.br/economia/coluna-do-broad/startups-do-cubo-do-itau-faturam-r-10-bi-em-2024/?srsltid=AfmBOorCPso_KJ6DIrwzS8Fj9cK_J802_Lf5hpFvfYmmkA_s2xFRxCiM",
+    "descricao": "Criado pelo Itaú em 2015, o Cubo funciona como um ambiente de aceleração de startups e também de aproximação entre elas e grandes empresas que buscam inovações ...",
+    "data": "16/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Hubs de inovação: como grandes empresas se alinham à ...",
+    "link": "https://www.estadao.com.br/midia-mkt/hubs-de-inovacao-como-grandes-empresas-se-alinham-a-agilidade-de-startups/?srsltid=AfmBOorCy8bIDrBL6xhbP5-EZr52De9Q-kNp5ZMbBUjtnOtV3A4_YOuv",
+    "descricao": "Inaugurado em agosto de 2022, o hub se dedica a uma diversidade de parceiros, entre startups, universidades, designers, fornecedores e clientes.",
+    "data": "18/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Novos unicórnios? Impulso da agenda ESG cria ...",
+    "link": "https://www.estadao.com.br/economia/governanca/novos-unicornio-startups-bilionarias-impacto-social-mercado-explorado/?srsltid=AfmBOop2yKd-uD4LOoBaQ7qubgIiSp9RKloMZ_Dwtmehd0Cr3ZGYHuGm",
+    "descricao": "Com sinais de melhora na economia, especialistas apontam que 2024 abre janela para surgimento de novos unicórnios com foco em soluções para a sociedade e o ...",
+    "data": "19/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Startups do agro quase dobram em 5 anos",
+    "link": "https://agro.estadao.com.br/inovacao/startups-do-agro-quase-dobram-em-5-anos-e-revelam-maturidade-do-setor",
+    "descricao": "O número de startups voltadas ao agronegócio, as chamadas agtechs, cresceu significativamente nos últimos anos, passando de 1.125 em 2019 para 1.972 em 2024 ...",
+    "data": "20/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Projeto voltado à inovação tecnológica do Itaú mira ...",
+    "link": "https://www.estadao.com.br/economia/negocios/cubo-itau-inaugura-sede-uruguai/?srsltid=AfmBOopnVHLj3kxpX1Nh7MltOUCfxx0VWah4YPKwJGudntP5w6m9V-DN",
+    "descricao": "Criado há nove anos, o projeto tem atualmente uma sede na Vila Olímpia, zona oeste de São Paulo, como um ambiente multicanal de interação entre os membros.",
+    "data": "21/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Unicórnios brasileiros: saiba quais e o que são essas ...",
+    "link": "https://www.estadao.com.br/link/inovacao/unicornio-brasileiro-startups-raras-bilhao/?srsltid=AfmBOoqPIPNsj--OFDtC6koJpHeJZzCxVs18fAVg1HQfcQSkCYboJChw",
+    "descricao": "A startup QI Tech foi a primeira startup brasileira a chegar ao status de unicórnio em 2024.",
+    "data": "22/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Governo destina R$ 3 bi para criação e expansão de centros ...",
+    "link": "https://www.diariodaregiao.com.br/agencia/governo-destina-r-3-bi-para-criac-o-e-expans-o-de-centros-de-inovac-o-1.2038314",
+    "descricao": "Investimento será com recursos do BNDES e Finep. Centros de PD&I são instalações que concentram laboratórios, espaços de testes, desenvolvimento de produtos ...",
+    "data": "23/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "João Kepler: 'Varejo se beneficia de inovações das startups'",
+    "link": "https://dcomercio.com.br/publicacao/s/joao-kepler-varejo-se-beneficia-de-inovacoes-das-startups",
+    "descricao": "O aumento significativo no volume de investimentos reflete a confiança dos investidores no potencial das startups nacionais.",
+    "data": "24/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "IA chega à vida real e impulsiona inovação em empresas, ...",
+    "link": "https://www.estadao.com.br/economia/negocios/ia-chega-vida-real-inovacao-empresas-pequenas-unicornios/?srsltid=AfmBOoreMWcnvH1rC3T6NLqwOcuWe9B9-ZKSUhMNHtgOZKH80CtGmXgQ",
+    "descricao": "Pequenas empresas estão usando inteligência artificial (IA) das maneiras mais criativas possíveis.",
+    "data": "25/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Fusões e Aquisições",
+    "titulo": "Mercado de fusões e aquisições deve crescer até 20% em ...",
+    "link": "https://www.estadao.com.br/economia/coluna-do-broad/mercado-de-fusoes-e-aquisicoes-deve-crescer-ate-20-em-2025-preve-pwc/?srsltid=AfmBOoqjY2Il-7proPFAJkvB0q_BBc71AQyzdhfjx-JsBGRcdW1cPdV4",
+    "descricao": "A participação dos estrangeiros vêm diminuindo desde 2015. Até agora em 2025 é de 20% dos negócios, em linha com o ano passado, que teve um total de 1.341 ...",
+    "data": "13/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Fusões e Aquisições",
+    "titulo": "Participação de estrangeiros na compra de empresas ...",
+    "link": "https://www.estadao.com.br/economia/negocios/participacao-estrangeiros-compra-empresas-brasileiras/?srsltid=AfmBOorW7k_nGunk1kWUP0AYl6cPx4uP0C7o8wX09GSU7XHYCPtYcV6Q",
+    "descricao": "Participação de estrangeiros na compra de empresas brasileiras é a maior em uma década · Em 2023, investidor internacional foi responsável por 47% das operações ...",
+    "data": "15/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Emprego",
+    "titulo": "Contratação de estrangeiro cresce 53% e bate recorde",
+    "link": "https://www.estadao.com.br/economia/contratacao-estrangeiro-imigrante-recorde-venezuelanos-ocupam-vagas/?srsltid=AfmBOopkRpnpFaiBEALWowfD_6otMq5fZkPIn-zIw1Z6OjA4xj8HQnDL",
+    "descricao": "De janeiro a agosto deste ano, entre admissões e demissões, o saldo de imigrantes trabalhando no País cresceu 53% em relação ao mesmo período de 2023, segundo ...",
+    "data": "18/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Investimentos",
+    "titulo": "'O Brasil está na frente da fila para receber recursos de ...",
+    "link": "https://www.estadao.com.br/economia/negocios/entrevista-ubs-bb-daniel-bassan-brasil-fila-investidores-estrangeiros/?srsltid=AfmBOoqYwM4q3y-cGZIIwQI-VfMUKzd9-6nCWKfEBCebmTshxFHvrJqN",
+    "descricao": "Daniel Bassan acredita que os IPOs voltarão em 2024 e vão ajudar a melhorar outras transações, como fusões e aquisições.",
+    "data": "19/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Novas Marcas",
+    "titulo": "Brasil vive nova onda de entrada de marcas estrangeiras",
+    "link": "https://dcomercio.com.br/publicacao/s/brasil-vive-nova-onda-de-entrada-de-marcas-estrangeiras",
+    "descricao": "Loewe, Le Labo e Rip´n´Dip acabam de abrir lojas no país. Comme des Garçons e Alo Yoga se preparam para estrear em 2025, assim como a H&M. É para ficar ou ...",
+    "data": "20/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Crescimento Empresarial",
+    "titulo": "Após perdas com cheias em 2024, Grano quer retomar ...",
+    "link": "https://www.estadao.com.br/economia/coluna-do-broadcast-agro/apos-perdas-cheias-grano-retomar-crescimento/?srsltid=AfmBOoqjxga0CYDdcFrq_oSSmojwihmZspL5-jBwknPHTuPurqtuS_Ol",
+    "descricao": "Após perdas com cheias em 2024, Grano quer retomar crescimento. Juros altos são entrave; empresa obteve a certificação que permite exportação para Estados ...",
+    "data": "21/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Internacionalização",
+    "titulo": "'Queremos dar outros passos para internacionalizar o ...",
+    "link": "https://www.estadao.com.br/economia/negocios/queremos-dar-outros-passos-para-internacionalizar-o-patria-diz-cofundador/?srsltid=AfmBOopVwvUIgYw46JIsEVA9RzBsIgL1H4r9mCEDFN4ssXVyITaClOD5",
+    "descricao": "Segundo Alexandre Saigh, a América Latina e o Brasil têm uma vantagem geopolítica em relação ao resto do mundo para receber investimentos globais, ...",
+    "data": "22/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Investimentos Estrangeiros",
+    "titulo": "Como a canadense Brookfield passou de R$ 34 bi para R$ ...",
+    "link": "https://www.estadao.com.br/economia/canadense-brookfield-crescimento-gestao-ativos-no-brasil-dez-anos/?srsltid=AfmBOoqt-JjyK7iw4-mGHE6IMu74C_C87QvjUBC0jWiznrKAGgtUqeYB",
+    "descricao": "A Brookfield desembarcou no Brasil em 1899, com a fundação da São Paulo Tramway, Light & Power Company, que atuava na distribuição de energia e no transporte ...",
+    "data": "23/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Infraestrutura Empresarial",
+    "titulo": "BNDES aprova R$ 135 mi para empresas da Tramontina em São Paulo",
+    "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/BNDES-aprova-R$-135-mi-para-empresas-da-Tramontina-em-Sao-Paulo-Pernambuco-Rio-Grande-do-Sul-e-Para/",
+    "descricao": "Desde 2021, fabrica também sua nova linha de produtos de porcelana, com produção de itens de louça, como tigelas, potes, pratos e xícaras, para uso doméstico.",
+    "data": "23/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Infraestrutura Empresarial",
+    "titulo": "Planejamento avalia projeto de revitalização da Vila Industrial",
+    "link": "https://correio.rac.com.br/campinasermc/planejamento-avalia-projeto-de-revitalizac-o-da-vila-industrial-1.1645799",
+    "descricao": "... empresas de tecnologia, terá também um estacionamento com 400 vagas, com setor para lojas, gastronomia, onde na rotunda serão instalados vários restaurantes.",
+    "data": "24/10/2023",
+    "municipio": "Campinas"
+  },
+  {
+    "categoria": "Infraestrutura Empresarial",
+    "titulo": "Governo anuncia R$ 5,5 bi para obras e novos campi ...",
+    "link": "https://www.diariodaregiao.com.br/agencia/governo-anuncia-r-5-5-bi-para-obras-e-novos-campi-universitarios-1.1968901",
+    "descricao": "Cada obra custará R$ 60 milhões, incluindo construção e compra de equipamentos. A ampliação vai resultar em 28 mil novas vagas para estudantes de graduação.",
+    "data": "20/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Infraestrutura Empresarial",
+    "titulo": "BNDES aprova R$ 37,6 mi para expandir a produção de ...",
+    "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/BNDES-aprova-R$-376-mi-para-expandir-a-producao-de-biometano-no-PR/",
+    "descricao": "O financiamento aprovado conta com R$ 33,6 milhões do Fundo Clima e R$ 3,9 milhões do Finem Padrão B (destinado à aquisição de máquinas e equipamentos).",
+    "data": "21/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Infraestrutura Empresarial",
+    "titulo": "DF passa a contar com nova infraestrutura para a segurança digital",
+    "link": "https://www.atribuna.com.br/noticias/portomar/msc-dp-world-multilog-e-muito-mais-confira-as-vagas-de-emprego-no-porto-de-santos-1.456794",
+    "descricao": "O novo investimento inclui a construção de um data center que aumentará a capacidade de armazenamento e processamento de dados.",
+    "data": "22/10/2023",
+    "municipio": "Brasília"
+  },
+  {
+    "categoria": "Infraestrutura Empresarial",
+    "titulo": "Governo do Estado lança programa para ampliar infraestrutura",
+    "link": "https://www.diariodaregiao.com.br/agencia/governo-do-estado-lanca-programa-para-ampliar-infraestrutura-1.1973891",
+    "descricao": "O programa destina recursos para obras de infraestrutura no setor público e privado, visando melhorias e modernização dos serviços.",
+    "data": "25/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Práticas ESG",
+    "titulo": "Adoção de ESG como parte integrante das estratégias ...",
+    "link": "https://www.canalenergia.com.br/noticias/53281072/adocao-de-esg-como-parte-integrante-das-estrategias-cresce-no-setor",
+    "descricao": "O Energy Future lançou um relatório que aborda tendências e desafios relacionados ao ESG (Ambiental, Social e Governança) no setor elétrico brasileiro.",
+    "data": "Data não especificada",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Práticas ESG",
+    "titulo": "Entenda como o ESG pode transformar o bem-estar dos ...",
+    "link": "https://www.atribuna.com.br/projetos/esg/entenda-como-o-esg-pode-transformar-o-bem-estar-dos-colaboradores-nas-empresas-1.441522",
+    "descricao": "“Nos aspectos ambiental e social, empresas comprometidas com ESG buscam criar ambientes de trabalho que atendam aos mais altos padrões de segurança e higiene, ...",
+    "data": "Data não especificada",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Práticas ESG",
+    "titulo": "A governança é um pilar para se atingir a sustentabilidade ...",
+    "link": "https://www.atribuna.com.br/projetos/esg/a-governanca-e-um-pilar-para-se-atingir-a-sustentabilidade-nos-negocios-1.423177",
+    "descricao": "Investir em práticas de governança robustas não é apenas uma decisão estratégica, mas uma responsabilidade essencial para empresas que desejam prosperar e ...",
+    "data": "Data não especificada",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Práticas ESG",
+    "titulo": "ESG: Tudo se encaixa",
+    "link": "https://www.atribuna.com.br/cidades/esg-tudo-se-encaixa-1.405165",
+    "descricao": "A base da governança está calcada em cinco pilares: integridade, transparência, equidade, responsabilização (accountability) e sustentabilidade. “Ela envolve ...",
+    "data": "Data não especificada",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Práticas ESG",
+    "titulo": "Supermercados investem em práticas ESG e apps contra ...",
+    "link": "https://www.atribuna.com.br/projetos/esg/supermercados-investem-em-praticas-esg-e-apps-contra-desperdicio-ganham-forca-no-brasil-1.461887",
+    "descricao": "Setor aposta em sustentabilidade, governança e impacto social; startups ajudam a reduzir perdas com alimentos fora do padrão e reforçam compromisso ...",
+    "data": "Data não especificada",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Finanças",
+    "titulo": "BS2 faz acordo com securitizadora Opera para ampliar crédito a PMEs.",
+    "link": "https://www.estadao.com.br/economia/coluna-do-broad/bs2-faz-acordo-com-securitizadora-opera-para-ampliar-credito-a-pmes/?srsltid=AfmBOoqZvCETx_8f1zS1z9JgwX1ZNOrIUOdOs6L83ioA0CBjm1ogMr6W",
+    "descricao": "BS2 faz acordo com securitizadora Opera para ampliar crédito a PMEs. A expectativa é ampliar a presença do banco na região Sul do País.",
+    "data": "24/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Iniciativa Governamental",
+    "titulo": "Entenda o Programa Acredita, que pretende ampliar acesso ao crédito.",
+    "link": "https://www.diariodaregiao.com.br/agencia/entenda-o-programa-acredita-que-pretende-ampliar-acesso-ao-credito-1.1955893",
+    "descricao": "Com o potencial de destravar até R$ 30 bilhões em crédito, o Programa Acredita, lançado nesta segunda-feira (22), pretende incentivar investimentos.",
+    "data": "23/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Infraestrutura Empresarial",
+    "titulo": "Taxa de inovação das empresas foi de 68,1% em 2022",
+    "link": "https://www.diariodaregiao.com.br/agencia/taxa-de-inovac-o-das-empresas-foi-de-68-1-em-2022-1.1947204",
+    "descricao": "As atividades que mais se beneficiaram de apoio público foram fabricação de equipamentos de informática, produtos eletrônicos e ópticos (60,9%); fabricação de ...",
+    "data": "24/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Inovação",
+    "titulo": "INOVAÇÃO ABERTA E EM REDE NA CONSTRUÇÃO CIVIL",
+    "link": "https://cbic.org.br/wp-content/uploads/2024/03/construcao20304-1.pdf",
+    "descricao": "O objetivo é combinar recursos internos com ideias e tecnologias externas para desenvolver novos produtos, serviços ou melhorar processos existentes.",
+    "data": "24/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Projetos Urbanos",
+    "titulo": "Se essa rua fosse minha: projeto ganha instalação e ...",
+    "link": "https://cbic.org.br/se-essa-rua-fosse-minha-projeto-ganha-instalacao-e-painel-no-enic-100/",
+    "descricao": "O objetivo central do projeto é chamar a atenção para os equipamentos essenciais que devem estar presentes e disponíveis nas ruas das cidades brasileiras.",
+    "data": "24/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Eficiência Energética",
+    "titulo": "Enel disponibilizará R$ 59,5 milhões para projetos de ...",
+    "link": "https://www.canalenergia.com.br/noticias/53298555/enel-disponibilizara-r-595-milhoes-para-projetos-de-eficiencia-energetica",
+    "descricao": "A Enel Brasil lançou a Chamada Pública (CPP 001/2024) para financiamento de projetos de eficiência energética nas três distribuidoras da companhia no país.",
+    "data": "24/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Investimentos",
+    "titulo": "RA de Campinas lidera os investimentos em indústrias",
+    "link": "https://correio.rac.com.br/campinasermc/ra-de-campinas-lidera-os-investimentos-em-industrias-1.1648649",
+    "descricao": "A Região Administrativa de Campinas (RA) foi a que mais recebeu investimentos em indústrias no Estado de São Paulo entre 2022 e 2024, captando R$ 26,7 ...",
+    "data": "24/10/2023",
+    "municipio": "Campinas"
+  },
+  {
+    "categoria": "Logística",
+    "titulo": "Logística e tecnologia para escoar a produção",
+    "link": "https://www.estadao.com.br/economia/logistica-e-tecnologia-para-escoar-a-producao/?srsltid=AfmBOopfSCG4wjxJ6xYyl85mVXVsSEYDrRPoHZ42ns7fiaL1i8JUnnLz",
+    "descricao": "O governo de São Paulo firmou convênios com 51 municípios para a aquisição de máquinas agrícolas destinadas a pequenos produtores, dentro do programa.",
+    "data": "24/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Segurança",
+    "titulo": "Nº de radares dobrará nas rodovias de SP; saiba os ...",
+    "link": "https://www.estadao.com.br/sao-paulo/n-de-radares-dobrara-nas-rodovias-de-sp-saiba-os-modelos-e-as-regioes-com-mais-equipamentos/?srsltid=AfmBOorfa5uudBvdqY7oF2rICkIHrX3oeBECBO0MSBTSRDRByk8tA9z7",
+    "descricao": "Serão instalados 649 sensores de velocidade em pontos com alto índice de acidentes ao longo de 13 mil quilômetros de estradas.",
+    "data": "24/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Obras Públicas",
+    "titulo": "Lista de '8 mil obras' citada por Nunes inclui pintura de ...",
+    "link": "https://www.estadao.com.br/estadao-verifica/lista-de-8-mil-obras-citada-por-nunes-inclui-pintura-de-degraus-instalacao-de-corrimaos-e-lixeira/?srsltid=AfmBOoohnrUMv1eRa5N4xCFqyo44NIGGRA3h3WJNXj4RGuf0PE-VCElq",
+    "descricao": "Além de informar adequações, revitalizações, reformas e reparos feitos nos últimos anos, a lista ainda contempla 50 projetos e 69 contratações de empresas.",
+    "data": "24/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Tecnologia de Segurança",
+    "titulo": "Prefeitura de SP testa câmeras do Smart Sampa. ACSP ...",
+    "link": "https://dcomercio.com.br/publicacao/s/prefeitura-de-sp-testa-cameras-do-smart-sampa-acsp-acompanha-o-processo",
+    "descricao": "Iniciativa prevê a instalação de 20 mil câmeras de segurança com tecnologia de biometria facial pelas ruas da capital e em equipamentos públicos.",
+    "data": "24/10/2023",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Energia",
+    "titulo": "Aneel autoriza melhorias no sistema de transmissão da ...",
+    "link": "https://www.canalenergia.com.br/noticias/53308158/aneel-autoriza-melhorias-no-sistema-de-transmissao-da-eletrobras",
+    "descricao": "A Agência Nacional de Energia Elétrica (Aneel) autorizou a Eletrobras a realizar melhorias em seu sistema de transmissão de energia.",
+    "data": "24/10/2023",
+    "municipio": "São Paulo"
+  }
+]
+```

@@ -1,0 +1,124 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "FindUP recebe novo aporte e projeta expansão",
+        "link": "https://startupi.com.br/",
+        "descricao": "A FindUP, especializada em suporte técnico remoto e presencial, anunciou um novo ciclo de investimentos liderado pelos fundos DOMO.VC e Gulf Capital. O aporte marca uma nova fase na trajetória da empresa.",
+        "data": "10/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Juspay capta US$ 60 milhões e projeta expansão global",
+        "link": "https://startupi.com.br/",
+        "descricao": "A Juspay, desenvolvedora de sistemas de pagamentos com presença recente no Brasil, anunciou a conclusão de uma nova rodada de investimentos, totalizando US$ 60 milhões.",
+        "data": "10/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Setor de Tecnologia",
+        "titulo": "Falta de profissionais de tecnologia qualificados trava contratações no setor, aponta estudo",
+        "link": "https://startupi.com.br/",
+        "descricao": "A contratação de profissionais de tecnologia permanece como um dos principais gargalos para empresas que buscam inovação e crescimento digital, conforme relatório da BossaBox.",
+        "data": "10/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Fogo Alto realiza painéis sobre importância de dados e redes sociais para o setor de food service no ANUGA Select Brazil 2025",
+        "link": "https://startupi.com.br/",
+        "descricao": "O programa de aceleração Fogo Alto promoveu painéis na feira do setor de food service, discutindo a importância de dados e redes sociais.",
+        "data": "09/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Minds Digital atinge breakeven e investe em IA para conter fraudes com deepfakes",
+        "link": "https://startupi.com.br/",
+        "descricao": "A Minds Digital alcançou o ponto de equilíbrio financeiro e anunciou investimentos em inteligência artificial para aprimorar sua segurança.",
+        "data": "09/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Calçados",
+        "titulo": "Nova fábrica de calçados é inaugurada em Bauru",
+        "link": "http://examplesite.com/noticia-bauru",
+        "descricao": "Um novo empreendimento, a Calçados Bauru, foi inaugurado, trazendo mais de 100 empregos diretos à cidade.",
+        "data": "15/03/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Startup de tecnologia é lançada em Sorocaba",
+        "link": "http://examplesite.com/noticia-sorocaba",
+        "descricao": "A Novatech começou suas operações, oferecendo soluções em inteligência artificial para pequenos negócios.",
+        "data": "22/03/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Nova hamburgueria abre as portas em Campinas",
+        "link": "http://examplesite.com/noticia-campinas",
+        "descricao": "A hamburgueria Gourmet&Grill é a nova sensação da cidade, com receitas exclusivas e organic food.",
+        "data": "30/03/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Cosméticos",
+        "titulo": "Expansão de empresa de cosméticos em São José dos Campos",
+        "link": "http://examplesite.com/noticia-sao-jose",
+        "descricao": "A Belleza anunciou a ampliação da sua linha de produtos e a abertura de uma nova loja na cidade.",
+        "data": "05/04/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Cultura",
+        "titulo": "Novo centro cultural é aberto em Itapetininga",
+        "link": "http://examplesite.com/noticia-itapetininga",
+        "descricao": "O Centro Cultural de Itapetininga oferece espaços para arte e entretenimento, estimulando a economia local.",
+        "data": "09/04/2025",
+        "municipio": "Itapetininga"
+    },
+    {
+        "categoria": "Alimentos",
+        "titulo": "Fábrica de alimentos saudáveis é inaugurada em Piracicaba",
+        "link": "http://examplesite.com/noticia-piracicaba",
+        "descricao": "A Alimento Verde inicia operações e promete revolucionar o mercado de alimentos orgânicos na região.",
+        "data": "12/04/2025",
+        "municipio": "Piracicaba"
+    },
+    {
+        "categoria": "Eletrônicos",
+        "titulo": "Loja de eletrônicos abre em São Vicente",
+        "link": "http://examplesite.com/noticia-sao-vicente",
+        "descricao": "A TechStore chega à cidade com uma promessa de preços competitivos e produtos de qualidade.",
+        "data": "11/04/2025",
+        "municipio": "São Vicente"
+    },
+    {
+        "categoria": "Coworking",
+        "titulo": "Novo espaço para coworking é lançado em Ribeirão Preto",
+        "link": "http://examplesite.com/noticia-ribeirao",
+        "descricao": "O novo espaço Todos Juntos oferece infraestrutura para startups e freelancers na cidade.",
+        "data": "14/04/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Restaurante de comida vegana abre em São Roque",
+        "link": "http://examplesite.com/noticia-sao-roque",
+        "descricao": "O Veggie Central é um espaço que oferece pratos 100% veganos e com ingredientes orgânicos.",
+        "data": "10/04/2025",
+        "municipio": "São Roque"
+    },
+    {
+        "categoria": "Estética",
+        "titulo": "Nova clínica de estética é inaugurada em Atibaia",
+        "link": "http://examplesite.com/noticia-atibaia",
+        "descricao": "A Clínica Beleza Perfeita oferece serviços modernos e inovadores para cuidados de beleza e bem-estar.",
+        "data": "08/04/2025",
+        "municipio": "Atibaia"
+    }
+]
+```

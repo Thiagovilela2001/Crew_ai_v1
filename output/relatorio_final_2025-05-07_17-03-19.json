@@ -1,0 +1,308 @@
+```json
+[
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Fispal Food Service 2025 traz experiências imersivas e soluções para transformar o setor de alimentação fora do lar",
+        "link": "https://feirasindustriais.com.br/noticias/fispal-food-service-2025-traz-experiencias-imersivas-e-solucoes-para-transformar-o-setor-de-alimentacao-fora-do-lar",
+        "descricao": "Os eventos Fispal Food Service e Fispal Sorvetes 2025 acontecerão no Distrito Anhembi, em São Paulo, apresentando inovações para o setor com mais de 2.200 expositores.",
+        "data": "25/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Fogo Alto: Abrasel e FabLab Hub Lançam um dos Maiores Programas de Tecnologia e Inovação para o Foodservice",
+        "link": "https://sp.abrasel.com.br/noticias/noticias/fogo-alto/",
+        "descricao": "O Projeto Fogo Alto visa conectar bares e restaurantes a soluções de eficiência e inovação, possibilitando mentorias e acesso a startups durante seis meses.",
+        "data": "25/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Principais Tendências do Mercado de Restaurantes para 2025",
+        "link": "https://pe.abrasel.com.br/noticias/noticias/principais-tendencias-do-mercado-de-restaurantes-para-2025/",
+        "descricao": "Tendências como o uso de ingredientes hiperlocais e a demanda por alimentos à base de plantas moldarão o setor de restaurantes em 2025.",
+        "data": "09/09/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Abrasel apoia plataforma que conecta restaurantes a produtores locais",
+        "link": "https://rs.abrasel.com.br/noticias/noticias/abrasel-apoia-plataforma-que-conecta-restaurantes-a-produtores-locais/",
+        "descricao": "A iniciativa permite que restaurantes adquiram produtos gastronômicos regionais de forma online, promovendo a cadeia curta e valorizando o comércio local.",
+        "data": "10/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Setor de bares e restaurantes inicia 2025 com otimismo, mas alta do ICMS preocupa empresários",
+        "link": "https://www.mercadoeeventos.com.br/noticias/servicos/setor-de-bares-e-restaurantes-inicia-2025-com-otimismo-mas-alta-do-icms-preocupa-empresarios/",
+        "descricao": "A pesquisa indica que 73% dos empresários do setor esperam um aumento nas vendas no primeiro trimestre de 2025, apesar dos desafios econômicos.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "De Hard Rock a novo shopping em Santos: os planos do Grupo Peralta para o litoral de SP",
+        "link": "https://exame.com/negocios/de-hard-rock-a-novo-shopping-em-santos-os-planos-do-grupo-peralta-para-o-litoral-de-sp/",
+        "descricao": "Com previsão de início das obras em 2025, o empreendimento ocupará um terreno de 90 mil metros quadrados, adquiridos em um leilão público, integrando um novo shopping ao Litoral Plaza.",
+        "data": "17/12/2024",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Web Summit 2025: hubs de inovação de SP, POA e Rio se juntam em eventos para startups e investidores",
+        "link": "https://exame.com/ultimas-noticias/negocios/web-summit-2025-hubs-de-inovacao-de-sp-poa-e-rio-se-juntam-em-eventos-para-startups-e-investidores/",
+        "descricao": "O evento promete não só ser um espaço de debate e aprendizado, mas também um ponto de conexão entre startups, fundos de venture capital (VC), empreendedores e corporações que estão liderando as transformações tecnológicas atuais.",
+        "data": "27/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Negócios",
+        "titulo": "Startup Day 2025 movimenta ecossistema de empreendedorismo inovador",
+        "link": "https://agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-movimenta-ecossistema-de-empreendedorismo-inovador-por-todo-o-pais/",
+        "descricao": "O Startup Day 2025 segue três pilares principais: fortalecer a comunidade de empreendedores, incentivando a expansão de relacionamentos; ampliar a visibilidade das startups e promover a troca de ideias.",
+        "data": "10/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Governo de SP vai capacitar e apoiar a internacionalização de startups",
+        "link": "https://www.investe.sp.gov.br/noticia/governo-de-sp-vai-capacitar-e-apoiar-a-internacionalizacao-de-startups/",
+        "descricao": "O Governo de São Paulo vai capacitar, gratuitamente, e apoiar a internacionalização de até 100 startups paulistas de base tecno científica.",
+        "data": "15/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Como o Brasil se tornou o segundo mercado desta startup ucraniana de idiomas com IA",
+        "link": "https://www.bloomberglinea.com.br/startups/como-o-brasil-se-tornou-o-segundo-mercado-desta-startup-ucraniana-de-idiomas-com-ia/",
+        "descricao": "A startup planeja chegar a 5 milhões de usuários no país até o fim de 2025, a partir de uma base de 1,2 milhão, indicando uma expansão significativa no mercado.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Brazil at Silicon Valley 2025 começa amanhã com 'resiliência' como tema central",
+        "link": "https://exame.com/ultimas-noticias/negocios/brazil-at-silicon-valley-2025-comeca-amanha-com-resiliencia-como-tema-central/",
+        "descricao": "O evento reúne startups, investidores e especialistas em tecnologia, destacando o papel global do Brasil no setor de tecnologia.",
+        "data": "28/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Programa ScaleUp inBrazil inicia quinta edição com imersão de startups",
+        "link": "https://apexbrasil.com.br/br/pt/conteudo/noticias/programa-scaleup-inbrazil-inicia-quinta-edicao-com-imersao-de-st.html",
+        "descricao": "Na edição de 2025, o programa traz empresas de alta tecnologia interessadas em expandir suas operações no Brasil.",
+        "data": "22/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Finanças",
+        "titulo": "Bitshopp inicia expansão internacional e transaciona US$ 1 milhão",
+        "link": "https://www.prnewswire.com/br/comunicados-para-a-imprensa/bitshopp-inicia-expansao-internacional-e-transaciona-us-1-milhao-em-sua-plataforma-de-tokenizacao-no-primeiro-dia-de-operacao-nos-estados-unidos-302421253.html",
+        "descricao": "Startup brasileira prevê transacionar US$ 30 milhões em sua primeira operação estrangeira, um marco significativo para sua expansão.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Logística",
+        "titulo": "Esta empresa do interior paulista saiu do zero para os R$ 30 milhões em só dois anos",
+        "link": "https://exame.com/negocios/esta-empresa-do-interior-paulista-saiu-do-zero-para-os-r-30-milhoes-em-so-dois-anos/",
+        "descricao": "Logik Logística Inteligente, fundada em 2021, teve um crescimento de 677% em receita líquida, alcançando quase R$ 30 milhões com soluções logísticas rápidas e modulares.",
+        "data": "02/04/2025",
+        "municipio": "Itupeva"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Sebrae-SP impulsiona inovação e crescimento no interior de São Paulo",
+        "link": "https://www.araraquaranews.com.br/noticia/sebrae-sp-impulsiona-inovacao-e-crescimento-no-interior-de-sao-paulo",
+        "descricao": "O Sebrae for Startups está com inscrições abertas para o programa Start Deeptech, focado em apoiar startups baseadas em tecnologia e ciência em áreas como biotecnologia e nanotecnologia.",
+        "data": "12/02/2025",
+        "municipio": "Araraquara"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Sebrae-SP oferece 250 vagas para pré-aceleração de startups no Vale e Litoral",
+        "link": "https://www.portalr3.com.br/2025/04/03/sebrae-sp-oferece-250-vagas-para-pre-aceleracao-de-startups-no-vale-e-litoral",
+        "descricao": "O programa Start Digital do Sebrae-SP oferece cinco meses de apoio intensivo para startups no Vale do Paraíba e Litoral Norte.",
+        "data": "03/04/2025",
+        "municipio": "Vale do Paraíba"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Sorocaba desponta como referência em inovação com crescimento expressivo de startups",
+        "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sorocaba-desponta-como-referencia-em-inovacao-com-crescimento-expressivo-de-startups/",
+        "descricao": "Sorocaba registrou um aumento de 97% no número de startups nos últimos cinco anos, destacando-se no ecossistema de inovação.",
+        "data": "02/04/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Turismo",
+        "titulo": "Boom do turismo brasileiro impulsiona expansão hoteleira e atrai investidores globais",
+        "link": "https://www.mercadoeeventos.com.br/noticias/hotelaria/boom-do-turismo-brasileiro-impulsiona-expansao-hoteleira-e-atrai-investidores-globais/",
+        "descricao": "O ano de 2025 mal chegou à metade e já entra para a história do turismo brasileiro. No primeiro trimestre, o país registrou a maior entrada de turistas internacionais, o que impulsiona a expansão do setor hoteleiro.",
+        "data": "15/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Turismo",
+        "titulo": "Onda de turistas estrangeiros é oportunidade de crescimento para bares e restaurantes em 2025",
+        "link": "https://abrasel.com.br/noticias/noticias/onda-de-turistas-estrangeiros-e-oportunidade-de-crescimento-para-bares-e-restaurantes-em-2025/",
+        "descricao": "Por todo o Brasil, estabelecimentos que qualificam seu atendimento podem lucrar mais a partir do aumento de turistas internacionais previsto para 2025, especialmente em São Paulo.",
+        "data": "20/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Túnel Santos-Guarujá é destaque na Europa e reforça interesse de grupos estrangeiros na infraestrutura brasileira",
+        "link": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2025/04/tunel-santos-guaruja-e-destaque-na-europa-e-reforca-interesse-de-grupos-estrangeiros-na-infraestrutura-brasileira",
+        "descricao": "O túnel que conectará Santos e Guarujá é mencionado como uma atração que despertou o interesse de grupos estrangeiros em insetir-se no mercado da infraestrutura em São Paulo.",
+        "data": "05/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Turismo",
+        "titulo": "ILTM Latin America 2025 celebra expansão e reforça protagonismo do Brasil no turismo de luxo",
+        "link": "https://brasilturis.com.br/2025/05/07/iltm-latin-america-2025-celebra-expansao-e-reforca-protagonismo-do-brasil-no-turismo-de-luxo/",
+        "descricao": "O evento ILTM Latin America 2025 destaca o crescimento do Brasil como um polo de turismo de luxo na América Latina, atraindo investigações estrangeiras.",
+        "data": "07/05/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Açaí Formosa prevê crescimento de 15 % para 2025 e expansão para interior de SP",
+        "link": "https://mercadoeconsumo.com.br/19/01/2025/destaque-do-dia/acai-formosa-preve-crescimento-de-15-para-2025-e-expansao-para-interior-de-sp/",
+        "descricao": "Com um faturamento de 60 milhões de reais em 2024, a franquia Açaí Formosa projeta um crescimento de 15% para 2025, com 12 novas lojas e um centro de distribuição em São José do Rio Preto.",
+        "data": "20/01/2025",
+        "municipio": "São José do Rio Preto"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Cidade do interior de São Paulo terá novo aeroporto internacional",
+        "link": "https://www.gazetasp.com.br/cotidiano/cidade-do-interior-de-sao-paulo-tera-novo-aeroporto-internacional/1153752/",
+        "descricao": "O projeto para a implantação do Aeroporto Internacional de Olímpia já possui CEP e CNPJ registrados, com a expectativa de atender cerca de 1 milhão de passageiros anualmente.",
+        "data": "02/04/2025",
+        "municipio": "Olímpia"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Unilever investe R$265 milhões em expansão de fábrica de desodorantes",
+        "link": "https://www.unilever.com.br/news/2025/unilever-investe-r-265-milhoes-em-expansao-de-fabrica-de-desodorantes/",
+        "descricao": "A Unilever vai ampliar sua produção na unidade de Aguaí, investindo R$ 265 milhões e aumentando a capacidade da fábrica em mais de 30%.",
+        "data": "18/03/2025",
+        "municipio": "Aguaí"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Com investimento recorde, infraestrutura brasileira evolui em dois anos e garante benefícios à população, afirma Silvio Costa Filho",
+        "link": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2025/04/Com-investimento-recorde-infraestrutura-brasileira-evolui-em-dois-anos-e-garante-beneficios-a-populacao-afirma-Silvio-Costa-Filho",
+        "descricao": "O governo brasileiro passou a contar com mais investimentos e melhorias na qualidade dos portos, aeroportos e hidrovias, com aporte superior a 260% no último biênio.",
+        "data": "08/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura em 2025",
+        "link": "https://www.parceriaseminvestimentos.sp.gov.br/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+        "descricao": "O Governo de São Paulo prevê novos investimentos para 2025, com R$ 50 bilhões em leilões, expansão da rede de saúde e melhorias em rodovias.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "O novo superterminal de contêineres será construído no Porto de Santos",
+        "link": "https://oglobo.globo.com/economia/negocios/noticia/2025/03/16/investimento-em-infraestrutura-deve-crescer-11percent-este-ano-empresas-buscam-recursos-no-mercado.ghtml",
+        "descricao": "O terminal é parte de um investimento total de R$ 19,85 bilhões que inclui novas concessões e arrendamentos relacionados aos portos.",
+        "data": "16/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Túnel Santos-Guarujá: a maior obra de infraestrutura qualificada do Novo PAC",
+        "link": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2025/04/tunel-santos-guaruja-e-destaque-na-europa-e-reforca-interesse-de-grupos-estrangeiros-na-infraestrutura-brasileira",
+        "descricao": "O edital do Túnel Santos-Guarujá, lançado em fevereiro, é uma das maiores obras planejadas com investimento estimado em R$ 6 bilhões.",
+        "data": "05/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP pra Toda Obra: Estado lança maior programa de obras viárias",
+        "link": "https://www.agenciasp.sp.gov.br/sp-pra-toda-obra-governo-do-estado-lanca-maior-programa-de-modernizacao-do-sistema-rodoviario-da-historia-e-soma-r-30-bi-de-investimentos/",
+        "descricao": "O programa contempla mais de 1,5 mil obras em rodovias estaduais e concedidas nos grandes centros, interior e litoral.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP pra Toda Obra vai modernizar 22,3 mil km de rodovias",
+        "link": "https://semil.sp.gov.br/2025/04/sp-pra-toda-obra-melhorias-viarias-encurtam-distancias-garantem-seguranca-e-melhoram-renda-em-sp/",
+        "descricao": "Com investimentos que somam quase R$ 30 bilhões em obras finalizadas, entregues e que estão por vir, o programa moderniza mais de 22 mil km de rodovias.",
+        "data": "10/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Projeto de concessão deve transformar rodovias do interior de São Paulo",
+        "link": "https://www.diariodolitoral.com.br/cotidiano/projeto-de-concessao-deve-transformar-rodovias-do-interior-de-sao/193233/",
+        "descricao": "O Lote Circuito das Águas abrange 533 km de rodovias e corta 33 municípios, sendo fundamental para a mobilidade e o turismo local.",
+        "data": "15/02/2025",
+        "municipio": "Interior de São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo de São Paulo prevê R$ 50 bilhões em leilões para 2025",
+        "link": "https://sindivapa.com.br/governo-de-sao-paulo-preve-r-50-bilhoes-em-leiloes-para-2025-conheca-os-projetos-3949",
+        "descricao": "O Governo de São Paulo prevê novos investimentos para 2025, com R$ 50 bilhões em leilões, expansão da rede de saúde e melhorias em rodovias em todo o estado.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "ESG em ação: Desenvolve SP alavanca sustentabilidade com mais de 230 milhões em financiamentos",
+        "link": "https://www.desenvolvesp.com.br/comunicacao/noticias/esg-em-acao-desenvolve-sp-alavanca-sustentabilidade-com-mais-de-230-milhoes-em-financiamentos/",
+        "descricao": "Empresas como a Eureciclo, financiadas pela Desenvolve SP, exemplificam como o crédito sustentável está ampliando os resultados das práticas ESG.",
+        "data": "04/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Sustentabilidade",
+        "titulo": "Tendências de ESG para 2025: o que as empresas precisam saber",
+        "link": "https://saopaulo.impacthub.net/blog/tendencias-de-esg-para-2025/",
+        "descricao": "7 tendências de ESG que vão marcar 2025, incluindo a transparência e regulação ESG como novo padrão.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Governança",
+        "titulo": "Quais os cinco temas de ESG que serão tendência em 2025?",
+        "link": "https://www.estadao.com.br/economia/governanca/cinco-tendencias-esg-projecoes-brasil-2025/",
+        "descricao": "Mercado de carbono e IA na governança estão entre os tópicos listados pelos analistas para o cenário corporativo brasileiro.",
+        "data": "15/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Economia",
+        "titulo": "Brazil registers record small business openings in first quarter",
+        "link": "https://agenciabrasil.ebc.com.br/en/economia/noticia/2025-04/brazil-registers-record-small-business-openings-first-quarter",
+        "descricao": "Brazil set a record for small business openings in the first three months of the year, with over 1.4 million new registrations, mainly by individual micro-entrepreneurs.",
+        "data": "17/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Ant International Launches Embedded Finance Service for E-Commerce SMEs in Brazil",
+        "link": "https://www.businesswire.com/news/home/20250317798327/en/Ant-International-Launches-Embedded-Finance-Service-for-E-Commerce-SMEs-in-Brazil",
+        "descricao": "Ant International aims to support local economies by providing finance services to e-commerce SMEs in Brazil, expanding their reach in 2025.",
+        "data": "17/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Negócios",
+        "titulo": "XP hires C6 founder vying to expand presence in SMEs",
+        "link": "https://valorinternational.globo.com/markets/news/2025/03/17/xp-hires-c6-founder-vying-to-expand-presence-in-smes.ghtml",
+        "descricao": "XP, a significant investment platform in Brazil, targets small and medium enterprises as a key growth area for the coming years.",
+        "data": "17/03/2025",
+        "municipio": "São Paulo"
+    }
+]
+```

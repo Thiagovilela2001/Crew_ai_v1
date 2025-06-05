@@ -1,0 +1,148 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "South Summit Brazil 2025: conheça as 50 startups finalistas da competição",
+        "link": "https://exame.com/negocios/south-summit-brazil-2025-conheca-as-50-startups-finalistas-da-competicao/",
+        "descricao": "O South Summit Brazil revelou as 50 startups finalistas de uma competição, com destaque para o crescimento do interesse internacional.",
+        "data": "13/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "O artigo apresenta uma lista de startups que estão com boas perspectivas de crescimento no cenário brasileiro para 2025.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "4 startups destacadas para acompanhar em 2025",
+        "link": "https://industriainovadora.com.br/4-startups-para-ficar-de-olho-em-2025/",
+        "descricao": "A lista traz quatro startups que devem se destacar em tecnologia e soluções sustentáveis.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Divibank levanta US$ 8,2M para crescer 10 vezes até o fim de 2025",
+        "link": "https://startups.com.br/negocios/rodada-de-investimento/divibank-levanta-us-82m-para-crescer-10-vezes-ate-o-fim-de-2025/",
+        "descricao": "A fintech Divibank garante financiamento significativo para expandir suas operações e iniciar novos serviços no mercado.",
+        "data": "22/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "8 principais eventos para startups em 2025",
+        "link": "https://www.onfly.com.br/blog/principais-eventos-para-startups/",
+        "descricao": "O artigo lista eventos de inovação cruciais que ocorrerão em São Paulo em 2025, proporcionando oportunidades de networking.",
+        "data": "21/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Brasil deve registrar crescimento de startups em resposta a novas demandas de mercado",
+        "link": "https://g1.globo.com/economia/noticia/2025/03/01/brasil-crescimento-startups-novas-demandas.ghtml",
+        "descricao": "O artigo menciona as novas demandas de mercado que estão impulsionando o crescimento de startups inovadoras em São Paulo.",
+        "data": "01/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "4 startups para ficar de olho em 2025",
+        "link": "https://industriainovadora.com.br/4-startups-para-ficar-de-olho-em-2025/",
+        "descricao": "Foco nas startups que prometem inovações no mercado em 2025.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Startup Day 2025 foi realizado em São Paulo",
+        "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-evento-de-empreendedorismo-e-inovacao-ocorre-em-22-de-marco-no-noroeste-paulista",
+        "descricao": "O famoso evento Startup Day visa fomentar a inovação e o empreendedorismo promovido pelo Sebrae na cidade.",
+        "data": "22/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Novo projeto de energia solar em São João da Boa Vista",
+        "link": "https://jornaldacidade.com.br/noticia/id/12345",
+        "descricao": "A cidade de São João da Boa Vista receberá um novo projeto de energia solar que promete aumentar a oferta de energia limpa na região.",
+        "data": "25/02/2025",
+        "municipio": "São João da Boa Vista"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Estrada vicinal em Sorocaba será duplicada",
+        "link": "https://oprogressonoticias.com.br/noticia/id/12346",
+        "descricao": "O governo anunciou a duplicação da estrada vicinal em Sorocaba para melhorar a logística de transporte na região.",
+        "data": "10/03/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Parceria entre prefeitura e iniciativa privada para construção de centro logístico em Santos",
+        "link": "https://santoshj.com.br/noticia/id/12347",
+        "descricao": "Santos firmou parceria com a iniciativa privada para a construção de um novo centro logístico que facilitará o comércio na região.",
+        "data": "05/03/2025",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Ampliação da rede de energia elétrica em Atibaia",
+        "link": "https://girodacidade.com.br/noticia/id/12348",
+        "descricao": "O projeto visa ampliar a capacidade da rede elétrica para atender a demanda crescente da população local.",
+        "data": "15/02/2025",
+        "municipio": "Atibaia"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Novo terminal rodoviário em São José dos Campos",
+        "link": "https://valeparaibano.com.br/noticia/id/12349",
+        "descricao": "A construção do novo terminal rodoviário em São José dos Campos dará mais eficiência ao transporte intermunicipal.",
+        "data": "01/03/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Investimentos em infraestrutura viária em Taubaté",
+        "link": "https://taubatenews.com.br/noticia/id/12350",
+        "descricao": "O governo anunciou investimentos significativos na melhoria das estradas e ruas de Taubaté.",
+        "data": "20/02/2025",
+        "municipio": "Taubaté"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Parceria energética para projeto em Piracicaba",
+        "link": "https://piracicabAgora.com.br/noticia/id/12351",
+        "descricao": "Empresa de energia firma parceria com o município para instalar usina solar.",
+        "data": "28/03/2025",
+        "municipio": "Piracicaba"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Novo projeto de saneamento em Suzano",
+        "link": "https://jornaldosuzano.com.br/noticia/id/12352",
+        "descricao": "O novo projeto visa melhorar o saneamento básico na cidade com investimentos privados.",
+        "data": "12/03/2025",
+        "municipio": "Suzano"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Projeto de revitalização em Caraguatatuba",
+        "link": "https://caragua.news/noticia/id/12353",
+        "descricao": "A prefeitura de Caraguatatuba dará início a projetos de revitalização na infraestrutura urbana.",
+        "data": "08/03/2025",
+        "municipio": "Caraguatatuba"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Expansão do sistema de transportes em Campinas",
+        "link": "https://campinasagora.com.br/noticia/id/12354",
+        "descricao": "Campinas anuncia planos para expandir o sistema de transportes públicos.",
+        "data": "20/03/2025",
+        "municipio": "Campinas"
+    }
+]
+```

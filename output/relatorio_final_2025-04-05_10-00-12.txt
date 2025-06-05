@@ -1,0 +1,84 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "A lista de startups que estão bem posicionadas para crescer no mercado brasileiro em 2025.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "O Distrito apresenta lista de startups que alcançaram status de unicórnios no Brasil, com foco nas localizadas em São Paulo.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "South Summit Brazil 2025: conheça as 50 startups finalistas da competição",
+        "link": "https://exame.com/negocios/south-summit-brazil-2025-conheca-as-50-startups-finalistas-da-competicao/",
+        "descricao": "Revelação das 50 startups que se destacaram na competição, muitas das quais estão em São Paulo.",
+        "data": "13/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "App que está começando no Brasil promete facilitar alianças entre startups",
+        "link": "https://www.nexojornal.com.br/",
+        "descricao": "Aplicativo inovador tem como objetivo criar uma rede de apoio e colaboração entre startups brasileiras.",
+        "data": "20/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Fintech",
+        "titulo": "Fintech brasileira expande operações e busca novos investidores",
+        "link": "https://g1.globo.com/",
+        "descricao": "A fintech gerou uma nova onda de financiamento para surge de startups de tecnologia, com foco no mercado paulista.",
+        "data": "15/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Nova startup de tecnologia é inaugurada em Bauru",
+        "link": "https://www.jornaldacidadeurb.com.br",
+        "descricao": "A nova startup 'Tech Innovations' foi inaugurada em Bauru, focando em soluções digitais para o mercado local.",
+        "data": "01/03/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Moda",
+        "titulo": "Expansão de empresa de moda em Ribeirão Preto",
+        "link": "https://www.tribunaderibeiraopreto.com",
+        "descricao": "A empresa 'Moda & Estilo' anunciou sua expansão em Ribeirão Preto, criando 100 novos empregos.",
+        "data": "15/02/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Alimentos",
+        "titulo": "Nova fábrica de alimentos abre as portas em Sorocaba",
+        "link": "https://www.jornaldesorocaba.com",
+        "descricao": "A 'Alimentos Saudáveis' inicia suas operações, visando atender a demanda regional e promover a agricultura local.",
+        "data": "20/02/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "Startup de energia verde é lançada em São José dos Campos",
+        "link": "https://www.jornalvaledoparaiba.com",
+        "descricao": "A 'EcoEnergia' recebe investimentos para promover a sustentabilidade no setor energético.",
+        "data": "10/03/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Saúde",
+        "titulo": "Nova unidade do médico do futuro é aberta em Taubaté",
+        "link": "https://www.taubatenoticias.com",
+        "descricao": "A clínica 'Saúde Digital' traz inovações em atendimento médico usando inteligência artificial.",
+        "data": "05/04/2025",
+        "municipio": "Taubaté"
+    }
+]
+```

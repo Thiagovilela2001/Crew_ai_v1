@@ -1,0 +1,196 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "Lista da Bloomberg Línea reúne empresas que aceleram o crescimento com a criação de novas verticais de negócios, estratégia de M&As ou planejam a expansão para outros mercados.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup Day 2025: evento de empreendedorismo e inovação ocorre ...",
+        "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-evento-de-empreendedorismo-e-inovacao-ocorre-em-22-de-marco-no-noroeste-paulista",
+        "descricao": "O Startup Day 2025, um dos maiores eventos de fomento ao empreendedorismo e inovação no Brasil, já tem data marcada: 22 de março em São Paulo.",
+        "data": "22/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "São Paulo 2025 Venture Capital World Summit (Winter Edition)",
+        "link": "https://vcworldsummit.com/sao-paulo-2025/",
+        "descricao": "Apesar da queda de 76% no financiamento, o ecossistema de startups do Brasil permanece robusto, avaliado em $117 bilhões, com São Paulo liderando o ranking.",
+        "data": "01/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup Day reúne mais de 200 pessoas e impulsiona inovação no ...",
+        "link": "https://regiaoemdestake.com.br/2025/03/25/startup-day-reune-mais-de-200-pessoas-e-impulsiona-inovacao-no-ecossistema-tecnologico/",
+        "descricao": "Fomento à inovação, conexões estratégicas e impulsionamento de startups marcaram o Startup Day 2025, evento que reuniu cerca de 220 pessoas.",
+        "data": "25/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Os Principais Eventos de Inovação em 2025 - BOND",
+        "link": "https://bondstudio.com.br/oportunidades-imperdiveis-os-principais-eventos-de-inovacao-em-2025/",
+        "descricao": "A Innovation Week, um dos principais eventos de tecnologia do Brasil, reunirá empresas, pesquisadores e investidores para discutir o futuro das startups em São Paulo.",
+        "data": "10/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025 - Distrito",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "O Distrito apresenta a lista das atuais startups unicórnio brasileiras e startups que podem se tornar unicórnios em breve, destacando São Paulo.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "4 startups para ficar de olho em 2025 - Brasil Inovador",
+        "link": "https://brasilinovador.com.br/4-startups-para-ficar-de-olho-em-2025/",
+        "descricao": "Confira negócios inovadores que irão ganhar ainda mais destaque em 2025 com suas soluções focadas em mobilidade, biodiversidade e digitalização em São Paulo.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Agenda de eventos para startups brasileiras em 2025 - LinkedIn",
+        "link": "https://pt.linkedin.com/pulse/aten%C3%A7%C3%A3o-empreendedores-agenda-de-eventos-para-em-2025-cris-arcangeli-k2dyf",
+        "descricao": "A temporada de eventos voltados para startups brasileiras em 2025 está prevista para começar e as expectativas são altas para São Paulo.",
+        "data": "20/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Eventos que você não pode perder em 2025 - Startups",
+        "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+        "descricao": "Destaque para os maiores eventos de inovação que ocorrerão em São Paulo em 2025, reunindo empreendedores e investidores.",
+        "data": "18/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça as startups que estão promovendo inovação no Brasil em 2025",
+        "link": "https://exame.com/negocios/conheca-as-startups-que-estao-promovendo-inovacao-no-brasil-em-2025/",
+        "descricao": "Em 2025, várias startups em São Paulo estão na vanguarda da inovação, trazendo novas soluções para o mercado.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Coca-Cola Femsa Brasil investe R$ 94 milhões em novo Centro de Distribuição em Bauru",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45672",
+        "descricao": "A prefeita Suéllen Rosim visitou nesta quarta-feira (15) as obras do novo Centro de Distribuição da Coca-Cola em Bauru, que representa um investimento de R$ 94 milhões.",
+        "data": "15/03/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Grupo Elsys começa a acelerar M&As com novas startups",
+        "link": "https://exame.com/negocios/um-acordo-de-r-110-milhoes-em-bauru-socios-da-ikatec-compram-participacao-em-empresa-de-tecnologia/",
+        "descricao": "Companhia adquiriu participação na dtLabs, startup fundada em 2018 e que é especializada no desenvolvimento de softwares com o uso de IA.",
+        "data": "20/02/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "MA.IA Solutions | LinkedIn",
+        "link": "https://br.linkedin.com/company/ma-ia-solu%C3%A7%C3%B5es-tecnol%C3%B3gicas",
+        "descricao": "MA.IA Solutions é uma startup que desenvolve tecnologias voltadas para a análise de dados usando inteligência artificial.",
+        "data": "10/03/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Startup Day 2025: evento de empreendedorismo e inovação em Bauru",
+        "link": "https://www.instagram.com/bidbauru/reel/DHmNkeGBncf/",
+        "descricao": "O Startup Day 2025 foi um sucesso, reunindo empreendedores e investidores em Bauru.",
+        "data": "22/03/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Novo espaço para startups em Ribeirão Preto",
+        "link": "https://www.startupribeirao.com.br/",
+        "descricao": "O Start Up Ribeirão conecta startups aos hubs de inovação da cidade, focando em capacitação e networking.",
+        "data": "15/03/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Conheça as 10 melhores startups de Ribeirão Preto",
+        "link": "https://www.amcham.com.br/blog/conheca-as-10-melhores-startups-de-ribeirao-preto-para-o-seu-negocio",
+        "descricao": "A Gryfo é uma startup de Inteligência Artificial que atua com reconhecimento facial.",
+        "data": "20/01/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Programa Start Up Ribeirão Preto anuncia startups selecionadas",
+        "link": "https://atribunaregional.com.br/programa-start-up-ribeirao-preto-anuncia-startups-selecionadas-para-residencia-em-2025/",
+        "descricao": "Startups selecionadas incluem a IA Sense, que desenvolve soluções baseadas em inteligência artificial.",
+        "data": "15/02/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Sapiens Chat lança inteligência artificial 'abrasileirada'",
+        "link": "https://fotografia.folha.uol.com.br/galerias/1808593683091250-empresa-sapiens-chat-lanca-inteligencia-artificial-abrasileirada",
+        "descricao": "Startups baseada em Ribeirão Preto foca em trazer ferramentas de IA específicas para o uso no Brasil.",
+        "data": "10/02/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Startup Day agita o Interior",
+        "link": "https://crsaopaulo.com.br/noticia/1103/startup-day-agita-o-interior.amp",
+        "descricao": "Evento sobre empreendedorismo e inovação foi realizado no interior de São Paulo, incluindo Ribeirão Preto.",
+        "data": "22/03/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Startup Day Ribeirão Preto & Região 2025 - Sympla",
+        "link": "https://www.sympla.com.br/evento/startup-day-ribeirao-preto-regiao-2025/2829778",
+        "descricao": "Um evento focado em networking e palestras que conectou o ecossistema de inovação em Ribeirão Preto.",
+        "data": "22/03/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo de SP libera R$ 13 milhões para infraestrutura e mobilidade em 15 cidades da região de Bauru",
+        "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2025/03/23/governo-de-sp-libera-r-13-milhoes-para-infraestrutura-e-mobilidade-em-15-cidades-da-regiao-de-bauru.ghtml",
+        "descricao": "Anúncio feito no Palácio dos Bandeirantes contempla projetos de revitalização de áreas verdes, parques e ciclovias.",
+        "data": "23/03/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Prefeitura de Ribeirão Preto sanciona maior orçamento da história para 2025",
+        "link": "https://www.ribeiraopreto.sp.gov.br/portal/noticia/prefeito-de-ribeirao-preto-sanciona-maior-orcamento-da-historia-com-mais-de-r-5-bilhoes-para-2025",
+        "descricao": "A administração municipal destacou que para 2025 haverá orçamento para investimentos em áreas estratégicas, como saúde, educação e mobilidade.",
+        "data": "05/01/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "São José dos Campos abastecerá prédios públicos com energia solar",
+        "link": "https://www.portalsolar.com.br/noticias/mercado/projetos/sao-jose-dos-campos-abastecera-predios-publicos-com-energia-solar",
+        "descricao": "A previsão é que sejam investidos um total de R$ 12,7 milhões para construção e início da operação dos serviços da usina fotovoltaica.",
+        "data": "12/03/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Investimentos em infraestrutura alavancam o desenvolvimento de Santos e região",
+        "link": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2025/03/investimentos-em-infraestrutura-alavancam-o-desenvolvimento-de-santos-e-regiao",
+        "descricao": "Entre os projetos em andamento está o leilão do megaterminal Tecon Santos 10, com previsão de investimentos de R$ 5,6 bilhões.",
+        "data": "03/03/2025",
+        "municipio": "Santos"
+    }
+]
+```

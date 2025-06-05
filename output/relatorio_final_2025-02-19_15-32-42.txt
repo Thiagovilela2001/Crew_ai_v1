@@ -1,0 +1,444 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Mais de 100 empresas estarão no Startup Hub da NRF 2025",
+        "link": "https://mercadoeconsumo.com.br/26/12/2024/nrf-retails-big-show/mais-de-100-empresas-estarao-no-startup-hub-da-nrf-2025/",
+        "descricao": "A ideia da NRF com o hub de inovação de startups é possibilitar aos visitantes a exploração de tecnologia de última geração, com muitas empresas localizadas em São Paulo.",
+        "data": "26/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "O plano da Endeavor para ter 50 decacórnios em 2035 - Startups",
+        "link": "https://startups.com.br/negocios/o-plano-da-endeavor-para-ter-50-decacornios-em-2035/",
+        "descricao": "Rede de apoio ao empreendedorismo quer se tornar auto-sustentável e aumentar seus investimentos, contribuindo para o fortalecimento das startups em São Paulo.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Empresa de SJC projeta expansão de 65% e abre 40 vagas para 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/empresa-de-sjc-projeta-expansao-de-65-e-abre-40-vagas-para-2025/",
+        "descricao": "A empresa planeja uma grande expansão, com ênfase em aumentar suas operações em São Paulo, prevendo um crescimento significativo em 2025.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Cenário de Negócios",
+        "titulo": "Aniversário de São Paulo: papel da cidade na formação do cenário de negócios",
+        "link": "https://www.pragmatismopolitico.com.br/2025/01/aniversario-de-sao-paulo-papel-da-cidade-na-formacao-do-cenario-de-negocios-do-brasil.html",
+        "descricao": "Reflexão sobre como São Paulo se consolidou como o motor do cenário de negócios no Brasil, com um foco significativo nas startups.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Cenário de Negócios",
+        "titulo": "Cidades brasileiras que oferecem as melhores condições para empreendedores em 2025",
+        "link": "https://monitordomercado.com.br/noticias/214879-cidades-brasileiras-que-oferecem-as-melhores-condicoes-para-empreendedores-em-2025/",
+        "descricao": "Avaliação das melhores cidades do Brasil para empreendedores, com foco nas condições favoráveis oferecidas por São Paulo.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Sorocaba desponta como referência em inovação com crescimento expressivo de startups",
+        "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sorocaba-desponta-como-referencia-em-inovacao-com-crescimento-expressivo-de-startups/",
+        "descricao": "Aumento do número de startups na região de Sorocaba, trazendo uma perspectiva de crescimento para a proximidade com o ecossistema de São Paulo.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Cenário de Negócios",
+        "titulo": "Cidades Brasileiras Que Se Destacam Como Polos Promissores Para Empreendedores",
+        "link": "https://istoe.com.br/istoegeral/2024/11/21/cidades-brasileiras-que-se-destacam-como-polos-promissores-para-empreendedores/",
+        "descricao": "Análise sobre como São Paulo abriga um número crescente de startups e a importância de aceleradoras e espaços de co-working.",
+        "data": "20/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "EXCLUSIVO: Endeavor anuncia mudanças no programa Scale-Up",
+        "link": "https://startups.com.br/negocios/empreendedorismo/exclusivo-endeavor-anuncia-mudancas-no-programa-scale-up/",
+        "descricao": "Mudanças no programa da Endeavor que visam apoiar de maneira personalizada as startups de São Paulo para 2025.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Os melhores eventos de inovação no Brasil em 2025 - Blog AEVO",
+        "link": "https://blog.aevo.com.br/eventos-de-inovacao/",
+        "descricao": "Destaques dos principais eventos de inovação programados para 2025 em São Paulo, que atraem startups e investidores.",
+        "data": "02/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Sebrae Startups se conecta ao ecossistema global e anuncia novidades",
+        "link": "https://sebrae.com.br/sites/PortalSebrae/ufs/sc/sebraeaz/sebrae-startups-se-conecta-ao-ecossistema-global-e-anuncia-novidades,f416890643f33910VgnVCM1000001b00320aRCRD",
+        "descricao": "Iniciativas do Sebrae para promover e fortalecer as startups em São Paulo, culminando em um evento importante em 2025.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Sedecon dá apoio ao processo seletivo de nova empresa de varejo ...",
+        "link": "https://www.bauru.sp.gov.br/materia.aspx?n=45773",
+        "descricao": "As inscrições para o processo seletivo já estão abertas e podem ser realizadas diretamente na página oficial de carreiras da Leroy Merlin.",
+        "data": "04/02/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Sedecon segue com apoio ao processo seletivo de nova empresa ...",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45746",
+        "descricao": "Sedecon segue com apoio ao processo seletivo de nova empresa de varejo que será instalada em Bauru.",
+        "data": "04/02/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Sedecon apoia o processo seletivo de nova empresa de varejo que ...",
+        "link": "https://www.instagram.com/sedeconbauru/p/DFa2iHfSMlM/",
+        "descricao": "Sedecon apoia o processo seletivo de nova empresa de varejo que será instalada em Bauru, oferecendo várias oportunidades de emprego.",
+        "data": "04/02/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Alimentação",
+        "titulo": "Bares e restaurantes estão otimistas para o primeiro trimestre de 2025",
+        "link": "https://abrasel.com.br/noticias/noticias/bares-restaurantes-otimistas-primeiro-trimestre-2025-pesquisa-abrasel/",
+        "descricao": "O setor de alimentação fora do lar começa 2025 com otimismo, conforme revela a pesquisa realizada pela Abrasel em dezembro. A maioria dos empresários acredita em um aumento no número de aberturas.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Alimentação",
+        "titulo": "Bares e restaurantes podem faturar mais no início de 2025 - Cayena",
+        "link": "https://cayena.com/bares-e-restaurantes-aumento-no-faturamento-2025/",
+        "descricao": "O setor de bares e restaurantes inicia 2025 com otimismo, projetando crescimento de até 15% no faturamento em comparação a 2024, impulsionado por novas aberturas na cidade.",
+        "data": "18/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Alimentação",
+        "titulo": "Bar da boiadeira faz investimento coletivo para abrir novas unidades",
+        "link": "https://exame.com/negocios/bar-da-boiadeira-faz-vaquinha-para-abrir-novas-unidades-e-faturar-r-90-milhoes/",
+        "descricao": "A empresa 'Bar da boiadeira' está realizando uma rodada de investimento coletivo de R$ 3,5 milhões para abrir novas unidades em São Paulo e ampliar suas operações.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Alimentação",
+        "titulo": "Setor de bares e restaurantes inicia 2025 com otimismo, mas alta do ICMS preocupa empresários",
+        "link": "https://www.mercadoeeventos.com.br/noticias/servicos/setor-de-bares-e-restaurantes-inicia-2025-com-otimismo-mas-alta-do-icms-preocupa-empresarios/",
+        "descricao": "Um levantamento mostra que 73% dos empresários esperam um aumento nas vendas e várias aberturas de novos estabelecimentos estão previstas.",
+        "data": "12/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Alimentação",
+        "titulo": "Setor de restaurantes no Brasil: 4 formas de mapear oportunidades",
+        "link": "https://geofusion.com.br/blog/setor-de-restaurantes-no-brasil/",
+        "descricao": "O artigo menciona o crescimento no número de novos bares e restaurantes em São Paulo, impulsionados pela flexibilização das normas de reabertura do mercado.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Alimentação",
+        "titulo": "10 restaurantes que abriram em 2024 pra você conhecer em 2025 ...",
+        "link": "https://www.instagram.com/tipsbygelly/reel/DETE4EDy5VZ/10-restaurantes-que-abriram-em-2024-pra-voc%C3%AA-conhecer-em-2025-parte-2-com-a-list/?hl=en",
+        "descricao": "O Marena acaba de abrir no Itaim Bibi, São Paulo, e já está entre os restaurantes mais disputados da cidade.",
+        "data": "[não especificada]",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Alimentação",
+        "titulo": "Fogo de Chão e omakassê de carne são novidades em SP",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/02/setima-unidade-do-fogo-de-chao-e-omakasse-de-carnes-sao-novidades-gastronomicas-em-sp.shtml",
+        "descricao": "A rede de churrascarias Fogo de Chão acaba de inaugurar sua sexta unidade no estado e traz novidades ao cardápio.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Grupo Way cresce 50% e prevê abertura de 90 restaurantes em 2025",
+        "link": "https://canalexecutivoblog.wordpress.com/2024/12/18/grupo-way-cresce-50-e-preve-abertura-de-90-restaurantes-em-2025/",
+        "descricao": "A rede nasceu em São José do Rio Preto – interior paulista – e para 2025 planeja abrir 90 novos restaurantes.",
+        "data": "18/12/2024",
+        "municipio": "São José do Rio Preto"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "REGIÃO METROPOLITANA DE CAMPINAS REGISTRA ABERTURA ... ",
+        "link": "https://www.panoramadenegocios.com.br/regiao-metropolitana-de-campinas-registra-abertura-de-2-933-bares-e-restaurantes-no-periodo-de-um-ano/",
+        "descricao": "A Região Metropolitana de Campinas registrou um aumento notável em novas aberturas de bares e restaurantes.",
+        "data": "10/01/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Água Doce mira expansão no interior de São Paulo e aposta em ...",
+        "link": "https://mercadoeconsumo.com.br/21/08/2023/destaque-do-dia/agua-doce-mira-expansao-no-interior-de-sao-paulo-e-aposta-em-campanha-para-atrair-clientes/",
+        "descricao": "A rede de restaurantes Água Doce planeja abrir 5 novas unidade dentro do estado.",
+        "data": "21/08/2023",
+        "municipio": "Interior de São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "A lista destaca startups que se destacam no setor, como QI Tech, que se tornou unicórnio, e Cloudwalk, que triplicou sua base de clientes.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Startups paulistas concentram maior volume de investimentos e inovação no Brasil",
+        "link": "https://startupi.com.br/startups-paulistas-concentram-maior-investimentos/",
+        "descricao": "Estudo do Sebrae revela que 81% dos investimentos em startups no Brasil estão em São Paulo. O estado lidera em setores como tecnologia da informação e agronegócio, abrigando 1.670 startups.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Headline \"abre os trabalhos\" em 2025 e investe R$ 15M na Cycles",
+        "link": "https://startups.com.br/negocios/rodada-de-investimento/headline-abre-trabalhos-em-2025-e-investe-r-15m-na-cycles-nutrition/",
+        "descricao": "A Headline anunciou um investimento de R$ 15 milhões na Cycles Nutrition, uma marca de suplementos nutricionais premium, ampliando sua operação no Brasil.",
+        "data": "31/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "BR Angels monta novo batch para investir R$ 5M em agtechs",
+        "link": "https://startups.com.br/negocios/br-angels-monta-novo-batch-para-investir-r-5m-em-agtechs/",
+        "descricao": "A BR Angels anunciou um novo batch para investir R$ 5 milhões em startups do agronegócio, com foco em soluções inovadoras para o setor.",
+        "data": "19/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Governo de SP fortalece sua presença no SXSW 2025 com espaço maior e programação multissetorial",
+        "link": "https://www.investe.sp.gov.br/noticia/governo-de-sp-fortalece-sua-presenca-no-sxsw-2025-com-espaco-maior-e-programacao-multissetorial/",
+        "descricao": "O governo de São Paulo se prepara para o SXSW 2025, destacando a importância do estado em tecnologia e inovação.",
+        "data": "19/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "23 Best Startups in São Paulo to Watch in 2025",
+        "link": "https://www.seedtable.com/startups-sao-paulo",
+        "descricao": "A lista apresenta startups promissoras em São Paulo, como Nubank e Clara, que têm atraído investimentos significativos.",
+        "data": "18/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups enfrentam onda de falências com retração de investimentos e 2025 promete ser desafiador",
+        "link": "https://exame.com/negocios/startups-enfrentam-onda-de-falencias-com-retracao-de-investimentos-e-2025-promete-ser-desafiador/",
+        "descricao": "Reportagem destaca o cenário desafiador para startups em 2025, com crescente número de falências e baixa de investimentos.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Evento de Inovação será realizado em São Paulo em março de 2025",
+        "link": "https://startupi.com.br/evento-de-inovacao-sao-paulo-2025/",
+        "descricao": "O evento reunirá startups e investidores para discutir inovações no setor e captação de recursos.",
+        "data": "15/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "V360 capta R$ 40 milhões para expandir soluções de gestão de pagamentos",
+        "link": "https://startupi.com.br/v360-capta-40-milhoes/",
+        "descricao": "V360, uma startup de pagamentos, anunciou uma rodada de captação de R$ 40 milhões, visando expandir suas operações e desenvolver novos produtos.",
+        "data": "19/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Evollo quer faturar R$ 15 milhões em 2025 com soluções de saúde",
+        "link": "https://startupi.com.br/evollo-faturar-15-milhoes-2025/",
+        "descricao": "Evollo, uma startup focada em saúde, anunciou suas metas financeiras para 2025, destacando o crescimento esperado no mercado.",
+        "data": "19/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Ribeirão Preto recebe investimento superior a R$ 700 mil para projeto inovador",
+        "link": "https://www.acidadeon.com/ribeiraopreto/economia/ribeirao-preto-recebe-investimento-superior-a-r-700-mil-para-projeto-inovador/",
+        "descricao": "Ribeirão Preto recebe investimento superior a R$ 700 mil para projeto inovador. O recurso será utilizado para expandir as capacidades do Polo de Inovação.",
+        "data": "12/02/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Começando 2025 com expansão: Kyocera planeja ampliar as operações no Brasil",
+        "link": "https://www.investe.sp.gov.br/noticia/kyocera-planeja-ampliar-as-operacoes-no-brasil/",
+        "descricao": "A Kyocera do Brasil está avaliando ampliar a operação no país com foco em novos segmentos da indústria.",
+        "data": "26/02/2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Onfly anuncia expansão internacional em 2025",
+        "link": "https://startupi.com.br/onfly-anuncia-expansao-internacional-em-2025/",
+        "descricao": "Onfly, a principal travel tech B2B da América Latina, confirmou que iniciará sua operação física no México em janeiro de 2025.",
+        "data": "17/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Aeronáutica",
+        "titulo": "Líder Aviação expande operações em São Paulo",
+        "link": "https://voenews.com.br/2025/02/02/lider-aviacao-expande-operacoes-em-sao-paulo-com-novas-bases-em-congonhas-e-campo-de-marte-e-ampliacao-em-sorocaba/",
+        "descricao": "A Líder Aviação anuncia a criação de novas bases nos aeroportos Congonhas e Campo de Marte, além da ampliação na base de Sorocaba.",
+        "data": "02/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "H&M vai abrir primeiras lojas no país no 2° semestre de 2025",
+        "link": "https://valor.globo.com/empresas/noticia/2024/09/18/handm-vai-abrir-primeiras-lojas-no-pais-no-2-semestre-de-2025.ghtml",
+        "descricao": "A rede sueca H&M planeja abrir suas primeiras lojas no Brasil, começando por São Paulo e Rio de Janeiro em 2025.",
+        "data": "18/09/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Semil vai investir R$ 348,5 mil em projeto piloto de iluminação pública",
+        "link": "https://semil.sp.gov.br/2025/02/governo-de-sao-paulo-anuncia-investimento-de-r-3485-mil-em-projeto-piloto-de-iluminacao-publica-em-miracatu/",
+        "descricao": "Semil anuncia um investimento para um projeto piloto de iluminação pública em Miracatu, com foco no desenvolvimento sustentável e segurança pública.",
+        "data": "17/02/2025",
+        "municipio": "Miracatu"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Aportes em GNL crescem mesmo com desafio de ampliar infraestrutura",
+        "link": "https://valor.globo.com/empresas/noticia/2025/02/19/aportes-em-gnl-crescem-mesmo-com-desafio-de-ampliar-infraestrutura.ghtml",
+        "descricao": "O setor de gás natural liquefeito (GNL) tem atraído novos investimentos, focando na expansão da infraestrutura necessária para o setor.",
+        "data": "19/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo avança na modernização das estações de passageiros das travessias litorâneas",
+        "link": "https://semil.sp.gov.br/2025/02/governo-de-sp-avanca-na-modernizacao-das-estacoes-de-passageiros-das-travessias-litoraneas/",
+        "descricao": "O governo investe R$ 1,3 milhão para reestruturar estações e melhorar a eficiência das travessias na costa paulista.",
+        "data": "18/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura",
+        "link": "https://www.ppi.sp.gov.br/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+        "descricao": "O Governo de São Paulo anunciou a previsão de R$ 50 bilhões em leilões para expansão de infraestrutura e melhoria de serviços em 2025.",
+        "data": "16/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Infraestrutura: 2025 será o ano dos leilões",
+        "link": "https://portalbenews.com.br/opiniao/infraestrutura-2025-sera-o-ano-dos-leiloes/",
+        "descricao": "Expectativa de incremento nos investimentos em infraestrutura com quase 90 leilões planejados para o ano.",
+        "data": "15/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Setor Privado Planeja Investir R$ 250 Bilhões em Infraestrutura em 2025",
+        "link": "https://construconnect.com.br/blog/setor-privado-planeja-investir-r-250-bilhoes-em-infraestrutura-em-2025/",
+        "descricao": "O setor privado se prepara para um ciclo expressivo de investimentos em infraestrutura, com estimativas de R$ 250 bilhões em 2025.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo de SP e Sabesp anunciam pacote de investimento de R$ 7,5 bi",
+        "link": "https://www.investe.sp.gov.br/noticia/governo-de-sp-e-sabesp-anunciam-pacote-de-investimento-de-r-7-5-bi-em-obras-de-saneamento-na-baixada-santista/",
+        "descricao": "O contrato visa melhorar os serviços de água e esgoto, atingindo 40 mil residências na Baixada Santista.",
+        "data": "01/02/2025",
+        "municipio": "Baixada Santista"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Oportunidades e desafios para a infraestrutura em 2025",
+        "link": "https://infranews.com.br/oportunidades-e-desafios-para-a-infraestrutura-em-2025/",
+        "descricao": "Este artigo discute as oportunidades de investimentos em infraestrutura, incluindo rodovias e infraestrutura urbana.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Após privatização, Emae lança projeto de corredor ecológico em São Paulo",
+        "link": "https://exame.com/esg/apos-privatizacao-emae-lanca-projeto-de-corredor-ecologico-em-sao-paulo/",
+        "descricao": "Emae anunciou um investimento de R$ 3,2 milhões para plantar 100 mil mudas de árvores nativas, criando um corredor ecológico de 100 km entre São Paulo e a Região Metropolitana.",
+        "data": "22/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Cinco tendências ESG que vão pautar os investidores em 2025",
+        "link": "https://capitalreset.uol.com.br/conteudo-patrocinado/cinco-tendencias-esg-que-vao-pautar-os-investidores-em-2025/",
+        "descricao": "O artigo discute como a transição energética, a demanda por investimentos sustentáveis e práticas ESG estão se tornando essenciais para os investidores em busca de crescimento sustentável.",
+        "data": "22/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gás Natural",
+        "titulo": "Aportes em GNL crescem mesmo com desafio de ampliar infraestrutura",
+        "link": "https://valor.globo.com/empresas/noticia/2025/02/19/aportes-em-gnl-crescem-mesmo-com-desafio-de-ampliar-infraestrutura.ghtml",
+        "descricao": "O mercado de gás natural liquefeito (GNL) está se expandindo no Brasil, com novos investimentos e a diversificação de fornecedores liderados por Petrobras, Eneva e New Fortress Energy.",
+        "data": "19/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Sustentabilidade",
+        "titulo": "Usina de biometano deve entrar em operação em 2025",
+        "link": "https://www.jornaldocomercio.com/mapa-economico/regiao-metropolitana/2024/12/1183701-usina-de-biometano-deve-entre-em-operacao-em-2025.html",
+        "descricao": "Unidade vai funcionar em Triunfo, após um investimento estimado em R$ 200 milhões.",
+        "data": "10/12/2024",
+        "municipio": "Triunfo"
+    },
+    {
+        "categoria": "Desenvolvimento Urbano",
+        "titulo": "Prefeito cadastra 95% das árvores na cidade",
+        "link": "https://www.sjc.sp.gov.br/noticias/2025/janeiro/10/prefeitura-cadastra-95-das-arvores-na-cidade/",
+        "descricao": "O Plano Municipal de Arborização Urbana estima que o patrimônio arbóreo de São José é de 80 mil árvores urbanas, que vêm sendo cadastradas desde 2024.",
+        "data": "10/01/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Sustentabilidade",
+        "titulo": "Santos Brasil define estratégia para se tornar net zero até 2040",
+        "link": "https://www.santosbrasil.com.br/v2021/noticia/santos-brasil-define-estrategia-para-se-tornar-net-zero-ate-2040",
+        "descricao": "A substituição dos RTGs evitará a emissão de 713 toneladas de CO2 por mês, resultando em uma redução de 97% nas emissões desses equipamentos no terminal.",
+        "data": "15/01/2025",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Reciclagem",
+        "titulo": "Fernanda envia R$ 200 mil à Cooperativa de Reciclagem de Sorocaba",
+        "link": "https://fernandagarcia.com.br/fernanda-envia-r-200-mil-a-cooperativa-de-reciclagem-de-sorocaba/",
+        "descricao": "A vereadora destinou R$ 200 mil à Cooperativa de Reciclagem de Sorocaba, CORESO, como emenda impositiva para 2025.",
+        "data": "15/01/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Hidrogênio Verde",
+        "titulo": "Ubatuba em prol do desenvolvimento sustentável e pela revolução do hidrogênio verde",
+        "link": "https://www.ubatuba.sp.gov.br/destaques/hidrogenio-verde-ubatuba/",
+        "descricao": "A parceria entre a Fundação ISCM com a Prefeitura Municipal de Ubatuba visando a exportação de hidrogênio verde promete gerar novos empregos e um avanço sustentável.",
+        "data": "12/01/2025",
+        "municipio": "Ubatuba"
+    },
+    {
+        "categoria": "Desenvolvimento Econômico",
+        "titulo": "Prefeito apresenta ao Governo do Estado áreas de expansão e projetos de desenvolvimento econômico em Caraguatatuba",
+        "link": "https://www.caraguatatuba.sp.gov.br/pmc/2024/01/prefeito-apresenta-ao-governo-do-estado-areas-de-expansao-e-projetos-de-desenvolvimento-economico-em-caraguatatuba/",
+        "descricao": "O prefeito de Caraguatatuba, Aguilar Junior, apresentou áreas de expansão e projetos para desenvolvimento econômico ao governo, destacando a capacidade logística da cidade e projetos turísticos, visando a geração de empregos e renda.",
+        "data": "30/01/2024",
+        "municipio": "Caraguatatuba"
+    }
+]
+```

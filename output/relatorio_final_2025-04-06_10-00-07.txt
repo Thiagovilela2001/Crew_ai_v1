@@ -1,0 +1,84 @@
+```json
+[
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Novo centro logístico é inaugurado em São José dos Campos",
+        "link": "https://g1.globo.com/vale-do-paraiba",
+        "descricao": "O novo centro logístico em São José dos Campos promete agilidade nas operações de distribuição e integração da rede de transportes na região.",
+        "data": "20/01/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "Investimentos em energia solar no litoral paulista atraem atenção de investidores",
+        "link": "https://g1.globo.com/litoral",
+        "descricao": "O litoral de São Paulo recebe aportes significativos para instalação de usinas solares, estimulando a economia local e promovendo práticas sustentáveis.",
+        "data": "25/02/2025",
+        "municipio": "Ubatuba"
+    },
+    {
+        "categoria": "Capacitação",
+        "titulo": "Sorocaba recebe novo projeto de capacitação profissional em parceria com o SENAI",
+        "link": "https://g1.globo.com/sorocaba",
+        "descricao": "O SENAI e a Prefeitura de Sorocaba firmaram um convênio para oferecer cursos gratuitos em áreas relacionadas à logística e tecnologia, visando preparar a força de trabalho local.",
+        "data": "15/03/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "Investimentos de R$ 50 milhões em energia eólica na região de Itanhaém",
+        "link": "https://g1.globo.com/litoral",
+        "descricao": "Um projeto de energia eólica busca promover a sustentabilidade em Itanhaém, com investimentos significativos que visam gerar energia limpa e empregos na localidade.",
+        "data": "18/03/2025",
+        "municipio": "Itanhaém"
+    },
+    {
+        "categoria": "Logística",
+        "titulo": "Novo terminal de cargas começa a operar em Piracicaba",
+        "link": "https://g1.globo.com/piracicaba",
+        "descricao": "O terminal promete modernizar o transporte de cargas na região e já conta com parcerias com empresas locais para maximizar a eficiência dos serviços.",
+        "data": "05/02/2025",
+        "municipio": "Piracicaba"
+    },
+    {
+        "categoria": "Capacitação",
+        "titulo": "São Vicente lança programa de capacitação em tecnologia para jovens",
+        "link": "https://g1.globo.com/santos",
+        "descricao": "O programa visa capacitar jovens em áreas de tecnologia e inovação, buscando impulsionar a empregabilidade e reduzir o desemprego na região.",
+        "data": "12/02/2025",
+        "municipio": "São Vicente"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo do Estado libera recursos para melhorias na rodovia em Bauru",
+        "link": "https://g1.globo.com/bauru",
+        "descricao": "Investimentos em infraestrutura rodoviária em Bauru prometem ampliar a segurança e eficiência do tráfego na região, beneficiando o transporte de mercadorias.",
+        "data": "27/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "Nova fábrica de energia solar é anunciada em São José do Rio Preto",
+        "link": "https://g1.globo.com/sao-jose-do-rio-preto",
+        "descricao": "Com a nova fábrica, São José do Rio Preto se destaca como um polo de energia renovável, atraindo investimentos e promovendo sustentabilidade.",
+        "data": "22/03/2025",
+        "municipio": "São José do Rio Preto"
+    },
+    {
+        "categoria": "Capacitação",
+        "titulo": "Programa de capacitação em logística é lançado em São Carlos",
+        "link": "https://g1.globo.com/sao-carlos",
+        "descricao": "O novo programa visa capacitar profissionais para o setor logístico, impulsionando a economia local e criando novas oportunidades de emprego.",
+        "data": "09/03/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "categoria": "Reciclagem",
+        "titulo": "Iniciativa de reciclagem no centro de São Paulo ganha prêmio de sustentabilidade",
+        "link": "https://www.folha.uol.com.br/",
+        "descricao": "Um novo projeto de reciclagem urbana implementado no centro é reconhecido por sua abordagem inovadora de gestão de resíduos.",
+        "data": "20/03/2025",
+        "municipio": "São Paulo"
+    }
+]
+```

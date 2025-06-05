@@ -1,0 +1,148 @@
+{
+  "noticias": [
+    {
+      "categoria": "Startups",
+      "titulo": "South Summit Brazil 2025: conheça as 50 startups finalistas da competição.",
+      "link": "https://exame.com/negocios/south-summit-brazil-2025-conheca-as-50-startups-finalistas-da-competicao/",
+      "descricao": "O South Summit Brazil revelou as 50 startups finalistas de uma competição, com destaque para o crescimento do interesse internacional.",
+      "data": "13/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025.",
+      "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+      "descricao": "Apresenta uma lista de startups brasileiras com elevada expectativa de crescimento e sucesso no mercado.",
+      "data": "06/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Av. Rebouças: o novo polo de startups em São Paulo.",
+      "link": "https://distrito.me/blog/av-reboucas-o-novo-polo-de-startups-em-sao-paulo/",
+      "descricao": "A Avenida Rebouças se consolida como um novo centro de inovação, atraindo startups e investidores.",
+      "data": "11/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Conheça as 4 startups selecionadas para o SXSW 2025.",
+      "link": "https://institutocaldeira.org.br/blog/conheca-as-4-startups-brasileiras-selecionadas-para-o-sxsw-2025/",
+      "descricao": "Startups Abstra, Aprix, Drome e Planton representarão o Brasil no South by Southwest 2025.",
+      "data": "27/12/2024",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Conheça os 8 principais eventos para startups em 2025.",
+      "link": "https://www.onfly.com.br/blog/principais-eventos-para-startups/",
+      "descricao": "Uma lista de eventos importantes que proporcionarão oportunidades de networking e aprendizado para startups.",
+      "data": "21/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "4 startups para ficar de olho em 2025.",
+      "link": "https://industriainovadora.com.br/4-startups-para-ficar-de-olho-em-2025/",
+      "descricao": "Destaque para startups que contribuem para a preservação ambiental e a biodiversidade no Brasil.",
+      "data": "27/12/2024",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Eventos",
+      "titulo": "Startup Day 2025 foi realizado na cidade.",
+      "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-evento-de-empreendedorismo-e-inovacao-ocorre-em-22-de-marco-no-noroeste-paulista",
+      "descricao": "Evento de empreendedorismo e inovação promovido pelo Sebrae em São Paulo.",
+      "data": "22/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "São Paulo, uma cidade com vocação para o desenvolvimento de startups.",
+      "link": "https://cbn.globo.com/sao-paulo/noticia/2025/01/13/sao-paulo-uma-cidade-com-vocacao-para-o-desenvolvimento-de-startups.ghtml",
+      "descricao": "Discussão sobre o potencial de São Paulo para empreendimentos e inovações no setor de startups.",
+      "data": "13/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Governo de SP vai capacitar e apoiar a internacionalização de startups.",
+      "link": "https://www.investe.sp.gov.br/noticia/governo-de-sp-vai-capacitar-e-apoiar-a-internacionalizacao-de-startups/",
+      "descricao": "O Governo de São Paulo vai apoiar a internacionalização de 100 startups paulistas de base tecno científica, oferecendo capacitação e missões internacionais.",
+      "data": "19/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Grupo Locale investe R$ 10 mi em restaurantes em São Paulo",
+      "link": "https://exame.com/casual/grupo-que-atendeu-500-mil-em-sp-investe-r-10-mi-e-leva-restaurantes-a-cobicado-polo-gastronomico/",
+      "descricao": "O Grupo Locale começa 2025 com expansão e abrirá dois novos restaurantes no bairro de Pinheiros, em São Paulo, além de um em Porto Alegre.",
+      "data": "20/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Setor de bares e restaurantes inicia 2025 com otimismo, mas alta do ICMS preocupa empresários",
+      "link": "https://www.mercadoeeventos.com.br/noticias/servicos/setor-de-bares-e-restaurantes-inicia-2025-com-otimismo-mas-alta-do-icms-preocupa-empresarios/",
+      "descricao": "Segundo o levantamento, 73% dos empresários esperam um aumento nas vendas no primeiro trimestre do ano, em comparação ao mesmo período de 2024.",
+      "data": "15/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Avenida Paulista ganha novos restaurantes",
+      "link": "https://guia.folha.uol.com.br/restaurantes/2025/02/avenida-paulista-ganha-restaurantes-abertos-ate-a-madrugada-veja-10-enderecos-novos-em-sp.shtml",
+      "descricao": "A Avenida Paulista verá a abertura de diversos novos restaurantes, oferecendo opções para diferentes paladares.",
+      "data": "15/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos",
+      "titulo": "Sorocaba: empresa multinacional inglesa inaugura nova sede",
+      "link": "https://www.g1.globo.com/sp/sorocaba-jundiai/noticia/2025/01/15/multinacional-inglesa-inaugura-nova-sede-em-sorocaba.ghtml",
+      "descricao": "A IMI, multinacional inglesa, investe R$ 258 milhões e gera 700 empregos na nova unidade em Sorocaba.",
+      "data": "15/01/2025",
+      "municipio": "Sorocaba"
+    },
+    {
+      "categoria": "Eventos",
+      "titulo": "Abertura de novas fábricas promete gerar empregos no interior",
+      "link": "https://g1.globo.com/economia/negocios/noticia/2025/02/25/empresas-abrem-novas-fabricas-no-interior-de-sao-paulo.ghtml",
+      "descricao": "Com a abertura de novas fábricas, o interior paulista deve ver um aumento significativo na geração de empregos.",
+      "data": "25/02/2025",
+      "municipio": "Interior de SP"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Startup Day 2025 foi realizado na cidade",
+      "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-evento-de-empreendedorismo-e-inovacao-ocorre-em-22-de-marco-no-noroeste-paulista",
+      "descricao": "Evento de empreendedorismo e inovação promovido pelo Sebrae em São Carlos.",
+      "data": "22/03/2025",
+      "municipio": "São Carlos"
+    },
+    {
+      "categoria": "Eventos",
+      "titulo": "Bar nas alturas está chegando a São Carlos",
+      "link": "https://www.saocarlosagora.com.br/publieditorial/bar-nas-alturas-esta-chegando-a-sao-carlos/172960/",
+      "descricao": "O Mirante 7, um bar nas alturas, será inaugurado em São Carlos, proporcionando vistas incríveis a mais de 40 metros de altura.",
+      "data": "08/03/2025",
+      "municipio": "São Carlos"
+    },
+    {
+      "categoria": "Abertura de Empresas",
+      "titulo": "Cervejaria artesanal é inaugurada em São Roque",
+      "link": "https://saoroqueempauta.com.br/2025/01/25/cervejaria-artesanal-inaugurada-em-sao-roque/",
+      "descricao": "Uma nova cervejaria artesanal será inaugurada em São Roque, trazendo uma variedade de cervejas feitas no local.",
+      "data": "25/01/2025",
+      "municipio": "São Roque"
+    },
+    {
+      "categoria": "Abertura de Empresas",
+      "titulo": "Novo espaço gastronômico vai abrir no centro de Bragança Paulista",
+      "link": "https://www.bragancapfalvivacult.com.br/novas-aberturas-centro-braganca-paulista",
+      "descricao": "Um novo espaço gastronômico que valoriza a culinária local será aberto no centro de Bragança Paulista.",
+      "data": "20/03/2025",
+      "municipio": "Bragança Paulista"
+    }
+  ]
+}

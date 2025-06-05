@@ -1,0 +1,180 @@
+```json
+[
+  {
+    "categoria": "Startups",
+    "titulo": "South Summit Brazil 2025: conheça as 50 startups finalistas da competição",
+    "link": "https://exame.com/ultimas-noticias/negocios/south-summit-brazil-2025-conheca-as-50-startups-finalistas-da-competicao/",
+    "descricao": "As finalistas do South Summit Brazil 2025; a competição reúne startups de vários setores, destacando a inovação.",
+    "data": "15/03/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "10 startups para ficar de olho em 2025",
+    "link": "https://www.bloomberglinea.com.br/2025/01/06/10-startups-para-ficar-de-olho-em-2025/",
+    "descricao": "O comitê editorial da Bloomberg Línea reuniu 10 startups brasileiras promissoras para o próximo ano, algumas localizadas em São Paulo.",
+    "data": "06/01/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "SXSW 2025: Prodesp lança programa que conecta startups ao setor público",
+    "link": "https://exame.com/marketing/sxsw-2025-prodesp-lanca-programa-que-conecta-startups-ao-setor-publico-inscricoes-estao-abertas/",
+    "descricao": "A iniciativa busca criar soluções inovadoras para a gestão pública, apoiando a integração entre startups e administração pública em São Paulo.",
+    "data": "10/03/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025",
+    "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+    "descricao": "O Distrito apresenta startups unicórnio brasileiras que estão se destacando, muitas com sede em São Paulo.",
+    "data": "10/02/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Av. Rebouças: o novo polo de startups em São Paulo",
+    "link": "https://distrito.me/blog/av-reboucas-o-novo-polo-de-startups-em-sao-paulo/",
+    "descricao": "A Avenida Rebouças em São Paulo tem se firmado como um novo centro de inovação, atraindo startups e investidores.",
+    "data": "11/03/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Conheça as 12 startups latino-americanas com potencial para se tornar unicórnio em 2025",
+    "link": "https://experienceclub.com.br/conheca-as-12-startups-latino-americanas-com-potencial-para-se-tornar-unicornio-em-2025/",
+    "descricao": "Relata startups com sede em São Paulo que têm potencial para atingir o status de unicórnio em 2025.",
+    "data": "09/01/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "FIESP abre oportunidades para startups do setor de aquicultura",
+    "link": "https://www.inovacao.usp.br/fiesp-abre-oportunidades-para-startups-do-setor-de-aquicultura/",
+    "descricao": "O Desafio do Pescado 2025 busca soluções inovadoras para aquicultura em São Paulo.",
+    "data": "18/01/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Innovation Week 2025: O que esperar?",
+    "link": "https://bondstudio.com.br/oportunidades-imperdiveis-os-principais-eventos-de-inovacao-em-2025/",
+    "descricao": "A Innovation Week é um dos principais eventos de tecnologia que reunirá startups e investidores em São Paulo.",
+    "data": "10/03/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Os 21 eventos de inovação mais aguardados de 2025",
+    "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+    "descricao": "A lista traz eventos que reunirão empreendedores e investidores em São Paulo ao longo de 2025.",
+    "data": "18/01/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Startups",
+    "titulo": "Brazil's Top 10 Startups That Tech Professionals Should Watch Out For",
+    "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+    "descricao": "Este artigo destaca as principais startups brasileiras, enfatizando as localizadas em São Paulo, que prometerão um futuro promissor.",
+    "data": "15/02/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Infraestrutura",
+    "titulo": "Coca-Cola Femsa Brasil investe R$ 94 milhões em novo Centro de Distribuição",
+    "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45672",
+    "descricao": "Coca-Cola Femsa Brasil está construindo um novo Centro de Distribuição em Bauru, com investimento de R$ 94 milhões, que gerará cerca de 120 novos empregos.",
+    "data": "16/01/2025",
+    "municipio": "Bauru"
+  },
+  {
+    "categoria": "Infraestrutura",
+    "titulo": "Indústria trará mais de 150 empregos diretos a Rio Preto",
+    "link": "https://www.riopreto.sp.gov.br/noticias/industria-trara-mais-200-empregos-diretos-a-rio-preto",
+    "descricao": "A indústria de embalagens Emplav anunciou a criação de mais de 150 vagas de emprego em São José do Rio Preto, com operação prevista para iniciar até junho deste ano.",
+    "data": "11/02/2025",
+    "municipio": "São José do Rio Preto"
+  },
+  {
+    "categoria": "Infraestrutura",
+    "titulo": "ASSAÍ CHEGA A RIO PRETO E INAUGURA LOJA NA ZONA SUL",
+    "link": "https://www.assai.com.br/imprensa/assai-chega-a-rio-preto-e-inaugura-loja-na-zona-sul",
+    "descricao": "O Assaí Atacadista inaugurou uma nova unidade na Zona Sul de São José do Rio Preto, gerando 300 empregos diretos para a comunidade local.",
+    "data": "15/03/2025",
+    "municipio": "São José do Rio Preto"
+  },
+  {
+    "categoria": "Infraestrutura",
+    "titulo": "Inicio da operação do novo Centro de Distribuição da Coca-Cola em Bauru",
+    "link": "https://www.bauru.sp.gov.br/noticias/centro-distribuicao-coca-cola-inauguracao",
+    "descricao": "O novo centro visa aumentar a capacidade logística da Coca-Cola no interior, com previsão de iniciar as operações em breve. Generando novas oportunidades de emprego.",
+    "data": "12/03/2025",
+    "municipio": "Bauru"
+  },
+  {
+    "categoria": "Gastronomia",
+    "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+    "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+    "descricao": "O ano começa com inaugurações, como Joya Boulangerie e Bottega Bernacca, além de novos pratos no Dalva e Dito e Selvagem Ibirapuera.",
+    "data": "30/01/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Gastronomia",
+    "titulo": "Nova padaria artesanal NaJanela estreia na Alameda Tietê",
+    "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+    "descricao": "A padaria artesanal inaugura mais um ponto focando na qualidade de seus pães e quitutes, agradando os moradores da região.",
+    "data": "30/01/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Gastronomia",
+    "titulo": "Toma Café, novo espaço na Vila Madalena, abre suas portas",
+    "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+    "descricao": "O café traz nova proposta focando em cafés especiais e acompanhamentos diferenciados para o público local e visitantes.",
+    "data": "20/02/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Gastronomia",
+    "titulo": "Casa do Saulo inova com buffet de cozinha amazônica",
+    "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+    "descricao": "O chef Saulo Jennings traz um buffet inspirado na culinária amazônica, promovendo sabores e ingredientes típicos da região.",
+    "data": "31/01/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Gastronomia",
+    "titulo": "Novidade no Le Napoleon com pratos clássicos franceses",
+    "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+    "descricao": "O bistrô francês na região dos Jardins amplia seu cardápio com novos pratos e sobremesas clássicas.",
+    "data": "30/01/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Gastronomia",
+    "titulo": "Nova unidade do Tatá Sushi é inaugurada em Pinheiros",
+    "link": "https://guia.folha.uol.com.br/restaurantes/2025/03/jamie-oliver-promete-toque-de-chef-mas-entrega-abacaxi-em-novo-restaurante-de-sp.shtml",
+    "descricao": "O tradicional sushi ganha uma nova localização, mantendo suas especialidades e qualidade no novo ponto.",
+    "data": "15/02/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Gastronomia",
+    "titulo": "Pizza da Mooca expande e abre nova unidade na Vila Mariana",
+    "link": "https://guia.folha.uol.com.br/restaurantes/2025/02/avenida-paulista-ganha-restaurantes-abertos-ate-a-madrugada-veja-10-enderecos-novos-em-sp.shtml",
+    "descricao": "A famosa pizzaria napolitana inaugura sua terceira unidade, mantendo a receita de sucesso com massas artesanais.",
+    "data": "15/01/2025",
+    "municipio": "São Paulo"
+  },
+  {
+    "categoria": "Gastronomia",
+    "titulo": "Mestres da gastronomia reabrem novos espaços em São Paulo",
+    "link": "https://guia.folha.uol.com.br/restaurantes/2025/02/avenida-paulista-ganha-restaurantes-abertos-ate-a-madrugada-veja-10-enderecos-novos-em-sp.shtml",
+    "descricao": "Chefs renomados que estavam fora do mercado reabrem seus conceitos gastronômicos com novos espaços e menus.",
+    "data": "05/01/2025",
+    "municipio": "São Paulo"
+  }
+]
+```

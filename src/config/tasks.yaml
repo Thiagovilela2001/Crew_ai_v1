@@ -1,0 +1,40 @@
+research_task_piesp_sp_2025:
+  agent: pesquisador_noticias
+  description: >
+    Pesquise e colete aproximadamente 20 anúncios de investimentos produtivos concretos no estado de São Paulo, publicados em 2025.
+    Siga rigorosamente a metodologia PIESP: foque em **ações físicas e localizadas** (novas unidades, expansões significativas, construção de fábricas, instalação de centros de P&D/distribuição, modernizações estruturais).
+    **REQUISITOS OBRIGATÓRIOS:**
+    - A notícia deve ser de **2025**.
+    - A ação deve ocorrer em um **município validado do estado de São Paulo** (consulte municipios_sp.txt).
+    - A notícia deve descrever uma **ação concreta e física** (inauguração, expansão, construção, instalação, modernização relevante).
+    - Deve ser possível extrair: **Título da notícia, Resumo focado no investimento, Ano (2025), e Link da fonte**.
+    **PRIORIZAÇÃO:** Dê preferência a notícias que mencionem **valor do investimento** ou **impacto** (empregos, capacidade), mas colete mesmo sem esses dados se os requisitos obrigatórios forem atendidos.
+    **VALIDAÇÃO:** Use fontes confiáveis listadas na ferramenta de busca. **DESCARTE** anúncios vagos, intenções futuras não confirmadas, fusões/aquisições sem expansão física, resultados financeiros, ou notícias sem localização clara em SP.
+  expected_output: >
+    Uma lista de dicionários Python, onde cada dicionário representa um anúncio de investimento validado e contém **exatamente** as seguintes chaves e valores extraídos da notícia:
+    - "Título": (string) O título original da notícia.
+    - "Resumo": (string) Um resumo conciso da notícia, focado nos detalhes do investimento (empresa, tipo de ação, local, setor, valor/impacto se disponível).
+    - "Ano": (string) O ano "2025".
+    - "Link": (string) O URL completo da notícia original.
+    Exemplo de um item da lista: 
+    {'Título': 'Empresa X inaugura nova fábrica em Campinas', 'Resumo': 'A Empresa X inaugurou sua nova unidade fabril em Campinas (SP) para produção de componentes eletrônicos, um investimento de R$ 50 milhões que gerará 100 empregos.', 'Ano': '2025', 'Link': 'http://link.da.noticia/...'}
+
+reporting_task_csv:
+  agent: analista_relatorios
+  description: >
+    Receber a lista de dicionários contendo os anúncios de investimento coletados pelo pesquisador.
+    Consolidar esses dados em um arquivo CSV final chamado 'investimentos_piesp_sp_2025_crewai.csv'.
+    O arquivo CSV deve conter **exatamente** as seguintes colunas, na ordem especificada: Título, Resumo, Ano, Link.
+    Garanta que o conteúdo de cada campo (especialmente Título e Resumo) esteja corretamente formatado para CSV (ex: tratamento de vírgulas internas, se necessário, usando aspas duplas).
+  expected_output: >
+    Confirmação da criação do arquivo CSV 'investimentos_piesp_sp_2025_crewai.csv' no diretório 'output/', contendo os 20 anúncios coletados com as colunas Título, Resumo, Ano, Link.
+
+
+reporting_task_investimentos:
+  agent: analista_relatorios
+  description: >
+    Consolidar **todas as notícias validadas e coletadas pelos pesquisadores** em um arquivo JSON único, garantindo a inclusão de todos os campos detalhados conforme o padrão PIESP.
+    Campos esperados por notícia: categoria, titulo, link, descricao_detalhada, data, municipio, tipo_investimento, valor_estimado, fonte_financiamento, fonte_noticia, e outros campos específicos das tarefas (piesp_setor, cnae_investimento, investimento_estrangeiro, esg, pme, quando aplicável).
+  expected_output: >
+    Arquivo JSON único e corretamente formatado contendo a lista de todas as notícias coletadas, com cada notícia incluindo as chaves: categoria, titulo, link, descricao_detalhada, data, municipio, tipo_investimento, valor_estimado, fonte_financiamento, fonte_noticia, [campos_especificos_da_tarefa...].
+

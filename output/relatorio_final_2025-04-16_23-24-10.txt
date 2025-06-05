@@ -1,0 +1,422 @@
+```json
+{
+  "noticias": [
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Novos restaurantes de SP para conhecer já!",
+      "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/04/12/novos-restaurantes-de-sp-para-conhecer-ja.htm",
+      "descricao": "De descolado a 'polêmico', 4 novos restaurantes de SP para conhecer já, que misturam referências asiáticas e brasileiras.",
+      "data": "12/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "De bar 'raiz' a hamburgueria, 6 lugares para conhecer em SP em 2025",
+      "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/01/18/resolucoes-de-2025-os-restaurantes-que-precisamos-conhecer.htm",
+      "descricao": "Se você está programando suas visitas a novos restaurantes em 2025, conhecidos como lugares autênticos na culinária brasileira.",
+      "data": "18/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "13 NOVOS Restaurantes Em São Paulo Em 2025",
+      "link": "https://cronicasdasurdez.com/bares-e-restaurantes-em-sao-paulo/",
+      "descricao": "Aqui está uma lista com os 10 top bares e restaurantes em São Paulo para conhecer em 2025.",
+      "data": "07/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "SP Restaurant Week 2025: quando acontece o evento e quais restaurantes participam?",
+      "link": "https://www.estadao.com.br/paladar/restaurantes-e-bares/restaurant-week-2025-festival-conta-com-menus-completos-a-partir-de-r-5490/?srsltid=AfmBOooRkKFtotupi6_tQ2ZFmm6uCm5IOcCCSH0gdYikmpVw9C0HqiWw",
+      "descricao": "O festival traz menus especiais em restaurantes renomados e homenageia a entrada de Belém, capital do Pará.",
+      "data": "11/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+      "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+      "descricao": "Novidades em restaurantes e menus que começam o ano em São Paulo.",
+      "data": "30/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "10 Restaurantes de Chefes Famosos em SP para Conferir em 2025",
+      "link": "https://alphafm.com.br/agenda/10-restaurantes-de-chefes-famosos-em-sao-paulo-para-conferir-em-2025/",
+      "descricao": "A lista reúne chefs renomados e suas criações em restaurantes conhecidos da cidade.",
+      "data": "17/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "OS 10 MELHORES restaurantes - Litoral Norte Paulista",
+      "link": "https://www.tripadvisor.com.br/Restaurants-g4004034-Litoral_Norte_Paulista_State_of_Sao_Paulo.html",
+      "descricao": "Entre os melhores restaurantes em Litoral Norte Paulista estão: Ben's Bar & Comidaria, Portofino, Sandara Comida Libanesa Artesanal.",
+      "data": "2025",
+      "municipio": "Litoral Norte Paulista"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Rede de restaurantes mundialmente famosa abrir unidade no Litoral de São Paulo",
+      "link": "https://www.gazetasp.com.br/entretenimento/rede-restaurantes-mundialmente-famosa-abrira-unidade-litoral-sao-paulo/1150439/",
+      "descricao": "A cidade de Praia Grande, no litoral de São Paulo, receber a próxima unidade do Hard Rock Cafe no Brasil.",
+      "data": "2025",
+      "municipio": "Praia Grande"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Cinema e restaurantes do Litoral de SP transmitirão o Oscar 2025",
+      "link": "https://www.diariodolitoral.com.br/cotidiano/cinema-e-restaurantes-do-litoral-de-sp-transmitirao-o-oscar-2025-veja/192116/",
+      "descricao": "Cinema e restaurantes do Litoral de SP transmitirão o Oscar 2025.",
+      "data": "2025",
+      "municipio": "Litoral de SP"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "17 restaurantes à beira mar para aproveitar com a família no Litoral",
+      "link": "https://www.diariodolitoral.com.br/diario-mais/17-restaurantes-a-beira-mar-para-aproveitar-com-a-familia-no-litoral/185929/",
+      "descricao": "Confira 17 restaurantes 'pé na areia' do Litoral de SP.",
+      "data": "2025",
+      "municipio": "Litoral de SP"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "Hard Rock Cafe terá unidade no litoral de São Paulo",
+      "link": "https://viagemeturismo.abril.com.br/brasil/hard-rock-cafe-tera-unidade-no-litoral-de-sao-paulo",
+      "descricao": "O restaurante deve ser inaugurado no primeiro semestre de 2025 na Praia Grande.",
+      "data": "2025",
+      "municipio": "Praia Grande"
+    },
+    {
+      "categoria": "Restaurantes",
+      "titulo": "O Restaurante Bar da Praia uma verdadeira joia no interior de São Paulo",
+      "link": "https://www.instagram.com/bardapraiarestaurante/p/C_BXeFaOBR2/",
+      "descricao": "Oferecendo uma atmosfera praiana e acolhedora, longe da costa.",
+      "data": "2025",
+      "municipio": "Interior de SP"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Latin America Startup Funding Fell Sequentially In Q1",
+      "link": "https://news.crunchbase.com/venture/latin-america-startup-funding-fell-q1-2025/",
+      "descricao": "Latin America startup investment declined sequentially in the first quarter of this year, driven by a drop in later-stage dealmaking.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Brazil's Top 10 Startups That Tech Professionals Should Watch Out For",
+      "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+      "descricao": "In 2025, Brazil's startup ecosystem is a powerhouse valued at $117 billion, despite a 76% drop in funding. São Paulo leads with 13 unicorns.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Friday Fund Day: What Startups Made Headlines The Week Of April",
+      "link": "https://hypepotamus.com/startup-news/friday-fund-day-what-startups-made-headlines-the-week-of-april-7-2025/",
+      "descricao": "Selected startups include: Tenvos AI, LogShare (Sao Paulo, Brazil), and others.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Bezos-Backed Bank Targets Brazil's Crypto, Tech Firms",
+      "link": "https://www.bloomberg.com/news/articles/2025-03-12/bezos-backed-bank-startup-targets-brazilian-crypto-businesses",
+      "descricao": "The Sao Paulo-based business bank is working with firms focused on digital currencies and blockchain technologies.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Advolve AI Raises $5 Million in Seed Round",
+      "link": "https://www.thesaasnews.com/news/advolve-ai-raises-5-million-in-seed-round",
+      "descricao": "Advolve AI, a Brazil-based startup that automates digital marketing processes, has raised $5 million in seed funding.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Sebrae-SP oferece 250 vagas para pr-acelerao de startups no Vale e Litoral",
+      "link": "https://www.portalr3.com.br/2025/04/03/sebrae-sp-oferece-250-vagas-para-pre-aceleracao-de-startups-no-vale-e-litoral",
+      "descricao": "Inscreva-se no Start Digital Sebrae-SP e aproveite cinco meses de apoio intensivo para sua startup até 11 de abril.",
+      "data": "2025",
+      "municipio": "Vale e Litoral"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Startups se preparam para COP30 com inovaes e sustentabilidade",
+      "link": "https://portalnoticiasdolitoral.com.br/2025/03/24/startups-se-preparam-para-cop30-com-inovacoes-e-sustentabilidade/",
+      "descricao": "Empresas em fase de desenvolvimento na Amazônia, as chamadas startups, apostam em modelos de inovação sustentável visando ao mercado global.",
+      "data": "2025",
+      "municipio": "Litoral"
+    },
+    {
+      "categoria": "Investimentos Estrangeiros",
+      "titulo": "Investidores estrangeiros permanecem compradores líquidos de ...",
+      "link": "https://conteudos.xpi.com.br/acoes/relatorios/investidores-estrangeiros-permanecem-compradores-liquidos-de-brasil-em-2025-fluxo-em-foco/",
+      "descricao": "Em 2025, a rotao global para fora dos EUA continua beneficiando os mercados emergentes e outras regies ao redor do mundo. O Brasil no fica de fora dessa ...",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos Estrangeiros",
+      "titulo": "Brasil se torna o 4 principal destino de investimentos estrangeiros ...",
+      "link": "https://www.moneytimes.com.br/brasil-se-torna-o-4o-principal-destino-de-investimentos-estrangeiros-em-mercados-emergentes-grds/",
+      "descricao": "A Kearney divulgou a edio 2025 do seu ndice de Confiana para Investimento Direto Estrangeiro, com o Brasil ocupando a 4 posio na ...",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos Estrangeiros",
+      "titulo": "Estrangeiros aplicam R$ 10,9 BI na bolsa em 2025; veja histórico",
+      "link": "https://quantumfinance.com.br/estrangeiros-fogem-da-bolsa-brasileira-em-2024-veja-historico/",
+      "descricao": "O Ibovespa acumula at o fim de maro de 2025 uma valorizao de 8,29%, apoiado pela volta dos investidores estrangeiros. Em maro, a bolsa ...",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos Estrangeiros",
+      "titulo": "Investimento estrangeiro cresce e atinge US$ 9,3 bilhões em fevereiro",
+      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/investimento-estrangeiro-cresce-e-atinge-us-93-bilhoes-em-fevereiro/",
+      "descricao": "O resultado do ms em 2025 foi um dos mais altos da srie histrica, iniciada pelo BC em 1995, ficando atrs apenas de 2011 (US$ 10,32 bilhes), ...",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos Estrangeiros",
+      "titulo": "Saldo de investidores estrangeiros cresce e acumula R$ 7 bilhões ...",
+      "link": "https://trademap.com.br/agencia/saldo-de-investidores-estrangeiros-cresce-e-acumula-r-7-bilhoes-em-2025-mesmo-com-desafios-globais",
+      "descricao": "O fluxo de investidores estrangeiros na B3 segue positivo em fevereiro, apesar de desafios externos. At agora, o saldo j soma R$ 7 bilhoes, ...",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Investimentos Estrangeiros",
+      "titulo": "Governo planeja programa para investimento estrangeiro - Folha",
+      "link": "https://www1.folha.uol.com.br/mercado/2025/01/governo-desenha-programa-para-tentar-impulsionar-investimento-estrangeiro-direto.shtml",
+      "descricao": "Iniciativa vai unificar procedimentos de diferentes rgos, como agncias reguladoras e de meio ambiente.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "DER-SP espera cerca de 300 mil veículos nas principais rodovias de SP durante o feriado",
+      "link": "https://semil.sp.gov.br/2025/04/der-sp-espera-cerca-de-300-mil-veiculos-nas-principais-rodovias-de-sp-durante-o-feriado/",
+      "descricao": "Com a Operação Páscoa/Tiradentes começando na quinta-feira (17/), o DER-SP estima a passagem de 300 mil veículos nas principais rodovias paulistas.",
+      "data": "17/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Nos 100 dias da nova gestão, prefeito lança Programa “Melhoramentos de São Paulo”",
+      "link": "https://capital.sp.gov.br/web/obras/noticias",
+      "descricao": "O programa contempla 55 grandes obras de infraestrutura e um investimento de R$ 19 bilhões.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura em 2025",
+      "link": "https://www.investe.sp.gov.br/noticia/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+      "descricao": "A Secretaria de Parcerias em Investimentos do Estado de São Paulo terá em 2025 orçamento 129% maior do que foi no ano passado.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Governo de SP libera R$ 13 milhões para infraestrutura e mobilidade em 15 cidades da região de Bauru",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2025/03/23/governo-de-sp-libera-r-13-milhoes-para-infraestrutura-e-mobilidade-em-15-cidades-da-regiao-de-bauru.ghtml",
+      "descricao": "Anúncio feito no Palácio dos Bandeirantes reforça o compromisso do governo com a infraestrutura regional.",
+      "data": "23/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Governo de São Paulo investe R$ 238 milhões em projetos de infraestrutura e mobilidade nos municípios",
+      "link": "https://sp.gov.br/sp/canais-comunicacao/noticias/governo+de+sao+paulo+investe+rs+238+milhoes+em+projetos+de+infraestrutura+e+mobilidade+nos+municipios",
+      "descricao": "Os recursos são provenientes do FID e visam melhorar a mobilidade urbana e a infraestrutura das cidades.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Governo de São Paulo investirá quase R$ 34 bi em infraestrutura em 2025",
+      "link": "https://www.bnamericas.com/pt/feature/estado-de-sao-paulo-investira-quase-r-34-bi-em-infraestrutura-em-2025",
+      "descricao": "O estado planeja investir um recorde de R$ 33,5 bilhões em infraestrutura, incluindo obras hidráulicas.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "SP pra Toda Obra vai modernizar 22,3 mil km de rodovias, estradas ...",
+      "link": "https://semil.sp.gov.br/2025/04/sp-pra-toda-obra-melhorias-viarias-encurtam-distancias-garantem-seguranca-e-melhoram-renda-em-sp/",
+      "descricao": "Com investimentos que somam quase R$ 30 bilhes em obras finalizadas, entregues e que esto por vir, o programa SP Pra Toda Obra moderniza mais ...",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Projeto de concessão deve transformar rodovias do interior de São Paulo",
+      "link": "https://www.diariodolitoral.com.br/cotidiano/projeto-de-concessao-deve-transformar-rodovias-do-interior-de-sao/193233/",
+      "descricao": "Um projeto de concessão de rodovias do interior de So Paulo promete modernizar a infraestrutura viria do estado, trazendo melhorias ...",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Governo de SP realiza ação emergencial para conter avanço do mar no litoral de SP",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2025/03/31/governo-de-sp-realiza-acao-emergencial-para-conter-avanco-do-mar-no-litoral-de-sp-video.ghtml",
+      "descricao": "O Governo de São Paulo iniciou uma ação emergencial para combater o avanço do mar e minimizar os impactos da erosão costeira.",
+      "data": "31/03/2025",
+      "municipio": "Litoral de SP"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Obras de infraestrutura turísticas acrescentam 630 mil visitantes a áreas do litoral e interior paulista",
+      "link": "https://www.turismo.sp.gov.br/publico/noticia.php?codigo=4596&cod_menu=4596",
+      "descricao": "Investimentos podem gerar até R$ 80 milhões por ano na economia do estado, beneficiando destinos turísticos do litoral e interior.",
+      "data": "2025",
+      "municipio": "Litoral de SP"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "Brasil ESG Summit 2025",
+      "link": "https://w6esgsummit.com/",
+      "descricao": "O Brasil ESG Summit 2025, abordar questes essenciais relacionadas à sustentabilidade, responsabilidade social e governança corporativa.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "CONGRESSO NACIONAL DE ESG - Doity",
+      "link": "https://doity.com.br/congresso-nacional-de-esg",
+      "descricao": "O objetivo do Congresso Nacional de ESG é a conscientização, a colaboração e o avanço das práticas de ESG entre empresas.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "Congresso Nacional de ESG - Fenaber",
+      "link": "http://www.fenaber.org.br/index.php/pt/institucional/detalhes-eventos?id=2262",
+      "descricao": "O Centro de Convenções Rebouas, em São Paulo, será o palco do Congresso Nacional de ESG nos dias 13 e 14 de maio de 2025.",
+      "data": "13/05/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "ESG Summit Brazil",
+      "link": "https://esgsummitbrazil.com/",
+      "descricao": "ESG Summit Brazil será realizado em SP e incluir mais cidades em 2025.",
+      "data": "19/11/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "BRASIL ESG SUMMIT 2025 - Portal do ESG",
+      "link": "https://portaldoesg.com.br/event/brasil-esg-summit-2025/",
+      "descricao": "O Brasil ESG Summit abordará questões essenciais relacionadas à sustentabilidade, responsabilidade social e governança corporativa.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "Congresso Nacional de ESG | Sustentabilidade",
+      "link": "https://www.congressodeesg.org.br/",
+      "descricao": "O objetivo do Congresso Nacional de ESG é promover a conscientização sobre as práticas de ESG entre o setor empresarial.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "Agenda de eventos ESG 2025",
+      "link": "https://esgemdia.com.br/agenda-esg-2025/",
+      "descricao": "Em agosto de 2025, o Congresso Nacional sobre Gestão de Pessoas discutirá práticas de RH alinhadas aos princípios ESG.",
+      "data": "19/08/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "Congresso Nacional de ESG @congressodeesg",
+      "link": "https://www.instagram.com/congressodeesg/",
+      "descricao": "Os dias 13 e 14 de maio de 2025 em São Paulo - SP com 20% de desconto!",
+      "data": "13/05/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "ESG Forum | 2025",
+      "link": "https://esgforum.com.br/",
+      "descricao": "Explore profundamente os conceitos de responsabilidade social, ambiental e governança.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "Associação Brasileira de ESG",
+      "link": "https://www.associacaoesg.org.br/",
+      "descricao": "A associação promove práticas de ESG e eventos em 2025, incluindo o Congresso Nacional de ESG.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Alerta PMEs: Inadimplência e Risco de Falência em 2025!",
+      "link": "https://jcagudos.com.br/noticia/9985/alerta-pmes-inadimplencia-e-risco-de-falencia-em-2025.html",
+      "descricao": "O ambiente econômico desafiador, marcado por altas taxas de juros e inflação persistente, continua a impactar negativamente a saúde financeira das PMEs.",
+      "data": "26/02/2025",
+      "municipio": "Agudos"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Ant International Launches Embedded Finance Service for E-Commerce SMEs in Brazil",
+      "link": "https://www.businesswire.com/news/home/20250317798327/en/Ant-International-Launches-Embedded-Finance-Service-for-E-Commerce-SMEs-in-Brazil",
+      "descricao": "Bettr, a leading AI-driven lending business under Ant International, announced its official launch in Brazil to expand small and medium enterprises' access to embedded finance solutions.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Public schools in São Paulo will be privatized after order from Governor",
+      "link": "https://en.clickpetroleoegas.com.br/escolas-publicas-de-sao-paulo-serao-privatizadas-apos-ordem-do-governador-tarcisio-de-freitas/",
+      "descricao": "Public schools in São Paulo will be privatized following an order from Governor Tarcísio de Freitas, which may impact local SMEs that provide educational resources.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "São Paulo state government launches PPP for new headquarters downtown",
+      "link": "https://valorinternational.globo.com/business/news/2025/01/24/sao-paulo-state-government-launches-ppp-for-new-headquarters-downtown.ghtml",
+      "descricao": "R$4.7bn project aims to erect 10 towers in downtown São Paulo; this presents opportunities for B2B SMEs during the construction phase.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "MRC So Paulo 2025 - Merchant Risk Council",
+      "link": "https://merchantriskcouncil.org/events/2025/mrc-sao-paulo-2025",
+      "descricao": "Join us in So Paulo for MRC's inaugural conference in Latin America, focusing on payments and fraud management that are crucial to SMEs.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Regional Roundtable Latin America & Caribbean 2025",
+      "link": "https://www.unepfi.org/events/unep-fi-regional-roundtable-latin-america-caribbean-2025-members-only/",
+      "descricao": "The Regional Roundtable aims to discuss sustainability and finance, impacting SMEs in the region.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "PMEs",
+      "titulo": "Annual Conferences | SME Finance Forum",
+      "link": "https://www.smefinanceforum.org/post/annual-conferences",
+      "descricao": "The Global SME Finance Forum focuses on SME financing that occurs globally.",
+      "data": "2025",
+      "municipio": "São Paulo"
+    }
+  ]
+}
+```

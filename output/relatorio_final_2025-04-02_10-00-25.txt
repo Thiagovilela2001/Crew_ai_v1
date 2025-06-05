@@ -1,0 +1,220 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "South Summit Brazil 2025: conheça as 50 startups finalistas da competição",
+        "link": "https://exame.com/negocios/south-summit-brazil-2025-conheca-as-50-startups-finalistas-da-competicao/",
+        "descricao": "O South Summit Brazil revelou as 50 startups finalistas de uma competição, com destaque para o crescimento do interesse internacional.",
+        "data": "13/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "Apresenta uma lista de startups brasileiras com elevada expectativa de crescimento e sucesso no mercado.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Av. Rebouças: o novo polo de startups em São Paulo",
+        "link": "https://distrito.me/blog/av-reboucas-o-novo-polo-de-startups-em-sao-paulo/",
+        "descricao": "A Avenida Rebouças se consolida como um novo centro de inovação, atraindo startups e investidores.",
+        "data": "11/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Os 21 eventos de inovação mais aguardados de 2025",
+        "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+        "descricao": "Destaque para os principais eventos que ocorrerão em São Paulo, reunindo empreendedores e investidores.",
+        "data": "18/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Agenda de eventos para startups brasileiras em 2025",
+        "link": "https://pt.linkedin.com/pulse/aten%C3%A7%C3%A3o-empreendedores-agenda-de-eventos-para-em-2025-cris-arcangeli-k2dyf",
+        "descricao": "A temporada de eventos voltados para startups em 2025 promete muito, especialmente em São Paulo.",
+        "data": "20/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "O Distrito apresenta a lista das atuais startups unicórnio brasileiras e aquelas que podem se tornar unicórnios em breve, com destaque para São Paulo.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Startup Day 2025 será realizado em São Paulo",
+        "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-evento-de-empreendedorismo-e-inovacao-ocorre-em-22-de-marco-no-noroeste-paulista",
+        "descricao": "Evento de empreendedorismo e inovação promovido pelo Sebrae em São Paulo, programado para ocorrer no final de março.",
+        "data": "22/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça as startups que estão promovendo inovação no Brasil em 2025",
+        "link": "https://exame.com/negocios/conheca-as-startups-que-estao-promovendo-inovacao-no-brasil-em-2025/",
+        "descricao": "Destaque para startups em São Paulo que levam inovação ao mercado, trazendo novas soluções.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Economia",
+        "titulo": "Startups estão transformando o cenário econômico em São Paulo",
+        "link": "https://g1.globo.com/economia/noticia/2025/01/10/startups-estao-transformando-o-cenario-economico-em-sao-paulo.ghtml",
+        "descricao": "Reportagem sobre como as startups estão impactando a economia local e contribuindo para o desenvolvimento sustentável da cidade.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "7 Startups brasileiras que prometem revolucionar setores em 2025",
+        "link": "https://www.infomoney.com.br/startups/conheca-as-startups-que-prometem-revolucionar-os-setores-em-2025/",
+        "descricao": "Apresenta um panorama de startups inovadoras que estão se destacando no mercado paulista.",
+        "data": "22/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Coca-Cola Femsa Brasil investe R$ 94 milhões em novo Centro de Distribuição em Bauru",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45672",
+        "descricao": "O novo Centro de Distribuição da Coca-Cola em Bauru gerará cerca de 120 novos empregos e ampliará a capacidade de distribuição em 30%.",
+        "data": "16/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Sorocaba recebe investimento de R$ 80 milhões e geração de 400 empregos",
+        "link": "https://noticias.sorocaba.sp.gov.br/sorocaba-recebe-investimento-de-r-80-milhoes-e-geracao-de-400-empregos-diretos-e-indiretos-com-a-instalacao-da-empresa-ecosan/",
+        "descricao": "Um centro de engenharia e pesquisa está sendo implantado, com foco em capacitação profissional.",
+        "data": "24/03/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Tauste abre dezenas de vagas em Taubaté para nova unidade",
+        "link": "https://sampi.net.br/ovale/noticias/2886912/vale-do-paraiba/2025/02/tauste-abre-dezenas-de-vagas-em-taubate-para-nova-unidade",
+        "descricao": "A nova unidade da rede de supermercados deve gerar mais de 500 empregos diretos.",
+        "data": "24/02/2025",
+        "municipio": "Taubaté"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Tempo para abertura de empresa em São Vicente reduz de três dias para menos de 24h",
+        "link": "https://www.bs9.com.br/litoral/tempo-para-abertura-de-empresa-em-sao-vicente-reduz-de-tres-dias-para/",
+        "descricao": "Medidas de desburocratização aumentarão a quantidade de novos negócios na cidade.",
+        "data": "10/02/2025",
+        "municipio": "São Vicente"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Nova unidade do Assaí Atacadista abre em Guarujá e gera 700 empregos",
+        "link": "https://www.guaruja.sp.gov.br/rede-de-supermercados-gera-700-empregos-e-abre-nova-unidade-em-guaruja-nesta-sexta",
+        "descricao": "A primeira unidade da rede na cidade terá grande capacidade e oferta de produtos.",
+        "data": "01/04/2025",
+        "municipio": "Guarujá"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Itanhaém lança sistema online 'Empresa Fácil' para agilizar abertura de empresas",
+        "link": "https://www2.itanhaem.sp.gov.br/2023/08/21/itanhaem-lanca-sistema-online-empresa-facil-para-agilizar-processos-empresariais",
+        "descricao": "O sistema deve facilitar a formalização de novos negócios na cidade.",
+        "data": "21/08/2024",
+        "municipio": "Itanhaém"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Com expansão em SP, Café Cultura prevê faturamento de R$ 100 mi em 2025",
+        "link": "https://revistaespresso.com.br/com-expansao-em-sp-cafe-cultura-preve-faturamento-de-r-100-mi-em-2025/",
+        "descricao": "A CEO Luciana Melo anunciou planos de expandir o Café Cultura em São Paulo, com previsão de abrir mais 10 unidades até o final do ano e faturar R$ 100 milhões.",
+        "data": "31/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Grupo que atendeu 500 mil em SP investe R$ 10 mi e leva restaurantes a cobiçado polo gastronômico",
+        "link": "https://exame.com/casual/grupo-que-atendeu-500-mil-em-sp-investe-r-10-mi-e-leva-restaurantes-a-cobicado-polo-gastronomico/",
+        "descricao": "O Grupo Locale planeja expandir para novos restaurantes em Pinheiros, São Paulo, com investimentos significativos.",
+        "data": "25/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo de São Paulo libera R$ 238 milhões para infraestrutura e mobilidade",
+        "link": "https://sp.gov.br/sp/canais-comunicacao/noticias/governo+de+sao+paulo+investe+rs+238+milhoes+em+projetos+de+infraestrutura+e+mobilidade+nos+municipios",
+        "descricao": "Investimentos destinados a 270 projetos em 256 municípios, com foco em preservação ambiental e mobilidade urbana.",
+        "data": "14/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Cinco tendências ESG que vão pautar os investidores em 2025",
+        "link": "https://capitalreset.uol.com.br/conteudo-patrocinado/cinco-tendencias-esg-que-vao-pautar-os-investidores-em-2025/",
+        "descricao": "Expectativa de investidores institucionais mais dispostos a alocar recursos em soluções emergentes, focando em eficiência energética e infraestrutura climática.",
+        "data": "22/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Investimentos ESG: O Futuro Sustentável das Finanças",
+        "link": "https://k3investimentos.com.br/2025/01/23/investimentos-esg/",
+        "descricao": "Abordagem que considera impacto social e ambiental, promovendo oportunidades de investimento sustentável.",
+        "data": "23/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Grupo que atendeu 500 mil em SP investe R$ 10 mi e leva restaurantes a cobiçado polo gastronômico",
+        "link": "https://exame.com/casual/grupo-que-atendeu-500-mil-em-sp-investe-r-10-mi-e-leva-restaurantes-a-cobicado-polo-gastronomico/",
+        "descricao": "Grupo Locale anuncia expansão em Pinheiros e Porto Alegre, investindo R$ 10 milhões para aumentar a capacidade de atendimento.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Na luta pela sustentabilidade, as empresas investem em ESG",
+        "link": "https://www.statista.com/study/81131/esg-investments-in-brazil/",
+        "descricao": "Relato que aponta como as empresas brasileiras estão aumentando seus investimentos focados em práticas ESG.",
+        "data": "15/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "BlackRock investe em empresas sustentáveis na América Latina",
+        "link": "https://exame.com/negocios/blackrock-esg-america-latina/",
+        "descricao": "BlackRock focaliza em empresas que implementam práticas sustentáveis na América Latina, incluindo São Paulo.",
+        "data": "10/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Cervejaria Ambev investe em soluções sustentáveis nos processos",
+        "link": "https://www.ambev.com.br/sustentabilidade",
+        "descricao": "Ambev faz investimentos significativos na redução de sua pegada de carbono e no uso de energia renovável.",
+        "data": "12/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Educação",
+        "titulo": "Praia Grande abre inscrições para cursos gratuitos de qualificação",
+        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2025/03/05/praia-grande-sp-abre-inscricoes-para-cursos-gratuitos-de-qualificacao-profissional-veja.ghtml",
+        "descricao": "Cursos de ‘Construa sua marca pessoal’ e ‘Fotos e vídeos para negócios’ estão disponíveis para moradores acima de 18 anos.",
+        "data": "05/03/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Educação",
+        "titulo": "Cenário positivo no horizonte para obras de infraestrutura em SP",
+        "link": "https://sinicesp.org.br/index.php/2025/03/06/cenario-positivo-no-horizonte/",
+        "descricao": "Expectativa é de crescimento nas obras de infraestrutura em vários segmentos, com investimentos importantes.",
+        "data": "06/03/2025",
+        "municipio": "Diversos municípios"
+    }
+]
+```

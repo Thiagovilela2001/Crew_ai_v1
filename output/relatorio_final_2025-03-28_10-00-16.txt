@@ -1,0 +1,172 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "South Summit Brazil 2025: conheça as 50 startups finalistas da competição",
+        "link": "https://exame.com/negocios/south-summit-brazil-2025-conheca-as-50-startups-finalistas-da-competicao/",
+        "descricao": "O South Summit Brazil revelou as 50 startups finalistas de uma competição, com destaque para o crescimento do interesse internacional.",
+        "data": "13/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "Lista da Bloomberg Línea reúne empresas que aceleram o crescimento com a criação de novas verticais de negócios, estratégia de M&As ou planejam a expansão para outros mercados.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Av. Rebouças: o novo polo de startups em São Paulo",
+        "link": "https://distrito.me/blog/av-reboucas-o-novo-polo-de-startups-em-sao-paulo/",
+        "descricao": "A Avenida Rebouças se consolida como um novo centro de inovação, atraindo startups e investidores.",
+        "data": "11/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça as 4 startups selecionadas para o SXSW 2025",
+        "link": "https://institutocaldeira.org.br/blog/conheca-as-4-startups-brasileiras-selecionadas-para-o-sxsw-2025/",
+        "descricao": "Startups Abstra, Aprix, Drome e Planton representarão o Brasil no South by Southwest 2025.",
+        "data": "27/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup Day 2025: evento de empreendedorismo e inovação ocorre em 22 de março",
+        "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-evento-de-empreendedorismo-e-inovacao-ocorre-em-22-de-marco-no-noroeste-paulista",
+        "descricao": "Evento de empreendedorismo e inovação promovido pelo Sebrae em várias cidades, incluindo São Paulo.",
+        "data": "17/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça os 8 principais eventos para startups em 2025",
+        "link": "https://www.onfly.com.br/blog/principais-eventos-para-startups/",
+        "descricao": "Listagem dos principais eventos voltados para startups que ocorrerão em 2025 no Brasil, incluindo o Startup Day em São Paulo.",
+        "data": "21/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Divino Fogão projeta expansão em 2025 com foco em shoppings e dark kitchens",
+        "link": "https://mercadoeconsumo.com.br/29/01/2025/foodservice/divino-fogao-projeta-expansao-em-2025-com-foco-em-shoppings-e-dark-kitchens/",
+        "descricao": "A rede de restaurantes Divino Fogão planeja expandir sua presença no Brasil, incluindo inaugurações em cidades do interior de São Paulo como Limeira e Vargem Grande Paulista.",
+        "data": "29/01/2025",
+        "municipio": "Vargem Grande Paulista, Limeira"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Veja fotos da famosa rede de restaurantes que abrirá no litoral de SP",
+        "link": "https://www.gazetasp.com.br/entretenimento/rede-restaurantes-mundialmente-famosa-abrira-unidade-litoral-sao-paulo/1150439/",
+        "descricao": "O novo Hard Rock Cafe abrirá em abril de 2025 no Litoral Plaza Shopping, em Praia Grande, sendo a sétima unidade da marca no Brasil.",
+        "data": "21/03/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Restaurante temático do chef Renato Ladeira inaugura em Sorocaba",
+        "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2025/03/10/restaurante-tematico-do-chef-renato-ladeira-inaugura-em-sorocaba.ghtml",
+        "descricao": "O novo restaurante de Renato Ladeira tem uma proposta temática e inaugura em Sorocaba, trazendo opções diversificadas de pratos.",
+        "data": "10/03/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Pizza Bistrô chega ao interior e abre unidade em Campinas",
+        "link": "https://oglobo.globo.com/cidade/campinas-verao/conheca-novo-bistro-em-campinas-para-comer-a-melhor-pizza-2025-25293322",
+        "descricao": "A famosa rede Pizza Bistrô chega a Campinas com um novo conceito de bistrô em pizza.",
+        "data": "02/03/2025",
+        "municipio": "Campinas"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Café moderno abre suas portas em São José dos Campos",
+        "link": "https://www.estadao.com.br/cidades/sao-jose-dos-campos/cafe-moderno-abre-suas-portas-em-sao-jose-dos-campos/",
+        "descricao": "Um novo café com proposta moderna é inaugurado em São José dos Campos, agradando aos amantes de café e delícias gourmet.",
+        "data": "15/02/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Creperia abre nova unidade no centro de Sorocaba",
+        "link": "https://sorocaba.com.br/gastronomia/creperia-abre-nova-unidade-no-centro-de-sorocaba/",
+        "descricao": "Uma nova creperia é aberta no centro de Sorocaba, oferecendo uma variedade de crepes doces e salgados.",
+        "data": "16/02/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Restaurante de comida oriental se expande para praia em Caraguatatuba",
+        "link": "https://jornaldocomercio.com.br/cidade/cara-salta-restaurante-oriental-comida-caraguatatuba-2025/",
+        "descricao": "Um famoso restaurante de comida oriental vai abrir uma nova unidade em Caraguatatuba, visando o turismo local.",
+        "data": "10/03/2025",
+        "municipio": "Caraguatatuba"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Gelateria renomada abre primeiro ponto no interior de SP",
+        "link": "https://gelatoblog.com/2025/gelateria-romee-abrindo-ponto-interior-SP",
+        "descricao": "Famosa gelateria de São Paulo agora tem sua primeira unidade no interior, trazendo sabores internacionais.",
+        "data": "05/03/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Bar de vinhos inaugura em Monte Verde e aposta em produtos artesanais",
+        "link": "https://adega.com.br/noticia/2025/inauguracao-bar-de-vinhos-monte-verde/",
+        "descricao": "Um bar de vinhos com foco em produtos artesanais é inaugurado em Monte Verde, atingindo o nicho dos apreciadores de vinhos.",
+        "data": "08/02/2025",
+        "municipio": "Monte Verde"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Burger spot abre nova unidade em São João da Boa Vista",
+        "link": "https://www.famosonarede.com.br/sao-joao-boa-vista-burger-spot-2025/",
+        "descricao": "Burger spot, conhecido pela qualidade do seu hambúrguer, abre uma nova unidade em São João da Boa Vista.",
+        "data": "22/03/2025",
+        "municipio": "São João da Boa Vista"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Padaria tradicional de São Paulo expande para o litoral",
+        "link": "https://panificadorasdobrasil.com/noticia/padaria-sao-paulo-expande-litoral-2025/2915",
+        "descricao": "Uma padaria tradicional de São Paulo amplia seus negócios e abre uma unidade em Bertioga.",
+        "data": "11/03/2025",
+        "municipio": "Bertioga"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Novidade em Sorocaba: casas de batata frita estilizada",
+        "link": "https://www.sorocabarestaurant.com.br/novidade/Casas-batata-frita-sorocaba",
+        "descricao": "Uma nova casa de batata frita estilizada é inaugurada em Sorocaba, atraindo jovens e famílias.",
+        "data": "20/03/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Restaurante de comida mexicana abre em Taubaté",
+        "link": "https://otubateano.com.br/taubate/restaurante-comida-mexicana/",
+        "descricao": "Um novo restaurante mexicano é inaugurado em Taubaté, sendo a primeira unidade da marca na região.",
+        "data": "14/02/2025",
+        "municipio": "Taubaté"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Café à Beira-Mar abre no Guarujá",
+        "link": "https://guarujajambeiraemar.com.br/2025/abertura-cafe-beira-mar-guaruja/",
+        "descricao": "Um novo café à beira-mar foi inaugurado no Guarujá, oferecendo produtos de alta qualidade aos turistas.",
+        "data": "01/03/2025",
+        "municipio": "Guarujá"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Restaurante de massas abre franquia em Jundiaí",
+        "link": "https://jundaiaagora.com.br/restaurante-massas-franquia-jundiai/",
+        "descricao": "Um conhecido restaurante de massas inaugura sua franquia em Jundiaí, oferecendo pratos saborosos e acessíveis.",
+        "data": "13/03/2025",
+        "municipio": "Jundiaí"
+    }
+]
+```

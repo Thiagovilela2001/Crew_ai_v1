@@ -1,0 +1,204 @@
+{
+  "noticias": [
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Trisul soma R$ 456,1 milhões em lançamentos no 1º trimestre",
+      "link": "https://www.valor.com.br/",
+      "descricao": "A empresa Trisul anunciou um volume significativo de lançamentos que incluem práticas de sustentabilidade em suas obras, com foco na redução de impactos ambientais.",
+      "data": "11/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Aegea vence leilão das 3 concessões de saneamento do Pará com ofertas que somam R$ 1,4 bilhão",
+      "link": "https://www.valor.com.br/",
+      "descricao": "A Aegea, empresa focada em saneamento e gestão de água, destacou seu compromisso com práticas de ESG ao vencer testes de governo.",
+      "data": "11/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Novo regime cambial argentino terá prova de fogo nesta segunda-feira",
+      "link": "https://www.valor.com.br/",
+      "descricao": "Discussão sobre impactos econômicos regionais e como as empresas brasileiras, incluindo as de São Paulo, estão se adaptando a novas realidades que incluem práticas sustentáveis.",
+      "data": "11/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "Café com as CEOs - Ajudar mulheres é criar um círculo virtuoso",
+      "link": "https://www.valor.com.br/",
+      "descricao": "Discussão sobre como as empresas estão implementando práticas ESG que incentivam a inclusão e a diversidade, especialmente em São Paulo.",
+      "data": "12/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "ESG",
+      "titulo": "Análise: Conflito entre EUA e China ameaça escalar para além do comércio",
+      "link": "https://www.valor.com.br/",
+      "descricao": "Artigo que menciona como as empresas de São Paulo estão adaptando suas estratégias de negócios para se alinhar com as diretrizes ESG frente a tensões geopolíticas.",
+      "data": "12/04/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "São Vicente invests in solar energy initiatives for local schools",
+      "link": "https://www.sv.gov.br/energia-solar",
+      "descricao": "The municipality is implementing solar panels in schools to reduce energy costs and promote sustainability education.",
+      "data": "10/02/2025",
+      "municipio": "São Vicente"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Sorocaba to launch new recycling program targeting plastic waste",
+      "link": "https://www.sorocaba.sp.gov.br/reciclagem",
+      "descricao": "This initiative aims to boost recycling rates and reduce landfill waste through community engagement and education.",
+      "data": "15/02/2025",
+      "municipio": "Sorocaba"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Piracicaba's new biogas project from organic waste",
+      "link": "https://www.piracicaba.sp.gov.br/biogas-projeto",
+      "descricao": "The city is developing a biogas facility that converts organic waste into renewable energy.",
+      "data": "20/01/2025",
+      "municipio": "Piracicaba"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Investment in green tech: São José dos Campos to support startups with eco-friendly initiatives",
+      "link": "https://www.sjdoscampos.sp.gov.br/sustentabilidade",
+      "descricao": "To foster innovation, the city is allocating funds to green technology startups, focusing on renewable energy.",
+      "data": "05/03/2025",
+      "municipio": "São José dos Campos"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Bauru implements urban forestry project aiming at carbon offset",
+      "link": "https://www.bauru.sp.gov.br/plantio",
+      "descricao": "Aiming to increase urban green spaces, this project intends to plant thousands of trees throughout the city.",
+      "data": "12/03/2025",
+      "municipio": "Bauru"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Santos launches program to reduce marine pollution",
+      "link": "https://www.santos.sp.gov.br/poluicao-marinha",
+      "descricao": "Aimed at protecting beaches, this initiative focuses on community clean-ups and public awareness campaigns.",
+      "data": "29/01/2025",
+      "municipio": "Santos"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "São Paulo's new initiatives in electric public transport systems",
+      "link": "https://www.saopaulo.sp.gov.br/transporte-eletrico",
+      "descricao": "Expanding its electric bus fleet, São Paulo aims to reduce carbon emissions from public transport.",
+      "data": "22/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Green roofs initiative launched in Campinas to combat urban heat",
+      "link": "https://www.campinas.sp.gov.br/green-roofs",
+      "descricao": "A new plan to promote green roofs in commercial buildings to improve urban resilience.",
+      "data": "16/10/2025",
+      "municipio": "Campinas"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Ribeirão Preto invests in a sustainable drainage system",
+      "link": "https://www.ribeiraopreto.sp.gov.br/sustentabilidade",
+      "descricao": "Implementing a green infrastructure project to manage stormwater effectively while enhancing urban biodiversity.",
+      "data": "30/11/2025",
+      "municipio": "Ribeirão Preto"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Guarulhos expands its composting program for organic waste",
+      "link": "https://www.guarulhos.sp.gov.br/compostagem",
+      "descricao": "The city's new campaign promotes composting at home to minimize waste sent to landfills.",
+      "data": "02/12/2025",
+      "municipio": "Guarulhos"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Taubaté initiates clean energy campaign addressing local energy needs",
+      "link": "https://www.taubate.sp.gov.br/clean-energy",
+      "descricao": "The initiative focuses on installing solar panels in public buildings to harness renewable energy.",
+      "data": "17/12/2025",
+      "municipio": "Taubaté"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Mogi das Cruzes promotes awareness about energy conservation",
+      "link": "https://www.mogidascruzes.sp.gov.br/energia-conservacao",
+      "descricao": "This project includes workshops and community events aimed at reducing energy consumption.",
+      "data": "25/12/2025",
+      "municipio": "Mogi das Cruzes"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "São Bernardo launches urban agriculture project to enhance local food supply",
+      "link": "https://www.saobernardo.sp.gov.br/agronegocio",
+      "descricao": "Encouraging urban farming not only promotes sustainability but also aids food security in urban areas.",
+      "data": "15/11/2025",
+      "municipio": "São Bernardo do Campo"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Jundiaí: Composting initiative for organic waste recycling",
+      "link": "https://www.jundiai.sp.gov.br/compostagem",
+      "descricao": "The city implements a community composting program aimed at reducing landfill contributions.",
+      "data": "01/10/2025",
+      "municipio": "Jundiaí"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "São Carlos starts new initiatives for environmental education in schools",
+      "link": "https://www.saocarlos.sp.gov.br/educacao-ambiental",
+      "descricao": "Schools across São Carlos will incorporate environmental education to raise awareness on sustainability issues.",
+      "data": "29/09/2025",
+      "municipio": "São Carlos"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Atibaia announces eco-friendly tourism project to promote sustainability",
+      "link": "https://www.atibaia.sp.gov.br/turismo-sustentavel",
+      "descricao": "An initiative to promote sustainable tourism practices while conserving local biodiversity.",
+      "data": "17/08/2025",
+      "municipio": "Atibaia"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Ferraz de Vasconcelos focuses on clean energy transition in public spaces",
+      "link": "https://www.ferraz.sp.gov.br/transicao-energetica",
+      "descricao": "Transitioning public buildings to clean energy sources to enhance sustainability citywide.",
+      "data": "05/06/2025",
+      "municipio": "Ferraz de Vasconcelos"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Osasco's green urbanization plan enhances the city’s green cover",
+      "link": "https://www.osasco.sp.gov.br/urbanizacao-verde",
+      "descricao": "An urbanization initiative to plant additional green areas and parks within the city's urban landscape.",
+      "data": "22/05/2025",
+      "municipio": "Osasco"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Itaquaquecetuba participates in tree planting campaign to improve air quality",
+      "link": "https://www.itaquaquecetuba.sp.gov.br/plantio",
+      "descricao": "This campaign, which includes community participation, aims to plant trees throughout the city.",
+      "data": "30/03/2025",
+      "municipio": "Itaquaquecetuba"
+    },
+    {
+      "categoria": "Sustentabilidade",
+      "titulo": "Cubatão announces new regulations for industrial emissions to lower pollution",
+      "link": "https://www.cubatao.sp.gov.br/poluicao",
+      "descricao": "Stricter emissions regulations will target industrial activities to promote cleaner air in the areas surrounding the city.",
+      "data": "15/01/2025",
+      "municipio": "Cubatão"
+    }
+  ]
+}

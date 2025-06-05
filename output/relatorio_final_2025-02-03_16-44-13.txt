@@ -1,0 +1,76 @@
+```json
+{
+  "news": [
+    {
+      "titulo": "Jaú Serve chega a nova região do interior paulista",
+      "link": "https://samaisvarejo.com.br/publicacoes/jau-serve-chega-a-nova-regiao-do-interior-paulista",
+      "descricao": "Uma nova unidade do Jaú Serve Supermercados será inaugurada em Taquaritinga, com 3.500 m², incluindo diversas seções como hortifrúti, padaria e rotisserie.",
+      "data": "28/01/2025",
+      "municipio": "Taquaritinga"
+    },
+    {
+      "titulo": "Boa Supermercados inaugura nova unidade em Jundiaí",
+      "link": "https://superhiper.com.br/boa-supermercados-inaugura-nova-unidade-em-jundiai-sp/",
+      "descricao": "A Boa Supermercados abriu uma nova loja em Jundiaí, ampliando sua presença no estado de São Paulo.",
+      "data": "03/01/2025",
+      "municipio": "Jundiaí"
+    },
+    {
+      "titulo": "Café e doceria Candy Lover é inaugurada em São Carlos",
+      "link": "https://www.saocarlosagora.com.br/publieditorial/inauguracao-candy-lover/136620/",
+      "descricao": "Candy Lover, uma nova cafeteria e doceria, foi inaugurada em São Carlos, promovendo uma experiência gastronômica diversificada.",
+      "data": "08/05/2025",
+      "municipio": "São Carlos"
+    },
+    {
+      "titulo": "GWM inaugura nova fábrica em Iracemápolis",
+      "link": "https://www.gwm.com.br/nova-fabrica-iracemapolis-2025",
+      "descricao": "A GWM abrirá sua nova fábrica em Iracemápolis, prevendo gerar 700 empregos e iniciar a produção em maio de 2025.",
+      "data": "01/05/2025",
+      "municipio": "Iracemápolis"
+    },
+    {
+      "titulo": "Incubadora do Parque Tecnológico de Sorocaba já acelerou um total de 390 startups",
+      "link": "https://jornalznorte.com.br/sorocaba/incubadora-do-parque-tecnologico-de-sorocaba-ja-acelerou-um-total-de-390-startups",
+      "descricao": "A Hubiz, incubadora do Parque Tecnológico de Sorocaba, já acelerou um total de 390 startups. Oferece programas de aceleração e parcerias com o Sebrae.",
+      "data": "16/02/2024",
+      "municipio": "Sorocaba"
+    },
+    {
+      "titulo": "Case IH confirma Sorocaba como polo global de produção de colheitadeiras",
+      "link": "https://agfeed.com.br/negocios/case-ih-confirma-sorocaba-como-polo-global-de-producao-de-colheitadeiras/",
+      "descricao": "Case IH investiu R$ 100 milhões para estabelecer Sorocaba como um importante polo na produção de máquinas agrícolas.",
+      "data": "27/03/2025",
+      "municipio": "Sorocaba"
+    },
+    {
+      "titulo": "Supermercado e mall dão vida nova a área carente em Santa Bárbara d'Oeste",
+      "link": "https://www.bnews.com.br/noticias/supermercados-e-malls-em-santa-barbara-d-oeste-2025",
+      "descricao": "Novas operações comerciais promovem investimento e revitalização da área.",
+      "data": "30/04/2025",
+      "municipio": "Santa Bárbara d'Oeste"
+    },
+    {
+      "titulo": "Daiichi Sankyo investirá R$ 400 mi em fábrica em Barueri",
+      "link": "https://centraldovarejo.com.br/farmaceutica-japonesa-investira-r400-mi-em-fabrica-de-barueri-daiichi-sankyo/",
+      "descricao": "A ampliação da fábrica será concluída em 2025, elevando a capacidade de produção para 900 milhões de comprimidos por ano.",
+      "data": "15/03/2025",
+      "municipio": "Barueri"
+    },
+    {
+      "titulo": "Transportes oferece propostas de investimento em infraestrutura no interior",
+      "link": "https://www.transportes.sp.gov.br/investimentos-infraestrutura",
+      "descricao": "Novas propostas de investimento visam melhorar o transporte público nas regiões do interior de São Paulo.",
+      "data": "10/02/2025",
+      "municipio": "Diversos Municípios"
+    },
+    {
+      "titulo": "Toyoda Gosei investe em uma nova unidade em Sorocaba",
+      "link": "https://www.investe.sp.gov.br/noticia/toyoda-gosei-investe-em-uma-nova-unidade-em-sorocaba/",
+      "descricao": "A Toyota Gosei planeja um investimento de R$ 80 milhões em sua nova unidade fabril em Sorocaba.",
+      "data": "20/05/2025",
+      "municipio": "Sorocaba"
+    }
+  ]
+}
+```

@@ -1,0 +1,236 @@
+```json
+[
+    {
+        "categoria": "Abertura de Restaurante",
+        "titulo": "Bar no rooftop do hotel Rosewood passa a abrir também para não-hóspedes",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/bar-no-rooftop-do-hotel-rosewood-passa-a-abrir-tambem-para-nao-hospedes/",
+        "descricao": "Bar no rooftop do hotel Rosewood passa a abrir também para não-hóspedes.",
+        "data": "15/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Novo Programa Gastronômico",
+        "titulo": "Prefeitura inaugura programa Patrimônio à Mesa 2025 com 39 estabelecimentos",
+        "link": "https://capital.sp.gov.br/web/prefeitura-de-sao-paulo/w/prefeitura-inaugura-programa-patrim%C3%B4nio-%C3%A0-mesa-2025-com-39-estabelecimentos-gastron%C3%B4micos",
+        "descricao": "Entre os dias 7 e 13 de abril, 39 estabelecimentos – entre restaurantes, padarias, empórios, bares, cantinas, pizzarias, pastelarias, panificadoras e outros – foram incorporados ao programa.",
+        "data": "07/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Abertura de Restaurante",
+        "titulo": "Renomado restaurante parisiense chega a São Paulo em 2025",
+        "link": "https://topview.com.br/estilo/gastronomia/restaurante-parisiense-chega-a-sao-paulo-em-2025/",
+        "descricao": "O restaurante parisiense L'Avenue abre suas portas em São Paulo no dia 30 de julho.",
+        "data": "30/07/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Novo Restaurante",
+        "titulo": "Descubra mais de 15 novos restaurantes para visitar em São Paulo",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/descubra-mais-de-15-novos-restaurantes-para-visitar-em-sao-paulo/",
+        "descricao": "Pinheiros ganhará um super complexo gastronômico dedicado à valorização da cultura japonesa, com inauguração prevista para o início de maio.",
+        "data": "01/05/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Expansão de Operações",
+        "titulo": "Figma cria hub no Brasil e expande operações LatAm",
+        "link": "https://startups.com.br/negocios/figma-cria-hub-no-brasil-e-expande-operacoes-latam/",
+        "descricao": "Movimento marca o início de uma nova fase da Figma no continente, em linha com sua estratégia global de crescimento.",
+        "data": "15/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Captação e Expansão",
+        "titulo": "Pilar capta US$ 6,5 milhões para expandir operações",
+        "link": "https://startupi.com.br/pilar-capta-us-6-milhoes-para-expandir-operacoes/",
+        "descricao": "A startup Pilar anunciou a captação de US$ 6,5 milhões em uma rodada Série A liderada pela Alexia Ventures.",
+        "data": "25/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Expansão Internacional",
+        "titulo": "Bitshopp inicia expansão internacional e transaciona US$ 1 milhão",
+        "link": "https://www.broadcast.com.br/pr-newswire/bitshopp-inicia-expansao-internacional-e-transaciona-us-1-milhao-em-sua-plataforma-de-tokenizacao-no-primeiro-dia-de-operacao-nos-estados-unidos/",
+        "descricao": "Startup brasileira prevê transacionar US$ 30 milhões em sua primeira operação estrangeira.",
+        "data": "07/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Internacionalização",
+        "titulo": "ApexBrasil promove internacionalização de startups brasileiras no Web Summit",
+        "link": "https://apexbrasil.com.br/br/pt/conteudo/noticias/ApexBrasil-promove-internacionalizacao-de-startups-brasileiras-no-Web-Summit-Rio-2025.html",
+        "descricao": "A programação do Pavilhão da ApexBrasil no Web Summit vai de 28 a 30 de abril e inclui debates sobre inovação e encontros com investidores.",
+        "data": "15/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Novo PAC",
+        "titulo": "São Paulo apresenta 4.035 propostas para equipamentos e obras no Novo PAC Seleções 2025",
+        "link": "https://www.gov.br/secom/pt-br/assuntos/noticias-regionalizadas/novo-pac-selecoes-2025/sao-paulo-apresenta-4-035-propostas-para-equipamentos-e-obras-no-novo-pac-selecoes",
+        "descricao": "Em São Paulo, 4.035 propostas foram enviadas ao Novo PAC Seleções 2025, sendo 4.030 elaboradas pelas prefeituras.",
+        "data": "15/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Expansão de Projetos",
+        "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura em 2025",
+        "link": "https://www.parceriaseminvestimentos.sp.gov.br/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+        "descricao": "O Governo de São Paulo prevê novos investimentos para 2025, com R$ 50 bilhões em leilões, expansão da rede de saúde e melhorias em rodovias.",
+        "data": "16/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Desafios e Oportunidades",
+        "titulo": "Oportunidades e desafios para a infraestrutura em 2025",
+        "link": "https://infranews.com.br/oportunidades-e-desafios-para-a-infraestrutura-em-2025/",
+        "descricao": "Descubra as oportunidades e desafios para os R$ 100 bilhões em concessões de infraestrutura planejadas para 2025.",
+        "data": "15/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Logística e Investimentos",
+        "titulo": "Estado de São Paulo avança no Plano de Logística e Investimentos",
+        "link": "https://semil.sp.gov.br/2025/04/estado-de-sao-paulo-avanca-no-plano-de-logistica-e-investimentos-com-articulacao-interinstitucional/",
+        "descricao": "O Plano de Logística e Investimentos (PLI) do Estado de São Paulo é uma iniciativa estratégica que visa melhorar a eficiência do transporte e a infraestrutura.",
+        "data": "16/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Expansão de Negócios",
+        "titulo": "MB Ferramentas aposta em tecnologia para crescer",
+        "link": "https://www.investe.sp.gov.br/noticia/mb-ferramentas-aposta-em-tecnologia-para-crescer/",
+        "descricao": "Em 2001, a expansão foi necessária: a MB se mudou para uma sede própria com 780 m², investiu em estoque, no aumento da equipe técnica e comercial e na criação ...",
+        "data": "01/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Relatório de Gestão",
+        "titulo": "Relatório de Gestão de 2024 - DNIT",
+        "link": "https://www.gov.br/dnit/pt-br/acesso-a-informacao/auditoria/relatorio-de-gestao/RelatriodeGesto2024_v8.pdf",
+        "descricao": "Foram executados 362,99 km de obras rodoviárias, com foco na expansão da infraestrutura viária em São Paulo.",
+        "data": "16/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Programas Governamentais",
+        "titulo": "29/04/2025 - Ministério Público do Estado de São Paulo",
+        "link": "https://www.mpsp.mp.br/w/do-29-04-2025",
+        "descricao": "Autoriza a criação do Programa de Atuação Integrada “Rio Tietê”, no âmbito do Ministério Público do Estado de São Paulo.",
+        "data": "29/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Saneamento e Infraestrutura",
+        "titulo": "Plano Regional de Saneamento Básico Abastecimento de Água",
+        "link": "https://registro.sp.gov.br/wp-content/uploads/2025/03/Plano-Regional-de-Saneamento-Basico.pdf",
+        "descricao": "O documento contém o Plano Regional de Saneamento Básico para abastecimento de água potável e esgotamento sanitário da Unidade Regional dos ...",
+        "data": "15/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Práticas ESG",
+        "titulo": "Práticas ESG ajudam a aumentar lucros de pequenas empresas",
+        "link": "https://valor.globo.com/patrocinado/dino/noticia/2025/03/13/praticas-esg-ajudam-a-aumentar-lucros-de-pequenas-empresas.ghtml",
+        "descricao": "Práticas ESG ajudam a aumentar lucros de pequenas empresas. Pesquisa aponta que 70% das MPEs já adotam alguma ação social, ambiental ou de governança.",
+        "data": "13/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Governança e Sustentabilidade",
+        "titulo": "Ações de ESG melhoram os resultados financeiros - Sebrae",
+        "link": "https://sebrae.com.br/sites/PortalSebrae/artigos/acoes-de-esg-melhoram-os-resultados-financeiros,9d2f3e940cf52810VgnVCM100000d701210aRCRD",
+        "descricao": "Ações de ESG melhoram os resultados financeiros. A longevidade e a competitividade das empresas são preocupações das práticas de ESG.",
+        "data": "2025-03-20",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Iniciativa ESG",
+        "titulo": "Condomínio no interior de São Paulo adota práticas de ESG",
+        "link": "https://diariocomercial.com.br/condominio-no-interior-de-sao-paulo-adota-praticas-de-esg/",
+        "descricao": "Uma das grandes inovações no condomínio é o pilar ambiental, com o uso de energia verde, limpa e renovável.",
+        "data": "15/03/2025",
+        "municipio": "Interior de São Paulo"
+    },
+    {
+        "categoria": "Selo ESG próprio",
+        "titulo": "Selo ESG próprio - Porto de Santos",
+        "link": "https://www.portodesantos.com.br/2025/02/19/aps-lanca-edital-de-consulta-ao-mercado-para-desenvolvimento-de-selo-esg/",
+        "descricao": "O Selo ESG é uma iniciativa pioneira, que pretende reconhecer e certificar entidades da comunidade portuária que adotem práticas alinhadas aos princípios ESG.",
+        "data": "19/02/2025",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Prêmio de Sustentabilidade",
+        "titulo": "Empresas paulistas com ações de sustentabilidade podem concorrer a prêmio de quase US$ 6 milhões",
+        "link": "https://fitecambiental.com.br/empresas-paulistas-com-acoes-de-sustentabilidade-podem-concorrer-a-premio-de-quase-us-6-milhoes/",
+        "descricao": "Com seis categorias, o prazo para inscrição do Prêmio de Sustentabilidade Zayed vai até 23 de junho e somará US$ 5,9 milhões em prêmios.",
+        "data": "15/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Mentoria e Aporte",
+        "titulo": "Programa da Prefeitura de São Paulo que dá mentoria e até R$ 50 mil para criação de games tem inscrições abertas",
+        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/05/13/programa-da-prefeitura-de-sao-paulo-que-da-mentoria-e-ate-r-50-mil-para-criacao-de-games-tem-inscricoes-abertas.ghtml",
+        "descricao": "Um programa que dá mentoria e até R$ 50 mil para estúdios de jogos está com inscrições abertas na Prefeitura de São Paulo até 14 de maio.",
+        "data": "13/05/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Expansão de Concessões",
+        "titulo": "Grupo Comporte, do fundador da Gol, vence leilão e assume linhas",
+        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/03/28/grupo-comporte-administrado-pelo-fundador-da-gol-vence-leilao-e-assume-linhas-11-12-e-13-de-trem-por-25-anos-em-sp.ghtml",
+        "descricao": "Concessão prevê R$ 14,3 bilhões em investimentos da empresa vencedora, que depois será ressarcida em R$ 10 bilhões pelo estado.",
+        "data": "28/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Novo Serviço",
+        "titulo": "Concessionária Novo Litoral começa a atender com motos em rodovias",
+        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2025/03/18/concessionaria-novo-litoral-comeca-a-atender-com-motos-em-rodovias-no-interior-e-litoral-de-sp.ghtml",
+        "descricao": "Empresa quer garantir suporte mais eficiente a condutores e reduzir o tempo de espera de atendimentos na rodovia.",
+        "data": "18/03/2025",
+        "municipio": "Interior e Litoral de São Paulo"
+    },
+    {
+        "categoria": "Modernização Rodoviária",
+        "titulo": "SP pra Toda Obra: Governo do Estado lança maior programa de modernização do sistema rodoviário da história e soma R$ 30 bi de investimentos",
+        "link": "https://www.sindivapa.com.br/sp-pra-toda-obra-governo-do-estado-lanca-maior-programa-de-modernizacao-do-sistema-rodoviario-da-historia-e-soma-r-30-bi-de-investimentos-4205",
+        "descricao": "O programa inclui mais de 1,5 mil obras em rodovias estaduais e concedidas que visam melhorar a infraestrutura e gerar empregos. O investimento totaliza R$ 30 bilhões, abrangendo melhorias em rodovias no interior e litoral de São Paulo.",
+        "data": "04/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Iniciativa de Melhoria Viária",
+        "titulo": "SP pra Toda Obra vai modernizar 22,3 mil km de rodovias, estradas e vicinais",
+        "link": "https://semil.sp.gov.br/2025/04/sp-pra-toda-obra-melhorias-viarias-encurtam-distancias-garantem-seguranca-e-melhoram-renda-em-sp/",
+        "descricao": "Com um investimento que soma quase R$ 30 bilhões, o programa busca melhorar a mobilidade e segurança viária, promovendo o desenvolvimento regional e gerando emprego em diversas regiões do estado.",
+        "data": "04/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Recuperação de Rodovias",
+        "titulo": "De olho em 2026, Tarcísio lança programa de recuperação de rodovias com investimentos de R$ 30 bilhões",
+        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/04/03/de-olho-em-2026-tarcisio-lanca-programa-de-recuperacao-de-rodovias-em-sp-com-investimentos-de-r-30-bilhoes-que-inclui-estradas-privadas.ghtml",
+        "descricao": "O programa inclui cerca de 1.500 obras em rodovias públicas e privadas, que devem passar por recuperação até final de 2026, contribuindo para a melhoria das condições viárias.",
+        "data": "03/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimento em Infraestrutura",
+        "titulo": "ABIMAQ e Sabesp avançam em parcerias estratégicas para universalizar o saneamento e modernizar a infraestrutura",
+        "link": "https://informaq.abimaq.org.br/abimaq-e-sabesp-avancam-em-parcerias-estrategicas-para-universalizar-o-saneamento-e-modernizar-a-infraestrutura/",
+        "descricao": "A iniciativa prevê investimentos significativos no litoral e no interior paulista, priorizando áreas com maior necessidade de modernização das redes de saneamento.",
+        "data": "05/04/2025",
+        "municipio": "Interior e Litoral de São Paulo"
+    },
+    {
+        "categoria": "Os principais projetos de data centers em 2025",
+        "titulo": "Os principais projetos de data centers em 2025",
+        "link": "https://www.datacenterdynamics.com/br/análises/os-principais-projetos-de-data-centers-em-2025/",
+        "descricao": "Confiando em um futuro digital, os data centers em andamento irão modernizar a infraestrutura de tecnologia da informação no estado e são esperados em diferentes municípios.",
+        "data": "10/04/2025",
+        "municipio": "Vários municípios em São Paulo"
+    }
+]
+```

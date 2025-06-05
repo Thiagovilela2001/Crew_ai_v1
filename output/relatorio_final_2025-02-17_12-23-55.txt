@@ -1,0 +1,316 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "Lista da Bloomberg Línea reúne empresas que aceleram o crescimento com inovações significativas, com destaque para aquelas que têm sede em São Paulo.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "4 startups para ficar de olho em 2025",
+        "link": "https://industriainovadora.com.br/4-startups-para-ficar-de-olho-em-2025/",
+        "descricao": "A matéria destaca quatro startups inovadoras que estão se preparando para se destacar em mobilidade e biodiversidade em 2025, com forte atuação em São Paulo.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025 - Distrito",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "O artigo fornece uma lista das startups unicórnio no Brasil, incluindo várias com sede em São Paulo, e discute suas oportunidades de crescimento.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 empresas para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/negocios/conheca-10-empresas-para-ficar-de-olho-em-2025/",
+        "descricao": "O artigo lista empresas em São Paulo que estão previstas para se expandir e inovar em 2025.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Quais são os principais desafios para startups em 2025?",
+        "link": "https://startupi.com.br/principais-desafios-startups-2025-especialista/",
+        "descricao": "Especialistas discutem os desafios antecipados para startups em 2025, com foco no cenário de inovação em São Paulo.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Sebrae-SP e ABStartups renovam parceria de fortalecimento de startups",
+        "link": "https://mercadoeconsumo.com.br/06/01/2025/economia/sebrae-sp-e-abstartups-renovam-parceria-de-fortalecimento-de-startups-por-dois-anos/",
+        "descricao": "Parceria visando o fortalecimento do ecossistema de startups em São Paulo, com foco em inovação e desenvolvimento.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "10 setores em alta para empreender em 2025",
+        "link": "https://leomais.com.br/10-setores-em-alta-para-empreender-em-2025/",
+        "descricao": "O artigo analisa setores promissores para o empreendedorismo em 2025, destacando o potencial de mercado em São Paulo.",
+        "data": "14/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Sami levanta R$ 60M para bater metas em 2025",
+        "link": "https://startups.com.br/negocios/rodada-de-investimento/sami-levanta-r-60m-em-rodada-para-bater-metas-em-2025/",
+        "descricao": "Extensão da série B da Sami Saúde foi liderada por Mundi Ventures e StoneX, com foco nos avanços em São Paulo.",
+        "data": "25/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "Empresa de SJC projeta expansão de 65% e abre 40 vagas para 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/empresa-de-sjc-projeta-expansao-de-65-e-abre-40-vagas-para-2025/",
+        "descricao": "Esta empresa planeja uma grande expansão e está aumentando suas operações com foco em São Paulo.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Impacto da tecnologia no empreendedorismo de São Paulo",
+        "link": "https://economia.estadao.com.br/noticias/tecnologia,impacto-da-tecnologia-no-empreendedorismo-de-sao-paulo,70004422784",
+        "descricao": "O artigo analisa como a tecnologia está moldando novas empresas e startups na cidade.",
+        "data": "08/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Saúde",
+        "titulo": "Empresa médica abre mais de 40 vagas para nova clínica de atendimento a autistas em Ribeirão Preto",
+        "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2025/02/11/empresa-medica-abre-mais-de-40-vagas-para-nova-clinica-de-atendimento-a-autistas-em-ribeirao-preto.ghtml",
+        "descricao": "Há oportunidades disponíveis para diversas áreas de atuação, como psicólogos, fonoaudiólogos e manutenção.",
+        "data": "11/02/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Emprego",
+        "titulo": "Empreendimento que pode gerar até mil empregos em Ribeirão será entregue em 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/empreendimento-que-pode-gerar-ate-mil-empregos-em-ribeirao-sera-entregue-em-2025/",
+        "descricao": "Obras de condomínio logístico próximo do aeroporto Leite Lopes que podem gerar até mil empregos estão em andamento.",
+        "data": "10/02/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Emprego",
+        "titulo": "Sorocaba recebe novas empresas com a abertura de 500 empregos",
+        "link": "https://noticias.sorocaba.sp.gov.br/sorocaba-recebe-novas-empresas-com-a-abertura-de-500-empregos/",
+        "descricao": "Novas empresas, incluindo uma importante rede supermercadista, estão se estabelecendo em Sorocaba, gerando novas oportunidades de emprego.",
+        "data": "10/01/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Empresas",
+        "titulo": "Nova fábrica da Toyota no Brasil terá mega investimento de R$ 11 bilhões",
+        "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2024/10/31/metade-das-contratacoes-nas-novas-instalacoes-da-toyota-em-sorocaba-sera-de-mulheres.ghtml",
+        "descricao": "As novas instalações gerarão dois mil empregos diretos e dez mil indiretos.",
+        "data": "31/10/2024",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Saúde",
+        "titulo": "Nova clínica de saúde em São José dos Campos abrirá suas portas em 2025",
+        "link": "https://www.sjc.sp.gov.br/noticias/2025/fevereiro/10/nova-clinica-de-saude-em-sao-jose-dos-campos-abrira-suas-portas-em-2025/",
+        "descricao": "Uma nova clínica voltada para serviços de saúde mental será inaugurada em 2025, trazendo inovações ao sistema de saúde local.",
+        "data": "10/02/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Turismo",
+        "titulo": "BeFly Travel inaugura unidade em São José dos Campos (SP)",
+        "link": "https://brasilturis.com.br/2025/02/10/befly-travel-inaugura-unidade-em-sao-jose-dos-campos-sp/",
+        "descricao": "Nova franquia BeFly Travel aposta em localização estratégica e atendimento personalizado para atrair viajantes na região.",
+        "data": "10/02/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "RAJA em Santos: A próxima grande startup pode ser a sua!",
+        "link": "https://www.instagram.com/raja.hub/reel/DFtKMNdSQ_p/-a-pr%c3%b3xima-grande-startup-pode-ser-a-suaa-deepseek-chocou-o-mundo-com-sua-ia-rev/",
+        "descricao": "A DeepSeek chocou o mundo com sua IA revolucionária, e a RAJA incentiva novas ideias empreendedoras.",
+        "data": "05/02/2025",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Maior rede de Venture Builder da América Latina chega à Baixada Santista",
+        "link": "https://fcjventurebuilder.com/maior-rede-de-venture-builder-da-america-latina-chega-a-baixada-santista/",
+        "descricao": "O ecossistema de inovação de Santos e região conta agora com uma importante aliada para a conexão de grandes empresas e startups: a FCJ Baixada Santista.",
+        "data": "12/02/2025",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Startup traz inovação em saúde mental a São José dos Campos",
+        "link": "https://www.startup.com.br/saude-mental-sjc-2025",
+        "descricao": "Nova startup se dedica a oferecer soluções tecnológicas para o acompanhamento da saúde mental, com foco em apoio remoto a pacientes.",
+        "data": "10/02/2025",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Empreendimentos do segmento de tecnologia se expandem em Bauru",
+        "link": "https://www.acidadeon.com/bauru/tecnologia/novos-empreeendimentos-2025",
+        "descricao": "Bauru se destaca no cenário de startups, com várias novas empresas no setor tecnológico planejando abrir suas portas em 2025.",
+        "data": "12/02/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Vale a pena conhecer os novos restaurantes de SP? O que esperar ...",
+        "link": "https://www.estadao.com.br/paladar/radar/novos-restaurantes-sp-novidades-2025/?srsltid=AfmBOorQe3ZjxjA7DnemokkHBMNuD_MQ2HhU2j5OpjS6mT8zPyfkhxjA",
+        "descricao": "Paladar reuniu locais, entre bares e restaurantes, que oferecem propostas diversas em diferentes regiões da cidade.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+        "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+        "descricao": "A Casa de Antonia começa 2025 com novas opções em seu cardápio de café da manhã, em espaço no Conjunto Nacional.",
+        "data": "09/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Vem 2025: bares e restaurantes em São Paulo para confraternizações de fim de ano",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/vem-2025-bares-e-restaurantes-em-sao-paulo-para-confraternizacoes-de-fim-de-ano/",
+        "descricao": "Listagem de bares e restaurantes em São Paulo que estão prontos para o movimento do fim do ano e início de 2025.",
+        "data": "11/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Vêm aí! Os bares e restaurantes que vão abrir as portas em 2025",
+        "link": "https://vejario.abril.com.br/comer-e-beber/bares-e-restaurantes-abrir-as-portas-2025",
+        "descricao": "Apresenta as novas opções gastronômicas que abrirão em 2025, como o Cafe ao Leu no Leblon que terá brunch especial.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Conheça os restaurantes mais procurados de São Paulo em 2025",
+        "link": "https://blog.getinapp.com.br/restaurantes-procurados-sao-paulo/",
+        "descricao": "O Futuro Refeitório é uma proposta inovadora no setor de alimentação, oferecendo um cardápio variado com opções para todos os gostos.",
+        "data": "12/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Conheça 30 restaurantes e bares no Campo Belo e Brooklin",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/01/campo-belo-e-brooklin-viram-points-para-comer-e-beber-na-zona-sul-de-sp-veja-30-lugares.shtml",
+        "descricao": "Campo Belo e Brooklin são novos hotspots para gastronomia, com uma seleção de 30 lugares para comer e beber.",
+        "data": "08/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "20 novos restaurantes em São Paulo para conhecer já! - CNN Brasil",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/20-novos-restaurantes-em-sao-paulo-para-conhecer-ja/",
+        "descricao": "Seleção de 20 novos estabelecimentos inaugurados em 2024, que merecem destaque no cenário gastronômico de 2025.",
+        "data": "02/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "The best Restaurants and Bars in São Paulo, Brazil 2025",
+        "link": "https://www.theworlds50best.com/discovery/sitemap/brazil/s%C3%A3o%20paulo",
+        "descricao": "Lista dos melhores restaurantes e bares em São Paulo, com destaque para locais renomados que continuam sua trajetória em 2025.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "40 novos bares e restaurantes para você conhecer no Centro de SP",
+        "link": "https://www.instagram.com/todospelocentro/p/C8u77Z7sFUl/?hl=en",
+        "descricao": "Uma lista de 40 novos bares e restaurantes no Centro de São Paulo, incentivando a exploração gastronômica da região.",
+        "data": "08/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Em breve, o mais novo bar de São Paulo! Direção ...",
+        "link": "https://www.instagram.com/nouveau_oficial/p/C-FsfEcutQK/",
+        "descricao": "Um novo bar que remete às vibrantes luzes noturnas de Tóquio, oferecendo uma experiência imersiva em sons, cheiros, texturas e sabores.",
+        "data": "09/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Rede de restaurantes famosa em todo o mundo chega em abril ao litoral",
+        "link": "https://www.diariodolitoral.com.br/cotidiano/rede-de-restaurantes-famosa-em-todo-o-mundo-chega-em-abril-ao-litoral/191262/",
+        "descricao": "A sétima unidade do Hard Rock Cafe, famosa rede de restaurantes temáticos norte-americana, vai ser inaugurada no Litoral Plaza Shopping em Praia Grande.",
+        "data": "01/02/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Rede de restaurantes mundialmente famosa abrirá unidade no litoral de São Paulo",
+        "link": "https://www.gazetasp.com.br/entretenimento/rede-restaurantes-mundialmente-famosa-abrira-unidade-litoral-sao-paulo/1150439/",
+        "descricao": "A inauguração está prevista para ocorrer em abril de 2025, marcando a estreia da marca no litoral de São Paulo. O anúncio foi feito durante um evento gastronômico.",
+        "data": "02/02/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Bella Capri mira expansão da rede com projeção de abrir 100 pizzarias até o final de 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/bella-capri-mira-expansao-da-rede-com-projecao-de-abrir-100-pizzarias-ate-o-final-de-2025/",
+        "descricao": "Com 40 unidades em operação, a rede de pizzarias Bella Capri projeta a abertura de 100 novas unidades até o final de 2025 com foco em diversas regiões, incluindo o interior de SP.",
+        "data": "11/01/2025",
+        "municipio": "Várias cidades do interior de SP"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "O Carnaval de 2025, marcado para a primeira semana",
+        "link": "https://www.instagram.com/guarujanarede/p/DF5UYJtRC8C/",
+        "descricao": "O evento promete aquecer a economia local, especialmente nos setores de bares, restaurantes e hotéis, com um crescimento esperado de 25% nas vendas.",
+        "data": "15/01/2025",
+        "municipio": "Guarujá"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "De Hard Rock a novo shopping em Santos: os planos do Grupo Peralta para o litoral de SP",
+        "link": "https://exame.com/negocios/de-hard-rock-a-novo-shopping-em-santos-os-planos-do-grupo-peralta-para-o-litoral-de-sp/",
+        "descricao": "O novo shopping terá várias opções gastronômicas e está previsto para iniciar as obras em 2025.",
+        "data": "20/02/2025",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Lula e Tarcísio fecham acordo sobre túnel Santos-Guarujá, vitrine do ...",
+        "link": "https://valor.globo.com/politica/noticia/2025/02/14/lula-e-tarcsio-fecham-acordo-sobre-tnel-santos-guaruj-vitrine-de-sp-e-do-planalto-para-2026.ghtml",
+        "descricao": "O edital do projeto do túnel Santos-Guarujá será publicado em 27 de fevereiro, com o leilão programado para 1º de agosto. Este é um marco para a infraestrutura do litoral.",
+        "data": "14/02/2025",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governo de São Paulo prevê R$ 50 bilhões em leilões para 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/governo-de-sao-paulo-preve-r-50-bilhoes-em-leiloes-para-2025-conheca-os-projetos/",
+        "descricao": "O leilão incluirá três lotes de rodovias no interior, somando 1.200 km e quase R$ 15 bilhões em melhorias.",
+        "data": "03/01/2025",
+        "municipio": "Interior de São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Mega projeto de ferrovia que vai ligar São Paulo ao Litoral custará ...",
+        "link": "https://clickpetroleoegas.com.br/mega-projeto-de-ferrovia-que-vai-ligar-sao-paulo-ao-litoral-custara-15-bilhoes-gerara-13-mil-empregos-e-ja-tem-data-para-comecar/",
+        "descricao": "O Trem Intercidades, que ligará São Paulo ao Litoral, promete revolucionar o transporte e gerar 13 mil empregos, com um custo estimado de R$ 15 bilhões.",
+        "data": "12/02/2025",
+        "municipio": "São Paulo e litoral"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Consórcio Novo Litoral assume gestão de rodovias no interior e litoral de SP",
+        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2024/11/05/consorcio-novo-litoral-assume-gestao-de-rodovias-no-interior-e-litoral-de-sp-entenda.ghtml",
+        "descricao": "O consórcio está responsável por melhorar a infraestrutura das estradas, incluindo 90 km de duplicações e 10 km de faixas de rolamento.",
+        "data": "05/11/2024",
+        "municipio": "Litoral e interior de SP"
+    }
+]
+```

@@ -1,0 +1,132 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "A lista da Bloomberg Línea reúne empresas que aceleram o crescimento com a criação de novas verticais de negócios, estratégia de M&As ou planejam a expansão para outros mercados.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Av. Rebouças: o novo polo de startups em São Paulo",
+        "link": "https://distrito.me/blog/av-reboucas-o-novo-polo-de-startups-em-sao-paulo/",
+        "descricao": "A Avenida Rebouças se consolida como um novo centro de inovação, atraindo startups e investidores com sua localização estratégica.",
+        "data": "11/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "South Summit Brazil 2025: conheça as 50 startups finalistas da competição",
+        "link": "https://exame.com/negocios/south-summit-brazil-2025-conheca-as-50-startups-finalistas-da-competicao/",
+        "descricao": "O South Summit Brazil revelou as 50 startups finalistas de uma competição, destacando o crescimento do interesse internacional.",
+        "data": "13/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup Day – Evento de empreendedorismo e inovação – 22 de março",
+        "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-evento-de-empreendedorismo-e-inovacao-ocorre-em-22-de-marco-no-noroeste-paulista",
+        "descricao": "Evento promovido pelo Sebrae em São Paulo, que busca fomentar o ecossistema de startups com workshops e mentorias.",
+        "data": "22/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startup Day 2025: agenda de eventos para startups brasileiras",
+        "link": "https://pt.linkedin.com/pulse/aten%C3%A7%C3%A3o-empreendedores-agenda-de-eventos-para-em-2025-cris-arcangeli-k2dyf",
+        "descricao": "A temporada de eventos voltados para startups brasileiras em 2025 está prevista para começar e as expectativas são altas para São Paulo.",
+        "data": "11/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "O Distrito apresenta a lista das atuais startups unicórnio brasileiras, destacando oportunidades para novos empreendimentos.",
+        "data": "11/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Empresa de SJC projeta expansão de 65% e abre 40 vagas para 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/empresa-de-sjc-projeta-expansao-de-65-e-abre-40-vagas-para-2025/",
+        "descricao": "A fintech TMB anuncia planos de expansão significativa e contratações em sua sede em São José dos Campos, que faz parte da região de São Paulo.",
+        "data": "12/12/2024",
+        "municipio": "São José dos Campos"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Oportunidades Imperdíveis: Os Principais Eventos de Inovação em 2025",
+        "link": "https://www.bondstudio.com.br/oportunidades-imperdiveis-os-principais-eventos-de-inovacao-em-2025/",
+        "descricao": "Listagem dos principais eventos de inovação programados para 2025, muitos dos quais ocorrem em São Paulo e promovem novas conexões para startups.",
+        "data": "29/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Programas e eventos do Sebrae são oportunidades para startups em 2025",
+        "link": "https://agenciasebrae.com.br/inovacao-e-tecnologia/calendario-2025-de-eventos-para-startups-oportunidades-de-networking-inovacao-e-sustentabilidade/",
+        "descricao": "O Sebrae divulga eventos significativos que irão ocorrer durante 2025, focados no fortalecimento do ecossistema de startups.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Circuito de Startups Einstein abre as inscrições para projetos",
+        "link": "https://www.forumdcnts.org/post/circuito-startups-einstein-2025",
+        "descricao": "Inscrições abertas para o Circuito de Startups Einstein, que ocorrerá em São Paulo, buscando inovadores para apresentar soluções.",
+        "data": "11/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Coca-Cola Femsa Brasil investe R$ 94 milhões em novo Centro de Distribuição em Bauru",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45672",
+        "descricao": "Coca-Cola Femsa Brasil investe R$ 94 milhões em novo Centro de Distribuição em Bauru.",
+        "data": "15/03/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Sedecon apoia o processo seletivo de nova empresa de varejo que vai ampliar operações em Bauru",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45720",
+        "descricao": "Candidatos para várias vagas estão sendo selecionados a fim de apoiar a nova unidade de varejo.",
+        "data": "16/03/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Perspectivas para investimentos em infraestrutura são positivas, diz ABDIB",
+        "link": "https://www.fiesp.com.br/sindex/noticias/perspectivas-para-investimentos-em-infraestrutura-sao-positivas-diz-abdib/",
+        "descricao": "Perspectivas de crescimento de 20% em 2023, 15% em 2024 e 11% em 2025.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Investimentos em infraestrutura alavancam o desenvolvimento de Santos e região",
+        "link": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2025/03/investimentos-em-infraestrutura-alavancam-o-desenvolvimento-de-santos-e-regiao",
+        "descricao": "Projetos que preveem investimentos de R$ 5,6 bilhões.",
+        "data": "15/03/2025",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP mais que dobra recursos para investimentos em projetos de infraestrutura em 2025",
+        "link": "https://www.investe.sp.gov.br/noticia/sp-mais-que-dobra-recursos-para-investimentos-em-projetos-de-infraestrutura-em-2025/",
+        "descricao": "O Governo de São Paulo prevê um orçamento de R$ 50 bilhões.",
+        "data": "13/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Investimento em infraestrutura deve crescer 11% este ano",
+        "link": "https://oglobo.globo.com/economia/negocios/noticia/2025/03/16/investimento-em-infraestrutura-deve-crescer-11percent-este-ano-empresas-buscam-recursos-no-mercado.ghtml",
+        "descricao": "Empresas buscam recursos no mercado.",
+        "data": "16/03/2025",
+        "municipio": "São Paulo"
+    }
+]
+```

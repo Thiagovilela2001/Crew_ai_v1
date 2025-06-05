@@ -1,0 +1,364 @@
+```json
+[
+    {
+        "categoria": "Restaurantes",
+        "titulo": "10 restaurantes que abriram em 2024 pra você conhecer em 2025",
+        "link": "https://www.instagram.com/tipsbygelly/reel/DETE4EDy5VZ/10-restaurantes-que-abriram-em-2024-pra-voc%C3%AA-conhecer-em-2025-parte-2-com-a-list/?hl=en",
+        "descricao": "Parte 2 com a lista de algumas novidades que eu conheci esse ano, testadas e recomendadas para visitar em 2025.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Os 39 melhores restaurantes de São Paulo segundo ranking EXAME Casual 2025",
+        "link": "https://exame.com/casual/os-melhores-restaurantes-de-sao-paulo-segundo-ranking-exame-casual-2025/",
+        "descricao": "A seleção dos melhores restaurantes em São Paulo para o ano de 2025, abrangendo diversos tipos de cozinha e experiências gastronômicas.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Descubra mais de 15 novos restaurantes para visitar em São Paulo",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/descubra-mais-de-15-novos-restaurantes-para-visitar-em-sao-paulo/",
+        "descricao": "Conheça novos restaurantes como Mares de La Peruana, oferecendo uma diversidade de opções gastronômicas na cidade.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "De bar 'raiz' a hamburgueria, 6 lugares para conhecer em SP em 2025",
+        "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/01/18/resolucoes-de-2025-os-restaurantes-que-precisamos-conhecer.htm",
+        "descricao": "Uma seleção de 6 lugares autênticos que prometem estar na moda este ano, abrangendo diversas ofertas gastronômicas.",
+        "data": "18/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "13 NOVOS Restaurantes Em São Paulo Em 2025",
+        "link": "https://cronicasdasurdez.com/bares-e-restaurantes-em-sao-paulo/",
+        "descricao": "Lista dos principais bares e restaurantes que prometem ser os hotspots gastronômicos neste ano.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "10 Restaurantes de Chefes Famosos em São Paulo para Conferir em 2025",
+        "link": "https://alphafm.com.br/agenda/10-restaurantes-de-chefes-famosos-em-sao-paulo-para-conferir-em-2025/",
+        "descricao": "Os imperdíveis de chefs renomados que estarão em alta este ano, refletindo a diversidade da gastronomia paulista.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "SP Restaurant Week 2025: quando acontece o evento e quais restaurantes participam?",
+        "link": "https://www.estadao.com.br/paladar/restaurantes-e-bares/restaurant-week-2025-festival-conta-com-menus-completos-a-partir-de-r-5490/?srsltid=AfmBOorOLyoQn8xzdYTuemA4DKXLKzHYiAtnIAUq7o-9I7KbBYJlsmCv",
+        "descricao": "O evento traz menus especiais em mais de 150 restaurantes renomados e ocorre em abril de 2025.",
+        "data": "11/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Vale a pena conhecer os novos restaurantes de SP? O que esperar ...",
+        "link": "https://www.estadao.com.br/paladar/radar/novos-restaurantes-sp-novidades-2025/",
+        "descricao": "Uma análise sobre as novidades na cena gastronômica de São Paulo, incluindo bares e restaurantes com propostas inovadoras.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Fogo de Chão e omakassê de carne são novidades em SP",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/02/setima-unidade-do-fogo-de-chao-e-omakasse-de-carnes-sao-novidades-gastronomicas-em-sp.shtml",
+        "descricao": "A rede de churrascarias Fogo de Chão acaba de inaugurar sua sexta unidade no estado, trazendo novidades para os amantes da carne.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Veja 35 novos restaurantes e bares na Vila Madalena, em SP",
+        "link": "https://guia.folha.uol.com.br/restaurantes/2025/04/vila-madalena-bairro-boemio-em-sp-vive-nova-fase-de-restaurantes-e-bares-de-coquetelaria.shtml",
+        "descricao": "A Vila Madalena se renova com 35 novos restaurantes e bares, enfatizando a coquetelaria e a comida autoral.",
+        "data": "2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Vale a viagem! 27 restaurantes imperdíveis no interior do estado",
+        "link": "https://vejario.abril.com.br/comer-e-beber/vale-a-viagem-27-restaurantes-interior-estado",
+        "descricao": "De Angra dos Reis a Visconde de Mauá, é possível desfrutar de refeições memoráveis em meio a belos cenários.",
+        "data": "2025",
+        "municipio": "Interior de São Paulo"
+    },
+    {
+        "categoria": "Restaurantes",
+        "titulo": "Restaurante no litoral de SP é eleito um dos melhores do mundo",
+        "link": "https://www.diariodolitoral.com.br/diario-mais/restaurante-no-litoral-de-sp-e-eleito-um-dos-melhores-do-mundo-veja/192053/",
+        "descricao": "Um restaurante no litoral paulista foi destacado entre os melhores do mundo, atraindo amantes da gastronomia.",
+        "data": "2025",
+        "municipio": "Litoral de São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Brazil reforestation startup Mombak raises $30 million in USV-led round",
+        "link": "https://www.reuters.com/sustainability/climate-energy/brazil-reforestation-startup-mombak-raises-30-million-usv-led-round-2025-04-29/",
+        "descricao": "Brazilian reforestation firm Mombak has secured $30 million in a funding round led by venture capital firm Union Square Ventures (USV).",
+        "data": "29/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Brazil Reforestation Startup Mombak Raises $30 Million in USV-Led Round",
+        "link": "https://money.usnews.com/investing/news/articles/2025-04-29/brazil-reforestation-startup-mombak-raises-30-million-in-usv-led-round",
+        "descricao": "Mombak, which has already planted 5 million native trees, aims to scale its operations following this funding.",
+        "data": "29/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Top 10 Startups in Brazil for April 2025",
+        "link": "https://www.startupblink.com/top-startups/brazil",
+        "descricao": "Explore the top startups in Brazil, including Gupy and Creditas, ranked by total investment and employee size.",
+        "data": "April 2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Creditas secures significant funding round to expand its operations",
+        "link": "https://www.thesaasnews.com/news/jusfy-raises-5-18-million-in-funding",
+        "descricao": "Creditas, a financial technology company specializing in secured consumer loans, has secured new funding to enhance growth.",
+        "data": "April 2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Latin America Startup Funding Fell Sequentially In Q1",
+        "link": "https://news.crunchbase.com/venture/latin-america-startup-funding-fell-q1-2025/",
+        "descricao": "Latin America startup investment declined sequentially in the first quarter of this year, indicating some challenges in the region's startup landscape.",
+        "data": "April 2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Investors target Brazil's carbon removal startups",
+        "link": "https://impactalpha.com/investors-target-brazils-carbon-removal-startups/",
+        "descricao": "As the carbon removal industry grows, Brazilian startups attract significant investor interests fueled by climate change initiatives.",
+        "data": "April 2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Brazil's Top 10 Startups That Tech Professionals Should Watch Out",
+        "link": "https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazils-top-10-startups-that-tech-professionals-should-watch-out-for-in-2025",
+        "descricao": "In 2025, Brazil's startup ecosystem is viewed as a thriving environment with several unicorns and innovative tech firms emerging.",
+        "data": "April 2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Jusfy Raises $5.18 Million in Funding",
+        "link": "https://www.thesaasnews.com/news/jusfy-raises-5-18-million-in-funding",
+        "descricao": "Legal tech startup Jusfy has successfully raised funds to expand its platform and services in Brazil.",
+        "data": "April 2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Estrangeiros aplicam R$ 10,9 BI na bolsa em 2025; veja histórico",
+        "link": "https://quantumfinance.com.br/estrangeiros-fogem-da-bolsa-brasileira-em-2024-veja-historico/",
+        "descricao": "O Ibovespa acumula até o fim de março de 2025 uma valorização de 8,29%, apoiado pela volta dos investidores estrangeiros.",
+        "data": "31/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Bye bye, Brasil? Fluxo de capital estrangeiro fica negativo na Bolsa",
+        "link": "https://oglobo.globo.com/economia/financas/noticia/2025/04/23/bye-bye-brasil-fluxo-de-capital-estrangeiro-fica-negativo-na-bolsa-brasileira.ghtml",
+        "descricao": "Investidores estrangeiros retiram R$ 10,8 bi da B3 em abril de 2025.",
+        "data": "23/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Saldo de investidores estrangeiros cresce e acumula R$ 7 bilhões",
+        "link": "https://trademap.com.br/agencia/saldo-de-investidores-estrangeiros-cresce-e-acumula-r-7-bilhoes-em-2025-mesmo-com-desafios-globais",
+        "descricao": "O fluxo de investidores estrangeiros na B3 segue positivo em fevereiro, acumulando R$ 7 bilhões.",
+        "data": "28/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Investidores estrangeiros permanecem compradores líquidos de ações brasileiras",
+        "link": "https://conteudos.xpi.com.br/acoes/relatorios/investidores-estrangeiros-permanecem-compradores-liquidos-de-brasil-em-2025-fluxo-em-foco/",
+        "descricao": "Em 2025, a rotação global para fora dos EUA continua beneficiando os mercados emergentes.",
+        "data": "10/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Investimento estrangeiro cresce e atinge US$ 9,3 bilhões em fevereiro",
+        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/investimento-estrangeiro-cresce-e-atinge-us-93-bilhoes-em-fevereiro/",
+        "descricao": "O resultado do mês em 2025 foi um dos mais altos da série histórica, iniciada pelo BC em 1995.",
+        "data": "26/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Brasil vê melhora em entradas de capital estrangeiro",
+        "link": "https://veja.abril.com.br/economia/brasil-ve-melhora-em-entradas-de-capital-estrangeiro-especulativo-e-produtivo/",
+        "descricao": "Investimento estrangeiro direto no país está crescendo e o fluxo do dinheiro externo na bolsa de valores do país voltou a ficar positivo.",
+        "data": "15/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Governo planeja programa para investimento estrangeiro",
+        "link": "https://www1.folha.uol.com.br/mercado/2025/01/governo-desenha-programa-para-tentar-impulsionar-investimento-estrangeiro-direto.shtml",
+        "descricao": "O governo está desenvolvendo um programa de simplificação e desburocratização para facilitar o ingresso dos investimentos diretos no país.",
+        "data": "22/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Nunes anuncia 100 milhões de dólares para ônibus elétricos, mas ampliação de frota esbarra em falta de infraestrutura",
+        "link": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2025/04/30/nunes-anuncia-100-milhoes-de-dolares-para-onibus-eletricos-mas-ampliacao-de-frota-esbarra-em-falta-de-infraestrutura.ghtml",
+        "descricao": "Prefeito de São Paulo anunciou um empréstimo para adquirir ônibus elétricos, mas enfrenta desafios de infraestrutura e custos na expansão da frota até 2028.",
+        "data": "30/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Estudo da FGV mostra que ações da Prefeitura reduzem em 20 pontos de alagamentos em 42 distritos",
+        "link": "https://expresso.estadao.com.br/sao-paulo/2025/04/30/estudo-da-fgv-mostra-que-investimentos-da-prefeitura-reduzem-em-20-pontos-de-alagamentos-em-42-distritos/",
+        "descricao": "Aumento de 96% nos investimentos em drenagem com R$ 8,4 bilhões reduz alagamentos e metade do tempo de ocorrências na cidade.",
+        "data": "30/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "SP pra Toda Obra vai modernizar 22,3 mil km de rodovias, estradas e vicinais",
+        "link": "https://semil.sp.gov.br/2025/04/sp-pra-toda-obra-melhorias-viarias-encurtam-distancias-garantem-seguranca-e-melhoram-renda-em-sp/",
+        "descricao": "Programa ‘SP pra Toda Obra’ pretende modernizar 22,3 mil km com investimento de R$ 30 bilhões, impactando diretamente o comércio e logística.",
+        "data": "04/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Brazil's government aims to raise $2 billion in financing with new Eco Invest auction",
+        "link": "https://www.reuters.com/sustainability/climate-energy/brazils-government-aims-raise-2-billion-financing-with-new-eco-invest-auction-2025-04-28/",
+        "descricao": "The government of President Luiz Inácio Lula da Silva expects to raise $2 billion in financing for sustainable projects through a new auction aimed at recovering degraded pastures.",
+        "data": "28/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Brazil Targets $2B in Sustainable Finance to Restore 1 Million Hectares of Degraded Land",
+        "link": "https://esgnews.com/brazil-targets-2b-in-sustainable-finance-to-restore-1-million-hectares-of-degraded-land/",
+        "descricao": "Brazil is launching a landmark auction aimed at raising up to $2 billion in financing for sustainable land restoration projects.",
+        "data": "28/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "ESG",
+        "titulo": "Brazil reforestation startup Mombak raises $30 million in USV-led round",
+        "link": "https://www.reuters.com/sustainability/climate-energy/brazil-reforestation-startup-mombak-raises-30-million-usv-led-round-2025-04-29/",
+        "descricao": "Brazilian reforestation firm Mombak has secured $30 million in funding to scale its operations and enhance its reforestation efforts.",
+        "data": "29/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PMEs",
+        "titulo": "Quatro dicas para PMEs trabalharem com influenciadores",
+        "link": "https://www.cnnbrasil.com.br/economia/negocios/quatro-dicas-para-pmes-trabalharem-com-influenciadores/",
+        "descricao": "Marketing de influência tem ganhado destaque entre as empresas de pequeno porte; especialista lista dicas para negócios que querem começar a trabalhar com influenciadores.",
+        "data": "13/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Finanças",
+        "titulo": "Ant International lança serviço financeiro integrado para PMEs em plataformas de e-commerce no Brasil",
+        "link": "https://www.prnewswire.com/br/comunicados-para-a-imprensa/ant-international-lanca-servico-financeiro-integrado-para-pmes-em-plataformas-de-e-commerce-no-brasil-302407166.html",
+        "descricao": "A Bettr oferecerá crédito a pequenas e médias empresas (PMEs) e tem por objetivo fomentar a economia local e regional.",
+        "data": "20/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Expo Empreendedor 2025",
+        "link": "https://www.neventum.com/tradeshows/expo-empreendedor",
+        "descricao": "Expo Empreendedor é realizado em São Paulo e mostrará novidades para empresas de diversos setores.",
+        "data": "25/07/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Cultura",
+        "titulo": "Veja como o Carnaval impulsiona PMEs pelo Brasil",
+        "link": "https://www.cnnbrasil.com.br/economia/negocios/veja-como-o-carnaval-impulsiona-pmes-pelo-brasil/",
+        "descricao": "Movimentação financeira esperada é de R$ 12 bilhões, com investimentos de públicos e privados no Carnaval de 2025.",
+        "data": "02/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Economia",
+        "titulo": "Brazil’s Industrial Growth Slows, but Resilience Remains for 2025",
+        "link": "https://www.riotimesonline.com/brazil-news/brazil/brazils-industrial-growth-slows-but-resilience-remains-for-2025/",
+        "descricao": "O crescimento do setor industrial no Brasil deve desacelerar em 2025, indicando desafios para PMEs.",
+        "data": "03/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Mombak raises $30 million in funding round",
+        "link": "https://www.reuters.com/sustainability/climate-energy/brazil-reforestation-startup-mombak-raises-30-million-usv-led-round-2025-04-29/",
+        "descricao": "A startup brasileira, que restaura áreas degradadas e vende créditos de carbono, recebeu fundos para expandir suas operações.",
+        "data": "29/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "São Paulo to invest over US$5bn in infrastructure this year",
+        "link": "https://www.bnamericas.com/en/features/sao-paulo-to-invest-over-us5bn-in-infrastructure-this-year",
+        "descricao": "São Paulo planeja investir um recorde de R$ 33,5 bilhões em infraestrutura em 2025, beneficiando PMEs.",
+        "data": "March 2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Brazil Economy Set to Decelerate in Second Half of 2025",
+        "link": "https://money.usnews.com/investing/news/articles/2025-04-14/brazil-economy-set-to-decelerate-in-second-half-of-2025-on-high-interest-rates-trade-worries-reuters-poll",
+        "descricao": "A economia brasileira deve desacelerar na segunda metade de 2025, apresentando desafios para PMEs em busca de financiamento.",
+        "data": "14/04/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Desenvolvimento",
+        "titulo": "Industry in São Paulo falls by 4.7%",
+        "link": "https://valorinternational.globo.com/economy/news/2025/01/15/industry-in-sao-paulo-falls-by-47percent-leads-national-decline.ghtml",
+        "descricao": "A produção industrial de São Paulo caiu 4,7%, indicando dificuldades para PMEs na região.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Climate change raises fear of new water crisis in São Paulo",
+        "link": "https://valorinternational.globo.com/economy/news/2025/03/05/climate-change-raises-fear-of-new-water-crisis-in-sao-paulo-despite-favorable-short-term-outlook.ghtml",
+        "descricao": "Mudanças climáticas levantam preocupações sobre futuras crises hídricas em São Paulo, impactando PMEs.",
+        "data": "05/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Some challenges for Brazil's chemical sector",
+        "link": "https://www.icis.com/explore/resources/news/2025/01/28/11070590/brazil-s-chemicals-to-slow-in-2025-amid-currency-fiscal-deficit-woes-activas-ceo",
+        "descricao": "O setor de produtos químicos enfrenta desafios em 2025, refletindo a situação econômica que pode impactar as PMEs.",
+        "data": "28/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Economia",
+        "titulo": "Sao Paulo to prep new metro line",
+        "link": "https://www.partnershipsbulletin.com/article/1905356/sao-paulo-prep-new-metro-line",
+        "descricao": "A preparação para uma nova linha de metrô em São Paulo pode beneficiar PMEs com acesso melhorado.",
+        "data": "April 2025",
+        "municipio": "São Paulo"
+    }
+]
+```

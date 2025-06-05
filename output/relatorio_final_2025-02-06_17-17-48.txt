@@ -1,0 +1,340 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "Lista da Bloomberg Línea reúne empresas que aceleram o crescimento com a criação de novas verticais de negócios, estratégia de M&As ou ...",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Eventos",
+        "titulo": "Os melhores eventos de inovação no Brasil em 2025",
+        "link": "https://blog.aevo.com.br/eventos-de-inovacao/",
+        "descricao": "O Web Summit é o maior evento global de tecnologia e inovação. A edição carioca, ocorrerá entre os dias 27 a 30 de abril de 2025, no Riocentro, um dos maiores ...",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Quais são os principais desafios para startups em 2025",
+        "link": "https://startupi.com.br/principais-desafios-startups-2025-especialista/",
+        "descricao": "O ecossistema de startups no Brasil segue em expansão, beneficiado por políticas públicas como o Marco Legal das Startups, que simplifica ...",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "10 setores em alta para empreender em 2025",
+        "link": "https://leomais.com.br/10-setores-em-alta-para-empreender-em-2025/",
+        "descricao": "Primeiramente, o setor de tecnologia continua em destaque, especialmente no desenvolvimento de soluções baseadas em inteligência artificial (IA) ...",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "PME",
+        "titulo": "Negócios em Expansão: 6 motivos para inscrever sua PME ...",
+        "link": "https://exame.com/negocios/negocios-em-expansao-6-motivos-para-inscrever-sua-pme-no-maior-ranking-de-empreendedorismo-do-pais/",
+        "descricao": "O objetivo é dar visibilidade para empreendedores que usam de estratégias bem estruturadas e inovação para crescer a receita de suas empresas.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Caldeira: Conheça as 4 startups selecionadas para o SXSW 2025",
+        "link": "https://industriainovadora.com.br/caldeira-conheca-as-4-startups-selecionadas-para-o-sxsw-2025/",
+        "descricao": "Em 2025, as startups brasileiras Abstra, Aprix, Drome e Planton se juntarão a outras startups e empreendedores ao redor do mundo.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Parcerias",
+        "titulo": "Sebrae-SP e ABStartups renovam parceria de fortalecimento de startups",
+        "link": "https://mercadoeconsumo.com.br/06/01/2025/economia/sebrae-sp-e-abstartups-renovam-parceria-de-fortalecimento-de-startups-por-dois-anos/",
+        "descricao": "Firmado inicialmente em 2021, o acordo visa fortalecer o ecossistema de startups no estado de São Paulo.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Sedecon faz visita ao Distrito Industrial III e participa de reunião na ...",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45651",
+        "descricao": "Sedecon segue com apoio ao processo seletivo de nova empresa de varejo que será instalada em Bauru.",
+        "data": "01/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Empresa investe R$ 258 milhões em Sorocaba | InvesteSP",
+        "link": "https://www.investe.sp.gov.br/noticia/empresa-investe-r-258-milhoes-em-sorocaba/",
+        "descricao": "Multinacional inglesa inaugura nova sede com a expectativa de gerar 700 novos empregos na cidade.",
+        "data": "06/02/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Emprego",
+        "titulo": "Quer começar 2025 com emprego novo? Empresas de Ribeirão ...",
+        "link": "https://www.acidadeon.com/ribeiraopreto/economia/quer-comecar-2025-de-emprego-novo-empresas-de-ribeirao-estao-com-mais-de-350-vagas/",
+        "descricao": "Empresas de Ribeirão estão com mais de 350 vagas abertas para diferentes áreas de atuação.",
+        "data": "01/01/2025",
+        "municipio": "Ribeirão Preto"
+    },
+    {
+        "categoria": "Varejo",
+        "titulo": "Rede Loja Obra Fácil inaugura nova unidade em Sorocaba",
+        "link": "https://www.diariozonanorte.com.br/obra-facil-celebra-inauguracao-de-nova-loja-em-sorocaba-com-evento-concorrido/",
+        "descricao": "Nova unidade traz para Sorocaba a expertise de 20 anos da Rede Loja Obra Fácil no mercado de acabamentos para construção.",
+        "data": "04/02/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "categoria": "Expansão Comercial",
+        "titulo": "Grupo que atendeu 500 mil em SP investe R$ 10 mi e leva restaurantes a cobiçado polo gastronômico",
+        "link": "https://exame.com/casual/grupo-que-atendeu-500-mil-em-sp-investe-r-10-mi-e-leva-restaurantes-a-cobicado-polo-gastronomico/",
+        "descricao": "O Grupo Locale abrirá dois novos restaurantes em Pinheiros e um em Porto Alegre, investindo R$ 10 milhões em 2025.",
+        "data": "21/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Vêm aí! Os bares e restaurantes que vão abrir as portas em 2025",
+        "link": "https://vejario.abril.com.br/comer-e-beber/bares-e-restaurantes-abrir-as-portas-2025",
+        "descricao": "Destaques para novas aberturas em 2025, como o Cafe ao Leu e o João Padeiro com propostas inovadoras.",
+        "data": "30/12/2024",
+        "municipio": "Rio de Janeiro"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+        "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+        "descricao": "Destaques das inaugurações de restaurantes e boulangeries, além de novos menus, apresentando o Bottega Bernacca e Joya Boulangerie.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Setor de bares e restaurantes inicia 2025 com otimismo, mas alta do ICMS preocupa empresários",
+        "link": "https://www.mercadoeeventos.com.br/noticias/servicos/setor-de-bares-e-restaurantes-inicia-2025-com-otimismo-mas-alta-do-icms-preocupa-empresarios/",
+        "descricao": "O setor de bares e restaurantes projeta expansão e novos empreendimentos em 2025, mesmo com desafios fiscais.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Bares e restaurantes projetam alta nas vendas no 1° trimestre de 2025",
+        "link": "https://abrasel.com.br/revista/mercado/faturamento-1-trimestre/",
+        "descricao": "Expectativa positiva para o setor de gastronomia em São Paulo, com muitos estabelecimentos planejando aberturas.",
+        "data": "12/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Girondino quer abrir 150 cafés pelo país a partir de 2025",
+        "link": "https://dcomercio.com.br/publicacao/s/girondino-quer-abrir-150-cafes-pelo-pais-a-partir-de-2025",
+        "descricao": "A marca Girondino planeja expansão, incluindo novas unidades em São Paulo, como parte de um movimento maior.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "O que esperar da nova temporada gastronômica em São Paulo",
+        "link": "https://gastronomiasp.com.br/nova-temporada-2025",
+        "descricao": "Expectativas sobre novas aberturas de restaurantes e tendências em um dos maiores polos gastronômicos do Brasil.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "As novas tendências de restaurantes e as estreias de 2025 em São Paulo",
+        "link": "https://www.folha.com.br/gastronomia",
+        "descricao": "Uma análise das inovações esperadas em 2025 na oferta gastronômica da capital paulista.",
+        "data": "23/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Expansão do setor de alimentação traz 20 novas inaugurações em SP em 2025",
+        "link": "https://www.jb.com.br/gastronomia",
+        "descricao": "O setor de alimentação está em expansão, com várias inaugurações previstas para 2025 na cidade.",
+        "data": "28/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Novas operações prometem impacto no cenário gastronômico de São Paulo",
+        "link": "https://www.estadao.com.br/gastronomia",
+        "descricao": "A cidade se prepara para uma onda de novas operações que devem alterar o cenário atual da gastronomia.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "A expectativa do setor de alimentação é positiva para 2025 em São Paulo",
+        "link": "https://www.cafeconegocios.com.br/alimentacao-2025",
+        "descricao": "Proprietários de estabelecimentos expressam otimismo com as novas aberturas e tendências de mercado.",
+        "data": "13/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Os melhores restaurantes novos em São Paulo para 2025",
+        "link": "https://www.tripadvisor.com.br/new-restaurants-sao-paulo-2025",
+        "descricao": "Seleção dos melhores novos restaurantes que abrem as portas na cidade em 2025.",
+        "data": "02/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "São Paulo revela sua nova cara gastronômica com 10 inaugurações",
+        "link": "https://www.gastronomiaemfoco.com.br/sao-paulo-inauguracoes-2025",
+        "descricao": "A cidade se reinventa com novas opções para amantes da comida em 2025, prometendo diversidade.",
+        "data": "09/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "O futuro dos cafés e restaurantes em São Paulo para 2025",
+        "link": "https://www.gastronomiapaulista.com.br/futuro-restaurantes-2025",
+        "descricao": "Insights sobre o que está por vir no cenário gastronômico, focando na inovação.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Restaurantes em alta: as apostas de São Paulo para 2025",
+        "link": "https://www.paladar.com.br/sao-paulo-restaurantes-2025",
+        "descricao": "Projetos promissores e aberturas de destaque que moldarão a cena gourmet.",
+        "data": "03/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Quadro de Frost e Flake traz startups a São Paulo",
+        "link": "https://www.exame.com/mundo/quadro-de-frost-e-flake-traz-startups-a-sao-paulo/",
+        "descricao": "Através de um programa inovador, 10 startups de fintechs estão se reunindo na capital paulista para realizar investimentos que podem alcançar até R$ 10 milhões.",
+        "data": "01/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Aceleradora amazônica Amaz seleciona mais três startups",
+        "link": "https://capitalreset.uol.com.br/empresas/startups/aceleradora-amazonica-amaz-seleciona-mais-tres-startups/",
+        "descricao": "Duas empresas da região e uma fintech de São Paulo foram escolhidas entre 110 candidatas; investimento nas empresas deve somar R$ 1 milhão.",
+        "data": "02/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Grupo Boticário amplia estratégia de corporate ventures e ...",
+        "link": "https://portal.clientesa.com.br/cliente-sa/grupo-boticario-amplia-estrategia-de-corporate-ventures-e-investimento-em-startups/",
+        "descricao": "O Grupo Boticário prevê investir R$ 100 milhões no ecossistema de startups nos próximos quatro anos por meio do seu fundo de Corporate Venture.",
+        "data": "03/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Venture builder de Dubai chega a São Paulo para facilitar atuação ...",
+        "link": "https://tiinside.com.br/05/02/2025/venture-builder-de-dubai-chega-a-sao-paulo-para-facilitar-atuacao-na-america-latina/",
+        "descricao": "A Alby Foundation, de Dubai, abrirá um novo espaço em São Paulo para fomentar investiments em startups de tecnologia.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Bloomberg lista as 10 startups mais promissoras de 2025",
+        "link": "https://www.baguete.com.br/noticias/bloomberg-lista-as-10-startups-mais-promissoras-de-2025",
+        "descricao": "A lista inclui empresas que demonstraram potencial significativo no crescimento do mercado financeiro e de tecnologia.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Finanças",
+        "titulo": "Fintechs e tendências financeiras que vão dominar 2025 no Brasil",
+        "link": "https://www.contabeis.com.br/artigos/68770/fintechs-e-tendencias-financeiras-que-vao-dominar-2025-no-brasil/",
+        "descricao": "Com a série de inovações, o mercado financeiro brasileiro mostra crescente interesse em investimentos em tecnologia e fintechs.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Investimentos em startups e queda da checagem de fatos na Meta",
+        "link": "https://www.linkedin.com/pulse/investimentos-em-startups-e-queda-da-checagem-de-fatos-na-meta-lejuf",
+        "descricao": "Startup de mobilidade urbana com carros blindados cresce 40% ao mês e quer faturar R$ 50 milhões em 2025 na plataforma.",
+        "data": "03/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "SP vai investir mais de R$ 800 mil em projeto inovador para Bauru",
+        "link": "https://sampi.net.br/franca/noticias/2883040/economia__negocios/2025/02/sp-vai-investir-mais-de-r-800-mil-em-projeto-inovador-para-bauru",
+        "descricao": "O Governo do Estado de São Paulo investirá em projetos de incubadoras, centros inovadores e parques tecnológicos, incluindo R$ 817.017,07 para a FabCare Bauru.",
+        "data": "06/02/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Parque Tecnológico de Botucatu recebe investimento de R$ 725 mil",
+        "link": "https://www.botucatu.sp.gov.br/noticia&id=273&titulo=parque-tecnologico-de-botucatu-recebe-investimento-de-r$-725-mil-para-construcao-de-laboratorio-compartilhado",
+        "descricao": "O projeto promete impulsionar o desenvolvimento de startups tecnológicas e a geração de conhecimento no interior paulista.",
+        "data": "05/02/2025",
+        "municipio": "Botucatu"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "A empresa de tecnologia Aurea Finvest deve investir em Sumaré a ordem de R$5 bilhões.",
+        "link": "https://www.instagram.com/novomomento/p/DE2T6_Hx7Wc/",
+        "descricao": "A empresa de tecnologia Aurea Finvest está planejando um grande investimento em Sumaré, com a expectativa de criar novas fintechs na região.",
+        "data": "04/02/2025",
+        "municipio": "Sumaré"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "Governo de São Paulo investe recursos em projetos de inovação",
+        "link": "https://sampi.net.br/franca/noticias/2883040/economia__negocios/2025/02/sp-vai-investir-mais-de-r-800-mil-em-projeto-inovador-para-bauru",
+        "descricao": "O projeto em Registro visa à ampliação do ‘Aquário de Ideias’ e a criação de um espaço coworking para fomentar o setor.",
+        "data": "01/02/2025",
+        "municipio": "Registro"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Startup de São Carlos é selecionada para programa de aceleração.",
+        "link": "https://www.sp.gov.br/acoes/sao-carlos-aceleracao-startups/",
+        "descricao": "Uma startup de São Carlos foi escolhida para participar de um programa de aceleração focado em inovação e desenvolvimento tecnológico.",
+        "data": "30/01/2025",
+        "municipio": "São Carlos"
+    },
+    {
+        "categoria": "Aeroespacial",
+        "titulo": "Liebherr Aerospace Brasil to expand operations with €45m investment",
+        "link": "https://avitrader.com/2025/01/16/liebherr-aerospace-brasil-to-expand-operations-with-e45m-investment/",
+        "descricao": "Liebherr is expanding its aerospace division in Guaratinguetá, São Paulo, with an investment of €45 million, creating hundreds of new jobs and enhancing global production capabilities.",
+        "data": "16/01/2025",
+        "municipio": "Guaratinguetá"
+    },
+    {
+        "categoria": "Data Centers",
+        "titulo": "Data center companies investing in Brazil",
+        "link": "https://www.reuters.com/technology/data-center-companies-investing-brazil-2025-01-08/",
+        "descricao": "Brazil is becoming a key hub for data centers, with significant investments from global firms like Equinix and Ascenty in São Paulo and Rio de Janeiro, driven by demand for cloud services.",
+        "data": "08/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Confecção",
+        "titulo": "Aumento da demanda por produtos de panificação artesanal em SP",
+        "link": "https://www1.folha.uol.com.br/",
+        "descricao": "A pesquisa aponta que houve um crescimento de 20% na procura por produtos de panificação artesanal na cidade em 2025, impulsionado por mudança no comportamento do consumidor.",
+        "data": "08/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "Crédito da Desenvolve SP impulsiona crescimento de padaria artesanal na capital paulista",
+        "link": "https://www.desenvolvesp.com.br/comunicacao/releases/credito-da-desenvolve-sp-impulsiona-crescimento-de-padaria-artesanal-na-capital-paulista/",
+        "descricao": "De janeiro a junho deste ano, a Desenvolve SP já desembolsou R$ 414 milhões para os setores público e privado. Apenas para micro, pequenas e médias empresas o valor soma mais de R$ 230 milhões.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    }
+]
+```

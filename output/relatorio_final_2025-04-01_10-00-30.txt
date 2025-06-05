@@ -1,0 +1,108 @@
+```json
+[
+    {
+        "categoria": "Startups",
+        "titulo": "Vivo investiu R$ 130 milhões em startups e mira IA em 2025",
+        "link": "https://www.estadao.com.br/economia/coluna-do-broad/vivo-investiu-r-130-milhoes-em-startups-e-mira-ia-em-2025/",
+        "descricao": "A Telefônica Brasil, dona da Vivo, investiu R$ 130 milhões em startups, um montante 30% maior que no ano anterior, visando inovações que geram novas receitas.",
+        "data": "04/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Finanças",
+        "titulo": "M&A de instituições financeiras é uma tendência para 2024 e 2025",
+        "link": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/releases/releases-economia/ma-de-instituicoes-financeiras-e-uma-tendencia-para-2024-e-2025/",
+        "descricao": "O mercado de M&A nas finanças deve crescer, com instituições buscando startups de tecnologia para inovar e expandir seus negócios.",
+        "data": "16/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+        "descricao": "A lista da Bloomberg Línea destaca startups brasileiras que estão bem posicionadas para crescer em 2025, abrangendo diversas áreas.",
+        "data": "06/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Inscreva-se no prêmio que pode te levar ao Startup Summit 2025 em Florianópolis",
+        "link": "https://g1.globo.com/ce/ceara/especial-publicitario/sebrae-ceara/inovacao-e-negocios/noticia/2025/02/28/inscreva-se-no-premio-que-pode-te-levar-ao-startup-summit-2025-em-florianopolis.ghtml",
+        "descricao": "O Prêmio Sebrae Startups 2025 oferece visibilidade e conexões valiosas para startups, com prêmios de até R$ 300 mil.",
+        "data": "28/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Startups",
+        "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025",
+        "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+        "descricao": "O Distrito apresenta uma lista de startups unicórnio e empresas com potencial para se tornarem unicórnios em breve.",
+        "data": "10/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Coca-Cola Femsa Brasil investe R$ 94 milhões em novo Centro de Distribuição em Bauru",
+        "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45672",
+        "descricao": "A Coca-Cola Femsa Brasil investiu R$ 94 milhões em um novo Centro de Distribuição em Bauru, que gerará cerca de 120 novos empregos e aumentará a capacidade de distribuição de produtos na região em 30%.",
+        "data": "16/01/2025",
+        "municipio": "Bauru"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Veja fotos da famosa rede de restaurantes que abrirá no litoral de SP",
+        "link": "https://www.gazetasp.com.br/entretenimento/veja-fotos-famosa-rede-restaurantes-que-abrira-no-litoral-sp/1153147/",
+        "descricao": "A inauguração está prevista para ocorrer em abril de 2025, marcando a estreia da marca no litoral de São Paulo. O anúncio foi feito durante um evento.",
+        "data": "28/02/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Praia Grande terá unidade do Hard Rock Café no Litoral Plaza",
+        "link": "https://www.construtorajregarcia.com.br/blog/hard-rock-cafe-em-praia-grande/",
+        "descricao": "A novidade faz parte do audacioso plano de expansão do Litoral Plaza, que ganhará um espaço de 12 mil metros quadrados dedicados ao lazer, gastronomia e diversão.",
+        "data": "01/03/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Turismo",
+        "titulo": "Onda de turistas estrangeiros é oportunidade de crescimento para bares e restaurantes",
+        "link": "https://amogisp.abrasel.com.br/noticias/noticias/onda-de-turistas-estrangeiros-e-oportunidade-de-crescimento-para-bares-e-restaurantes-em-2025250123094701/",
+        "descricao": "Estabelecimentos que qualificam seu atendimento podem lucrar a partir do aumento de turistas internacionais em 2025.",
+        "data": "03/03/2025",
+        "municipio": "Santos"
+    },
+    {
+        "categoria": "Gastronomia",
+        "titulo": "Hard Rock Cafe vai inaugurar nova unidade no litoral paulista",
+        "link": "https://pontospravoar.com/hard-rock-cafe-vai-inaugurar-nova-unidade-no-litoral-paulista/",
+        "descricao": "A Praia Grande receberá a sétima unidade do Hard Rock Cafe no Brasil, com inauguração prevista para abril de 2025.",
+        "data": "25/02/2025",
+        "municipio": "Praia Grande"
+    },
+    {
+        "categoria": "Economia",
+        "titulo": "São Paulo Set to Break Investment Records in 2025, Governor Announces",
+        "link": "https://www.riotimesonline.com/brazil-news/brazil/sao-paulo-set-to-break-investment-records-in-2025-governor-announces/",
+        "descricao": "O governo de São Paulo está projetando investimentos significativos para a região durante todo o ano de 2025.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "Governo de SP apresenta maior usina solar flutuante do país na represa Billings",
+        "link": "https://semil.sp.gov.br/2024/01/governo-de-sp-apresenta-maior-usina-solar-flutuante-do-pais-na-represa-billings/",
+        "descricao": "A conclusão está prevista para o final de 2025, com a entrega de outros 75 MW de energia renovável e investimento de R$ 450 milhões.",
+        "data": "15/03/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Programa SP Global Tech: Inscrições para Startups SP 2025",
+        "link": "https://itshow.com.br/programa-sp-global-tech-inscricoes-para-startups-sp/",
+        "descricao": "Startups de base tecnológica têm até 3 de abril para se inscrever no programa que oferece capacitação e missões internacionais.",
+        "data": "01/04/2025",
+        "municipio": "São Paulo"
+    }
+]
+```

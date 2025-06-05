@@ -1,0 +1,326 @@
+```json
+[
+    {
+        "titulo": "São Paulo registra recorde na abertura de empresas em 2024",
+        "link": "https://exame.com/colunistas/empreender-liberta/sao-paulo-registra-recorde-na-abertura-de-empresas-em-2024/",
+        "descricao": "Expectativas para 2025 são bastante otimistas após o crescimento no número de novas empresas abertas em 2024. O estado continua a se expandir.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "São Paulo bate recorde em abertura de empresas",
+        "link": "https://www.agenciasp.sp.gov.br/sao-paulo-bate-recorde-em-abertura-de-empresas-com-media-de-quase-mil-novos-negocios-por-dia/",
+        "descricao": "Com uma média de cerca de mil novos negócios abertos por dia, o estado ultrapassou 647 mil novas empresas durante 2023 e 2024.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Conheça 10 empresas para ficar de olho em 2025",
+        "link": "https://www.bloomberglinea.com.br/negocios/conheca-10-empresas-para-ficar-de-olho-em-2025/",
+        "descricao": "Uma lista de empresas que prometem crescimento em 2025, com destaque para startups e inovações em diversos setores.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Estado de São Paulo registra recorde de empresas abertas no primeiro semestre de 2024",
+        "link": "https://www.investe.sp.gov.br/noticia/estado-de-sao-paulo-registra-recorde-de-empresas-abertas-no-primeiro-semestre-de-2024/",
+        "descricao": "Mais de 174 mil empresas foram abertas no estado de São Paulo no primeiro semestre de 2024, estabelecendo um recorde na série histórica.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Número de empresas abertas em 2024 é recorde",
+        "link": "https://www.facesp.com.br/noticia/numero-de-empresas-abertas-em-2024-e-recorde",
+        "descricao": "O número de empresas abertas em 2024 somou quase 4,2 milhões, recorde do levantamento feito pelo Sebrae, refletindo o crescimento do empreendedorismo paulista.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Mais de 92 mil empresas foram abertas em São Paulo em 2024",
+        "link": "https://centraldovarejo.com.br/mais-de-92-mil-empresas-foram-abertas-em-sao-paulo-em-2024/",
+        "descricao": "Entre janeiro e agosto de 2024, o estado de São Paulo registrou a abertura de 92,8 mil novas empresas no setor de comércio.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "SP registra aumento de 16% no número de empresas de serviços",
+        "link": "https://www.agenciasp.sp.gov.br/estado-de-sp-registra-alta-de-16-no-numero-de-empresas-abertas-no-setor-de-servicos/",
+        "descricao": "Mais de 197 mil empresas do setor de Serviços foram abertas no estado de São Paulo, mostrando um crescimento notável no registro de novos negócios.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "São Paulo bate recorde e abre 309 mil empresas em 2024",
+        "link": "https://www.poder360.com.br/poder-economia/sao-paulo-bate-recorde-e-abre-309-mil-empresas-em-2024/",
+        "descricao": "O Estado de São Paulo registrou a abertura de 309.934 empresas até outubro de 2024, superando o total de negócios iniciados em 2023.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Novos menus e restaurantes: 13 novidades gastronômicas em São Paulo",
+        "link": "https://exame.com/casual/novos-menus-e-restaurantes-em-sao-paulo-2025/",
+        "descricao": "O ano começa com inaugurações de restaurantes e boulangeries, além de novos menus. Em destaque, o Bottega Bernacca no Parque Ibirapuera e a nova Joya Boulangerie.",
+        "data": "30/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "De bar 'raiz' a hamburgueria, 6 lugares para conhecer em SP em 2025",
+        "link": "https://www.uol.com.br/nossa/noticias/redacao/2025/01/18/resolucoes-de-2025-os-restaurantes-que-precisamos-conhecer.htm",
+        "descricao": "Lista de 6 lugares inovadores com foco em gastronomia brasileira, incluindo hambúrgueres e alta cozinha.",
+        "data": "18/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Renomado restaurante parisiense chega a São Paulo em 2025",
+        "link": "https://topview.com.br/estilo/gastronomia/restaurante-parisiense-chega-a-sao-paulo-em-2025/",
+        "descricao": "O bistrô parisiense L'Avenue abrirá em São Paulo, trazendo a culinária francesa com forte influência.",
+        "data": "12/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Novos restaurantes em São Paulo: 10 espaços recém-abertos",
+        "link": "https://saopaulosecreto.com/novos-restaurantes-em-sao-paulo/",
+        "descricao": "Lista dos novos restaurantes que estão fazendo barulho na cena gastronômica paulistana, incluindo opções de alta cozinha.",
+        "data": "29/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Gastronomia nova em São Paulo com abertura de 30 restaurantes",
+        "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/vem-2025-bares-e-restaurantes-em-sao-paulo-para-confraternizacoes-de-fim-de-ano/",
+        "descricao": "Diversos novos espaços de gastronomia se preparam para abrir as portas em São Paulo, com foco em eventos sociais.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Restaurante francês abrirá nova unidade em São Paulo",
+        "link": "https://exame.com/negocios/restaurante-frances-nova-unidade-em-sao-paulo/",
+        "descricao": "A rede de restaurantes franceses La Brasserie anunciou novo espaço em São Paulo, focando em pratos tradicionais.",
+        "data": "15/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Nova hamburgueria em Higienópolis promete surpreender",
+        "link": "https://www.gazetasp.com.br/cultura/higienopolis-nova-hamburgueria-2025/",
+        "descricao": "Localizada em Higienópolis, a nova hamburgueria traz receitas exclusivas que prometem agradar aos amantes de burgers.",
+        "data": "25/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Primeira unidade do café Casca será aberta no centro de São Paulo",
+        "link": "https://www.cnnbrasil.com.br/gastronomia/2025/cafe-casca-abertura-sao-paulo/",
+        "descricao": "Com foco na produção artesanal de café, a nova unidade do Casca foi planejada para oferecer um ambiente acolhedor e inovador.",
+        "data": "03/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Café temático Águas de Lindóia abre as portas em SP",
+        "link": "https://www.turismonasesc.com.br/cafe-tematico-abre-em-sao-paulo/",
+        "descricao": "Novo café temático foi inaugurado em São Paulo, oferecendo uma experiência gastronômica única com conceito ecológico.",
+        "data": "20/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Abertura de restaurante de comida tailandesa em São Paulo",
+        "link": "https://www.emprendedores.net.br/restaurante-tailandes-sao-paulo-2025/",
+        "descricao": "Um novo restaurante de comida tailandesa foi inaugurado em São Paulo, trazendo pratos autênticos do sudeste asiático para o público.",
+        "data": "10/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Novo bar de coquetéis em Pinheiros promete agitar a cena",
+        "link": "https://www.observatoriodamulher.com.br/variedades/aferica/bar-de-coqueteis-pinheiros/",
+        "descricao": "Aberto em Pinheiros, o novo bar de coquetéis apresenta bebidas criativas e um ambiente descontraído para os amantes da mixologia.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Parque Tecnológico de Sorocaba receberá R$ 1,3 milhão do Estado para modernizar laboratório e ampliar aceleradora de startups",
+        "link": "https://www.parquetecsorocaba.com.br/blog/parque-tecnolgico-de-sorocaba-receber-r-13-milho-do-estado-para-modernizar-laboratrio-e-ampliar-aceleradora-de-startups-1309179555",
+        "descricao": "A modernização do laboratório e o suporte à aceleração de startups são prioridades do Parque Tecnológico.",
+        "data": "25/01/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Sorocaba desponta como referência em inovação com crescimento expressivo de startups",
+        "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sorocaba-desponta-como-referencia-em-inovacao-com-crescimento-expressivo-de-startups/",
+        "descricao": "A cidade registrou um aumento de 97% no número de startups, consolidando-se como o 6º maior polo do estado.",
+        "data": "31/01/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Fintech nascida em Rio Preto recebe R$ 5 milhões em investimentos de fundo norte-americano",
+        "link": "https://www.gazetaderiopreto.com.br/economia/noticia/2019/11/fintech-nascida-em-rio-preto-recebe-r-5-milhoes-em-investimentos-de-fundo-norte-americano.html",
+        "descricao": "Cobre Fácil, uma fintech de tecnologia, expande serviços com aporte de investidores internacionais.",
+        "data": "13/11/2019",
+        "municipio": "São José do Rio Preto"
+    },
+    {
+        "titulo": "Com 235 empresas tecnológicas, São Carlos também é a 'startup city'",
+        "link": "https://www.acidadeon.com/saocarlos/economia/com-235-empresas-tecnologicas-sao-carlos-tambem-e-a-startup-city/",
+        "descricao": "São Carlos é um dos maiores polos de tecnologia do Brasil, com um crescimento significativo no número de startups nos últimos anos.",
+        "data": "24/05/2023",
+        "municipio": "São Carlos"
+    },
+    {
+        "titulo": "Investimentos em tecnologia potencializam serviços e agilizam a vida do cidadão",
+        "link": "https://jundiai.sp.gov.br/noticias/2024/12/25/investimentos-em-tecnologia-potencializam-servicos-e-agilizam-a-vida-do-cidadao/",
+        "descricao": "Jundiaí realiza investimentos em tecnologia que melhoram a prestação de serviços públicos, destacando-se na área de saúde e educação.",
+        "data": "25/12/2024",
+        "municipio": "Jundiaí"
+    },
+    {
+        "titulo": "Multinacional alemã inaugura primeira fábrica e centro de pesquisa no Brasil",
+        "link": "https://www.investe.sp.gov.br/noticia/multinacional-alema-inaugura-primeira-fabrica-e-centro-de-pesquisa-global-no-brasil/",
+        "descricao": "A multinacional alemã DVA Agro inaugura sua primeira unidade fabril e centro de pesquisa em Indaiatuba com investimento significativo em tecnologia.",
+        "data": "30/01/2025",
+        "municipio": "Indaiatuba"
+    },
+    {
+        "titulo": "Chinesa, GAC chega em 2025 com investimento bilionário",
+        "link": "https://www.uol.com.br/carros/noticias/redacao/2024/12/12/montadora-chinesa-gac-chega-em-2025-ao-brasil-com-investimento-bilionario.htm",
+        "descricao": "A montadora GAC irá investir cerca de R$ 5,8 bilhões no Brasil com planos de abrir operações em São Paulo.",
+        "data": "12/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "GWM vai inaugurar fábrica em São Paulo em maio de 2025",
+        "link": "https://oglobo.globo.com/economia/negocios/noticia/2024/10/15/chinesa-gwm-vai-inaugurar-fabrica-em-sao-paulo-em-maio.ghtml",
+        "descricao": "A Great Wall Motor (GWM) começará a produção de veículos eletrificados em sua nova fábrica no Brasil em maio de 2025.",
+        "data": "15/10/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Cônsul-geral da Coreia do Sul em SP visita Parque Tecnológico de Sorocaba",
+        "link": "https://noticias.sorocaba.sp.gov.br/consul-geral-da-coreia-do-sul-em-sp-visita-parque-tecnologico-de-sorocaba/",
+        "descricao": "O cônsul-geral da Coreia do Sul destacou o potencial de investimentos em tecnologia e inovação em Sorocaba.",
+        "data": "21/01/2025",
+        "municipio": "Sorocaba"
+    },
+    {
+        "titulo": "Frente Parlamentar São Paulo e Coreia é lançada na Alesp",
+        "link": "https://www.al.sp.gov.br/noticia/?id=476843",
+        "descricao": "A iniciativa visa ampliar investimentos de empresas coreanas em São Paulo, destacando os benefícios econômicos de colaborações bilaterais.",
+        "data": "05/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "SENAI-SP capacitará 90 mil profissionais em parceria com o Google até 2025",
+        "link": "https://www.sp.senai.br/noticia/senai-sp-capacitara-90-mil-profissionais-em-parceria-com-o-google-ate-2025",
+        "descricao": "O SENAI-SP e o Google Cloud formarão 90 mil profissionais em tecnologia e nuvem até 2025, destacando a importância da capacitação em áreas de alta demanda.",
+        "data": "04/07/2023",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Quase 2 mil alunos da rede pública estadual estão tendo a oportunidade de receber formação técnica profissional",
+        "link": "https://www.facebook.com/senaisaopaulo/videos/quase-2-mil-alunos-da-rede-p%C3%BAblica-estadual-est%C3%A3o-tendo-a-oportunidade-de-recebe/998725181627662/",
+        "descricao": "Parceria entre o SENAI-SP e a Secretaria da Educação do Estado de São Paulo prevê que 2 mil estudantes da rede pública participem de cursos técnicos em 2025.",
+        "data": "25/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Processo Seletivo - Aprendizagem Industrial - Comunidade - SENAI",
+        "link": "https://www.sp.senai.br/processo-seletivo/aprendizagem-industrial-comunidade",
+        "descricao": "Curso de Aprendizagem Industrial do SENAI-SP, que visa capacitar jovens para o primeiro emprego, com inscrições abertas para novos alunos em 2025.",
+        "data": "05/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Inscrições para o Vestibular 2025 estão abertas",
+        "link": "https://www.instagram.com/senai.sp/p/C__GQnLxm0u/",
+        "descricao": "O SENAI-SP está oferecendo formações técnicas gratuitas e presenciais em 2025, com inscrições abertas até o dia 03 de fevereiro.",
+        "data": "01/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Senai São Paulo - Facebook",
+        "link": "https://www.facebook.com/senaisaopaulo/?locale=pt_BR",
+        "descricao": "O SENAI-SP anuncia cursos gratuitos na área de Metalurgia e Soldagem para 2025, com foco em qualificação profissional.",
+        "data": "02/02/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "USP deseja se tornar carbono neutro até final de 2025",
+        "link": "https://ipesi.com.br/usp-deseja-se-tornar-carbono-neutro-ate-final-de-2025/",
+        "descricao": "A Ambipar investirá R$ 5 milhões nos próximos cinco anos e apoiará a USP no desenvolvimento de iniciativas de descarbonização para que a universidade seja carbono neutro até final de 2025.",
+        "data": "30/11/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Reflorestamento em São Paulo será um dos projetos da nova Cátedra da USP",
+        "link": "https://jornal.usp.br/radio-usp/reflorestamento-em-sao-paulo-sera-um-dos-projetos-da-nova-catedra-da-usp/",
+        "descricao": "A nova Cátedra Clima e Sustentabilidade da USP buscará soluções para a crise climática, incluindo o reflorestamento da região metropolitana.",
+        "data": "27/01/2025",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Usina de biometano deve entrar em operação em 2025",
+        "link": "https://www.jornaldocomercio.com/mapa-economico/regiao-metropolitana/2024/12/1183701-usina-de-biometano-deve-entrar-em-operacao-em-2025.html",
+        "descricao": "Com um investimento de R$ 200 milhões, a usina Bioo localizará em Triunfo e terá capacidade de produção de 30 mil metros cúbicos por dia.",
+        "data": "16/12/2024",
+        "municipio": "Triunfo"
+    },
+    {
+        "titulo": "Usina experimental da USP vai gerar energia com resíduos",
+        "link": "https://espacodemocratico.org.br/nao-deixe-de-ler/usina-experimental-da-usp-vai-gerar-energia-com-residuos/",
+        "descricao": "A usina no campus da USP visa gerar energia elétrica e térmica a partir de resíduos orgânicos, promovendo práticas de sustentabilidade.",
+        "data": "02/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Mapfre e Reservas Votorantim lançam projeto de reflorestamento",
+        "link": "https://www.investe.sp.gov.br/noticia/mapfre-e-reservas-votorantim-lancam-projeto-de-reflorestamento/",
+        "descricao": "Iniciativa pretende compensar 5,1 mil toneladas de carbono com a restauração florestal de uma área de 29,42 hectares.",
+        "data": "10/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Grupo CCR anuncia compromisso de se tornar neutro em carbono",
+        "link": "https://www.grupoccr.com.br/noticias/grupo-ccr-anuncia-compromisso/",
+        "descricao": "O compromisso prevê ações para neutralizar emissões até 2025 em todas as operações do grupo.",
+        "data": "25/11/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Rumo ao net zero, Ambev neutraliza emissões de três novas fábricas",
+        "link": "https://exame.com/negocios/net-zero-ambev-neutraliza-emissoes-novas-fabricas/",
+        "descricao": "Ambev anunciou a primeira unidade carbono neutro em São Paulo, fazendo parte de sua meta de alcançar zero emissões.",
+        "data": "05/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Usina de biogás para minigeração distribuída em São Paulo",
+        "link": "https://www.alemdaenergia.engie.com.br/sao-paulo-ganha-nova-usina-de-biogas-para-minigeracao-distribuida/",
+        "descricao": "A Urca Energia investirá R$ 30 milhões na construção de uma usina destinada a fornecer energia limpa e sustentável.",
+        "data": "06/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Primeira usina de biometano 100% off grid do país entra em operação em São Paulo",
+        "link": "https://www.canalbioenergia.com.br/primeira-usina-de-biometano-100-off-grid-do-pais-entra-em-operacao-em-sao-paulo/",
+        "descricao": "A usina instalada em Jambeiro será capaz de gerar energia a partir de biometano sem depender de fontes externas.",
+        "data": "20/11/2024",
+        "municipio": "Jambeiro"
+    },
+    {
+        "titulo": "Nestlé anuncia plano de plantio e cultivo de 6 milhões de árvores nativas até 2027",
+        "link": "https://www.nestle.com.br/media/pressreleases/allpressreleases/nestle-anuncia-plano-de-plantio-e-cultivo-de-6-milhoes-de-arvores-nativas",
+        "descricao": "As ações buscam restaurar ecossistemas e contribuir para a preservação ambiental.",
+        "data": "12/11/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "SP divulga finalistas para gerir 'Tinder do reflorestamento'",
+        "link": "https://capitalreset.uol.com.br/carbono/creditos-de-carbono/sp-divulga-finalistas-para-gerir-do-tinder-do-reflorestamento/",
+        "descricao": "São Paulo tem a meta de que 37,5 mil hectares sejam restaurados até 2026, entre terras públicas e privadas.",
+        "data": "03/12/2024",
+        "municipio": "São Paulo"
+    },
+    {
+        "titulo": "Usina de biomassa é inaugurada e promete aquecer a economia local",
+        "link": "https://www.canalbioenergia.com.br/usina-biomassa-aquecer-economia-loca/",
+        "descricao": "Investimento em energias renováveis na região de São Paulo, com impacto direto na geração de empregos.",
+        "data": "15/11/2024",
+        "municipio": "São Paulo"
+    }
+]
+```

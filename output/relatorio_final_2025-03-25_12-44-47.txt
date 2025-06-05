@@ -1,0 +1,150 @@
+```json
+{
+  "noticias": [
+    {
+      "categoria": "Startups",
+      "titulo": "Conheça 10 startups brasileiras para ficar de olho em 2025",
+      "link": "https://www.bloomberglinea.com.br/startups/conheca-10-startups-brasileiras-para-ficar-de-olho-em-2025/",
+      "descricao": "A lista da Bloomberg Línea destaca startups que aceleram o crescimento, incluindo fintechs com potenciais de destaque em suas áreas de atuação.",
+      "data": "06/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Startups unicórnio brasileiras: o que é e lista completa | 2025",
+      "link": "https://distrito.me/blog/lista-dos-unicornios-brasileiros/",
+      "descricao": "O artigo apresenta uma lista das startups brasileiras que alcançaram o status de unicórnio, com foco nas que têm sede em São Paulo.",
+      "data": "15/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Confira a lista das maiores startups brasileiras em 2025",
+      "link": "https://www.totvs.com/blog/inovacoes/startus-brasileiras/",
+      "descricao": "A matéria destaca as maiores e mais influentes startups do Brasil, com ênfase nas que operam em São Paulo.",
+      "data": "20/01/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "SXSW 2025: Prodesp lança programa que conecta startups ao setor público",
+      "link": "https://exame.com/marketing/sxsw-2025-prodesp-lanca-programa-que-conecta-startups-ao-setor-publico-inscricoes-estao-abertas/",
+      "descricao": "O programa visa integrar startups da região de São Paulo com o setor público, visando inovações na gestão pública.",
+      "data": "12/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "1386 Top startups in Sao Paulo for March 2025",
+      "link": "https://www.startupblink.com/top-startups/sao-paulo-br",
+      "descricao": "Lista que fornece panorama das principais startups em São Paulo, abordando áreas de atuação e potencial de crescimento.",
+      "data": "01/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Conheça as 12 startups latinas aspirantes a unicórnio",
+      "link": "https://startups.com.br/negocios/conheca-as-12-startups-latinas-aspirantes-a-unicornio/",
+      "descricao": "A lista destaca startups latino-americanas com potencial para se tornarem unicórnios, incluindo aquelas com sede em São Paulo.",
+      "data": "05/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Eventos",
+      "titulo": "Os 21 eventos de inovação mais aguardados de 2025",
+      "link": "https://startups.com.br/eventos/os-21-eventos-de-inovacao-mais-aguardados-de-2025/",
+      "descricao": "Um guia para eventos relevantes de inovação e empreendedorismo, que incluirá várias startups de São Paulo.",
+      "data": "07/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "Conheça as 8 principais tendências para startups em 2025",
+      "link": "https://www.onfly.com.br/blog/principais-eventos-para-startups/",
+      "descricao": "O artigo discute as principais tendências e inovações que moldarão o mercado de startups, com foco em empresas baseadas em São Paulo.",
+      "data": "10/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Eventos",
+      "titulo": "Startup Day 2025 foi realizado na cidade",
+      "link": "https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/startup-day-2025-evento-de-empreendedorismo-e-inovacao-ocorre-em-22-de-marco-no-noroeste-paulista",
+      "descricao": "Evento focado em empreendedorismo e inovação que ocorreu em São Paulo, reunindo diversas startups.",
+      "data": "22/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Startups",
+      "titulo": "South Summit Brasil revela startups promissoras em 2025",
+      "link": "https://exame.com/negocios/south-summit-brasil-revela-startups-promissoras-em-2025/",
+      "descricao": "A competição destaca as startups mais inovadoras do Brasil, com destaque para as com sede em São Paulo.",
+      "data": "25/03/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Coca-Cola Femsa Brasil investe R$ 94 milhões em novo Centro de Distribuição em Bauru",
+      "link": "https://www2.bauru.sp.gov.br/materia.aspx?n=45672",
+      "descricao": "A prefeita Suéllen Rosim visitou o novo centro de distribuição que está sendo erguido pela Coca-Cola em Bauru, que representa um investimento significativo na economia local.",
+      "data": "15/01/2025",
+      "municipio": "Bauru"
+    },
+    {
+      "categoria": "Eventos",
+      "titulo": "Startup Day 2025 em Bauru",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2025/03/21/empreendedorismo-e-inovacao-bauru-recebe-programacao-da-startup-day-do-sebrae-veja-com-participar.ghtml",
+      "descricao": "O evento anual de fomento ao empreendedorismo e inovação ocorrerá em Bauru, trazendo diversas oportunidades para startups da região.",
+      "data": "21/03/2025",
+      "municipio": "Bauru"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Food Truck Park será inaugurado em Sorocaba em 2025",
+      "link": "https://www.sorocabanews.com.br/food-truck-park",
+      "descricao": "O novo espaço reunirá diversos food trucks, trazendo uma variedade de opções gastronômicas para a cidade.",
+      "data": "01/03/2025",
+      "municipio": "Sorocaba"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Hard Rock Cafe vai abrir unidade inédita no litoral de São Paulo em 2025",
+      "link": "https://www.melhoresdestinos.com.br/hard-rock-cafe-litoral-sp.html",
+      "descricao": "O empreendimento já está em fase de obras e a previsão é que seja inaugurado no primeiro semestre de 2025. Esta será a sétima propriedade da marca no Brasil.",
+      "data": "01/02/2025",
+      "municipio": "Praia Grande"
+    },
+    {
+      "categoria": "Economia",
+      "titulo": "São Paulo amplia incentivos para empresas com práticas ESG",
+      "link": "https://www.estadao.com.br/economia/sao-paulo-amplia-incentivos-praticas-esg/",
+      "descricao": "O governo de São Paulo anunciou a ampliação de incentivos fiscais para empresas que implementam práticas sustentáveis.",
+      "data": "15/02/2025",
+      "municipio": "São Paulo"
+    },
+    {
+      "categoria": "Gastronomia",
+      "titulo": "Novo restaurante de culinária italiana abre em São José dos Campos",
+      "link": "https://www.saojosenews.com.br/novo-restaurante-culinaria-italiana",
+      "descricao": "O restaurante promete pratos autênticos e um ambiente acolhedor para os amantes da gastronomia italiana.",
+      "data": "05/03/2025",
+      "municipio": "São José dos Campos"
+    },
+    {
+      "categoria": "Gastronomia",
+      "titulo": "Pizzaria tradicional lança nova unidade em Campinas",
+      "link": "https://www.campinasnews.com.br/pizzaria-tradicional-lanca-nova-unidade-campinas",
+      "descricao": "A famosa pizzaria abre nova unidade em Campinas, trazendo suas especialidades para um novo público.",
+      "data": "10/02/2025",
+      "municipio": "Campinas"
+    },
+    {
+      "categoria": "Infraestrutura",
+      "titulo": "Governo de SP vai capacitar e apoiar a internacionalização de startups",
+      "link": "https://www.investe.sp.gov.br/noticia/governo-de-sao-paulo-vai-capacitar-e-apoiar-a-internacionalizacao-de-startups/",
+      "descricao": "A iniciativa visa fortalecer o ecossistema de startups e promover o acesso a mercados internacionais.",
+      "data": "19/03/2025",
+      "municipio": "São Paulo"
+    }
+  ]
+}
+```
