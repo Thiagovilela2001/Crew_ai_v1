@@ -12,29 +12,76 @@ research_task_piesp_sp_2025:
     **VALIDAÇÃO:** Use fontes confiáveis listadas na ferramenta de busca. **DESCARTE** anúncios vagos, intenções futuras não confirmadas, fusões/aquisições sem expansão física, resultados financeiros, ou notícias sem localização clara em SP.
   expected_output: >
     Uma lista de dicionários Python, onde cada dicionário representa um anúncio de investimento validado e contém **exatamente** as seguintes chaves e valores extraídos da notícia:
-    - "Título": (string) O título original da notícia.
-    - "Resumo": (string) Um resumo conciso da notícia, focado nos detalhes do investimento (empresa, tipo de ação, local, setor, valor/impacto se disponível).
-    - "Ano": (string) O ano "2025".
-    - "Link": (string) O URL completo da notícia original.
-    Exemplo de um item da lista: 
-    {'Título': 'Empresa X inaugura nova fábrica em Campinas', 'Resumo': 'A Empresa X inaugurou sua nova unidade fabril em Campinas (SP) para produção de componentes eletrônicos, um investimento de R$ 50 milhões que gerará 100 empregos.', 'Ano': '2025', 'Link': 'http://link.da.noticia/...'}
+        "categoria": (string) Categoria da notícia (ex: "Investimentos", "Expansões", "Construções", etc.). ,
+        "titulo": (string) Título original da notícia. ,
+        "link": (string) URL completo da notícia. ,
+        "descricao_detalhada": (string) Resumo conciso focado nos detalhes do investimento (empresa, tipo de ação, local, setor, valor/impacto se disponível). ,
+        "data": (string) Data de publicação da notícia (deve ser 2025, com dia e mês especificados). ,
+        "municipio": (string) Nome do município onde a ação ocorre (validado com `municipios_sp.txt`). ,
+        "tipo_investimento": (string) Tipo de ação concreta (ex: "Inauguração", "Expansão", "Construção", "Instalação", "Modernização"). ,
+        "valor_estimado": (string ou float) Valor do investimento, se disponível (pode ser uma string com o valor monetário ou um número). ,
+        "fonte_financiamento": (string) Fonte de financiamento do investimento, se mencionada (ex: "Recursos próprios", "Financiamento bancário", etc.). ,
+        "fonte_noticia": (string) Nome da fonte de notícias que publicou a informação (ex: "Jornal X", "Revista Y", etc.).
+
 
 reporting_task_csv:
-  agent: analista_relatorios
-  description: >
-    Receber a lista de dicionários contendo os anúncios de investimento coletados pelo pesquisador.
-    Consolidar esses dados em um arquivo CSV final chamado 'investimentos_piesp_sp_2025_crewai.csv'.
-    O arquivo CSV deve conter **exatamente** as seguintes colunas, na ordem especificada: Título, Resumo, Ano, Link.
-    Garanta que o conteúdo de cada campo (especialmente Título e Resumo) esteja corretamente formatado para CSV (ex: tratamento de vírgulas internas, se necessário, usando aspas duplas).
-  expected_output: >
-    Confirmação da criação do arquivo CSV 'investimentos_piesp_sp_2025_crewai.csv' no diretório 'output/', contendo os 20 anúncios coletados com as colunas Título, Resumo, Ano, Link.
+  description: |
+    Receber a lista de dicionários Python do pesquisador (contexto da tarefa).
+    Verificar se a entrada é uma lista de dicionários e se cada dicionário contém as chaves esperadas (        "categoria": (string) Categoria da notícia (ex: "Investimentos", "Expansões", "Construções", etc.). ,
+        "titulo": (string) Título original da notícia. ,
+        "link": (string) URL completo da notícia. ,
+        "descricao_detalhada": (string) Resumo conciso focado nos detalhes do investimento (empresa, tipo de ação, local, setor, valor/impacto se disponível). ,
+        "data": (string) Data de publicação da notícia (deve ser 2025, com dia e mês especificados). ,
+        "municipio": (string) Nome do município onde a ação ocorre (validado com `municipios_sp.txt`). ,
+        "tipo_investimento": (string) Tipo de ação concreta (ex: "Inauguração", "Expansão", "Construção", "Instalação", "Modernização"). ,
+        "valor_estimado": (string ou float) Valor do investimento, se disponível (pode ser uma string com o valor monetário ou um número). ,
+        "fonte_financiamento": (string) Fonte de financiamento do investimento, se mencionada (ex: "Recursos próprios", "Financiamento bancário", etc.). ,
+        "fonte_noticia": (string) Nome da fonte de notícias que publicou a informação (ex: "Jornal X", "Revista Y", etc.).
+        ).
+    Usar uma biblioteca Python padrão (como `Json`) para escrever os dados no arquivo `output/investimentos_piesp_sp_2025_crewai.Json`.
+    Escrever o cabeçalho: "titulo, link, descricao_detalhada, data, municipio, tipo_investimento, valor_estimado, fonte_financiamento e fonte_noticia".
+    Iterar sobre a lista de dicionários e escrever cada um como uma linha no Json, garantindo a ordem correta das colunas e o tratamento adequado de caracteres especiais (como vírgulas dentro do resumo, que devem ser encapsuladas por aspas).
+    Confirmar a criação bem-sucedida do arquivo.
+  expected_output: |
+    Um arquivo Json chamado `investimentos_piesp_sp_2025_crewai.Json` com as colunas: **titulo, link, descricao_detalhada, data, municipio, tipo_investimento, valor_estimado, fonte_financiamento e fonte_noticia**.
+    O arquivo deve estar formatado corretamente (ex: uso de aspas para campos com vírgulas).
 
 
-reporting_task_investimentos:
-  agent: analista_relatorios
-  description: >
-    Consolidar **todas as notícias validadas e coletadas pelos pesquisadores** em um arquivo JSON único, garantindo a inclusão de todos os campos detalhados conforme o padrão PIESP.
-    Campos esperados por notícia: categoria, titulo, link, descricao_detalhada, data, municipio, tipo_investimento, valor_estimado, fonte_financiamento, fonte_noticia, e outros campos específicos das tarefas (piesp_setor, cnae_investimento, investimento_estrangeiro, esg, pme, quando aplicável).
-  expected_output: >
-    Arquivo JSON único e corretamente formatado contendo a lista de todas as notícias coletadas, com cada notícia incluindo as chaves: categoria, titulo, link, descricao_detalhada, data, municipio, tipo_investimento, valor_estimado, fonte_financiamento, fonte_noticia, [campos_especificos_da_tarefa...].
 
+identificar_noticias_repetidas:
+  description: |
+    Receber uma lista de notícias (como dicionários Python), cada uma contendo ao menos uma URL.
+    Para cada notícia, você deve usar a ferramenta `Read website content` para obter o conteúdo textual da notícia acessando seu link.
+
+    Em seguida, você deve identificar notícias duplicadas ou que falam do mesmo evento/investimento (mesmo se publicadas por fontes diferentes),
+    consolidando essas em uma única entrada.
+
+    Sempre utilize o seguinte formato para executar seu raciocínio:
+
+    ```
+    Thought: pense sobre o que deve ser feito a seguir
+    Action: escolha uma das ferramentas disponíveis (use uma por vez)
+    Action Input: parâmetros da ferramenta em JSON
+    Observation: resultado da ferramenta
+    ```
+
+    Quando tiver todas as informações e terminar o processo de consolidação, responda usando:
+
+    ```
+    Thought: I now can give a great answer
+    Final Answer: [lista final de dicionários consolidados]
+    ```
+
+    Nunca forneça "Action: None". Se não for usar ferramenta, vá direto ao Final Answer.
+  expected_output: |
+    Uma lista Python de dicionários, onde cada dicionário representa uma notícia única e consolidada. Cada dicionário deve conter as seguintes chaves:
+        - "titulo": (string) Título original da notícia
+        - "link": (string) URL completo da notícia (a mais representativa)
+        - "descricao_detalhada": (string) Resumo conciso focado nos detalhes do investimento (empresa, tipo de ação, local, setor, valor/impacto se disponível)
+        - "data": (string) Data de publicação da notícia (deve ser 2025, com dia e mês especificados)
+        - "municipio": (string) Nome do município onde a ação ocorre (validado com `municipios_sp.txt`)
+        - "tipo_investimento": (string) Tipo de ação concreta (ex: "Inauguração", "Expansão", "Construção", "Instalação", "Modernização")
+        - "valor_estimado": (string ou float) Valor do investimento, se disponível (pode ser uma string com o valor monetário ou um número)
+        - "fonte_financiamento": (string) Fonte de financiamento do investimento, se mencionada (ex: "Recursos próprios", "Financiamento bancário", etc.)
+        - "fonte_noticia": (string) Nome da fonte de notícias que publicou a informação
+        - "fontes_relacionadas": (lista de strings) Todas as URLs das notícias agrupadas como duplicatas

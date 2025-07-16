@@ -1,0 +1,72 @@
+[
+    {
+        "titulo": "Santo André e São Bernardo estão entre as seis cidades com maior investimento em saneamento",
+        "link": "https://www.dgabc.com.br/Noticia/4245803/santo-andre-e-sao-bernardo-estao-entre-as-seis-cidades-com-maior-investimento-em-saneamento",
+        "descricao_detalhada": "Os investimentos são da Sabesp (Companhia de Saneamento Básico do Estado de São Paulo) e visam ampliar sistemas de água e esgoto.",
+        "data": "01/01/2025",
+        "municipio": "Santo André",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Recursos próprios da Sabesp",
+        "fonte_noticia": "DGABC",
+        "fontes_relacionadas": [
+            "https://www.dgabc.com.br/Noticia/4245803/santo-andre-e-sao-bernardo-estao-entre-as-seis-cidades-com-maior-investimento-em-saneamento"
+        ]
+    },
+    {
+        "titulo": "Seba é convidado pelo governador Tarcísio para tratar de investimentos em saneamento",
+        "link": "http://www.acidadevotuporanga.com.br/cidade/2025/07/seba-e-convidado-pelo-governador-tarcisio-para-tratar-de-investimentos-em-saneamento-n84673",
+        "descricao_detalhada": "O prefeito de Votuporanga, Jorge Seba, participou de uma reunião com o governador do Estado de São Paulo para discutir investimentos em saneamento.",
+        "data": "01/01/2025",
+        "municipio": "Votuporanga",
+        "tipo_investimento": "Inauguração",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Recursos do governo do estado",
+        "fonte_noticia": "A Cidade Votuporanga",
+        "fontes_relacionadas": [
+            "http://www.acidadevotuporanga.com.br/cidade/2025/07/seba-e-convidado-pelo-governador-tarcisio-para-tratar-de-investimentos-em-saneamento-n84673"
+        ]
+    },
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Com investimentos estimados em R$ 12,5 bilhões, o Porto de Santos busca melhorar sua infraestrutura e aumentar a capacidade operacional.",
+        "data": "01/01/2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos públicos e privados",
+        "fonte_noticia": "DComércio",
+        "fontes_relacionadas": [
+            "https://dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo"
+        ]
+    },
+    {
+        "titulo": "Consulta Pública Concessão Administrativa Parques",
+        "link": "https://web.bndes.gov.br/pesquisa/index.php/776521?lang=pt-BR",
+        "descricao_detalhada": "O governo do Estado de São Paulo anunciou uma consulta pública para colher sugestões sobre a concessão administrativa de parques.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Concessão",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Recursos do estado",
+        "fonte_noticia": "BNDES",
+        "fontes_relacionadas": [
+            "https://web.bndes.gov.br/pesquisa/index.php/776521?lang=pt-BR"
+        ]
+    },
+    {
+        "titulo": "Financiada pelo BNDES, Linha 6-Laranja do metrô de São Paulo recebe o primeiro trem",
+        "link": "https://agenciadenoticias.bndes.gov.br/infraestrutura/Financiada-pelo-BNDES-Linha-6-Laranja-do-metro-de-Sao-Paulo-recebe-o-primeiro-trem/",
+        "descricao_detalhada": "A linha 6, financiada pelo BNDES, é uma parceria público-privada que visa melhorar o transporte público na cidade de São Paulo.",
+        "data": "01/01/2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Financiamento BNDES",
+        "fonte_noticia": "Agência BNDES",
+        "fontes_relacionadas": [
+            "https://agenciadenoticias.bndes.gov.br/infraestrutura/Financiada-pelo-BNDES-Linha-6-Laranja-do-metro-de-Sao-Paulo-recebe-o-primeiro-trem/"
+        ]
+    }
+]

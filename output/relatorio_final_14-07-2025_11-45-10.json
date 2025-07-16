@@ -1,0 +1,86 @@
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto ...",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Previsão de investimentos de R$ 12,5 bilhões no Porto de Santos, visando colocá-lo entre os 20 maiores do mundo.",
+        "data": "2025-06-23",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Jornal do Comércio",
+        "fontes_relacionadas": [
+            "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo"
+        ]
+    },
+    {
+        "titulo": "Boulevard aéreo, retrofit e VLT: obras mudam a cara de ...",
+        "link": "https://www.dgabc.com.br/Noticia/4245222/boulevard-aereo-retrofit-e-vlt-obras-mudam-a-cara-de-santos",
+        "descricao_detalhada": "Projetos de urbanismo e infraestrutura em Santos, incluindo um boulevard aéreo e um VLT que visam modernizar a cidade.",
+        "data": "2025-07-12",
+        "municipio": "Santos",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 15000000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Diário do Grande ABC",
+        "fontes_relacionadas": [
+            "https://www.dgabc.com.br/Noticia/4245222/boulevard-aereo-retrofit-e-vlt-obras-mudam-a-cara-de-santos"
+        ]
+    },
+    {
+        "titulo": "Campinas é eleita a melhor cidade para investimentos do ...",
+        "link": "https://correio.rac.com.br/campinasermc/campinas-e-eleita-a-melhor-cidade-para-investimentos-do-interior-da-america-latina-1.1675866",
+        "descricao_detalhada": "Campinas é reconhecida como a melhor cidade para investimentos no interior da América Latina, atraindo empresas e fomentando o crescimento econômico.",
+        "data": "2025-06-18",
+        "municipio": "Campinas",
+        "tipo_investimento": "Instalação",
+        "valor_estimado": "não disponível",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Correio Popular",
+        "fontes_relacionadas": [
+            "https://correio.rac.com.br/campinasermc/campinas-e-eleita-a-melhor-cidade-para-investimentos-do-interior-da-america-latina-1.1675866"
+        ]
+    },
+    {
+        "titulo": "Túnel Santos-Guarujá: Autoridade Portuária quer ...",
+        "link": "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-autoridade-portuaria-quer-propriedade-da-obra-e-fara-exigencias-ao-governo-de-s-o-paulo-1.468528",
+        "descricao_detalhada": "Obra do túnel Santos-Guarujá, visando desobstruir o tráfego de veículos entre as cidades.",
+        "data": "2025-07-06",
+        "municipio": "Santos",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "não disponível",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "A Tribuna",
+        "fontes_relacionadas": [
+            "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-autoridade-portuaria-quer-propriedade-da-obra-e-fara-exigencias-ao-governo-de-s-o-paulo-1.468528"
+        ]
+    },
+    {
+        "titulo": "Dário Saadi anuncia flexibilização da exigência de ônibus ...",
+        "link": "https://correio.rac.com.br/campinasermc/dario-saadi-anuncia-flexibilizac-o-da-exigencia-de-onibus-eletricos-1.1685609",
+        "descricao_detalhada": "Anúncio de obras de modernização na infraestrutura de transporte em Campinas, visando a instalação de novos ônibus elétricos.",
+        "data": "2025-06-23",
+        "municipio": "Campinas",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "não disponível",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Correio Popular",
+        "fontes_relacionadas": [
+            "https://correio.rac.com.br/campinasermc/dario-saadi-anuncia-flexibilizac-o-da-exigencia-de-onibus-eletricos-1.1685609"
+        ]
+    },
+    {
+        "titulo": "Venda de veículos elétricos sobe 9,5% no primeiro semestre",
+        "link": "https://www.canalenergia.com.br/noticias/53315984/venda-de-veiculos-eletricos-sobe-95-no-primeiro-semestre",
+        "descricao_detalhada": "Vendas de veículos elétricos em São Paulo subiram 9,5% no primeiro semestre de 2025, mostrando o crescimento do transporte sustentável na região.",
+        "data": "2025-08-10",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Instalação",
+        "valor_estimado": "não disponível",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Canal Energia",
+        "fontes_relacionadas": [
+            "https://www.canalenergia.com.br/noticias/53315984/venda-de-veiculos-eletricos-sobe-95-no-primeiro-semestre"
+        ]
+    }
+]

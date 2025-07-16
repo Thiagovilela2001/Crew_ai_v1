@@ -1,0 +1,16 @@
+[
+    {
+        "categoria": "Transporte",
+        "titulo": "BNDES aprova R$ 200 milhões para o BRT de Sorocaba (SP)",
+        "link": "https://agenciadenoticias.bndes.gov.br/infraestrutura/BNDES-aprova-R$-200-milhoes-para-o-BRT-de-Sorocaba-SP/",
+        "descricao_detalhada": "O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) aprovou financiamento de R$ 200 milhões para a implantação do sistema BRT de Sorocaba (SP). O projeto mira a execução de obras civis de vias BRT e estruturais, além de aquisição de material rodante, com investimento total de R$ 394 milhões.",
+        "data": "2025-01-15",
+        "municipio": "Sorocaba",
+        "tipo_investimento": "Implantação",
+        "valor_estimado": "200 milhões",
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência BNDES",
+        "piesp_setor": "Transporte",
+        "cnae_investimento": "Transporte terrestre"
+    }
+]

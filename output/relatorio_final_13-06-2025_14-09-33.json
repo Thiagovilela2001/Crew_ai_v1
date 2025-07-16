@@ -1,0 +1,98 @@
+[
+    {
+        "categoria": "Energia",
+        "titulo": "Isa Energia investe R$ 306 milhões na modernização da rede de transmissão em SP",
+        "link": "https://www.canalenergia.com.br/noticias/53312724/isa-energia-investe-r-306-milhoes-na-modernizacao-da-rede-de-transmissao-em-sp",
+        "descricao_detalhada": "A Isa Energia investiu R$ 306 milhões no primeiro trimestre de 2025 para a modernização do parque instalado no Estado de São Paulo, um volume 26% superior ao do ano anterior.",
+        "data": "30 de mai. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "R$ 306 milhões",
+        "fonte_financiamento": "Isa Energia",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Transporte",
+        "titulo": "Trens ligarão São Paulo à Baixada Santista, ao litoral paulista",
+        "link": "https://www.atribuna.com.br/cidades/trens-ligar-o-s-o-paulo-a-baixada-santista-ao-litoral-paulista-e-ao-interior-do-estado-e-custar-o-r-25-bilh-es-1.465062",
+        "descricao_detalhada": "Investimentos (SPI) do Estado de São Paulo. A extensão total da linha deverá variar entre 80 km e 130 km, com o trajeto final sendo definido após a execução.",
+        "data": "há 2 dias",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Implantação",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Secretaria de Parcerias em Investimentos",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Habitação",
+        "titulo": "Programa estadual libera R$ 5,4 milhões para mais 200 casas",
+        "link": "https://www.dgabc.com.br/Noticia/4239086/programa-estadual-libera-rs-5-4-milhoes-para-mais-200-casas",
+        "descricao_detalhada": "Em parceria com o governo federal, o Casa Paulista atua por meio da provisão de recursos em duas modalidades de construções.",
+        "data": "há 2 dias",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "R$ 5,4 milhões",
+        "fonte_financiamento": "Governo Federal",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "categoria": "Legislação",
+        "titulo": "Deputado Carlão Pignatari propõe mudanças no FUMTUR",
+        "link": "https://www.acidadevotuporanga.com.br/geral/2025/05/deputado-carlao-pignatari-propoe-mudancas-no-fumtur-para-fortalecer-investimentos-nas-estancias-e-municipios-de-interesse-turistico-n84193",
+        "descricao_detalhada": "O Projeto de Lei nº 513/2025, que propõe importantes alterações na Lei nº 16.283, de 15 de julho de 2016. A medida impacta diretamente o setor turístico.",
+        "data": "28 de mai. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Legislação",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Câmara dos Deputados",
+        "fonte_noticia": "ACidade Votuporanga"
+    },
+    {
+        "categoria": "Administração Pública",
+        "titulo": "Na RMC, gastos com Câmaras aumentaram 7% em 2024",
+        "link": "https://correio.rac.com.br/campinasermc/na-rmc-gastos-com-camaras-aumentaram-7-em-2024-1.1665797",
+        "descricao_detalhada": "A Câmara Municipal do segundo menor município do Estado de São Paulo, com 1.062 moradores, teve um gasto de R$ 1,03 milhão no ano.",
+        "data": "24 de mai. de 2025",
+        "municipio": "Região Metropolitana de Campinas",
+        "tipo_investimento": "Gastos Públicos",
+        "valor_estimado": "R$ 1,03 milhão",
+        "fonte_financiamento": "Câmara Municipal",
+        "fonte_noticia": "Correio"
+    },
+    {
+        "categoria": "Desenvolvimento Urbano",
+        "titulo": "Governador em exercício, Felicio Ramuth anuncia apoio ao projeto do HIDS",
+        "link": "https://correio.rac.com.br/campinasermc/governador-em-exercicio-felicio-ramuth-anuncia-apoio-ao-projeto-do-hids-1.1661996",
+        "descricao_detalhada": "Criação de um distrito inteligente e sustentável passa a ser uma agenda prioritária para o Estado de São Paulo.",
+        "data": "15 de mai. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Desenvolvimento",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Governo de São Paulo",
+        "fonte_noticia": "Correio"
+    },
+    {
+        "categoria": "Transporte",
+        "titulo": "Governo Federal autoriza contratação de 201 unidades habitacionais do MCMV rural",
+        "link": "https://cbic.org.br/governo-federal-autoriza-contratacao-de-201-unidades-habitacionais-do-mcmv-rural/",
+        "descricao_detalhada": "Contratações autorizadas, entre elas 101 unidades em Minas Gerais.",
+        "data": "15 de mai. de 2025",
+        "municipio": "Minas Gerais",
+        "tipo_investimento": "Habitação",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Governo Federal",
+        "fonte_noticia": "CBIC"
+    },
+    {
+        "categoria": "Desenvolvimento Urbano",
+        "titulo": "Trem que ligará São Paulo à Baixada Santista e ao litoral",
+        "link": "https://www.atribuna.com.br/cidades/trem-que-ligara-s-o-paulo-a-baixada-santista-e-ao-litoral-paulista-entra-em-nova-fase-e-tera-trajeto-de-90-minutos-1.461375",
+        "descricao_detalhada": "Os estudos de viabilidade do TIC Eixo Sul estão em desenvolvimento pela Secretaria de Parcerias em Investimentos.",
+        "data": "16 de mai. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Implantação",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "SPI",
+        "fonte_noticia": "A Tribuna"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "categoria": "Tecnologia",
+        "titulo": "BNDES Blockchain Lab",
+        "link": "https://www.bndes.gov.br/wps/portal/site/home/Busca/solrsearch?q=BNDES%20Blockchain%20Lab",
+        "descricao_detalhada": "O BNDES participará com 30,5% no Núcleo do Parque Tecnológico em São Paulo, colaborando com o IPT e a Fapesp para a implementação de um laboratório focado em blockchain.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Implantação",
+        "valor_estimado": null,
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "BNDES"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Indústria gera empregos na Baixada Santista e atinge melhor marca em 10 anos",
+        "link": "https://www.atribuna.com.br/cidades/industria-gera-empregos-na-baixada-santista-e-atinge-melhor-marca-em-10-anos-1.462477",
+        "descricao_detalhada": "A Baixada Santista registra um aumento significativo com 171.353 estabelecimentos industriais, incluindo crescimento de 3,9% na comparação entre 2023 e 2024.",
+        "data": "2025",
+        "municipio": "Baixada Santista",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Robôs nas indústrias: programados para produzir",
+        "link": "https://www.atribuna.com.br/noticias/brasil-e-economia/robos-nas-industrias-programados-para-produzir-1.461588",
+        "descricao_detalhada": "O avanço na automação industrial está crescendo no Brasil, especialmente em São Paulo, que é referência em setores estratégicos.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "A Tribuna"
+    }
+]

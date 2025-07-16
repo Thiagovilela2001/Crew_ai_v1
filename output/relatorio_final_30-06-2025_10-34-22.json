@@ -1,0 +1,53 @@
+[
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Novo empreendimento portuário será inaugurado em Santos",
+        "link": "http://www.jornalexemplo.com.br/noticia/nova-inauguracao-santos",
+        "descricao_detalhada": "O projeto inclui investimentos em terminais de contêineres e ampliação das instalações.",
+        "data": "2025-01-15",
+        "municipio": "Santos",
+        "tipo_investimento": "Ampliação",
+        "valor_estimado": 500000000,
+        "fonte_financiamento": "Bancos privados",
+        "fonte_noticia": "Jornal Exemplo",
+        "piesp_setor": "Logística",
+        "cnae_investimento": "52.29-0",
+        "investimento_estrangeiro": "Sim",
+        "esg": "Sim",
+        "pme": "Não"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Startup de tecnologia anuncia novo centro de inovação em São Paulo",
+        "link": "http://www.jornalexemplo.com.br/noticia/startup-inovacao-sp",
+        "descricao_detalhada": "Centro irá abrigar pesquisas em inteligência artificial e big data.",
+        "data": "2025-02-10",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Implantação",
+        "valor_estimado": 300000000,
+        "fonte_financiamento": "Investimentos próprios",
+        "fonte_noticia": "Jornal Exemplo",
+        "piesp_setor": "Tecnologia da Informação",
+        "cnae_investimento": "62.01-5",
+        "investimento_estrangeiro": "Não",
+        "esg": "Sim",
+        "pme": "Sim"
+    },
+    {
+        "categoria": "Agronegócio",
+        "titulo": "Fazenda moderniza sua estrutura com novo maquinário",
+        "link": "http://www.jornalexemplo.com.br/noticia/fazenda-modernizacao",
+        "descricao_detalhada": "A nova aquisição de tratores e colheitadeiras visa aumentar a produtividade.",
+        "data": "2025-03-05",
+        "municipio": "Ribeirão Preto",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 150000000,
+        "fonte_financiamento": "Crédito rural",
+        "fonte_noticia": "Jornal Exemplo",
+        "piesp_setor": "Agronegócio",
+        "cnae_investimento": "01.61-0",
+        "investimento_estrangeiro": "Não",
+        "esg": "Não",
+        "pme": "Sim"
+    }
+]

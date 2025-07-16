@@ -1,0 +1,62 @@
+[
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Santos investe em tubulação no Canal 3 para reduzir alagamentos",
+        "link": "https://www.atribuna.com.br/cidades/santos/santos-investe-em-tubulac-o-no-canal-3-para-reduzir-alagamentos-no-gonzaga-e-boqueir-o-conheca-a-obra-1.466494",
+        "descricao_detalhada": "O investimento de R$ 3,9 milhões, sendo R$ 3,5 milhões do Fundo de Desenvolvimento Urbano do Município de Santos e o restante do orçamento municipal, visa reduzir alagamentos no Gonzaga e Boqueirão.",
+        "data": "2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Urbanização",
+        "valor_estimado": "3.900.000",
+        "fonte_financiamento": "Fundo de Desenvolvimento Urbano do Município de Santos",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Maior túnel rodoviário do Brasil será construído no litoral de São Paulo",
+        "link": "https://www.atribuna.com.br/cidades/maior-tunel-rodoviario-do-brasil-sera-construido-no-litoral-de-s-o-paulo-e-vai-ligar-o-planalto-a-baixada-santista-1.462709",
+        "descricao_detalhada": "Desenvolvido pela concessionária Ecovias Imigrantes a pedido do Governo do Estado de São Paulo, o projeto permitirá a circulação de caminhões e ônibus, conectando o planalto à Baixada Santista.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "Não divulgado",
+        "fonte_financiamento": "Concessionária Ecovias Imigrantes",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Ciesp alerta para queda da indústria de transformação no PIB",
+        "link": "https://diariodaregiao.com.br/artigo/ciesp-alerta-para-queda-da-industria-de-transformac-o-no-pib-sinal-amarelo-1.2066354",
+        "descricao_detalhada": "Ciesp destaca impactos potenciais que a queda na indústria de transformação pode causar, um sinal de alerta para ações necessárias em São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Alerta de Investimento",
+        "valor_estimado": "Não aplicável",
+        "fonte_financiamento": "Ciesp",
+        "fonte_noticia": "Diário da Região"
+    },
+    {
+        "categoria": "Empreendedorismo",
+        "titulo": "RA de Campinas responde por 13% das empresas abertas no estado de São Paulo",
+        "link": "https://correio.rac.com.br/campinasermc/ra-de-campinas-responde-por-13-das-empresas-abertas-no-estado-de-s-o-paulo-1.1667329",
+        "descricao_detalhada": "Em média, foram registrados 7,7 novos cadastros por hora nos últimos 12 meses, indicando um aumento significativo na atividade empresarial na região.",
+        "data": "2025",
+        "municipio": "Campinas",
+        "tipo_investimento": "Abertura de Empresas",
+        "valor_estimado": "Não divulgado",
+        "fonte_financiamento": "Não aplicável",
+        "fonte_noticia": "Correio"
+    },
+    {
+        "categoria": "Turismo",
+        "titulo": "Deputado Carlão Pignatari propõe mudanças no FUMTUR",
+        "link": "https://www.acidadevotuporanga.com.br/geral/2025/05/deputado-carlao-pignatari-propoe-mudancas-no-fumtur-para-fortalecer-investimentos-nas-estancias-e-municipios-de-interesse-turistico-n84193",
+        "descricao_detalhada": "As mudanças propostas visam fortalecer investimentos nas Estâncias e Municípios de Interesse Turístico do Estado de São Paulo, com foco no desenvolvimento local.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Político",
+        "valor_estimado": "Não aplicável",
+        "fonte_financiamento": "Não aplicável",
+        "fonte_noticia": "A Cidade"
+    }
+]

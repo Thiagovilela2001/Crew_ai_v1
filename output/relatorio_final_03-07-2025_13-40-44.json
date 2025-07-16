@@ -1,0 +1,57 @@
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto ...",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos de R$ 12,5 bilhões devem colocar o Porto de Santos entre os 20 maiores do mundo. O projeto está no município de Santos, SP.",
+        "data": "23 de jun. de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Dcomércio"
+    },
+    {
+        "titulo": "MME acerta com Eletrobras repasse de R$ 147 mi para ...",
+        "link": "https://www.canalenergia.com.br/noticias/53313998/mme-acerta-com-eletrobras-repasse-de-r-147-mi-para-obras-em-hidrovia-de-sp",
+        "descricao_detalhada": "Repasse de R$ 147 milhões para obras em hidrovia no estado de São Paulo, melhorando a infraestrutura de transporte.",
+        "data": "13 de jun. de 2025",
+        "municipio": "Ainda não especificado na notícia",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 147000000,
+        "fonte_financiamento": "Recursos federais",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "titulo": "Programa estadual libera R$ 5,4 milhões para mais 200 ...",
+        "link": "https://www.dgabc.com.br/Noticia/4239086/programa-estadual-libera-rs-5-4-milhoes-para-mais-200-casas",
+        "descricao_detalhada": "Liberação de R$ 5,4 milhões para a construção de 200 casas em São Paulo, promovendo habitação social.",
+        "data": "11 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 5400000,
+        "fonte_financiamento": "Governo do Estado",
+        "fonte_noticia": "ABC News"
+    },
+    {
+        "titulo": "Zilor alcança receita líquida recorde de R$ 3,7 bilhões ...",
+        "link": "https://www.canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html",
+        "descricao_detalhada": "Zilor inaugura nova unidade na cidade de Lucélia, SP, parte de sua estratégia de expansão.",
+        "data": "há 1 dia",
+        "municipio": "Lucélia",
+        "tipo_investimento": "Inauguração",
+        "valor_estimado": null,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar ...",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "Assinatura de protocolo para impulsionar o setor offshore no litoral paulista com investimentos significativos.",
+        "data": "há 7 dias",
+        "municipio": "Litoral Paulista",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": null,
+        "fonte_financiamento": "Parceria público-privada",
+        "fonte_noticia": "DGABC"
+    }
+]

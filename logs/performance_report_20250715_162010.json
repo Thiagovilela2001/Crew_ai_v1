@@ -1,0 +1,179 @@
+{
+  "session_summary": {
+    "total_iterations": 5,
+    "session_duration_minutes": 14.404167997837067,
+    "total_alerts": 10
+  },
+  "performance_stats": {
+    "avg_execution_time_minutes": 2.4518117403984068,
+    "max_execution_time_minutes": 3.016482782363892,
+    "min_execution_time_minutes": 1.298628024260203,
+    "avg_data_quality": 0.0,
+    "avg_tool_success_rate": 0.0
+  },
+  "data_collection": {
+    "total_news_found": 0,
+    "total_news_validated": 0,
+    "total_duplicates_removed": 0,
+    "total_invalid_locations": 0
+  },
+  "alerts": [
+    {
+      "tipo": "TOOL_SUCCESS_RATE",
+      "severidade": "HIGH",
+      "mensagem": "Taxa de sucesso de ferramentas baixa: 0.00%",
+      "timestamp": "2025-07-15T16:07:13.274864",
+      "contexto": {
+        "success_rate": 0.0
+      }
+    },
+    {
+      "tipo": "DATA_QUALITY",
+      "severidade": "HIGH",
+      "mensagem": "Qualidade de dados baixa: 0.00%",
+      "timestamp": "2025-07-15T16:07:13.275863",
+      "contexto": {
+        "quality_score": 0.0
+      }
+    },
+    {
+      "tipo": "TOOL_SUCCESS_RATE",
+      "severidade": "HIGH",
+      "mensagem": "Taxa de sucesso de ferramentas baixa: 0.00%",
+      "timestamp": "2025-07-15T16:09:55.936922",
+      "contexto": {
+        "success_rate": 0.0
+      }
+    },
+    {
+      "tipo": "DATA_QUALITY",
+      "severidade": "HIGH",
+      "mensagem": "Qualidade de dados baixa: 0.00%",
+      "timestamp": "2025-07-15T16:09:55.936922",
+      "contexto": {
+        "quality_score": 0.0
+      }
+    },
+    {
+      "tipo": "TOOL_SUCCESS_RATE",
+      "severidade": "HIGH",
+      "mensagem": "Taxa de sucesso de ferramentas baixa: 0.00%",
+      "timestamp": "2025-07-15T16:13:26.671255",
+      "contexto": {
+        "success_rate": 0.0
+      }
+    },
+    {
+      "tipo": "DATA_QUALITY",
+      "severidade": "HIGH",
+      "mensagem": "Qualidade de dados baixa: 0.00%",
+      "timestamp": "2025-07-15T16:13:26.672258",
+      "contexto": {
+        "quality_score": 0.0
+      }
+    },
+    {
+      "tipo": "TOOL_SUCCESS_RATE",
+      "severidade": "HIGH",
+      "mensagem": "Taxa de sucesso de ferramentas baixa: 0.00%",
+      "timestamp": "2025-07-15T16:16:57.669567",
+      "contexto": {
+        "success_rate": 0.0
+      }
+    },
+    {
+      "tipo": "DATA_QUALITY",
+      "severidade": "HIGH",
+      "mensagem": "Qualidade de dados baixa: 0.00%",
+      "timestamp": "2025-07-15T16:16:57.670567",
+      "contexto": {
+        "quality_score": 0.0
+      }
+    },
+    {
+      "tipo": "TOOL_SUCCESS_RATE",
+      "severidade": "HIGH",
+      "mensagem": "Taxa de sucesso de ferramentas baixa: 0.00%",
+      "timestamp": "2025-07-15T16:20:10.955128",
+      "contexto": {
+        "success_rate": 0.0
+      }
+    },
+    {
+      "tipo": "DATA_QUALITY",
+      "severidade": "HIGH",
+      "mensagem": "Qualidade de dados baixa: 0.00%",
+      "timestamp": "2025-07-15T16:20:10.956127",
+      "contexto": {
+        "quality_score": 0.0
+      }
+    }
+  ],
+  "iteration_details": [
+    {
+      "iteracao": 1,
+      "timestamp": "2025-07-15T16:07:13.272867",
+      "total_noticias_encontradas": 0,
+      "noticias_validadas": 0,
+      "duplicatas_removidas": 0,
+      "municipios_invalidos": 0,
+      "tempo_execucao": 77.91768145561218,
+      "taxa_sucesso_ferramentas": 0.0,
+      "consultas_alternativas_usadas": 0,
+      "erros_validacao": 0,
+      "qualidade_dados": 0.0
+    },
+    {
+      "iteracao": 2,
+      "timestamp": "2025-07-15T16:09:55.935923",
+      "total_noticias_encontradas": 0,
+      "noticias_validadas": 0,
+      "duplicatas_removidas": 0,
+      "municipios_invalidos": 0,
+      "tempo_execucao": 132.62956953048706,
+      "taxa_sucesso_ferramentas": 0.0,
+      "consultas_alternativas_usadas": 0,
+      "erros_validacao": 0,
+      "qualidade_dados": 0.0
+    },
+    {
+      "iteracao": 3,
+      "timestamp": "2025-07-15T16:13:26.669673",
+      "total_noticias_encontradas": 0,
+      "noticias_validadas": 0,
+      "duplicatas_removidas": 0,
+      "municipios_invalidos": 0,
+      "tempo_execucao": 180.72916674613953,
+      "taxa_sucesso_ferramentas": 0.0,
+      "consultas_alternativas_usadas": 0,
+      "erros_validacao": 0,
+      "qualidade_dados": 0.0
+    },
+    {
+      "iteracao": 4,
+      "timestamp": "2025-07-15T16:16:57.664570",
+      "total_noticias_encontradas": 0,
+      "noticias_validadas": 0,
+      "duplicatas_removidas": 0,
+      "municipios_invalidos": 0,
+      "tempo_execucao": 180.9889669418335,
+      "taxa_sucesso_ferramentas": 0.0,
+      "consultas_alternativas_usadas": 0,
+      "erros_validacao": 0,
+      "qualidade_dados": 0.0
+    },
+    {
+      "iteracao": 5,
+      "timestamp": "2025-07-15T16:20:10.954128",
+      "total_noticias_encontradas": 0,
+      "noticias_validadas": 0,
+      "duplicatas_removidas": 0,
+      "municipios_invalidos": 0,
+      "tempo_execucao": 163.27813744544983,
+      "taxa_sucesso_ferramentas": 0.0,
+      "consultas_alternativas_usadas": 0,
+      "erros_validacao": 0,
+      "qualidade_dados": 0.0
+    }
+  ]
+}

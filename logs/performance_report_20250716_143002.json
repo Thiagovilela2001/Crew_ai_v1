@@ -1,0 +1,47 @@
+{
+  "session_summary": {
+    "total_iterations": 1,
+    "session_duration_minutes": 3.1352835377057393,
+    "total_alerts": 1
+  },
+  "performance_stats": {
+    "avg_execution_time_minutes": 3.010663855075836,
+    "max_execution_time_minutes": 3.010663855075836,
+    "min_execution_time_minutes": 3.010663855075836,
+    "avg_data_quality": 0.8645,
+    "avg_tool_success_rate": 1.0
+  },
+  "data_collection": {
+    "total_news_found": 2,
+    "total_news_validated": 2,
+    "total_duplicates_removed": 0,
+    "total_invalid_locations": 0
+  },
+  "alerts": [
+    {
+      "tipo": "DATA_QUALITY",
+      "severidade": "HIGH",
+      "mensagem": "Qualidade dos dados baixa: 33.33%",
+      "timestamp": "2025-07-16T14:30:02.044002",
+      "contexto": {
+        "quality_score": 0.3333333333333333,
+        "records": 2
+      }
+    }
+  ],
+  "iteration_details": [
+    {
+      "iteracao": 1,
+      "timestamp": "2025-07-16T14:30:02.045002",
+      "total_noticias_encontradas": 2,
+      "noticias_validadas": 2,
+      "duplicatas_removidas": 0,
+      "municipios_invalidos": 0,
+      "tempo_execucao": 180.63983130455017,
+      "taxa_sucesso_ferramentas": 1.0,
+      "consultas_alternativas_usadas": 0,
+      "erros_validacao": 0,
+      "qualidade_dados": 0.8645
+    }
+  ]
+}

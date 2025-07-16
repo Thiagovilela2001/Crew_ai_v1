@@ -1,0 +1,122 @@
+[
+    {
+        "categoria": "Transporte",
+        "titulo": "Trens ligarão São Paulo à Baixada Santista, ao litoral ...",
+        "link": "https://www.atribuna.com.br/cidades/trens-ligar-o-s-o-paulo-a-baixada-santista-ao-litoral-paulista-e-ao-interior-do-estado-e-custar-o-r-25-bilh-es-1.465062",
+        "descricao_detalhada": "... Investimentos (SPI) do Estado de São Paulo. A extensão total da linha deverá variar entre 80 km e 130 km, com o trajeto final sendo definido após a ...",
+        "data": "2025-06-11",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Infrastrutura",
+        "valor_estimado": "25 bilhões",
+        "fonte_financiamento": "Governo do Estado",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "Geração própria solar alcança 40 GW, aponta Absolar",
+        "link": "https://www.canalenergia.com.br/noticias/53313624/geracao-propria-solar-alcanca-40-gw-aponta-absolar",
+        "descricao_detalhada": "Em termos de potência instalada, o estado de São Paulo é primeiro no ranking, com 5,7 gigawatts (GW). Na sequência, aparecem Minas Gerais, com 4,8 GW ...",
+        "data": "2025-06-11",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Energia Renovável",
+        "valor_estimado": "N/A",
+        "fonte_financiamento": "N/A",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Habitação",
+        "titulo": "CBIC participa de seminário sobre o futuro dos Fundos ...",
+        "link": "https://cbic.org.br/cbic-participa-de-seminario-sobre-o-futuro-dos-fundos-de-investimento-apos-veto-presidencial/",
+        "descricao_detalhada": "Além da CBIC, participaram da discussão Pedro Krahenbuhl, Diretor de Relações Institucionais do Sindicato da Habitação do Estado de São Paulo (SECOVI/SP); ...",
+        "data": "2025-05-28",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção Civil",
+        "valor_estimado": "N/A",
+        "fonte_financiamento": "N/A",
+        "fonte_noticia": "CBIC"
+    },
+    {
+        "categoria": "Habitação",
+        "titulo": "Governo Federal autoriza contratação de 201 unidades ...",
+        "link": "https://cbic.org.br/governo-federal-autoriza-contratacao-de-201-unidades-habitacionais-do-mcmv-rural/",
+        "descricao_detalhada": "Em Minas Gerais, 101 unidades habitacionais serão construídas nos municípios de Rio Espera, Vermelho Novo e Vieiras. Na Bahia, o município de Riacho de Santana ...",
+        "data": "2025-05-15",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Habitação",
+        "valor_estimado": "N/A",
+        "fonte_financiamento": "N/A",
+        "fonte_noticia": "CBIC"
+    },
+    {
+        "categoria": "Habitação",
+        "titulo": "Programa estadual libera R$ 5,4 milhões para mais 200 ...",
+        "link": "https://www.dgabc.com.br/Noticia/4239086/programa-estadual-libera-rs-5-4-milhoes-para-mais-200-casas",
+        "descricao_detalhada": "... Estado de São Paulo. PARCERIA. Em parceria com o governo federal, o Casa Paulista atua por meio da provisão de recursos em duas modalidades de construções ...",
+        "data": "2025-06-11",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Habitação",
+        "valor_estimado": "5,4 milhões",
+        "fonte_financiamento": "Governo do Estado",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "categoria": "Finanças",
+        "titulo": "Entidades dos bancos e das indústrias criticam aumento do IOF",
+        "link": "https://www.diariodaregiao.com.br/agencia/entidades-dos-bancos-e-das-industrias-criticam-aumento-do-iof-1.2064424",
+        "descricao_detalhada": "Segundo a Federação das Indústrias do Estado de São Paulo (Fiesp), o aumento das alíquotas vai na contramão de programas do governo para impulsionar o ...",
+        "data": "2025-05-23",
+        "municipio": "São Paulo",
+        "tipo_investimento": "N/A",
+        "valor_estimado": "N/A",
+        "fonte_financiamento": "N/A",
+        "fonte_noticia": "Diário da Região"
+    },
+    {
+        "categoria": "Construção Civil",
+        "titulo": "CBIC, Abrainc, Secovi-SP, SindusCon-SP e AELO ...",
+        "link": "https://cbic.org.br/cbic-abrainc-secovi-sp-sinduscon-sp-e-aelo-apresentam-nota-tecnica-a-parlamentares-contra-a-tributacao-das-lcis-cris-e-debentures/",
+        "descricao_detalhada": "O documento é também assinado pelo Sindicato da Habitação de São Paulo (Secovi-SP), pelo Sindicato da Indústria da Construção Civil do Estado de São Paulo ...",
+        "data": "2025-06-11",
+        "municipio": "São Paulo",
+        "tipo_investimento": "N/A",
+        "valor_estimado": "N/A",
+        "fonte_financiamento": "N/A",
+        "fonte_noticia": "CBIC"
+    },
+    {
+        "categoria": "Opinião",
+        "titulo": "Palavra do Leitor - 11 de junho de 2025",
+        "link": "https://www.dgabc.com.br/Noticia/4239114/palavra-do-leitor-11-de-junho-de-2025",
+        "descricao_detalhada": "Paulo Salim Maluf é um político, engenheiro e empresário brasileiro. Foi governador do Estado de São Paulo (1979–1982) e prefeito de São Paulo em duas ocasiões ...",
+        "data": "2025-06-11",
+        "municipio": "São Paulo",
+        "tipo_investimento": "N/A",
+        "valor_estimado": "N/A",
+        "fonte_financiamento": "N/A",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Produção industrial tem alta de 0,1% de março para abril",
+        "link": "https://www.diariodaregiao.com.br/agencia/produc-o-industrial-tem-alta-de-0-1-de-marco-para-abril-1.2067218",
+        "descricao_detalhada": "... investimentos por parte das empresas. E tem o ambiente de incerteza não só no ... São Paulo (SP) - Sede da Federação das Indústrias do Estado de São Paulo.",
+        "data": "2025-06-03",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Indústria",
+        "valor_estimado": "N/A",
+        "fonte_financiamento": "N/A",
+        "fonte_noticia": "Diário da Região"
+    },
+    {
+        "categoria": "Transportes",
+        "titulo": "Tecon 10: Governo de SP defende leilão aberto, sem ...",
+        "link": "https://www.dgabc.com.br/Noticia/4238175/tecon-10-governo-de-sp-defende-leilao-aberto-sem-restricoes-para-operadores-atuais",
+        "descricao_detalhada": "O Governo do Estado de São Paulo saiu em defesa da concorrência aberta no leilão do Terminal de Contêineres 10 do Porto de Santos (Tecon 10).",
+        "data": "2025-06-02",
+        "municipio": "Santos",
+        "tipo_investimento": "Infraestrutura",
+        "valor_estimado": "N/A",
+        "fonte_financiamento": "N/A",
+        "fonte_noticia": "Diário do Grande ABC"
+    }
+]

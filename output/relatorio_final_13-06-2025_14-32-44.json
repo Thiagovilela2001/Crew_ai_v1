@@ -1,0 +1,110 @@
+[
+    {
+        "categoria": "Modernização",
+        "titulo": "Isa Energia investe R$ 306 milhões na modernização da rede de transmissão em SP",
+        "link": "https://www.canalenergia.com.br/noticias/53312724/isa-energia-investe-r-306-milhoes-na-modernizacao-da-rede-de-transmissao-em-sp",
+        "descricao_detalhada": "A Isa Energia investiu R$ 306 milhões no primeiro trimestre de 2025 para a modernização do parque instalado no Estado de São Paulo, um volume 26% superior ao ano anterior.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Energia",
+        "valor_estimado": "306000000",
+        "fonte_financiamento": "Recursos Próprios",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Habitação",
+        "titulo": "Programa estadual libera R$ 5,4 milhões para mais 200 casas",
+        "link": "https://www.dgabc.com.br/Noticia/4239086/programa-estadual-libera-rs-5-4-milhoes-para-mais-200-casas",
+        "descricao_detalhada": "O governo de São Paulo, em parceria com o governo federal, liberou R$ 5,4 milhões para construção de 200 casas no estado, parte do programa Casa Paulista.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção Habitacional",
+        "valor_estimado": "5400000",
+        "fonte_financiamento": "Governo Estadual e Federal",
+        "fonte_noticia": "Dgabc"
+    },
+    {
+        "categoria": "Transporte",
+        "titulo": "Trens ligarão São Paulo à Baixada Santista, ao litoral paulista e ao interior",
+        "link": "https://www.atribuna.com.br/cidades/trens-ligar-o-s-o-paulo-a-baixada-santista-ao-litoral-paulista-e-ao-interior-do-estado-e-custar-o-r-25-bilh-es-1.465062",
+        "descricao_detalhada": "Um novo projeto prevê investimentos do governo de São Paulo na expansão da malha ferroviária, ligando a capital a diversas regiões, com um custo estimado em R$ 2,5 bilhões.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Infraestrutura de Transporte",
+        "valor_estimado": "2500000000",
+        "fonte_financiamento": "Governo Estadual",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Legislativo",
+        "titulo": "Deputado Carlão Pignatari propõe mudanças no FUMTUR para fortalecer investimentos",
+        "link": "https://www.acidadevotuporanga.com.br/geral/2025/05/deputado-carlao-pignatari-propoe-mudancas-no-fumtur-para-fortalecer-investimentos-nas-estancias-e-municipios-de-interesse-turistico-n84193",
+        "descricao_detalhada": "O deputado propôs mudanças no Fundo de Melhoria das Estâncias que pode destinar mais recursos a municípios turísticos em São Paulo.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Fundo de Investimento",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Governo Estadual",
+        "fonte_noticia": "A Cidade Votuporanga"
+    },
+    {
+        "categoria": "Gastos Públicos",
+        "titulo": "Na RMC, gastos com Câmaras aumentaram 7% em 2024",
+        "link": "https://correio.rac.com.br/campinasermc/na-rmc-gastos-com-camaras-aumentaram-7-em-2024-1.1665797",
+        "descricao_detalhada": "Gastos das Câmaras Municipais na região metropolitana de Campinas, SP, aumentaram 7% no último ano, refletindo um investimento significativo em serviços públicos.",
+        "data": "2025-01-01",
+        "municipio": "Campinas",
+        "tipo_investimento": "Serviços Públicos",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Orçamento Municipal",
+        "fonte_noticia": "Correio"
+    },
+    {
+        "categoria": "Saneamento",
+        "titulo": "Sabesp prevê R$ 3,6 bilhões em obras de saneamento no Grande ABC até 2029",
+        "link": "https://www.dgabc.com.br/Noticia/4236781/sabesp-preve-rs-2-7-bilhoes-em-obras-de-saneamento-no-grande-abc-ate-2029",
+        "descricao_detalhada": "A Sabesp planeja investir R$ 3,6 bilhões em obras de saneamento na região do Grande ABC, melhorando a qualidade dos serviços de água e esgoto.",
+        "data": "2025-01-01",
+        "municipio": "Grande ABC",
+        "tipo_investimento": "Saneamento",
+        "valor_estimado": "3600000000",
+        "fonte_financiamento": "Recursos Próprios",
+        "fonte_noticia": "Dgabc"
+    },
+    {
+        "categoria": "Portos",
+        "titulo": "Porto de Santos planeja investir R$ 1,4 bilhão em obras",
+        "link": "https://www.atribuna.com.br/noticias/portomar/porto-de-santos-planeja-investir-r-1-4-bilh-o-em-obras-e-entrega-cronograma-a-antaq-1.462235",
+        "descricao_detalhada": "O Porto de Santos, em São Paulo, anunciou investimentos de R$ 1,4 bilhão em obras para modernização e ampliação, aumentando a eficiência operacional.",
+        "data": "2025-01-01",
+        "municipio": "Santos",
+        "tipo_investimento": "Infraestrutura Portuária",
+        "valor_estimado": "1400000000",
+        "fonte_financiamento": "Recursos Próprios",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Economia",
+        "titulo": "Entidades dos bancos e das indústrias criticam aumento do IOF",
+        "link": "https://www.diariodaregiao.com.br/agencia/entidades-dos-bancos-e-das-industrias-criticam-aumento-do-iof-1.2064424",
+        "descricao_detalhada": "Entidades do setor bancário e industrial, incluindo a Fiesp, criticaram o aumento do IOF, prevendo impacto negativo sobre investimentos no Estado de São Paulo.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Política Econômica",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Não aplicável",
+        "fonte_noticia": "Diário da Região"
+    },
+    {
+        "categoria": "Imobiliário",
+        "titulo": "CBIC, Abrainc, Secovi-SP, SindusCon-SP e AELO se unem em defesa de investimentos no setor imobiliário",
+        "link": "https://cbic.org.br/cbic-abrainc-secovi-sp-sinduscon-sp-e-aelo-apresentam-nota-tecnica-a-parlamentares-contra-a-tributacao-das-lcis-cris-e-debentures/",
+        "descricao_detalhada": "Estas entidades apresentaram uma nota técnica aos parlamentares defendendo ações que estimulem investimentos no setor imobiliário em São Paulo.",
+        "data": "2025-01-01",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Investimento Imobiliário",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Privado",
+        "fonte_noticia": "CBIC"
+    }
+]

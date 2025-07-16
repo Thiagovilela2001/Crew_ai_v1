@@ -1,0 +1,68 @@
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos de R$ 12,5 bilhões no Porto de Santos com objetivo de torná-lo um dos 20 maiores do mundo.",
+        "data": "23 de junho de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Não mencionado",
+        "fonte_noticia": "DComércio"
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar setor offshore no litoral paulista",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "A Petrobras formalizou um protocolo com a Secretaria de Desenvolvimento Econômico de SP para impulsionar instalações no setor offshore.",
+        "data": "26 de junho de 2025",
+        "municipio": "Não mencionado",
+        "tipo_investimento": "Instalação",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Não mencionado",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "titulo": "Zilor alcança receita líquida recorde de R$ 3,7 bilhões",
+        "link": "https://www.canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html",
+        "descricao_detalhada": "A Zilor anunciou a aquisição da unidade Salto Botelho, localizada em Lucélia (SP), que faz parte de sua estratégia de crescimento.",
+        "data": "há 6 dias",
+        "municipio": "Lucélia",
+        "tipo_investimento": "Aquisição",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Não mencionado",
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "titulo": "MME acerta com Eletrobras repasse de R$ 147 mi para obras em hidrovia de SP",
+        "link": "https://www.canalenergia.com.br/noticias/53313998/mme-acerta-com-eletrobras-repasse-de-r-147-mi-para-obras-em-hidrovia-de-sp",
+        "descricao_detalhada": "O Ministério de Minas e Energia e a Eletrobras acordaram um repasse de R$ 147 milhões para obras na hidrovia de São Paulo.",
+        "data": "13 de janeiro de 2025",
+        "municipio": "Não mencionado",
+        "tipo_investimento": "Infraestrutura",
+        "valor_estimado": 147000000,
+        "fonte_financiamento": "Recursos Federais",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "titulo": "Fronteira do etanol é ampliada com novas usinas em quatro municípios do sul",
+        "link": "https://www.canaonline.com.br/conteudo/fronteira-do-etanol-e-ampliada-com-novas-usinas-em-quatro-municipios-do-sul.html",
+        "descricao_detalhada": "Expansão das usinas de etanol em vários municípios, fortalecendo a presença da produção de etanol no estado.",
+        "data": "11 de junho de 2025",
+        "municipio": "Não mencionado",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Não mencionado",
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "titulo": "Copel aumenta aporte para qualidade da energia em R$ 2,5 bi",
+        "link": "https://www.canalenergia.com.br/noticias/53314167/copel-aumenta-aporte-para-qualidade-da-energia-em-r-25-bi",
+        "descricao_detalhada": "Investimentos para aumentar a qualidade da energia em municípios do estado de São Paulo.",
+        "data": "17 de junho de 2025",
+        "municipio": "Cianorte",
+        "tipo_investimento": "Investimentos",
+        "valor_estimado": 2500000000,
+        "fonte_financiamento": "Não mencionado",
+        "fonte_noticia": "Canal Energia"
+    }
+]

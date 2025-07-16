@@ -1,0 +1,19 @@
+[
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Túnel Santos-Guarujá tem edital atualizado",
+        "link": "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-tem-edital-atualizado-pelo-governo-de-s-o-paulo-valor-da-obra-sobe-para-r-6-8-bilh-es-1.464889",
+        "descricao_detalhada": "O Governo de São Paulo atualizou o edital para a construção do Túnel Santos-Guarujá, que visa melhorar a infraestrutura de transporte entre as regiões.",
+        "data": "2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "R$ 6,8 bilhões",
+        "fonte_financiamento": "Governo do Estado de São Paulo",
+        "fonte_noticia": "A Tribuna",
+        "piesp_setor": "Transporte",
+        "cnae_investimento": "4211-5/00",
+        "investimento_estrangeiro": "Não",
+        "esg": "Sim",
+        "pme": "Não"
+    }
+]

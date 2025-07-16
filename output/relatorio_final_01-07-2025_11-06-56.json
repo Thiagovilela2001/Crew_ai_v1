@@ -1,0 +1,74 @@
+[
+    {
+        "categoria": "Investimentos",
+        "titulo": "Mercado Livre anuncia investimento de R$ 13,6 bi em SP ...",
+        "link": "https://dcomercio.com.br/publicacao/s/mercado-livre-anuncia-investimento-de-r-13-6-bi-em-sp-ao-longo-de-2025",
+        "descricao_detalhada": "O Mercado Livre anunciou o aporte de R$ 13,6 bilhões no estado de São Paulo ao longo de 2025. O valor representa 40% dos R$ 34 bilhões que a companhia prevê para investimentos no Brasil.",
+        "data": "2025-06-18",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Investimento",
+        "valor_estimado": 13600000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Diário do Comércio"
+    },
+    {
+        "categoria": "Construções",
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto ...",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos de R$ 12,5 bilhões devem modernizar o Porto de Santos, no estado de São Paulo, visando colocá-lo entre os 20 maiores portos do mundo.",
+        "data": "2025-05-29",
+        "municipio": "Santos",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Diário do Comércio"
+    },
+    {
+        "categoria": "Expansões",
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar ...",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "A Petrobras firmou um protocolo com o governo paulista e outras entidades para promover o setor offshore no litoral de São Paulo.",
+        "data": "2025-06-05",
+        "municipio": "São Sebastião",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": "None",
+        "fonte_financiamento": "None",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Governo Tarcísio apresenta projeto do Túnel Santos-Guarujá ...",
+        "link": "https://correio.rac.com.br/agenciaestado/governo-tarcisio-apresenta-projeto-do-tunel-santos-guaruja-a-empresas-em-toquio-1.1680757",
+        "descricao_detalhada": "O governo paulista apresentou um projeto para a construção do Túnel Santos-Guarujá a empresas em Tóquio, com o intuito de captar investimentos.",
+        "data": "2025-05-22",
+        "municipio": "Santos",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "None",
+        "fonte_financiamento": "None",
+        "fonte_noticia": "Correio Popular"
+    },
+    {
+        "categoria": "Expansão",
+        "titulo": "FIESP: estudo mostra potencial para SP ser grande ...",
+        "link": "https://www.canalenergia.com.br/noticias/53313324/fiesp-estudo-mostra-potencial-para-sp-ser-grande-produtor-de-biometano",
+        "descricao_detalhada": "Um estudo da FIESP indica que o estado de São Paulo tem potencial para ampliar sua produção de biometano, com investimentos estimados em 6,4 milhões de m³ por dia.",
+        "data": "2025-06-06",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": "None",
+        "fonte_financiamento": "None",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Projetos de Infraestrutura",
+        "titulo": "Trens ligarão São Paulo à Baixada Santista, ao litoral ...",
+        "link": "https://www.atribuna.com.br/cidades/trens-ligar-o-s-o-paulo-a-baixada-santista-ao-litoral-paulista-e-ao-interior-do-estado-e-custar-o-r-25-bilh-es-1.465062",
+        "descricao_detalhada": "O investimento em nova linha de trem vai ligar São Paulo à Baixada Santista e ao litoral paulista, com valor estimado em R$ 2,5 bilhões.",
+        "data": "2025-06-11",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 2500000000,
+        "fonte_financiamento": "Recursos do governo",
+        "fonte_noticia": "A Tribuna"
+    }
+]

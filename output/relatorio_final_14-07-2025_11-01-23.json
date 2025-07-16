@@ -1,0 +1,58 @@
+[
+    {
+        "titulo": "Financiada pelo BNDES, Linha 6-Laranja do metrô de São Paulo recebe o primeiro trem",
+        "link": "https://agenciadenoticias.bndes.gov.br/infraestrutura/Financiada-pelo-BNDES-Linha-6-Laranja-do-metro-de-Sao-Paulo-recebe-o-primeiro-trem/",
+        "descricao_detalhada": "O primeiro trem da Linha 6-Laranja do metrô de São Paulo foi entregue, financiado em R$ 12,3 bilhões pelo BNDES, conectando a Brasilândia ao centro da cidade, com previsão de atender 600 mil passageiros diários.",
+        "data": "2025-07-10",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 12300000000,
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência de Notícias BNDES",
+        "fontes_relacionadas": [
+            "https://agenciadenoticias.bndes.gov.br/infraestrutura/Financiada-pelo-BNDES-Linha-6-Laranja-do-metro-de-Sao-Paulo-recebe-o-primeiro-trem/"
+        ]
+    },
+    {
+        "titulo": "Zilor alcança receita líquida recorde de R$ 3,7 bilhões",
+        "link": "https://canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html",
+        "descricao_detalhada": "A Zilor Energia e Alimentos reportou uma receita líquida de R$ 3,7 bilhões na safra 2024/2025, com crescimento de 6,6% e expansão pela aquisição da Unidade Salto Botelho, simbolizando seu compromisso com um futuro sustentável.",
+        "data": "2025-07-02",
+        "municipio": "Salto",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Cana Online",
+        "fontes_relacionadas": [
+            "https://canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html"
+        ]
+    },
+    {
+        "titulo": "Estatal chinesa fornecerá os veículos para o Trem Intercidades",
+        "link": "https://correio.rac.com.br/campinasermc/estatal-chinesa-fornecera-os-veiculos-para-o-trem-intercidades-1.1684978",
+        "descricao_detalhada": "A TIC Trens definirá os trens da Série 2500, produzidos pela CRRC da China, para o Trem Intercidades São Paulo-Campinas, com investimento total de R$ 14,5 bilhões e previsão de gerar 10,5 mil empregos.",
+        "data": "2025-07-11",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 14500000000,
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Correio",
+        "fontes_relacionadas": [
+            "https://correio.rac.com.br/campinasermc/estatal-chinesa-fornecera-os-veiculos-para-o-trem-intercidades-1.1684978"
+        ]
+    },
+    {
+        "titulo": "Dário Saadi anuncia flexibilização da exigência de ônibus elétricos",
+        "link": "https://correio.rac.com.br/campinasermc/dario-saadi-anuncia-flexibilizac-o-da-exigencia-de-onibus-eletricos-1.1685609",
+        "descricao_detalhada": "O prefeito Dário Saadi anunciou medidas que podem facilitar investimentos em transporte elétrico em Campinas, promovendo desenvolvimento e empregos na cidade.",
+        "data": "2025-06-30",
+        "municipio": "Campinas",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Correio",
+        "fontes_relacionadas": [
+            "https://correio.rac.com.br/campinasermc/dario-saadi-anuncia-flexibilizac-o-da-exigencia-de-onibus-eletricos-1.1685609"
+        ]
+    }
+]

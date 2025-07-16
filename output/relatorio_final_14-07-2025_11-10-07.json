@@ -1,0 +1,50 @@
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos de R$ 12,5 bilhões no Porto de Santos para colocá-lo entre os 20 maiores do mundo.",
+        "data": "23 de junho de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Ampliação",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Diário do Comércio",
+        "fontes_relacionadas": []
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar setor offshore no litoral paulista",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "Protocolos de intenções entre a Petrobras e o governo de SP para impulsionar o setor offshore.",
+        "data": "26 de junho de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Protocolo",
+        "valor_estimado": "não informado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Diário do Grande ABC",
+        "fontes_relacionadas": []
+    },
+    {
+        "titulo": "CIE-COIC realiza 50ª reunião ordinária em São Paulo com comitê do Sinduscon-SP",
+        "link": "https://cbic.org.br/cie-coic-realiza-50a-reuniao-ordinaria-em-sao-paulo-com-comite-do-sinduscon-sp/",
+        "descricao_detalhada": "Reunião do Comitê do Sinduscon-SP à frente de R$ 600 bilhões em novos CAPEX entre 2025 e 2028.",
+        "data": "25 de junho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Reunião Ordinária",
+        "valor_estimado": 600000000000,
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "CBIC",
+        "fontes_relacionadas": []
+    },
+    {
+        "titulo": "BNDES inicia operação do Fundo Rio Doce com repasse de R$ 282,7 milhões",
+        "link": "https://agenciadenoticias.bndes.gov.br/socioambiental/BNDES-inicia-operacao-do-Fundo-Rio-Doce-com-repasse-de-R$-2827-milhoes/",
+        "descricao_detalhada": "BNDES repassa R$ 282,7 milhões para programas de infraestrutura em São Paulo.",
+        "data": "29 de junho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Repasse",
+        "valor_estimado": 282700000,
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência BNDES",
+        "fontes_relacionadas": []
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "titulo": "Zilor alcança receita líquida recorde de R$ 3,7 bilhões ...",
+        "link": "https://www.canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html",
+        "descricao_detalhada": "A Zilor encerrou a safra 24/25 com receita líquida de R$ 3,7 bilhões, aumento de 6,6%. Envolve a aquisição de Salto Botelho e vendas estratégicas.",
+        "data": "02 de julho de 2025",
+        "municipio": "Salto",
+        "tipo_investimento": "Aquisição",
+        "valor_estimado": "não divulgado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto ...",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "O investimento total de R$ 12,5 bilhões visa colocar o Porto de Santos entre os 20 maiores do mundo, dirigindo esforços para a infraestrutura portuária",
+        "data": "23 de junho de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Infraestrutura",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos Federais",
+        "fonte_noticia": "DC Comércio"
+    },
+    {
+        "titulo": "O banco nacional do desenvolvimento",
+        "link": "https://www.bndes.gov.br/wps/portal/site/home/Busca/solrsearch?q=pro-farma",
+        "descricao_detalhada": "Iniciativas de construção e modernização em várias cidades do Estado de São Paulo, fortalecido pelo BNDES.",
+        "data": "27 de junho de 2025",
+        "municipio": "não especificado",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "não divulgado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "BNDES"
+    },
+    {
+        "titulo": "Leis trabalhistas atuais não atraem jovens, afirma ...",
+        "link": "https://www.atribuna.com.br/variedades/comportamento/leis-trabalhistas-atuais-n-o-atraem-jovens-afirma-presidente-do-sinduscon-sp-1.468386",
+        "descricao_detalhada": "Presidente do Sinduscon-SP comenta sobre a legislação trabalhista e sua atração de investimentos.",
+        "data": "27 de junho de 2025",
+        "municipio": "não especificado",
+        "tipo_investimento": "Legislação",
+        "valor_estimado": "não aplicável",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "titulo": "Acordos",
+        "link": "https://www.bndes.gov.br/wps/portal/site/home/transparencia/Acordos",
+        "descricao_detalhada": "Desenvolvimento Habitacional e Urbano no Estado de São Paulo com foco em diversas iniciativas.",
+        "data": "02 de julho de 2025",
+        "municipio": "Campinas",
+        "tipo_investimento": "Iniciativas",
+        "valor_estimado": "não divulgado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "BNDES"
+    },
+    {
+        "titulo": "CIE-COIC realiza 50ª reunião ordinária em São Paulo com ...",
+        "link": "https://cbic.org.br/cie-coic-realiza-50a-reuniao-ordinaria-em-sao-paulo-com-comite-do-sinduscon-sp/",
+        "descricao_detalhada": "Reunião discute estimativas de R$ 600 bilhões em CAPEX até 2028 para o desenvolvimento do setor.",
+        "data": "25 de junho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Discursivo",
+        "valor_estimado": 600000000000,
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "CBIC"
+    }
+]

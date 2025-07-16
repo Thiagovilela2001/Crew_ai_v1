@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "Método 50-30-20: veja quanto investir do salário para garantir um futuro financeiro seguro",
+        "link": "https://www.atribuna.com.br/noticias/brasil-e-economia/metodo-50-30-20-veja-quanto-investir-do-salario-para-garantir-um-futuro-financeiro-seguro-1.467131",
+        "descricao_detalhada": "A partir de 1º de julho de 2025, o estado de São Paulo passa a contar com um novo piso regional, reajustado de R$ 1.640 para R$ 1.804 — uma alta de 10%.",
+        "data": "30 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "R$ 1.804",
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "A Tribuna",
+        "fontes_relacionadas": ["https://www.atribuna.com.br/noticias/brasil-e-economia/metodo-50-30-20-veja-quanto-investir-do-salario-para-garantir-um-futuro-financeiro-seguro-1.467131"]
+    },
+    {
+        "titulo": "Seba é convidado pelo governador Tarcísio para tratar de investimentos em saneamento",
+        "link": "http://www.acidadevotuporanga.com.br/cidade/2025/07/seba-e-convidado-pelo-governador-tarcisio-para-tratar-de-investimentos-em-saneamento-n84673",
+        "descricao_detalhada": "O prefeito de Votuporanga, Jorge Seba, esteve em reunião com o governador Tarcísio de Freitas para discutir o programa Universaliza SP de investimentos em saneamento básico.",
+        "data": "07 de jul. de 2025",
+        "municipio": "Votuporanga",
+        "tipo_investimento": "Discussão sobre expansão",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Não identificado",
+        "fonte_noticia": "A Cidade Votuporanga",
+        "fontes_relacionadas": ["http://www.acidadevotuporanga.com.br/cidade/2025/07/seba-e-convidado-pelo-governador-tarcisio-para-tratar-de-investimentos-em-saneamento-n84673"]
+    },
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "Não disponível",
+        "descricao_detalhada": "Investimentos no Porto de Santos totalizam R$ 12,5 bilhões, com objetivo de colocar o porto entre os 20 maiores do mundo.",
+        "data": "23 de jun. de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": "R$ 12,5 bilhões",
+        "fonte_financiamento": "Recursos governamentais",
+        "fonte_noticia": "Infelizmente não foi possível obter informações",
+        "fontes_relacionadas": []
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar setor offshore no litoral paulista",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "A Petrobras formalizou um protocolo de intenções para impulsionar o setor offshore no litoral paulista, com investimentos de US$ 111 bilhões até 2029.",
+        "data": "26 de jun. de 2025",
+        "municipio": "Ribeirão Pires",
+        "tipo_investimento": "Instalação",
+        "valor_estimado": "US$ 111 bilhões",
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Diário do Grande ABC",
+        "fontes_relacionadas": ["https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista"]
+    },
+    {
+        "titulo": "Santo André e São Bernardo estão entre as seis cidades com maior investimento em saneamento",
+        "link": "https://www.dgabc.com.br/Noticia/4245803/santo-andre-e-sao-bernardo-estao-entre-as-seis-cidades-com-maior-investimento-em-saneamento",
+        "descricao_detalhada": "Os investimentos da Sabesp totalizam R$ 3,6 bilhões em obras de saneamento, colocando Santo André e São Bernardo entre os melhores índices do Brasil.",
+        "data": "16 de jul. de 2025",
+        "municipio": "Santo André",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": "R$ 3,6 bilhões",
+        "fonte_financiamento": "Recursos da Sabesp",
+        "fonte_noticia": "Diário do Grande ABC",
+        "fontes_relacionadas": ["https://www.dgabc.com.br/Noticia/4245803/santo-andre-e-sao-bernardo-estao-entre-as-seis-cidades-com-maior-investimento-em-saneamento"]
+    }
+]

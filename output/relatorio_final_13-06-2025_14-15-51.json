@@ -1,0 +1,74 @@
+[
+    {
+        "categoria": "Energia",
+        "titulo": "Isa Energia investe R$ 306 milhões na modernização da rede de transmissão em SP",
+        "link": "https://www.canalenergia.com.br/noticias/53312724/isa-energia-investe-r-306-milhoes-na-modernizacao-da-rede-de-transmissao-em-sp",
+        "descricao_detalhada": "A Isa Energia investiu R$ 306 milhões no primeiro trimestre de 2025 para a modernização do parque instalado no Estado de São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 306000000,
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Habitação",
+        "titulo": "Programa estadual libera R$ 5,4 milhões para mais 200 casas",
+        "link": "https://www.dgabc.com.br/Noticia/4239086/programa-estadual-libera-rs-5-4-milhoes-para-mais-200-casas",
+        "descricao_detalhada": "Em parceria com o governo federal, o Casa Paulista atua por meio da provisão de recursos em duas modalidades de construções no Estado de São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 5400000,
+        "fonte_financiamento": "Governo do Estado de São Paulo",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Porto de Santos planeja investir R$ 1,4 bilhão em obras e entrega cronograma a Antaq",
+        "link": "https://www.atribuna.com.br/noticias/portomar/porto-de-santos-planeja-investir-r-1-4-bilh-o-em-obras-e-entrega-cronograma-a-antaq-1.462235",
+        "descricao_detalhada": "O Porto de Santos, no Estado de São Paulo, planeja investir R$ 1,4 bilhão em obras de adaptação e modernização das instalações.",
+        "data": "2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 1400000000,
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Saneamento",
+        "titulo": "Sabesp prevê R$ 3,6 bilhões em obras de saneamento no Grande ABC até 2029",
+        "link": "https://www.dgabc.com.br/Noticia/4236781/sabesp-preve-rs-2-7-bilhoes-em-obras-de-saneamento-no-grande-abc-ate-2029",
+        "descricao_detalhada": "A Sabesp anunciou um investimento de R$ 3,6 bilhões na ampliação dos serviços de saneamento básico no Grande ABC, que se inicia em 2025.",
+        "data": "2025",
+        "municipio": "Grande ABC",
+        "tipo_investimento": "Ampliação",
+        "valor_estimado": 3600000000,
+        "fonte_financiamento": "Sabesp",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "categoria": "Transportes",
+        "titulo": "Trens ligarão São Paulo à Baixada Santista, ao litoral paulista",
+        "link": "https://www.atribuna.com.br/cidades/trens-ligar-o-s-o-paulo-a-baixada-santista-ao-litoral-paulista-e-ao-interior-do-estado-e-custar-o-r-25-bilh-es-1.465062",
+        "descricao_detalhada": "O projeto prevê a construção de trens que ligarão São Paulo à Baixada Santista, com investimento a ser definido no estado em 2025.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Transportes",
+        "titulo": "Estado garante extensão da Linha 10 até Barra Funda",
+        "link": "https://www.dgabc.com.br/Noticia/4238476/estado-garante-extensao-da-linha-10-ate-barra-funda",
+        "descricao_detalhada": "O governo do Estado de São Paulo viabilizará a extensão da Linha 10-Turquesa da CPTM (Companhia Paulista de Trens Metropolitanos), que parte de Rio Grande ...",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Extensão",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Governo do Estado de São Paulo",
+        "fonte_noticia": "Diário do Grande ABC"
+    }
+]

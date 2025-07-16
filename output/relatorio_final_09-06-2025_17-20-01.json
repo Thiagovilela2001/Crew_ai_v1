@@ -1,0 +1,53 @@
+[
+    {
+        "categoria": "Transporte",
+        "titulo": "Trem ligará São Paulo à Baixada Santista e ao resto do ...",
+        "link": "https://www.atribuna.com.br/cidades/trem-ligara-s-o-paulo-a-baixada-santista-e-ao-resto-do-litoral-paulista-e-atendera-nove-cidades-saiba-tudo-do-projeto-1.463787",
+        "descricao_detalhada": "A Secretaria de Parcerias em Investimentos do Estado de São Paulo (SPI) informou que os estudos de viabilidade do Trem Intercidades (TIC) – Eixo Sul estão em curso, ligando São Paulo à Baixada Santista.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Implantação",
+        "valor_estimado": "Não informado",
+        "fonte_financiamento": "Governo do Estado",
+        "fonte_noticia": "A Tribuna",
+        "piesp_setor": "Transporte",
+        "cnae_investimento": "4930-2/01",
+        "investimento_estrangeiro": "Não",
+        "esg": "Sim",
+        "pme": "Não"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Túnel Santos-Guarujá tem edital atualizado pelo Governo ...",
+        "link": "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-tem-edital-atualizado-pelo-governo-de-s-o-paulo-valor-da-obra-sobe-para-r-6-8-bilh-es-1.464889",
+        "descricao_detalhada": "O projeto do túnel Santos-Guarujá recebeu atualização em seu edital, com o valor da obra subindo para R$ 6,8 bilhões, promovendo melhorias significativas na infraestrutura da região.",
+        "data": "2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Ampliação",
+        "valor_estimado": "6,8 bilhões",
+        "fonte_financiamento": "Governo do Estado",
+        "fonte_noticia": "A Tribuna",
+        "piesp_setor": "Construção",
+        "cnae_investimento": "4291-0/00",
+        "investimento_estrangeiro": "Não",
+        "esg": "Sim",
+        "pme": "Não"
+    },
+    {
+        "categoria": "Portos",
+        "titulo": "Porto de Santos planeja investir R$ 1,4 bilhão em obras e ...",
+        "link": "https://www.atribuna.com.br/noticias/portomar/porto-de-santos-planeja-investir-r-1-4-bilh-o-em-obras-e-entrega-cronograma-a-antaq-1.462235",
+        "descricao_detalhada": "O Porto de Santos anunciou um investimento de R$ 1,4 bilhão em diversas obras, com cronograma de melhorias a ser entregue à ANTAQ, visando expansão e modernização das instalações.",
+        "data": "2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "1,4 bilhões",
+        "fonte_financiamento": "Privado",
+        "fonte_noticia": "A Tribuna",
+        "piesp_setor": "Portos",
+        "cnae_investimento": "5221-9/01",
+        "investimento_estrangeiro": "Não",
+        "esg": "Sim",
+        "pme": "Não"
+    }
+]

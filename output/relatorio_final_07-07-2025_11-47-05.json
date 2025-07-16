@@ -1,0 +1,57 @@
+[
+    {
+        "titulo": "Puxado pelo agro, PIB paulista registra crescimento de 1,9% nos primeiros quatro meses de 2025",
+        "link": "https://www.canaonline.com.br/conteudo/puxado-pelo-agro-pib-paulista-registra-crescimento-de-19-nos-primeiros-quatro-meses-de-2025.html",
+        "descricao_detalhada": "O PIB do Estado de São Paulo cresceu 1,9% nos primeiros quatro meses de 2025, impulsionado pelos setores da agropecuária e serviços. O governador afirmou que o crescimento reflete a atração de investimentos no estado.",
+        "data": "30-06-2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Crescimento Econômico",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "titulo": "Governo estadual inicia estudos para criação de duas linhas do VLT em Campinas",
+        "link": "https://correio.rac.com.br/campinasermc/governo-estadual-inicia-estudos-para-criac-o-de-duas-linhas-do-vlt-em-campinas-1.1682573",
+        "descricao_detalhada": "O Governo do Estado iniciou estudos para a implantação de duas linhas de Veículo Leve sobre Trilhos (VLT) em Campinas, buscando melhorar a infraestrutura de transporte na região.",
+        "data": "05-07-2025",
+        "municipio": "Campinas",
+        "tipo_investimento": "Estudo de Implantação",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "Correio"
+    },
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "O Porto de Santos receberá investimentos de R$ 12,5 bilhões para modernização e ampliação, com expectativa de melhoria na competitividade e capacidade de operação.",
+        "data": "23-06-2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "DComércio"
+    },
+    {
+        "titulo": "MME acerta com Eletrobras repasse de R$ 147 mi para obras em hidrovia de SP",
+        "link": "https://www.canalenergia.com.br/noticias/53313998/mme-acerta-com-eletrobras-repasse-de-r-147-mi-para-obras-em-hidrovia-de-sp",
+        "descricao_detalhada": "O Ministério de Minas e Energia anunciou um repasse de R$ 147 milhões à Eletrobras para melhorias na hidrovia em São Paulo, visando modernização de infraestrutura.",
+        "data": "13-06-2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Reforma de Infraestrutura",
+        "valor_estimado": 147000000,
+        "fonte_financiamento": "Recursos do governo",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar setor offshore no litoral paulista",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "Petrobras e o governo de SP firmaram um protocolo de intenções para impulsionar investimentos no setor offshore no litoral paulista, propiciando desenvolvimento regional.",
+        "data": "26-06-2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Protocolo de Intenções",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "Diário do Grande ABC"
+    }
+]

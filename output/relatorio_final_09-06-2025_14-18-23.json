@@ -1,0 +1,50 @@
+[
+    {
+        "categoria": "Energia",
+        "titulo": "Isa Energia investe R$ 306 milhões na modernização da rede de transmissão em SP",
+        "link": "https://www.canalenergia.com.br/noticias/53312724/isa-energia-investe-r-306-milhoes-na-modernizacao-da-rede-de-transmissao-em-sp",
+        "descricao_detalhada": "A Isa Energia investiu R$ 306 milhões no primeiro trimestre de 2025 para a modernização do parque instalado no Estado de São Paulo, um volume 26% superior em comparação ao ano anterior.",
+        "data": "30 de mai. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "R$ 306 milhões",
+        "fonte_financiamento": "Isa Energia",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Biometano",
+        "titulo": "FIESP: estudo mostra potencial para SP ser grande produtor de biometano",
+        "link": "https://www.canalenergia.com.br/noticias/53313324/fiesp-estudo-mostra-potencial-para-sp-ser-grande-produtor-de-biometano",
+        "descricao_detalhada": "Além do potencial de curto prazo de 6,4 milhões de m³ por dia, o estado de São Paulo poderia chegar a uma produção de até 42,5 milhões de m³ de biometano por dia.",
+        "data": "há 3 dias",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Pesquisa e Desenvolvimento",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Finanças",
+        "titulo": "Entidades dos bancos e das indústrias criticam aumento do IOF",
+        "link": "https://www.diariodaregiao.com.br/agencia/entidades-dos-bancos-e-das-industrias-criticam-aumento-do-iof-1.2064424",
+        "descricao_detalhada": "Segundo a FIESP, o aumento das alíquotas vai na contramão de programas do governo para impulsionar o crescimento econômico.",
+        "data": "23 de mai. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Crítica ao governo",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "Diário da Região"
+    },
+    {
+        "categoria": "Transporte",
+        "titulo": "Trem ligará São Paulo à Baixada Santista e ao resto do litoral",
+        "link": "https://www.atribuna.com.br/cidades/trem-ligara-s-o-paulo-a-baixada-santista-e-ao-resto-do-litoral-paulista-e-atendera-nove-cidades-saiba-tudo-do-projeto-1.463787",
+        "descricao_detalhada": "A Secretaria de Parcerias em Investimentos do Estado de São Paulo informa que os estudos de viabilidade do Trem Intercidades (TIC) – Eixo Sul estão em desenvolvimento.",
+        "data": "há 7 dias",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Implantação",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "A Tribuna"
+    }
+]

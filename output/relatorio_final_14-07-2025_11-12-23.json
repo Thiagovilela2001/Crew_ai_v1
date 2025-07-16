@@ -1,0 +1,50 @@
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Porto de Santos receberá R$ 12,5 bilhões para expansão, visando ser um dos 20 maiores.",
+        "data": "23 de jun. de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "DCOMERCIO",
+        "fontes_relacionadas": ["https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo"]
+    },
+    {
+        "titulo": "Financiada pelo BNDES, Linha 6-Laranja do metrô de São Paulo recebe o primeiro trem",
+        "link": "https://agenciadenoticias.bndes.gov.br/sudeste/Financiada-pelo-BNDES-Linha-6-Laranja-do-metro-de-Sao-Paulo-recebe-o-primeiro-trem/",
+        "descricao_detalhada": "O projeto da Linha 6-Laranja do metrô de São Paulo, com R$ 12,3 bilhões, representa um marco para mobilidade urbana.",
+        "data": "10 de jul. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 12300000000,
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência de Notícias BNDES",
+        "fontes_relacionadas": ["https://agenciadenoticias.bndes.gov.br/sudeste/Financiada-pelo-BNDES-Linha-6-Laranja-do-metro-de-Sao-Paulo-recebe-o-primeiro-trem/"]
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar setor offshore no litoral paulista",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "Protocolo assinado entre a Petrobras e entidades para impulsionar o setor offshore na região, visando investimentos de US$ 111 bilhões.",
+        "data": "26 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "US$ 111 bilhões",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "DGABC",
+        "fontes_relacionadas": ["https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista"]
+    },
+    {
+        "titulo": "Governo de SP oferece crédito rural para máquinas e irrigação a partir de 4,81% ao ano",
+        "link": "https://www.canaonline.com.br/conteudo/governo-de-sp-oferece-credito-rural-para-maquinas-e-irrigacao-a-partir-de-481-ao-ano.html",
+        "descricao_detalhada": "Programa de crédito do governo estadual para aquisição de máquinas e irrigação, necessário para modernização agrícola.",
+        "data": "07 de jul. de 2025",
+        "municipio": "Não especificado",
+        "tipo_investimento": "Inauguração",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "Governo Estadual",
+        "fonte_noticia": "Cana Online",
+        "fontes_relacionadas": ["https://www.canaonline.com.br/conteudo/governo-de-sp-oferece-credito-rural-para-maquinas-e-irrigacao-a-partir-de-481-ao-ano.html"]
+    }
+]

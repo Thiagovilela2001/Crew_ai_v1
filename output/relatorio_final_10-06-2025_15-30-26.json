@@ -1,0 +1,62 @@
+[
+    {
+        "categoria": "Habitação",
+        "titulo": "Governo Federal autoriza contratação de 201 unidades ...",
+        "link": "https://cbic.org.br/governo-federal-autoriza-contratacao-de-201-unidades-habitacionais-do-mcmv-rural/",
+        "descricao_detalhada": "Em Minas Gerais, 101 unidades habitacionais serão construídas nos municípios de Rio Espera, Vermelho Novo e Vieiras. Na Bahia, o município de Riacho de Santana e ...",
+        "data": "2025",
+        "municipio": "Não especificado",
+        "tipo_investimento": "Habitação",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "CBIC"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Laboratório inédito na América do Sul testa incêndios com ...",
+        "link": "https://cbic.org.br/laboratorio-inedito-na-america-do-sul-testa-incendios-com-carros-eletricos-em-sp/",
+        "descricao_detalhada": "... infraestrutura e habitação popular, localizadas no estado de São Paulo. Tem sede na capital paulista e representações em nove regiões e uma delegação nos ...",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Infraestrutura",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "CBIC"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Indústria gera empregos na Baixada Santista e atinge ...",
+        "link": "https://www.atribuna.com.br/cidades/industria-gera-empregos-na-baixada-santista-e-atinge-melhor-marca-em-10-anos-1.462477",
+        "descricao_detalhada": "O Estado de São Paulo possui 171.353 estabelecimentos industriais, incluindo a construção civil. Na comparação entre 2023 e 2024, houve crescimento de 3,9% ...",
+        "data": "2025",
+        "municipio": "Baixada Santista",
+        "tipo_investimento": "Indústria",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Financeiro",
+        "titulo": "CBIC participa de seminário sobre o futuro dos Fundos ...",
+        "link": "https://cbic.org.br/cbic-participa-de-seminario-sobre-o-futuro-dos-fundos-de-investimento-apos-veto-presidencial/",
+        "descricao_detalhada": "Além da CBIC, participaram da discussão Pedro Krahenbuhl, Diretor de Relações Institucionais do Sindicato da Habitação do Estado de São Paulo (SECOVI/SP); ...",
+        "data": "2025",
+        "municipio": "Não especificado",
+        "tipo_investimento": "Finanças",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "CBIC"
+    },
+    {
+        "categoria": "Biocombustíveis",
+        "titulo": "FIESP: estudo mostra potencial para SP ser grande ...",
+        "link": "https://www.canalenergia.com.br/noticias/53313324/fiesp-estudo-mostra-potencial-para-sp-ser-grande-produtor-de-biometano",
+        "descricao_detalhada": "Além do potencial de curto prazo de 6,4 milhões de m³ por dia, o estado de São Paulo poderia chegar a uma produção de até 42,5 milhões de m³ por ...",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Biocombustíveis",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "Canal Energia"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "categoria": "Investimentos",
+        "titulo": "Mercado Livre anuncia investimento de R$ 13,6 bi em SP ao longo de 2025",
+        "link": "https://dcomercio.com.br/publicacao/s/mercado-livre-anuncia-investimento-de-r-13-6-bi-em-sp-ao-longo-de-2025",
+        "descricao_detalhada": "O Mercado Livre anunciou o aporte de R$ 13,6 bilhões no estado de São Paulo ao longo de 2025. O valor representa 40% dos R$ 34 bilhões que a companhia prevê investir em toda a América Latina.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Aporte",
+        "valor_estimado": 13600000000,
+        "fonte_financiamento": "Mercado Livre",
+        "fonte_noticia": "dcomercio.com.br"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Isa Energia investe R$ 306 milhões na modernização da rede de transmissão em SP",
+        "link": "https://www.canalenergia.com.br/noticias/53312724/isa-energia-investe-r-306-milhoes-na-modernizacao-da-rede-de-transmissao-em-sp",
+        "descricao_detalhada": "A Isa Energia investiu R$ 306 milhões no primeiro trimestre de 2025 para a modernização do parque instalado no Estado de São Paulo, um volume 26% superior ao do ano anterior.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 306000000,
+        "fonte_financiamento": "Isa Energia",
+        "fonte_noticia": "canalenergia.com.br"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "BNDES aprova R$ 200 milhões para o BRT de Sorocaba (SP)",
+        "link": "https://agenciadenoticias.bndes.gov.br/infraestrutura/BNDES-aprova-R$-200-milhoes-para-o-BRT-de-Sorocaba-SP/",
+        "descricao_detalhada": "O município de Sorocaba apresenta histórico de estruturação de soluções de mobilidade urbana e receberá um financiamento de R$ 200 milhões do BNDES para o sistema BRT.",
+        "data": "2025",
+        "municipio": "Sorocaba",
+        "tipo_investimento": "Financiamento",
+        "valor_estimado": 200000000,
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "agenciadenoticias.bndes.gov.br"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos de R$ 12,5 bilhões devem ser realizados no Porto de Santos até 2025, com o objetivo de aumentar sua capacidade e movimentação no comércio internacional.",
+        "data": "2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Ampliação",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Não Especificado",
+        "fonte_noticia": "dcomercio.com.br"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "MME acerta com Eletrobras repasse de R$ 147 mi para obras em hidrovia de SP",
+        "link": "https://www.canalenergia.com.br/noticias/53313998/mme-acerta-com-eletrobras-repasse-de-r-147-mi-para-obras-em-hidrovia-de-sp",
+        "descricao_detalhada": "O Ministério de Minas e Energia do Brasil confirma um repasse de R$ 147 milhões para a Eletrobras, visando a implementação de obras na hidrovia no Estado de São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Repasse",
+        "valor_estimado": 147000000,
+        "fonte_financiamento": "MME",
+        "fonte_noticia": "canalenergia.com.br"
+    },
+    {
+        "categoria": "Pesquisa",
+        "titulo": "FIESP: estudo mostra potencial para SP ser grande produtor de biometano",
+        "link": "https://www.canalenergia.com.br/noticias/53313324/fiesp-estudo-mostra-potencial-para-sp-ser-grande-produtor-de-biometano",
+        "descricao_detalhada": "O estudo da FIESP revela que o Estado de São Paulo tem potencial para ser um grande produtor de biometano, com capacidade de 42,5 milhões de m³ por dia até 2025.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Estudo",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "FIESP",
+        "fonte_noticia": "canalenergia.com.br"
+    },
+    {
+        "categoria": "Legislação",
+        "titulo": "Deputado Carlão Pignatari propõe mudanças no FUMTUR para fortalecer investimentos",
+        "link": "https://www.acidadevotuporanga.com.br/geral/2025/05/deputado-carlao-pignatari-propoe-mudancas-no-fumtur-para-fortalecer-investimentos-nas-estancias-e-municipios-de-interesse-turistico-n84193",
+        "descricao_detalhada": "Proposta de mudança no FUMTUR visa fortalecer os investimentos turísticos nas Estâncias e Municípios de Interesse Turístico no Estado de São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Legislação",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Deputado Carlão Pignatari",
+        "fonte_noticia": "acidadevotuporanga.com.br"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Distribuidoras de gás abrem chamada pública conjunta para aquisição de suprimento",
+        "link": "https://www.canalenergia.com.br/noticias/53314594/distribuidoras-de-gas-abrem-chamada-publica-conjunta-para-a-aquisicao-de-suprimento",
+        "descricao_detalhada": "Chamada pública unificada foi aberta entre distribuidoras de gás no Estado de São Paulo com foco na facilitação de novos investimentos.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Chamada Pública",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Distribuidoras de Gás",
+        "fonte_noticia": "canalenergia.com.br"
+    },
+    {
+        "categoria": "Concessões",
+        "titulo": "Governo de SP publica edital para concessão do novo centro administrativo",
+        "link": "https://dcomercio.com.br/publicacao/s/governo-de-sp-publica-edital-para-concessao-do-novo-centro-administrativo",
+        "descricao_detalhada": "O Governo do Estado de São Paulo publicou edital para concessão do novo centro administrativo, com data de entrega de propostas marcada para 6 de outubro de 2025.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Concessão",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Governo de SP",
+        "fonte_noticia": "dcomercio.com.br"
+    },
+    {
+        "categoria": "Regulação",
+        "titulo": "Consórcio oficializa criação de agência reguladora regional e sala em Brasília",
+        "link": "https://www.dgabc.com.br/Noticia/4240431/consorcio-oficializa-criacao-de-agencia-reguladora-regional-e-sala-em-brasilia",
+        "descricao_detalhada": "Um consórcio formado por municípios do Estado de São Paulo oficializou a criação de uma agência reguladora que visa facilitar o trâmite para novos investimentos.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Regulação",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Consórcio de Municípios",
+        "fonte_noticia": "dgabc.com.br"
+    }
+]

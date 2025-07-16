@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "‘Brasileiro tem dois sonhos: o CEP, que é a casa própria, e o CNPJ, para empreender’, diz Tarcísio",
+        "link": "https://www.estadao.com.br/economia/brasileiro-dois-sonhos-cep-casa-propria-cnpj-empreender-diz-tarcisio/?srsltid=AfmBOor9Bgt73mabMWLHr3YQFiFGMAs1DRM05yXQgRfBdpS0kJQ4Azxs",
+        "descricao_detalhada": "O governador Tarcísio de Freitas destaca políticas habitacionais para combater o déficit. No Top Imobiliário 2025, ele menciona a meta de aumentar de 20 mil a 35 mil unidades para 210 mil unidades. Espera-se também um investimento de mais de R$ 5,4 bilhões na nova sede do governo estadual, a ser localizado no Centro de São Paulo.",
+        "data": "01/07/2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 5400000000,
+        "fonte_financiamento": "Parceria Público-Privada",
+        "fonte_noticia": "Estadão",
+        "fontes_relacionadas": [
+            "https://www.estadao.com.br/economia/brasileiro-dois-sonhos-cep-casa-propria-cnpj-empreender-diz-tarcisio/?srsltid=AfmBOor9Bgt73mabMWLHr3YQFiFGMAs1DRM05yXQgRfBdpS0kJQ4Azxs"
+        ]
+    },
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Anúncio de investimentos de R$ 12,5 bilhões para modernização do Porto de Santos, a ser liderado pelas autoridades do estado.",
+        "data": "23/06/2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos públicos e investimento privado",
+        "fonte_noticia": "Dcomercio",
+        "fontes_relacionadas": [
+            "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo"
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto ...",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos de R$ 12,5 bilhões no Porto de Santos devem colocá-lo entre os 20 maiores do mundo. A obra promete gerar 5 mil empregos.",
+        "data": "23 de junho de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "DCOMERCIO"
+    },
+    {
+        "titulo": "MME acerta com Eletrobras repasse de R$ 147 mi para ...",
+        "link": "https://www.canalenergia.com.br/noticias/53313998/mme-acerta-com-eletrobras-repasse-de-r-147-mi-para-obras-em-hidrovia-de-sp",
+        "descricao_detalhada": "O Ministério de Minas e Energia confirma repasse de R$ 147 milhões para obras na hidrovia de São Paulo.",
+        "data": "13 de junho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Obra",
+        "valor_estimado": 147000000,
+        "fonte_financiamento": "Governo Federal",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "titulo": "Governo estadual inicia estudos para criação de duas linhas ...",
+        "link": "https://correio.rac.com.br/campinasermc/governo-estadual-inicia-estudos-para-criac-o-de-duas-linhas-do-vlt-em-campinas-1.1682573",
+        "descricao_detalhada": "Estudos para implantação de duas linhas de Veículo Leve sobre Trilhos (VLT) em Campinas estão em andamento com investimento previsto.",
+        "data": "20 de junho de 2025",
+        "municipio": "Campinas",
+        "tipo_investimento": "Estudo para nova linha",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Governo Estadual",
+        "fonte_noticia": "Correio"
+    },
+    {
+        "titulo": "CIE-COIC realiza 50ª reunião ordinária em São Paulo com ...",
+        "link": "https://cbic.org.br/cie-coic-realiza-50a-reuniao-ordinaria-em-sao-paulo-com-comite-do-sinduscon-sp/",
+        "descricao_detalhada": "Reunião discute investimentos estimados em R$ 600 bilhões em CAPEX entre 2025 e 2028 no setor da construção em SP.",
+        "data": "25 de junho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Discussão de investimentos",
+        "valor_estimado": 600000000000,
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "CBIC"
+    },
+    {
+        "titulo": "Trens ligarão São Paulo à Baixada Santista, ao litoral ...",
+        "link": "https://www.atribuna.com.br/cidades/trens-ligar-o-s-o-paulo-a-baixada-santista-ao-litoral-paulista-e-ao-interior-do-estado-e-custar-o-r-25-bilh-es-1.465062",
+        "descricao_detalhada": "O projeto inclui trens que ligarão São Paulo à Baixada Santista e custará R$ 2,5 bilhões.",
+        "data": "11 de junho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção de linha ferroviária",
+        "valor_estimado": 2500000000,
+        "fonte_financiamento": "Recursos do Estado",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "titulo": "Túnel Santos-Guarujá tem edital atualizado pelo Governo ...",
+        "link": "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-tem-edital-atualizado-pelo-governo-de-s-o-paulo-valor-da-obra-sobe-para-r-6-8-bilh-es-1.464889",
+        "descricao_detalhada": "A obra do túnel Santos-Guarujá teve seu valor elevado para R$ 6,8 bilhões.",
+        "data": "9 de junho de 2025",
+        "municipio": "Guarujá",
+        "tipo_investimento": "Construção de túnel",
+        "valor_estimado": 6800000000,
+        "fonte_financiamento": "Recursos Estaduais",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "titulo": "Túnel Santos-Guarujá: Autoridade Portuária quer ...",
+        "link": "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-autoridade-portuaria-quer-propriedade-da-obra-e-fara-exigencias-ao-governo-de-s-o-paulo-1.468528",
+        "descricao_detalhada": "Discussões sobre a propriedade da obra do túnel Santos-Guarujá.",
+        "data": "12 de junho de 2025",
+        "municipio": "Guarujá",
+        "tipo_investimento": "Continuação de obra",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "titulo": "Geração própria solar alcança 40 GW, aponta Absolar",
+        "link": "https://www.canalenergia.com.br/noticias/53313624/geracao-propria-solar-alcanca-40-gw-aponta-absolar",
+        "descricao_detalhada": "Previsão de investimentos de R$ 200 milhões voltados à geração de energia solar no estado.",
+        "data": "11 de junho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Energia solar",
+        "valor_estimado": 200000000,
+        "fonte_financiamento": "Investimento privado",
+        "fonte_noticia": "Canal Energia"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "titulo": "Túnel Santos-Guarujá tem edital atualizado pelo Governo ...",
+        "link": "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-tem-edital-atualizado-pelo-governo-de-s-o-paulo-valor-da-obra-sobe-para-r-6-8-bilh-es-1.464889",
+        "descricao_detalhada": "O edital para a construção do Túnel Santos-Guarujá foi atualizado pelo Governo do Estado de São Paulo, aumentando o valor da obra para R$ 6,8 bilhões.",
+        "data": "09 de jun. de 2025",
+        "municipio": "Guarujá",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 6800000000,
+        "fonte_financiamento": "Governo do Estado de São Paulo",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "titulo": "Mercado Livre anuncia investimento de R$ 13,6 bi em SP ...",
+        "link": "https://dcomercio.com.br/publicacao/s/mercado-livre-anuncia-investimento-de-r-13-6-bi-em-sp-ao-longo-de-2025",
+        "descricao_detalhada": "O Mercado Livre anunciou um investimento de R$ 13,6 bilhões no estado de São Paulo ao longo de 2025 para expandir suas operações.",
+        "data": "18 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Investimento",
+        "valor_estimado": 13600000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "DCOMERCIO"
+    },
+    {
+        "titulo": "Programa estadual libera R$ 5,4 milhões para mais 200 ...",
+        "link": "https://www.dgabc.com.br/Noticia/4239086/programa-estadual-libera-rs-5-4-milhoes-para-mais-200-casas",
+        "descricao_detalhada": "O programa estadual Casa Paulista libera R$ 5,4 milhões para a construção de 200 casas populares em São Paulo.",
+        "data": "11 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 5400000,
+        "fonte_financiamento": "Governo do Estado de São Paulo",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "titulo": "Trens ligarão São Paulo à Baixada Santista, ao litoral ...",
+        "link": "https://www.atribuna.com.br/cidades/trens-ligar-o-s-o-paulo-a-baixada-santista-ao-litoral-paulista-e-ao-interior-do-estado-e-custar-o-r-25-bilh-es-1.465062",
+        "descricao_detalhada": "Investimentos de R$ 25 bilhões estão previstos para a construção de trens ligando São Paulo à Baixada Santista e ao interior do estado.",
+        "data": "11 de jun. de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 25000000000,
+        "fonte_financiamento": "Governo do Estado de São Paulo",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "titulo": "GDSUN expande capacidade operacional para 194 MWp ...",
+        "link": "https://www.canalenergia.com.br/noticias/53315411/gdsun-expande-capacidade-operacional-para-194-mwp-com-ufv-panorama",
+        "descricao_detalhada": "A GDSUN completou a energização da Usina Fotovoltaica Panorama, expandindo sua capacidade operacional para 194 MWp.",
+        "data": "1 de jul. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Canal Energia"
+    }
+]

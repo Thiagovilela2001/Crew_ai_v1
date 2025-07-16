@@ -1,0 +1,72 @@
+```
+Thought: I need to verify the format of the provided data and ensure it contains the required keys, then write it to a CSV file.
+Action: 
+```python
+import csv
+import os
+
+# Mock data from the researcher's input
+data = [
+    {
+        "Título": "Entidades de indústria e inovação apoiam retomada da ...",
+        "Resumo": "A Fiesp destaca a importância de investimentos estratégicos em mercado de capitais.",
+        "Ano": "2025",
+        "Link": "https://agenciadenoticias.bndes.gov.br/industria/Entidades-de-industria-e-inovacao-apoiam-retomada-da-BNDESPAR/"
+    },
+    {
+        "Título": "CIE-COIC realiza 50ª reunião ordinária em São Paulo com ...",
+        "Resumo": "Discussões sobre investimentos e projetos na Câmara Brasileira da Indústria da Construção.",
+        "Ano": "2025",
+        "Link": "https://cbic.org.br/cie-coic-realiza-50a-reuniao-ordinaria-em-sao-paulo-com-comite-do-sinduscon-sp/"
+    },
+    {
+        "Título": "MME acerta com Eletrobras repasse de R$ 147 mi para ...",
+        "Resumo": "Repasse para obras em infraestrutura hídrica no estado de São Paulo.",
+        "Ano": "2025",
+        "Link": "https://www.canalenergia.com.br/noticias/53313998/mme-acerta-com-eletrobras-repasse-de-r-147-mi-para-obras-em-hidrovia-de-sp"
+    },
+    {
+        "Título": "Engie conclui modernização da UHE Salto Osório",
+        "Resumo": "Modernização relevante em uma usina hidroelétrica, impactando a capacidade produtiva da região.",
+        "Ano": "2025",
+        "Link": "https://www.canalenergia.com.br/noticias/53314070/engie-conclui-modernizacao-da-uhe-salto-osorio"
+    },
+    {
+        "Título": "Tarcísio garante instalação de novos pedágios em rodovia ...",
+        "Resumo": "Projeto de concessão do 'Lote Novo Litoral Paulista', envolvendo melhorias significativas na infraestrutura de transporte.",
+        "Ano": "2025",
+        "Link": "https://www.atribuna.com.br/cidades/tarcisio-garante-instalac-o-de-novos-pedagios-em-rodovia-do-litoral-de-s-o-paulo-saiba-os-pontos-1.465750"
+    },
+    {
+        "Título": "Trens ligarão São Paulo à Baixada Santista, ao litoral ...",
+        "Resumo": "Projeto significativo para ampliar a conectividade entre regiões em São Paulo, com investimentos até R$ 25 bilhões.",
+        "Ano": "2025",
+        "Link": "https://www.atribuna.com.br/cidades/trens-ligar-o-s-o-paulo-a-baixada-santista-ao-litoral-paulista-e-ao-interior-do-estado-e-custar-o-r-25-bilh-es-1.465062"
+    }
+]
+
+# Check if the data is a list of dictionaries and contains the required keys
+if isinstance(data, list) and all(isinstance(item, dict) and all(k in item for k in ['Título', 'Resumo', 'Ano', 'Link']) for item in data):
+    # Define the CSV file name
+    csv_file_name = 'output/investimentos_piesp_sp_2025_crewai.csv'
+    
+    # Ensure the output directory exists
+    os.makedirs(os.path.dirname(csv_file_name), exist_ok=True)
+    
+    # Writing to CSV
+    with open(csv_file_name, mode='w', newline='', encoding='utf-8') as csvfile:
+        fieldnames = ['Título', 'Resumo', 'Ano', 'Link']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, quoting=csv.QUOTE_MINIMAL)
+        
+        # Write the header
+        writer.writeheader()
+        
+        # Write data rows
+        for item in data:
+            writer.writerow(item)
+
+    print(f"CSV '{csv_file_name}' created successfully.")
+else:
+    print("Invalid data format.")
+```
+```

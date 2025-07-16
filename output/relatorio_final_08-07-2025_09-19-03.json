@@ -1,0 +1,57 @@
+[
+    {
+        "titulo": "Puxado pelo agro, PIB paulista registra crescimento de 1,9 ...",
+        "link": "https://www.canaonline.com.br/conteudo/puxado-pelo-agro-pib-paulista-registra-crescimento-de-19-nos-primeiros-quatro-meses-de-2025.html",
+        "descricao_detalhada": "A economia do Estado de São Paulo cresceu 1,9% nos primeiros quatro meses de 2025, com destaque para a agropecuária que teve alta de 7,8%.",
+        "data": "30-06-2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Crescimento Econômico",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "titulo": "Governo de SP oferece crédito rural para máquinas e ...",
+        "link": "https://www.canaonline.com.br/conteudo/governo-de-sp-oferece-credito-rural-para-maquinas-e-irrigacao-a-partir-de-481-ao-ano.html",
+        "descricao_detalhada": "O governo do estado de São Paulo lançou a linha Irriga+ com taxas de até 4,81% ao ano, para fomentar investimentos em irrigação.",
+        "data": "07-07-2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Financiamento para Irrigação",
+        "valor_estimado": "R$ 5 milhões",
+        "fonte_financiamento": "FEAP",
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "titulo": "Venda de veículos elétricos sobe 9,5% no primeiro semestre",
+        "link": "https://www.canalenergia.com.br/noticias/53315984/venda-de-veiculos-eletricos-sobe-95-no-primeiro-semestre",
+        "descricao_detalhada": "Distribuidoras planejam investir R$ 47 bilhões em 2025, com São Paulo sendo o maior mercado para veículos elétricos com 4.791 veículos vendidos.",
+        "data": "07-07-2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Investimentos em Veículos Elétricos",
+        "valor_estimado": "R$ 47 bilhões",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto ...",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos planejados para o Porto de Santos que devem colocá-lo entre os 20 maiores do mundo, totalizando R$ 12,5 bilhões.",
+        "data": "23-06-2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão do Porto",
+        "valor_estimado": "R$ 12,5 bilhões",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "DCOMERCIO"
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar ...",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "A Petrobras assina um protocolo com o governo de SP e pretende investir em ações que tornarão o setor offshore mais competitivo.",
+        "data": "26-06-2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Protocolo de Intenções",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "DGABC"
+    }
+]

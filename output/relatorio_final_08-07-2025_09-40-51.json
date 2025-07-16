@@ -1,0 +1,57 @@
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto ...", 
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo", 
+        "descricao_detalhada": "Investimentos significativos em infraestrutura portuária no Porto de Santos estão projetados para totalizar R$ 12,5 bilhões, posicionando o porto entre os 20 maiores do mundo.",
+        "data": "23 de jun. de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": ["DCOMERCIO"]
+    },
+    {
+        "titulo": "Trens ligarão São Paulo à Baixada Santista, ao litoral ...", 
+        "link": "https://www.atribuna.com.br/cidades/trens-ligar-o-s-o-paulo-a-baixada-santista-ao-litoral-paulista-e-ao-interior-do-estado-e-custar-o-r-25-bilh-es-1.465062", 
+        "descricao_detalhada": "Novos investimentos em transporte ferroviário visam ligar São Paulo à Baixada Santista e ao interior do Estado, com custos estimados em R$ 2,5 bilhões por trecho.",
+        "data": "11 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 2500000000,
+        "fonte_financiamento": "Recursos do estado",
+        "fonte_noticia": ["A TRIBUNA"]
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar ...", 
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista", 
+        "descricao_detalhada": "A Petrobras e a Secretaria de Desenvolvimento Econômico de São Paulo firmaram um protocolo para impulsionar o setor offshore no litoral do estado.",
+        "data": "26 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Instalação",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": ["DGABC"]
+    },
+    {
+        "titulo": "Venda de veículos elétricos sobe 9,5% no primeiro semestre", 
+        "link": "https://www.canalenergia.com.br/noticias/53315984/venda-de-veiculos-eletricos-sobe-95-no-primeiro-semestre", 
+        "descricao_detalhada": "O estado de São Paulo reporta um aumento de 9,5% nas vendas de veículos elétricos no primeiro semestre de 2025, liderando o mercado nacional.",
+        "data": "recent",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Mercado privado",
+        "fonte_noticia": ["CANAL ENERGIA"]
+    },
+    {
+        "titulo": "Programa estadual libera R$ 5,4 milhões para mais 200 ...", 
+        "link": "https://www.dgabc.com.br/Noticia/4239086/programa-estadual-libera-rs-5-4-milhoes-para-mais-200-casas", 
+        "descricao_detalhada": "O programa Casa Paulista libera R$ 5,4 milhões em parceria com o governo federal para a construção de 200 casas no estado.",
+        "data": "11 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 5400000,
+        "fonte_financiamento": "Governo federal e estadual",
+        "fonte_noticia": ["DGABC"]
+    }
+]

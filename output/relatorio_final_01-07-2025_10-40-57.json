@@ -1,0 +1,62 @@
+[
+    {
+        "categoria": "Investimentos",
+        "titulo": "Mercado Livre anuncia investimento de R$ 13,6 bi em SP ...",
+        "link": "https://dcomercio.com.br/publicacao/s/mercado-livre-anuncia-investimento-de-r-13-6-bi-em-sp-ao-longo-de-2025",
+        "descricao_detalhada": "O Mercado Livre anunciou o aporte de R$ 13,6 bilhões no estado de São Paulo ao longo de 2025. O valor representa 40% dos R$ 34 bilhões que a companhia prevê investimentos no Brasil, focando em expansão do e-commerce e infraestrutura.",
+        "data": "18 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 13600000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "DCOMERCIO"
+    },
+    {
+        "categoria": "Obras",
+        "titulo": "Obras na Rodovia dos Calçados terão financiamento de R$ 3 ...",
+        "link": "https://agenciadenoticias.bndes.gov.br/infraestrutura/Obras-na-Rodovia-dos-Calcados-terao-financiamento-de-R$-364-bilhoes-do-BNDES/",
+        "descricao_detalhada": "Os trechos rodoviários que compõem a Rodovia dos Calçados cruzam 35 municípios do Estado de São Paulo. O investimento de R$ 364 milhões tem como objetivo melhorar a infraestrutura rodoviária e mobilidade.",
+        "data": "16 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 364000000,
+        "fonte_financiamento": "Financiamento BNDES",
+        "fonte_noticia": "Agência de Notícias BNDES"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto ...",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos de R$ 12,5 bilhões devem modernizar e expandir a capacidade do Porto de Santos, tornando-o um dos 20 maiores do mundo, focando na melhoria da infraestrutura portuária.",
+        "data": "18 de jun. de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos próprios e parcerias",
+        "fonte_noticia": "DCOMERCIO"
+    },
+    {
+        "categoria": "Projetos",
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar ...",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "A Petrobras, junto com a Secretaria de Desenvolvimento Econômico de SP, assina protocolo para impulsionar o setor offshore no litoral, prevendo investimentos em infraestrutura de petróleo e gás.",
+        "data": "02 de junho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Desenvolvimento",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "DGABC"
+    },
+    {
+        "categoria": "Construções",
+        "titulo": "Governo Tarcísio apresenta projeto do Túnel Santos-Guarujá ...",
+        "link": "https://correio.rac.com.br/agenciaestado/governo-tarcisio-apresenta-projeto-do-tunel-santos-guaruja-a-empresas-em-toquio-1.1680757",
+        "descricao_detalhada": "O projeto do Túnel Santos-Guarujá apresentado pelo governo prevê investimentos significativos na construção do túnel para melhorar a ligação entre os dois municípios.",
+        "data": "22 de junho de 2025",
+        "municipio": "Guarujá",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "Correio"
+    }
+]

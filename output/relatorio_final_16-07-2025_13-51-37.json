@@ -1,0 +1,89 @@
+```python
+final_result = [
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo", 
+        "descricao_detalhada": "Investimento de R$ 12,5 bilhões visa melhorias e ampliações no Porto de Santos, aumentando a capacidade operativa.",
+        "data": "23/06/2025", 
+        "municipio": "Santos", 
+        "tipo_investimento": "Expansão", 
+        "valor_estimado": 12500000000, 
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "DCI",
+        "fontes_relacionadas": [
+            "https://correio.rac.com.br/campinasermc/dario-saadi-anuncia-flexibilizac-o-da-exigencia-de-onibus-eletricos-1.1685609", 
+            "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-autoridade-portuaria-quer-propriedade-da-obra-e-fara-exigencias-ao-governo-de-s-o-paulo-1.468528",
+            "https://www.dgabc.com.br/Mobile/Noticia/4245222/boulevard-aereo-retrofit-e-vlt-obras-mudam-a-cara-de-santos",
+            "https://canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html"
+        ]
+    },
+    {
+        "titulo": "Dário Saadi anuncia flexibilização da exigência de ônibus eléctricos",
+        "link": "https://correio.rac.com.br/campinasermc/dario-saadi-anuncia-flexibilizac-o-da-exigencia-de-onibus-eletricos-1.1685609",
+        "descricao_detalhada": "Anúncio de novas intervenções urbanas para modernização da frota de ônibus em Campinas.",
+        "data": "06/07/2025",
+        "municipio": "Campinas",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "Correio",
+        "fontes_relacionadas": [
+            "https://dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo", 
+            "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-autoridade-portuaria-quer-propriedade-da-obra-e-fara-exigencias-ao-governo-de-s-o-paulo-1.468528",
+            "https://www.dgabc.com.br/Mobile/Noticia/4245222/boulevard-aereo-retrofit-e-vlt-obras-mudam-a-cara-de-santos",
+            "https://canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html"
+        ]
+    },
+    {
+        "titulo": "Túnel Santos-Guarujá: Autoridade Portuária quer",
+        "link": "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-autoridade-portuaria-quer-propriedade-da-obra-e-fara-exigencias-ao-governo-de-s-o-paulo-1.468528",
+        "descricao_detalhada": "O investimento no Túnel Santos-Guarujá está orçado em R$ 6,8 bilhões e promoverá a infraestrutura viária.",
+        "data": "06/07/2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 6800000000,
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "A Tribuna",
+        "fontes_relacionadas": [
+            "https://dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo", 
+            "https://correio.rac.com.br/campinasermc/dario-saadi-anuncia-flexibilizac-o-da-exigencia-de-onibus-eletricos-1.1685609",
+            "https://www.dgabc.com.br/Mobile/Noticia/4245222/boulevard-aereo-retrofit-e-vlt-obras-mudam-a-cara-de-santos",
+            "https://canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html"
+        ]
+    },
+    {
+        "titulo": "Boulevard aéreo, retrofit e VLT: obras mudam a cara de Santos",
+        "link": "https://www.dgabc.com.br/Mobile/Noticia/4245222/boulevard-aereo-retrofit-e-vlt-obras-mudam-a-cara-de-santos",
+        "descricao_detalhada": "Obras de modernização no sistema VLT e revitalização de áreas urbanas de Santos com impacto significativo no transporte.",
+        "data": "04/07/2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "Diário do Grande ABC",
+        "fontes_relacionadas": [
+            "https://dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo", 
+            "https://correio.rac.com.br/campinasermc/dario-saadi-anuncia-flexibilizac-o-da-exigencia-de-onibus-eletricos-1.1685609",
+            "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-autoridade-portuaria-quer-propriedade-da-obra-e-fara-exigencias-ao-governo-de-s-o-paulo-1.468528",
+            "https://canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html"
+        ]
+    },
+    {
+        "titulo": "Zilor alcança receita líquida recorde de R$ 3,7 bilhões",
+        "link": "https://canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html",
+        "descricao_detalhada": "Aquisição de unidade em Lucélia (SP) para aumentar capacidade de produção.",
+        "data": "02/07/2025",
+        "municipio": "Lucélia",
+        "tipo_investimento": "Aquisição/investimento na capacidade",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "Cana Online",
+        "fontes_relacionadas": [
+            "https://dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo", 
+            "https://correio.rac.com.br/campinasermc/dario-saadi-anuncia-flexibilizac-o-da-exigencia-de-onibus-eletricos-1.1685609",
+            "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-autoridade-portuaria-quer-propriedade-da-obra-e-fara-exigencias-ao-governo-de-s-o-paulo-1.468528",
+            "https://www.dgabc.com.br/Mobile/Noticia/4245222/boulevard-aereo-retrofit-e-vlt-obras-mudam-a-cara-de-santos"
+        ]
+    }
+]
+```

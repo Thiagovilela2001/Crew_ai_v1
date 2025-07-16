@@ -1,0 +1,59 @@
+```python
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos de R$ 12,5 bilhões estão sendo direcionados para modernizar e expandir a infraestrutura do Porto de Santos, visando colocá-lo entre os 20 maiores do mundo até 2025, impactando o setor logístico e econômico do Estado de São Paulo.",
+        "data": "23 de jun. de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "DComércio"
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar setor offshore no litoral paulista",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "Petrobras, junto com a Secretaria de Desenvolvimento Econômico do Estado de São Paulo e a InvestSP, assinaram um protocolo com o objetivo de desenvolver o setor offshore no litoral paulista, promovendo investimentos e parcerias.",
+        "data": "26 de jun. de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Instalação",
+        "valor_estimado": "Não informado",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "titulo": "Financiada pelo BNDES, Linha 6-Laranja do metrô de São Paulo recebe o primeiro trem",
+        "link": "https://agenciadenoticias.bndes.gov.br/sudeste/Financiada-pelo-BNDES-Linha-6-Laranja-do-metro-de-Sao-Paulo-recebe-o-primeiro-trem/",
+        "descricao_detalhada": "A Linha 6-Laranja, um projeto financiado pelo BNDES, destaca-se como uma PPP entre o Governo do Estado de São Paulo e a concessionária Linha Uni. A entrega do primeiro trem marca a continuidade do projeto que visa melhorar a mobilidade urbana na capital.",
+        "data": "17 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "Não informado",
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "BNDES"
+    },
+    {
+        "titulo": "Governo de SP oferece crédito rural para máquinas e irrigação a partir de 481 ao ano",
+        "link": "https://www.canaonline.com.br/conteudo/governo-de-sp-oferece-credito-rural-para-maquinas-e-irrigacao-a-partir-de-481-ao-ano.html",
+        "descricao_detalhada": "O governo paulista disponibiliza créditos rurais, visivelmente com um plano que promove a aquisição de máquinas e sistemas de irrigação, beneficiando especialmente o setor agrícola em diversas regiões do estado.",
+        "data": "Há 7 dias",
+        "municipio": "Não especificado",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "titulo": "Campinas é eleita a melhor cidade para investimentos do interior da América Latina",
+        "link": "https://correio.rac.com.br/campinasermc/campinas-e-eleita-a-melhor-cidade-para-investimentos-do-interior-da-america-latina-1.1675866",
+        "descricao_detalhada": "Campinas foi reconhecida como um polo de investimento no interior da América Latina, superando outras 25 capitais ao trazer um sentimento positivo entre investidores e empresas para o futuro econômico da região.",
+        "data": "18 de jun. de 2025",
+        "municipio": "Campinas",
+        "tipo_investimento": "Inauguração",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "Correio"
+    }
+]
+```

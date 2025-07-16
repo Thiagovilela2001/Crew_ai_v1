@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "Zilor alcança receita líquida recorde de R$ 3,7 bilhões impulsionada por eficiência operacional e mix açucareiro.",
+        "link": "https://www.canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html",
+        "descricao_detalhada": "A Zilor concluiu a aquisição da Unidade Salto Botelho por R$ 600 milhões, ampliando sua capacidade de moagem e reforçando a presença no setor sucroenergético, localizada em Lucélia (SP).",
+        "data": "02-07-2025",
+        "municipio": "Lucélia",
+        "tipo_investimento": "Aquisição",
+        "valor_estimado": 600000000,
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "Cana Online",
+        "fontes_relacionadas": [
+            "https://www.canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html"
+        ]
+    },
+    {
+        "titulo": "Túnel Santos-Guarujá: Autoridade Portuária quer propriedade da obra.",
+        "link": "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-autoridade-portuaria-quer-propriedade-da-obra-e-fara-exigencias-ao-governo-de-s-o-paulo-1.468528",
+        "descricao_detalhada": "A construção do túnel é uma prioridade para a Autoridade Portuária de Santos, buscando melhorar a logística entre os municípios de Santos e Guarujá.",
+        "data": "06-07-2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "A Tribuna",
+        "fontes_relacionadas": [
+            "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-autoridade-portuaria-quer-propriedade-da-obra-e-fara-exigencias-ao-governo-de-s-o-paulo-1.468528"
+        ]
+    }
+]

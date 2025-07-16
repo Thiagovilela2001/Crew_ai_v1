@@ -1,0 +1,105 @@
+```python
+[
+    {
+        "titulo": '"O setor público é para facilitar o desenvolvimento ...',
+        "link": "https://www.atribuna.com.br/noticias/brasil-e-economia/o-setor-publico-e-para-facilitar-o-desenvolvimento-economico-afirma-jorge-lima-1.466119",
+        "descricao_detalhada": "Discussão sobre como atrair mais indústrias para o Estado de São Paulo, com parcerias que visam facilitar o desenvolvimento econômico.",
+        "data": "20 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Parceria",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "titulo": "CIE-COIC realiza 50ª reunião ordinária em São Paulo com ...",
+        "link": "https://cbic.org.br/cie-coic-realiza-50a-reuniao-ordinaria-em-sao-paulo-com-comite-do-sinduscon-sp/",
+        "descricao_detalhada": "Reunião sobre desenvolvimento no setor de construção civil, organizada pelo Sinduscon-SP.",
+        "data": "25 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Reunião",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "CBIC"
+    },
+    {
+        "titulo": "Industrialização. Polibrasil. Perkins. Grande ABC. ...",
+        "link": "https://www.dgabc.com.br/Noticia/4243528/industrializacao-polibrasil-perkins-grande-abc-metamorfose-",
+        "descricao_detalhada": "Novo desenvolvimento em motores Perkins com uma nova fábrica em São Bernardo do Campo, indicando crescimento industrial.",
+        "data": "4 de jul. de 2025",
+        "municipio": "São Bernardo do Campo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "DGABC"
+    },
+    {
+        "titulo": "Financiada pelo BNDES, Linha 6-Laranja do metrô de São ...",
+        "link": "https://agenciadenoticias.bndes.gov.br/sudeste/Financiada-pelo-BNDES-Linha-6-Laranja-do-metro-de-Sao-Paulo-recebe-o-primeiro-trem/",
+        "descricao_detalhada": "Parceria público-privada para a Linha 6-Laranja do metrô de São Paulo, com recebimento do primeiro trem.",
+        "data": "há 4 dias",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Operação",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência de Notícias BNDES"
+    },
+    {
+        "titulo": "Venda de veículos elétricos sobe 9,5% no primeiro semestre",
+        "link": "https://www.canalenergia.com.br/noticias/53315984/venda-de-veiculos-eletricos-sobe-95-no-primeiro-semestre",
+        "descricao_detalhada": "O estado de São Paulo é responsável por 30,9% dos veículos elétricos vendidos nacionalmente no primeiro semestre de 2025.",
+        "data": "há 7 dias",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Vendas",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "titulo": "Zilor alcança receita líquida recorde de R$ 3,7 bilhões ...",
+        "link": "https://canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html",
+        "descricao_detalhada": "A Zilor obteve receita líquida recorde e concluiu a aquisição de uma unidade em Macatuba e Barra Grande.",
+        "data": "2 de jul. de 2025",
+        "municipio": "Macatuba",
+        "tipo_investimento": "Aquisição",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "titulo": "São Paulo lidera lista dos Estados que mais perdem com ...",
+        "link": "http://www.dgabc.com.br/Noticia/4245264/sao-paulo-lidera-lista-dos-estados-que-mais-perdem-com-tarifa-de-trump",
+        "descricao_detalhada": "Análise das perdas que o estado enfrenta devido à tarifa de importação imposta pelos EUA.",
+        "data": "há 1 dia",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Análise",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "DGABC"
+    },
+    {
+        "titulo": "Dário Saadi anuncia flexibilização da exigência de ônibus ...",
+        "link": "https://correio.rac.com.br/campinasermc/dario-saadi-anuncia-flexibilizac-o-da-exigencia-de-onibus-eletricos-1.1685609",
+        "descricao_detalhada": "Anúncio de medidas para facilitar a implementação de ônibus elétricos em Campinas.",
+        "data": "há 19 horas",
+        "municipio": "Campinas",
+        "tipo_investimento": "Flexibilização",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Correio"
+    },
+    {
+        "titulo": "Burocracia: para obter CNPJ, será preciso informar regime ...",
+        "link": "https://dcomercio.com.br/publicacao/s/burocracia-para-obter-cnpj-sera-preciso-informar-regime-tributario-do-negocio",
+        "descricao_detalhada": "Alterações nas exigências para obtenção de CNPJ no Estado de São Paulo.",
+        "data": "27 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Alteração",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Dcomercio"
+    }
+]
+``` 
+
+The analysis showed no clear duplicates among the provided articles, so the output remains the same as the input, structured as requested.

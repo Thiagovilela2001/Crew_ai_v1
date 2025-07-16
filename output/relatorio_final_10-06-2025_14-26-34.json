@@ -1,0 +1,122 @@
+[
+    {
+        "categoria": "Finanças",
+        "titulo": "Entidades dos bancos e das indústrias criticam aumento do IOF",
+        "link": "https://www.diariodaregiao.com.br/agencia/entidades-dos-bancos-e-das-industrias-criticam-aumento-do-iof-1.2064424",
+        "descricao_detalhada": "Segundo a Federação das Indústrias do Estado de São Paulo (Fiesp), o aumento das alíquotas vai na contramão de programas do governo para impulsionar o ...",
+        "data": "2025-05-23",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Finanças",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "Diário da Região"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "FIESP: estudo mostra potencial para SP ser grande produtor de biometano",
+        "link": "https://www.canalenergia.com.br/noticias/53313324/fiesp-estudo-mostra-potencial-para-sp-ser-grande-produtor-de-biometano",
+        "descricao_detalhada": "Ou seja, além do potencial de curto prazo de 6,4 milhões de m³ por dia, o estado de São Paulo poderia chegar a uma produção de até 42,5 milhões de m³ por ...",
+        "data": "2025-05-19",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Energia Renovável",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Transportes",
+        "titulo": "Trem ligará São Paulo à Baixada Santista e ao resto do litoral",
+        "link": "https://www.atribuna.com.br/cidades/trem-ligara-s-o-paulo-a-baixada-santista-e-ao-resto-do-litoral-paulista-e-atendera-nove-cidades-saiba-tudo-do-projeto-1.463787",
+        "descricao_detalhada": "A Secretaria de Parcerias em Investimentos do Estado de São Paulo (SPI) informou que os estudos de viabilidade do Trem Intercidades (TIC) – Eixo Sul estão em ...",
+        "data": "2025-06-02",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Infraestrutura",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Saúde",
+        "titulo": "Ao lado de Tarcísio, Guto Volpi comemora liberação de recursos para a saúde",
+        "link": "https://www.dgabc.com.br/Noticia/4237963/ao-lado-de-tarcisio-guto-volpi-comemora-liberacao-de-recursos-para-a-saude",
+        "descricao_detalhada": "FOTO: Reprodução Redes Sociais Diário do Grande ABC - Notícias e informações do Grande ABC ... Estado de São Paulo).",
+        "data": "2025-05-19",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Saúde",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "categoria": "Inovação",
+        "titulo": "Governador em exercício, Felicio Ramuth anuncia apoio ao projeto do HIDS",
+        "link": "https://correio.rac.com.br/campinasermc/governador-em-exercicio-felicio-ramuth-anuncia-apoio-ao-projeto-do-hids-1.1661996",
+        "descricao_detalhada": "Criação de um distrito inteligente e sustentável passa a ser uma agenda prioritária para o Estado de São Paulo.",
+        "data": "2025-05-15",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Inovação",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "Correio"
+    },
+    {
+        "categoria": "Finanças",
+        "titulo": "Tribunal de Contas determina suspensão da PPP do Terminal Parque Dom Pedro II",
+        "link": "https://www.dgabc.com.br/Noticia/4236522/tribunal-de-contas-determina-suspensao-da-ppp-do-terminal-parque-dom-pedro-ii-saiba-o-motivo",
+        "descricao_detalhada": "O Tribunal de Contas do Município de São Paulo (TCMSP) determinou nesta quarta-feira, 28, a suspensão da concorrência pública que prevê uma Parceria Público ...",
+        "data": "2025-05-28",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Infraestrutura",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "categoria": "Política",
+        "titulo": "Na RMC, gastos com Câmaras aumentaram 7% em 2024",
+        "link": "https://correio.rac.com.br/campinasermc/na-rmc-gastos-com-camaras-aumentaram-7-em-2024-1.1665797",
+        "descricao_detalhada": "A Câmara Municipal do segundo menor município do Estado de São Paulo, com 1.062 moradores, tem 9 vereadores e apresentou um gasto de R$ 1,03 milhão no ano ...",
+        "data": "2025-05-24",
+        "municipio": "RMC",
+        "tipo_investimento": "Administração Pública",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "Correio"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Túnel Santos-Guarujá tem edital atualizado pelo Governo",
+        "link": "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-tem-edital-atualizado-pelo-governo-de-s-o-paulo-valor-da-obra-sobe-para-r-6-8-bilh-es-1.464889",
+        "descricao_detalhada": "Resultado de uma parceria entre o Governo do Estado, o Ministério de Portos e Aeroportos, a Agência de Transportes do Estado de São Paulo (Artesp), a ...",
+        "data": "2025-06-01",
+        "municipio": "Santos",
+        "tipo_investimento": "Infraestrutura",
+        "valor_estimado": "R$ 6,8 bilhões",
+        "fonte_financiamento": null,
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Construção",
+        "titulo": "CBIC participa de seminário sobre o futuro dos Fundos",
+        "link": "https://cbic.org.br/cbic-participa-de-seminario-sobre-o-futuro-dos-fundos-de-investimento-apos-veto-presidencial/",
+        "descricao_detalhada": "Além da CBIC, participaram da discussão Pedro Krahenbuhl, Diretor de Relações Institucionais do Sindicato da Habitação do Estado de São Paulo (SECOVI/SP); ...",
+        "data": "2025-05-28",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "CBIC"
+    },
+    {
+        "categoria": "Transportes",
+        "titulo": "Trem que ligará São Paulo à Baixada Santista e ao litoral",
+        "link": "https://www.atribuna.com.br/cidades/trem-que-ligara-s-o-paulo-a-baixada-santista-e-ao-litoral-paulista-entra-em-nova-fase-e-tera-trajeto-de-90-minutos-1.461375",
+        "descricao_detalhada": "A Secretaria de Parcerias em Investimentos do Estado de São Paulo (SPI) informou que estão em desenvolvimento os estudos de viabilidade do TIC Eixo Sul. A ...",
+        "data": "2025-05-16",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Infraestrutura",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "A Tribuna"
+    }
+]

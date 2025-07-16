@@ -1,0 +1,35 @@
+[
+    {
+        "titulo": "Zilor alcança receita líquida recorde de R$ 3,7 bilhões ...",
+        "link": "https://www.canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html",
+        "descricao_detalhada": "A Zilor finalizou a aquisição da Unidade Salto Botelho, localizada no município de Lucélia (SP), como parte de sua estratégia de expansão.",
+        "data": "2025-06-30",
+        "municipio": "Lucélia",
+        "tipo_investimento": "Aquisição",
+        "valor_estimado": "não disponível",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "titulo": "Industrialização. Polibrasil. Perkins. Grande ABC. ...",
+        "link": "https://www.dgabc.com.br/Noticia/4243528/industrializacao-polibrasil-perkins-grande-abc-metamorfose-",
+        "descricao_detalhada": "Motores Perkins recebeu investimentos significativos em São Bernardo, com uma nova fábrica em expansão.",
+        "data": "2025-06-10",
+        "municipio": "São Bernardo do Campo",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": "não disponível",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "titulo": "Venda de veículos elétricos sobe 9,5% no primeiro semestre",
+        "link": "https://www.canalenergia.com.br/noticias/53315984/venda-de-veiculos-eletricos-sobe-95-no-primeiro-semestre",
+        "descricao_detalhada": "O estado de São Paulo lidera com 4.791 veículos eletrificados em junho, representando um crescimento nacional no setor automotivo.",
+        "data": "2025-06-01",
+        "municipio": "não especificado",
+        "tipo_investimento": "Crescimento",
+        "valor_estimado": "não disponível",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Canal Energia"
+    }
+]

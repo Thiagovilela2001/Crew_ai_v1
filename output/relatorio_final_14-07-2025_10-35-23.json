@@ -1,0 +1,46 @@
+[
+    {
+        "titulo": "Governo de SP oferece crédito rural para máquinas e ...",
+        "link": "https://www.canaonline.com.br/conteudo/governo-de-sp-oferece-credito-rural-para-maquinas-e-irrigacao-a-partir-de-481-ao-ano.html",
+        "descricao_detalhada": "A Desenvolve SP e a Secretaria de Agricultura e Abastecimento do Estado de São Paulo oferecem crédito rural para favorecer o agronegócio.",
+        "data": "2025-01-07",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Instalação",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "Recursos do governo",
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Anúncio de investimentos no Porto de Santos que totalizam R$ 12,5 bilhões para modernização e ampliação das atividades portuárias.",
+        "data": "2025-06-23",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos próprios e privados",
+        "fonte_noticia": "DCOMERCIO"
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar setor offshore no litoral paulista",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "A Petrobras se uniu a outras entidades para impulsionar projetos de exploração no litoral paulista, envolvendo investimentos significativos.",
+        "data": "2025-06-26",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Novas Unidades",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "titulo": "Zilor alcança receita líquida recorde de R$ 3,7 bilhões",
+        "link": "https://canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html",
+        "descricao_detalhada": "A Zilor informou a conclusão da aquisição da Unidade Salto Botelho, localizada no município de Lucélia (SP), ampliando sua capacidade operacional.",
+        "data": "2025-07-02",
+        "municipio": "Lucélia",
+        "tipo_investimento": "Aquisição",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Cana Online"
+    }
+]

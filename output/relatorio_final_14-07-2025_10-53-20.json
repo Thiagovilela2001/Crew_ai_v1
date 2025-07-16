@@ -1,0 +1,44 @@
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto ...",
+        "link": "https://dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimento de R$ 12,5 bilhões em infraestrutura portuária no Porto de Santos, São Paulo, prevendo melhorar logística e aumentar capacidade operativa.",
+        "data": "2025-06-23",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12500000000.0,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Dcomercio",
+        "fontes_relacionadas": [
+            "https://dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo"
+        ]
+    },
+    {
+        "titulo": "Zilor alcança receita líquida recorde de R$ 3,7 bilhões ...",
+        "link": "https://canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html",
+        "descricao_detalhada": "Zilor concluiu a aquisição da Unidade Salto Botelho em Lucélia (SP) e alcançou receita líquida recorde de R$ 3,7 bilhões, refletindo eficiência operacional e um mix açucareiro mais rentável.",
+        "data": "2025-07-02",
+        "municipio": "Lucélia",
+        "tipo_investimento": "Aquisição",
+        "valor_estimado": None,
+        "fonte_financiamento": None,
+        "fonte_noticia": "Cana Online",
+        "fontes_relacionadas": [
+            "https://canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html"
+        ]
+    },
+    {
+        "titulo": "Isa Brasil Energia inicia operação comercial de reforço em ...",
+        "link": "https://www.canalenergia.com.br/noticias/53313604/isa-brasil-energia-inicia-operacao-comercial-de-reforco-em-se",
+        "descricao_detalhada": "Isa Brasil Energia iniciou operação comercial do projeto Água Vermelha, ampliando capacidade de transformação na Subestação Água Vermelha, em Iturama (MG), com investimento total de R$ 89 milhões.",
+        "data": "2025-06-11",
+        "municipio": "Iturama",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 89000000.0,
+        "fonte_financiamento": "Debêntures verdes",
+        "fonte_noticia": "Canal Energia",
+        "fontes_relacionadas": [
+            "https://www.canalenergia.com.br/noticias/53313604/isa-brasil-energia-inicia-operacao-comercial-de-reforco-em-se"
+        ]
+    }
+]

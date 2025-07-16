@@ -1,0 +1,43 @@
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de ...",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos de R$ 12,5 bilhões e melhorias no Porto de Santos.",
+        "data": "23/06/2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "DCOMERCIO",
+        "fontes_relacionadas": [
+            "https://www.dgabc.com.br/Mobile/Noticia/4245221/boulevard-aereo-retrofit-e-vlt-obras-mudam-a-cara-de-santos",
+            "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-autoridade-portuaria-quer-propriedade-da-obra-e-fara-exigencias-ao-governo-de-s-o-paulo-1.468528"
+        ]
+    },
+    {
+        "titulo": "Campinas é eleita a melhor cidade para investimentos do ...",
+        "link": "https://correio.rac.com.br/campinasermc/campinas-e-eleita-a-melhor-cidade-para-investimentos-do-interior-da-america-latina-1.1675866",
+        "descricao_detalhada": "Campinas foi reconhecida como a melhor cidade para investimentos do interior da América Latina.",
+        "data": "18/06/2025",
+        "municipio": "Campinas",
+        "tipo_investimento": "Reconhecimento",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "CORREIO",
+        "fontes_relacionadas": [
+            "https://correio.rac.com.br/campinasermc/dario-saadi-anuncia-flexibilizac-o-da-exigencia-de-onibus-eletricos-1.1685609"
+        ]
+    },
+    {
+        "titulo": "Zilor alcança receita líquida recorde de R$ 3,7 bilhões ...",
+        "link": "https://canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html",
+        "descricao_detalhada": "A Zilor adquiriu a Unidade Salto Botelho em Lucélia, parte de sua expansão estratégica.",
+        "data": "02/07/2025",
+        "municipio": "Lucélia",
+        "tipo_investimento": "Aquisição",
+        "valor_estimado": 3700000000,
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "CANA ONLINE",
+        "fontes_relacionadas": []
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "titulo": "Governo de SP oferece crédito rural para máquinas e irrigação",
+        "link": "https://www.canaonline.com.br/conteudo/governo-de-sp-oferece-credito-rural-para-maquinas-e-irrigacao-a-partir-de-481-ao-ano.html",
+        "descricao_detalhada": "O Governo de SP oferece linhas de crédito com taxas de 4,81% a 9,87% para agricultura, com foco em modernização e irrigação.",
+        "data": "2025-06-23",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Inauguração",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Cana Online",
+        "fontes_relacionadas": [
+            "https://www.canaonline.com.br/conteudo/governo-de-sp-oferece-credito-rural-para-maquinas-e-irrigacao-a-partir-de-481-ao-ano.html"
+        ]
+    },
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "R$ 12,5 bilhões serão investidos no Porto de Santos, com o objetivo de torná-lo um dos maiores do mundo.",
+        "data": "2025-06-23",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": "12.500.000.000",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "DCOMércio",
+        "fontes_relacionadas": [
+            "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo"
+        ]
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar setor offshore no litoral paulista",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "A Petrobras formalizou um protocolo de intenções para avanços no setor offshore no litoral paulista, visando desenvolvimento e inovação.",
+        "data": "2025-06-26",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Instalação",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "DG ABC",
+        "fontes_relacionadas": [
+            "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista"
+        ]
+    },
+    {
+        "titulo": "Zilor alcança receita líquida recorde de R$ 3,7 bilhões",
+        "link": "https://canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html",
+        "descricao_detalhada": "A Zilor atingiu R$ 3,7 bilhões de receita líquida, reforçando suas operações e aquisições estratégicas no setor sucroenergético.",
+        "data": "2025-07-02",
+        "municipio": "Lucélia",
+        "tipo_investimento": "Aquisição",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Cana Online",
+        "fontes_relacionadas": [
+            "https://canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html"
+        ]
+    },
+    {
+        "titulo": "CIE-COIC realiza 50ª reunião ordinária em São Paulo",
+        "link": "https://cbic.org.br/cie-coic-realiza-50a-reuniao-ordinaria-em-sao-paulo-com-comite-do-sinduscon-sp/",
+        "descricao_detalhada": "Reunião do CIE da CBIC e o Sinduscon-SP discutiu iniciativas estratégicas e investimentos de R$ 600 bilhões em CAPEX.",
+        "data": "2025-06-25",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Discussão sobre investimentos",
+        "valor_estimado": "600.000.000.000",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "CBIC",
+        "fontes_relacionadas": [
+            "https://cbic.org.br/cie-coic-realiza-50a-reuniao-ordinaria-em-sao-paulo-com-comite-do-sinduscon-sp/"
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+```python
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "O Porto de Santos, em São Paulo, receberá investimentos de R$ 12,5 bilhões, que devem colocá-lo entre os 20 maiores portos do mundo.",
+        "data": "2025-06-23",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12.5e9,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Diário do Comércio"
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar setor offshore no litoral paulista",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "A Petrobras formalizou um protocolo para impulsionar o setor offshore, com foco no litoral paulista.",
+        "data": "2025-06-26",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Instalação",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "titulo": "FIESP: estudo mostra potencial para SP ser grande produtor de biometano",
+        "link": "https://www.canalenergia.com.br/noticias/53313324/fiesp-estudo-mostra-potencial-para-sp-ser-grande-produtor-de-biometano",
+        "descricao_detalhada": "Um estudo revelou que São Paulo pode alcançar produção anual de até 42,5 milhões de m³ de biometano, impulsionando novos investimentos nesta área.",
+        "data": "2025-06-06",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Novos projetos",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Projetos privados",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "titulo": "MME acerta com Eletrobras repasse de R$ 147 mi para obras em hidrovia de SP",
+        "link": "https://www.canalenergia.com.br/noticias/53313998/mme-acerta-com-eletrobras-repasse-de-r-147-mi-para-obras-em-hidrovia-de-sp",
+        "descricao_detalhada": "O Ministério de Minas e Energia anunciou repasse de R$ 147 milhões para modernização da hidrovia em São Paulo.",
+        "data": "2025-06-13",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 147e6,
+        "fonte_financiamento": "Eletrobras",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "titulo": "Zilor alcança receita líquida recorde em 2025, impulsionada por eficiência operacional",
+        "link": "https://canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html",
+        "descricao_detalhada": "Zilor anunciou expansão significativa com a aquisição de nova unidade em Lucélia, SP, visando aumentar a capacidade de produção.",
+        "data": "2025-06-24",
+        "municipio": "Lucélia",
+        "tipo_investimento": "Aquisição",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Cana Online"
+    }
+]
+```

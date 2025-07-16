@@ -1,0 +1,90 @@
+[
+    {
+        "titulo": "GDSUN expande capacidade operacional para 194 MWp com UFV Panorama",
+        "link": "https://www.canalenergia.com.br/noticias/53315411/gdsun-expande-capacidade-operacional-para-194-mwp-com-ufv-panorama",
+        "descricao_detalhada": "A GDSUN concluiu a energização da Usina Fotovoltaica Panorama, localizada no Estado de São Paulo, expandindo sua capacidade operacional para 194 MWp. A usina representa um avanço na modernização da matriz elétrica brasileira e na transição para uma economia de baixo carbono.",
+        "data": "02 de julho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": None,
+        "fonte_financiamento": None,
+        "fonte_noticia": "CanalEnergia"
+    },
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Os investimentos visam modernizar o Porto de Santos, prevista a geração de 5 mil empregos diretos do setor.",
+        "data": "23 de junho de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Investimento",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": None,
+        "fonte_noticia": "DCOMERCIO"
+    },
+    {
+        "titulo": "MME acerta com Eletrobras repasse de R$ 147 mi para hidrovias em SP",
+        "link": "https://www.canalenergia.com.br/noticias/53313998/mme-acerta-com-eletrobras-repasse-de-r-147-mi-para-obras-em-hidrovia-de-sp",
+        "descricao_detalhada": "O repasse é para obras nas hidrovias do estado de São Paulo, proporcionando melhorias na navegação e logística.",
+        "data": "13 de junho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Obras",
+        "valor_estimado": 147000000,
+        "fonte_financiamento": "Governo Federal",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "titulo": "Trens ligarão São Paulo à Baixada Santista, ao litoral e ao interior do estado",
+        "link": "https://www.atribuna.com.br/cidades/trens-ligar-o-s-o-paulo-a-baixada-santista-ao-litoral-paulista-e-ao-interior-do-estado-e-custar-o-r-25-bilh-es-1.465062",
+        "descricao_detalhada": "A extensão da linha vai variar entre 80 a 130 km com investimentos estimados em R$ 25 bilhões.",
+        "data": "11 de junho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 25000000000,
+        "fonte_financiamento": "None",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "titulo": "Túnel Santos-Guarujá tem edital atualizado pelo Governo de São Paulo",
+        "link": "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-tem-edital-atualizado-pelo-governo-de-s-o-paulo-valor-da-obra-sobe-para-r-6-8-bilh-es-1.464889",
+        "descricao_detalhada": "O valor da obra do túnel Santos-Guarujá subiu para R$ 6,8 bilhões, visando melhorar o tráfego entre os municípios.",
+        "data": "9 de junho de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 6800000000,
+        "fonte_financiamento": "None",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "titulo": "CIE-COIC realiza 50ª reunião ordinária em São Paulo",
+        "link": "https://cbic.org.br/cie-coic-realiza-50a-reuniao-ordinaria-em-sao-paulo-com-comite-do-sinduscon-sp/",
+        "descricao_detalhada": "Reunião promove discussões sobre investimentos da ordem de R$ 600 bilhões entre 2025 e 2028.",
+        "data": "25 de junho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Anúncios",
+        "valor_estimado": 600000000000,
+        "fonte_financiamento": "None",
+        "fonte_noticia": "CBIC"
+    },
+    {
+        "titulo": "Geração própria solar alcança 40 GW, aponta Absolar",
+        "link": "https://www.canalenergia.com.br/noticias/53313624/geracao-propria-solar-alcanca-40-gw-aponta-absolar",
+        "descricao_detalhada": "A capacidade de geração solar no estado é um reflexo do crescimento, com investimentos de R$ 200 milhões.",
+        "data": "11 de junho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 200000000,
+        "fonte_financiamento": "None",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "titulo": "Estado garante extensão da Linha 10 até Barra Funda",
+        "link": "https://www.dgabc.com.br/Noticia/4238476/estado-garante-extensao-da-linha-10-ate-barra-funda",
+        "descricao_detalhada": "O governo estadual confirma o projeto de extensão, visando melhor conexão com a cidade.",
+        "data": "7 de junho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Extensão",
+        "valor_estimado": "None",
+        "fonte_financiamento": "None",
+        "fonte_noticia": "Diário do Grande ABC"
+    }
+]

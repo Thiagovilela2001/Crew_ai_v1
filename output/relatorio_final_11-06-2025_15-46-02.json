@@ -1,0 +1,110 @@
+[
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Porto de Santos planeja investir R$ 1,4 bilhão em obras e ...",
+        "link": "https://www.atribuna.com.br/noticias/portomar/porto-de-santos-planeja-investir-r-1-4-bilh-o-em-obras-e-entrega-cronograma-a-antaq-1.462235",
+        "descricao_detalhada": "O Porto de Santos planeja investir R$ 1,4 bilhão em diversas obras para ampliação e melhoria da infraestrutura portuária, o que deve gerar novos empregos e aumentar a capacidade de carga.",
+        "data": "2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Ampliação",
+        "valor_estimado": "1,4 bilhão",
+        "fonte_financiamento": "Privado",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Saneamento",
+        "titulo": "Sabesp prevê R$ 3,6 bilhões em obras de saneamento no ...",
+        "link": "https://www.dgabc.com.br/Mobile/Noticia/4236781/sabesp-preve-rs-2-7-bilhoes-em-obras-de-saneamento-no-grande-abc-ate-2029",
+        "descricao_detalhada": "A Sabesp anunciou um investimento de R$ 3,6 bilhões em obras de saneamento no Grande ABC até 2029, visando a ampliação dos serviços de água e esgoto.",
+        "data": "2025",
+        "municipio": "Grande ABC",
+        "tipo_investimento": "Ampliação",
+        "valor_estimado": "3,6 bilhões",
+        "fonte_financiamento": "Público",
+        "fonte_noticia": "DGABC"
+    },
+    {
+        "categoria": "Habitação",
+        "titulo": "Programa estadual libera R$ 5,4 milhões para mais 200 ...",
+        "link": "https://www.dgabc.com.br/Noticia/4239086/programa-estadual-libera-rs-5-4-milhoes-para-mais-200-casas",
+        "descricao_detalhada": "O programa estadual Casa Paulista liberou R$ 5,4 milhões para a construção de 200 novas moradias em parceria com o governo federal, beneficiando diversos municípios de São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "5,4 milhões",
+        "fonte_financiamento": "Governamental",
+        "fonte_noticia": "DGABC"
+    },
+    {
+        "categoria": "Transporte",
+        "titulo": "Trens ligarão São Paulo à Baixada Santista, ao litoral ...",
+        "link": "https://www.atribuna.com.br/cidades/trens-ligar-o-s-o-paulo-a-baixada-santista-ao-litoral-paulista-e-ao-interior-do-estado-e-custar-o-r-25-bilh-es-1.465062",
+        "descricao_detalhada": "Um novo projeto de trem ligará São Paulo à Baixada Santista com investimento estimado em R$ 2,5 bilhões, visando a expansão do transporte público ferroviário.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": "2,5 bilhões",
+        "fonte_financiamento": "Privado",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Turismo",
+        "titulo": "Deputado Carlão Pignatari propõe mudanças no FUMTUR ...",
+        "link": "https://www.acidadevotuporanga.com.br/geral/2025/05/deputado-carlão-pignatari-propoe-mudancas-no-fumtur-para-fortalecer-investimentos-nas-estancias-e-municipios-de-interesse-turistico-n84193",
+        "descricao_detalhada": "Carlão Pignatari propôs mudanças para fortalecer investimentos em estâncias e municípios de interesse turístico em São Paulo, visando fomentar o turismo local.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Fomento",
+        "valor_estimado": "N/A",
+        "fonte_financiamento": "Público",
+        "fonte_noticia": "Cidade Votuporanga"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Na RMC, gastos com Câmaras aumentaram 7% em 2024",
+        "link": "https://correio.rac.com.br/campinasermc/na-rmc-gastos-com-camaras-aumentaram-7-em-2024-1.1665797",
+        "descricao_detalhada": "Os gastos das câmaras municipais na Região Metropolitana de Campinas cresceram 7% em 2024, refletindo investimentos locais em infraestrutura e serviços.",
+        "data": "2025",
+        "municipio": "Campinas",
+        "tipo_investimento": "Infraestrutura",
+        "valor_estimado": "N/A",
+        "fonte_financiamento": "Público",
+        "fonte_noticia": "Correio"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "BNDES aprova R$ 117,5 mi para construção de linha de ...",
+        "link": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/BNDES-aprova-R$-1175-mi-para-construcao-de-linha-de-transmissao-e-ampliacao-de-subestacao-no-MS/",
+        "descricao_detalhada": "O BNDES aprovou um financiamento de R$ 117,5 milhões para a construção de uma nova linha de transmissão elétrica, ampliando a capacidade da rede na região.",
+        "data": "2025",
+        "municipio": "N/A",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "117,5 milhões",
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência BNDES"
+    },
+    {
+        "categoria": "Energia",
+        "titulo": "Geração própria solar alcança 40 GW, aponta Absolar",
+        "link": "https://www.canalenergia.com.br/noticias/53313624/geracao-propria-solar-alcanca-40-gw-aponta-absolar",
+        "descricao_detalhada": "O estado de São Paulo alcançou 5,7 GW de potência instalada com geração própria solar, liderando o Brasil em energia renovável e investimentos em sustentabilidade.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Energia Renovável",
+        "valor_estimado": "N/A",
+        "fonte_financiamento": "Privado",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Saneamento",
+        "titulo": "São Bernardo terá universalização do saneamento até ...",
+        "link": "https://www.dgabc.com.br/Noticia/4239166/sao-bernardo-tera-saneamento-universalizado-ate-2027-anuncia-tarcisio-de-freitas",
+        "descricao_detalhada": "A Sabesp anunciou um investimento total de R$ 1,5 bilhão para a universalização do saneamento básico em São Bernardo do Campo até 2027.",
+        "data": "2025",
+        "municipio": "São Bernardo do Campo",
+        "tipo_investimento": "Universalização",
+        "valor_estimado": "1,5 bilhão",
+        "fonte_financiamento": "Público",
+        "fonte_noticia": "DGABC"
+    }
+]

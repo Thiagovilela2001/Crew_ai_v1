@@ -1,0 +1,44 @@
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos de R$ 12,5 bilhões no Porto de Santos visam melhorar a infraestrutura e posicionar o porto como um dos maiores do mundo.",
+        "data": "23/06/2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "D Comércio",
+        "fontes_relacionadas": [
+            "https://dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo"
+        ]
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar setor offshore no litoral paulista",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "A Petrobras formalizou um protocolo de intenções com o governo de São Paulo e outras entidades para impulsionar investimentos no setor offshore.",
+        "data": "26/06/2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Instalação",
+        "valor_estimado": null,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Diário do Grande ABC",
+        "fontes_relacionadas": [
+            "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista"
+        ]
+    },
+    {
+        "titulo": "Santo André e São Bernardo estão entre as seis cidades com maior investimento em saneamento",
+        "link": "https://www.dgabc.com.br/Noticia/4245803/santo-andre-e-sao-bernardo-estao-entre-as-seis-cidades-com-maior-investimento-em-saneamento",
+        "descricao_detalhada": "As cidades de Santo André e São Bernardo estão recebendo investimentos significativos em saneamento pela Sabesp, totalizando R$ 3,6 bilhões.",
+        "data": "30/06/2025",
+        "municipio": "Santo André",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 3600000000,
+        "fonte_financiamento": "Sabesp",
+        "fonte_noticia": "Diário do Grande ABC",
+        "fontes_relacionadas": [
+            "https://www.dgabc.com.br/Noticia/4245803/santo-andre-e-sao-bernardo-estao-entre-as-seis-cidades-com-maior-investimento-em-saneamento"
+        ]
+    }
+]

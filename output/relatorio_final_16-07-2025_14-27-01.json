@@ -1,0 +1,44 @@
+[
+    {
+        "titulo": "Santo André e São Bernardo estão entre as seis cidades com maior investimento em saneamento",
+        "link": "https://www.dgabc.com.br/Noticia/4245803/santo-andre-e-sao-bernardo-estao-entre-as-seis-cidades-com-maior-investimento-em-saneamento",
+        "descricao_detalhada": "Santo André é a segunda cidade do País com maior investimento por habitante em saneamento, com R$ 608,89. São Bernardo é a sexta, com R$ 251,95, com investimentos da Sabesp prevendo R$ 3,6 bilhões em obras de saneamento até 2029.",
+        "data": "16/07/2025",
+        "municipio": "Santo André",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 608.89,
+        "fonte_financiamento": "Sabesp",
+        "fonte_noticia": "Diário do Grande ABC",
+        "fontes_relacionadas": [
+            "https://www.dgabc.com.br/Noticia/4245803/santo-andre-e-sao-bernardo-estao-entre-as-seis-cidades-com-maior-investimento-em-saneamento"
+        ]
+    },
+    {
+        "titulo": "Consumo doméstico de etanol hidratado deve recuar 18% na safra 2025/26",
+        "link": "https://www.canaonline.com.br/conteudo/consumo-domestico-de-etanol-hidratado-deve-recuar-18-na-safra-202526-projeto-itau-bba.html",
+        "descricao_detalhada": "O consumo doméstico de etanol hidratado deve registrar queda de 18% na safra 2025/26, devido à perda de competitividade em relação à gasolina e aumento dos preços. A expectativa é que a paridade entre etanol e gasolina nas bombas no estado de São Paulo seja próxima de 70%.",
+        "data": "16/07/2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Análise de mercado",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "Cana Online",
+        "fontes_relacionadas": [
+            "https://www.canaonline.com.br/conteudo/consumo-domestico-de-etanol-hidratado-deve-recuar-18-na-safra-202526-projeto-itau-bba.html"
+        ]
+    },
+    {
+        "titulo": "Mercado de etanol segue desaquecido em SP, mas açúcar cristal estabiliza preços",
+        "link": "https://www.canaonline.com.br/conteudo/mercado-de-etanol-segue-desaquecido-em-sp-mas-acucar-cristal-estabiliza-precos.html",
+        "descricao_detalhada": "O mercado de etanol hidratado apresenta baixa demanda no estado de São Paulo, com preços recuando. O indicador CEPEA/ESALQ para etanol hidratado fechou em R$ 2,5521 por litro. O açúcar cristal branco mostra resistência nos preços, com estabilidade em torno de R$ 116 por saca.",
+        "data": "16/07/2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Análise de mercado",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "Cana Online",
+        "fontes_relacionadas": [
+            "https://www.canaonline.com.br/conteudo/mercado-de-etanol-segue-desaquecido-em-sp-mas-acucar-cristal-estabiliza-precos.html"
+        ]
+    }
+]

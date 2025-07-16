@@ -1,0 +1,112 @@
+[
+    {
+        "titulo": "Puxado pelo agro, PIB paulista registra crescimento de 1,9 ...",
+        "link": "https://www.canaonline.com.br/conteudo/puxado-pelo-agro-pib-paulista-registra-crescimento-de-19-nos-primeiros-quatro-meses-de-2025.html",
+        "descricao_detalhada": "A economia no Estado de São Paulo registrou crescimento de 1,9% nos primeiros quatro meses de 2025 em relação ao primeiro quadrimestre do ano passado.",
+        "data": "30 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Crescimento econômico",
+        "valor_estimado": None,
+        "fonte_financiamento": None,
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "titulo": "Método 50-30-20: veja quanto investir do salário para ...",
+        "link": "https://www.atribuna.com.br/noticias/brasil-e-economia/metodo-50-30-20-veja-quanto-investir-do-salario-para-garantir-um-futuro-financeiro-seguro-1.467131",
+        "descricao_detalhada": "A partir de 1º de julho de 2025, o estado de São Paulo passa a contar com um novo piso regional, reajustado de R$ 1.640 para R$ 1.804.",
+        "data": "30 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Ajuste de salário mínimo",
+        "valor_estimado": "R$ 1.804",
+        "fonte_financiamento": None,
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto ...",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos de R$ 12,5 bilhões devem colocar o Porto de Santos entre os 20 maiores do mundo.",
+        "data": "23 de jun. de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão do porto",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": None,
+        "fonte_noticia": "DComercio"
+    },
+    {
+        "titulo": "Venda de veículos elétricos sobe 9,5% no primeiro semestre",
+        "link": "https://www.canalenergia.com.br/noticias/53315984/venda-de-veiculos-eletricos-sobe-95-no-primeiro-semestre",
+        "descricao_detalhada": "Distribuidoras vão investir R$ 47 bilhões em 2025 no mercado de veículos elétricos.",
+        "data": "04 de julho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Investimentos em veículos elétricos",
+        "valor_estimado": 47000000000,
+        "fonte_financiamento": None,
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "titulo": "Governo de SP oferece crédito rural para máquinas e ...",
+        "link": "https://www.canaonline.com.br/conteudo/governo-de-sp-oferece-credito-rural-para-maquinas-e-irrigacao-a-partir-de-481-ao-ano.html",
+        "descricao_detalhada": "O Estado de São Paulo se destaca na agricultura irrigada, com oferta de crédito rural para máquinas e irrigação.",
+        "data": "há 3 dias",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Crédito rural",
+        "valor_estimado": None,
+        "fonte_financiamento": "Recursos do governo",
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "titulo": "Trens ligarão São Paulo à Baixada Santista, ao litoral ...",
+        "link": "https://www.atribuna.com.br/cidades/trens-ligar-o-s-o-paulo-a-baixada-santista-ao-litoral-paulista-e-ao-interior-do-estado-e-custar-o-r-25-bilh-es-1.465062",
+        "descricao_detalhada": "Estudos para implantação de linhas de trem ligando São Paulo à Baixada Santista, com investimento significativo.",
+        "data": "11 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção de infraestrutura ferroviária",
+        "valor_estimado": 25000000000,
+        "fonte_financiamento": None,
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar ...",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "A Petrobras formalizou um protocolo para impulsionar o setor offshore no litoral paulista.",
+        "data": "26 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Investimentos em energia",
+        "valor_estimado": None,
+        "fonte_financiamento": None,
+        "fonte_noticia": "DABC"
+    },
+    {
+        "titulo": "Campinas é eleita a melhor cidade para investimentos do ...",
+        "link": "https://correio.rac.com.br/campinasermc/campinas-e-eleita-a-melhor-cidade-para-investimentos-do-interior-da-america-latina-1.1675866",
+        "descricao_detalhada": "Campinas é reconhecida por sua atratividade para investimentos, destacando-se entre municípios do interior paulista.",
+        "data": "18 de jun. de 2025",
+        "municipio": "Campinas",
+        "tipo_investimento": "Reconhecimento de investimentos",
+        "valor_estimado": None,
+        "fonte_financiamento": None,
+        "fonte_noticia": "Correio"
+    },
+    {
+        "titulo": "Industrialização. Polibrasil. Perkins. Grande ABC. ...",
+        "link": "https://www.dgabc.com.br/Noticia/4243528/industrializacao-polibrasil-perkins-grande-abc-metamorfose-",
+        "descricao_detalhada": "Motores Perkins recebia, em São Bernardo, praticamente uma nova fábrica.",
+        "data": "há 5 dias",
+        "municipio": "São Bernardo do Campo",
+        "tipo_investimento": "Construção de fábrica",
+        "valor_estimado": None,
+        "fonte_financiamento": None,
+        "fonte_noticia": "DABC"
+    },
+    {
+        "titulo": 'Zilor alcança receita líquida recorde de R$ 3,7 bilhões ...',
+        "link": 'https://www.canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html',
+        "descricao_detalhada": 'Simultaneamente, a Zilor concluiu a aquisição da Unidade Salto Botelho, localizada no município de Lucélia (SP).',
+        "data": 'há 8 dias',
+        "municipio": 'Lucélia',
+        "tipo_investimento": 'Aquisição de unidade produtiva',
+        "valor_estimado": None,
+        "fonte_financiamento": None,
+        "fonte_noticia": 'Cana Online'
+    }
+]

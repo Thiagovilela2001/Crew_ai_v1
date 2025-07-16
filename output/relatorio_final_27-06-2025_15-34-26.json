@@ -1,0 +1,80 @@
+[
+    {
+        "categoria": "Investimento",
+        "titulo": "Mercado Livre anuncia investimento de R$ 13,6 bi em SP ...",
+        "link": "https://dcomercio.com.br/publicacao/s/mercado-livre-anuncia-investimento-de-r-13-6-bi-em-sp-ao-longo-de-2025",
+        "descricao_detalhada": "O Mercado Livre anunciou um investimento de R$ 13,6 bilhões no estado de São Paulo ao longo de 2025, representando 40% dos R$ 34 bilhões que a companhia prevê para investimentos gerais.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Anúncio de Investimento",
+        "valor_estimado": "R$ 13,6 bilhões",
+        "fonte_financiamento": "Recursos Próprios",
+        "fonte_noticia": "DCOMÉRCIO",
+        "piesp_setor": "E-commerce"
+    },
+    {
+        "categoria": "Financiamento",
+        "titulo": "BNDES aprova R$ 200 milhões para o BRT de Sorocaba (SP)",
+        "link": "https://agenciadenoticias.bndes.gov.br/infraestrutura/BNDES-aprova-R$-200-milhoes-para-o-BRT-de-Sorocaba-SP/",
+        "descricao_detalhada": "O BNDES aprovou um financiamento de R$ 200 milhões para o transporte BRT em Sorocaba, visando melhorias nas soluções de mobilidade urbana na cidade.",
+        "data": "2025",
+        "municipio": "Sorocaba",
+        "tipo_investimento": "Financiamento Público",
+        "valor_estimado": "R$ 200 milhões",
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência de Notícias BNDES",
+        "piesp_setor": "Transporte"
+    },
+    {
+        "categoria": "Protocolo de Intenções",
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar ...",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "A Petrobras, com apoio do governo do estado de São Paulo, firmou um protocolo de intenções para impulsionar o setor offshore no litoral paulista.",
+        "data": "2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Protocolo de Intenções",
+        "valor_estimado": "Não Especificado",
+        "fonte_financiamento": "Não Especificado",
+        "fonte_noticia": "DGA ABC",
+        "piesp_setor": "Energia"
+    },
+    {
+        "categoria": "Investimento",
+        "titulo": "Isa Energia investe R$ 306 milhões na modernização da ...",
+        "link": "https://www.canalenergia.com.br/noticias/53312724/isa-energia-investe-r-306-milhoes-na-modernizacao-da-rede-de-transmissao-em-sp",
+        "descricao_detalhada": "A Isa Energia investiu R$ 306 milhões no primeiro trimestre de 2025 para modernizar a rede de transmissão no estado de São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "R$ 306 milhões",
+        "fonte_financiamento": "Recursos Próprios",
+        "fonte_noticia": "Canal Energia",
+        "piesp_setor": "Energia"
+    },
+    {
+        "categoria": "Investimento",
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto ...",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "O Porto de Santos deverá receber investimentos de R$ 12,5 bilhões, visando colocá-lo entre os 20 maiores do mundo em 2025.",
+        "data": "2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Investimento em Infraestrutura",
+        "valor_estimado": "R$ 12,5 bilhões",
+        "fonte_financiamento": "Recursos Públicos e Privados",
+        "fonte_noticia": "DCOMÉRCIO",
+        "piesp_setor": "Portos"
+    },
+    {
+        "categoria": "Financiamento",
+        "titulo": "Programa estadual libera R$ 5,4 milhões para mais 200 ...",
+        "link": "https://www.dgabc.com.br/Noticia/4239086/programa-estadual-libera-rs-5-4-milhoes-para-mais-200-casas",
+        "descricao_detalhada": "O programa estadual anunciou um investimento de R$ 5,4 milhões para a construção de 200 novas casas no estado de São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construcão Habitacional",
+        "valor_estimado": "R$ 5,4 milhões",
+        "fonte_financiamento": "Governo do Estado",
+        "fonte_noticia": "DGA ABC",
+        "piesp_setor": "Habitação"
+    }
+]

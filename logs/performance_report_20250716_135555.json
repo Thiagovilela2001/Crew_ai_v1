@@ -1,0 +1,55 @@
+{
+  "session_summary": {
+    "total_iterations": 1,
+    "session_duration_minutes": 4.500297208627065,
+    "total_alerts": 2
+  },
+  "performance_stats": {
+    "avg_execution_time_minutes": 4.297509070237478,
+    "max_execution_time_minutes": 4.297509070237478,
+    "min_execution_time_minutes": 4.297509070237478,
+    "avg_data_quality": 0.0,
+    "avg_tool_success_rate": 0.0
+  },
+  "data_collection": {
+    "total_news_found": 0,
+    "total_news_validated": 0,
+    "total_duplicates_removed": 0,
+    "total_invalid_locations": 0
+  },
+  "alerts": [
+    {
+      "tipo": "TOOL_SUCCESS_RATE",
+      "severidade": "HIGH",
+      "mensagem": "Taxa de sucesso de ferramentas baixa: 0.00%",
+      "timestamp": "2025-07-16T13:55:55.582879",
+      "contexto": {
+        "success_rate": 0.0
+      }
+    },
+    {
+      "tipo": "DATA_QUALITY",
+      "severidade": "HIGH",
+      "mensagem": "Qualidade de dados baixa: 0.00%",
+      "timestamp": "2025-07-16T13:55:55.585882",
+      "contexto": {
+        "quality_score": 0.0
+      }
+    }
+  ],
+  "iteration_details": [
+    {
+      "iteracao": 1,
+      "timestamp": "2025-07-16T13:55:55.580876",
+      "total_noticias_encontradas": 0,
+      "noticias_validadas": 0,
+      "duplicatas_removidas": 0,
+      "municipios_invalidos": 0,
+      "tempo_execucao": 257.85054421424866,
+      "taxa_sucesso_ferramentas": 0.0,
+      "consultas_alternativas_usadas": 0,
+      "erros_validacao": 0,
+      "qualidade_dados": 0.0
+    }
+  ]
+}

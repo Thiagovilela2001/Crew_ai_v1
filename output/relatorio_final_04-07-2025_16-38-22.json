@@ -1,0 +1,57 @@
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos estimados em R$ 12,5 bilhões visam modernizar o Porto de Santos, elevando sua capacidade e melhorando a infraestrutura.",
+        "data": "23-06-2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos do BNDES",
+        "fonte_noticia": "DCM"
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar setor offshore no litoral paulista",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "A Petrobras firmou acordo para expandir suas operações de exploração de petróleo offshore, contribuindo para o desenvolvimento econômico local.",
+        "data": "26-06-2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": None,
+        "fonte_financiamento": "Recursos internos da Petrobras",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "titulo": "Puxado pelo agro, PIB paulista registra crescimento de 1,9% nos primeiros quatro meses de 2025",
+        "link": "https://www.canaonline.com.br/conteudo/puxado-pelo-agro-pib-paulista-registra-crescimento-de-19-nos-primeiros-quatro-meses-de-2025.html",
+        "descricao_detalhada": "No primeiro quadrimestre de 2025, a economia de São Paulo cresceu 1,9%, impulsionada pelos setores agropecuário (alta de 7,8%) e serviços (3,1%).",
+        "data": "30-06-2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Crescimento Econômico",
+        "valor_estimado": None,
+        "fonte_financiamento": None,
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "titulo": "Trens ligarão São Paulo à Baixada Santista, ao litoral paulista e ao interior do estado",
+        "link": "https://www.atribuna.com.br/cidades/trens-ligar-o-s-o-paulo-a-baixada-santista-ao-litoral-paulista-e-ao-interior-do-estado-e-custar-o-r-25-bilh-es-1.465062",
+        "descricao_detalhada": "Novos trens de passageiros serão implementados com investimento destacado pelo governo estadual, visando melhorar a conectividade entre regiões.",
+        "data": "11-06-2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 2500000000,
+        "fonte_financiamento": "Governo do Estado de São Paulo",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "titulo": "Tarcísio vistoria obras de moradias para famílias que vivem em palafitas",
+        "link": "https://www.dgabc.com.br/Noticia/4240000/tarcisio-vistoria-obras-de-moradias-para-familias-que-vivem-em-palafitas",
+        "descricao_detalhada": "As obras visam reassentar famílias de regiões de risco, com investimentos específicos para melhorar as condições habitacionais.",
+        "data": "15-06-2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": None,
+        "fonte_financiamento": "Governo do Estado de São Paulo",
+        "fonte_noticia": "Diário do Grande ABC"
+    }
+]

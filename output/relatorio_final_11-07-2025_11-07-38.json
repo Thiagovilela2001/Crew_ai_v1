@@ -1,0 +1,37 @@
+```python
+final_answer = [
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimento de R$ 12,5 bilhões no Porto de Santos, com o potencial de colocá-lo entre os 20 maiores portos do mundo, conforme anunciado pela São Paulo Chamber of Commerce.",
+        "data": "23 de jun. de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": ["D Comércio", "Revista A"]
+    },
+    {
+        "titulo": "Financiada pelo BNDES, Linha 6-Laranja do metrô de São Paulo recebe o primeiro trem",
+        "link": "https://agenciadenoticias.bndes.gov.br/infraestrutura/Financiada-pelo-BNDES-Linha-6-Laranja-do-metro-de-Sao-Paulo-recebe-o-primeiro-trem/",
+        "descricao_detalhada": "A Linha 6-Laranja do metrô de São Paulo, uma parceria público-privada com investimentos estimados significativos para a nova linha de metrô.",
+        "data": "30 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": None,
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": ["Agência de Notícias BNDES", "Jornal X"]
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar setor offshore no litoral paulista",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "Protocolo assinado entre a Petrobras e o governo de SP para impulsionar investimentos no setor de energia offshore, detalhando parcerias estratégicas.",
+        "data": "26 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Instalação",
+        "valor_estimado": None,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": ["Diário do Grande ABC", "Revista Y"]
+    }
+]
+```

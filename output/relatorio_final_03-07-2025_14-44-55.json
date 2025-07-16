@@ -1,0 +1,46 @@
+[
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar setor offshore no litoral paulista",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "A Petrobras, a Secretaria de Desenvolvimento Econômico do Estado de São Paulo, e outras agências formalizaram um protocolo de intenções para fomentar investimentos no setor offshore.",
+        "data": "2025-03-15",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Instalação",
+        "valor_estimado": "não disponível",
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "titulo": "Zilor alcança receita líquida recorde de R$ 3,7 bilhões impulsionada por eficiência operacional",
+        "link": "https://www.canaonline.com.br/conteudo/zilor-alcanca-receita-liquida-recorde-de-r-37-bilhoes-impulsionada-por-eficiencia-operacional-e-mix-acucareiro.html",
+        "descricao_detalhada": "A Zilor concluiu a aquisição da Unidade Salto Botelho, localizada no município de Lucélia (SP), parte de sua estratégia de expansão.",
+        "data": "2025-04-10",
+        "municipio": "Lucélia",
+        "tipo_investimento": "Aquisição",
+        "valor_estimado": "não disponível",
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "titulo": "CIE-COIC realiza 50ª reunião ordinária em São Paulo com estimativas de investimentos significativos",
+        "link": "https://cbic.org.br/cie-coic-realiza-50a-reuniao-ordinaria-em-sao-paulo-com-comite-do-sinduscon-sp/",
+        "descricao_detalhada": "Reunião discute investimentos da ordem de R$ 600 bilhões em CAPEX entre 2025 e 2028 no Estado de São Paulo.",
+        "data": "2025-05-25",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Reunião de investimentos",
+        "valor_estimado": 600000000000,
+        "fonte_financiamento": "não especificado",
+        "fonte_noticia": "CBIC"
+    },
+    {
+        "titulo": "Entidades de indústria e inovação apoiam retomada estratégica de investimentos",
+        "link": "https://agenciadenoticias.bndes.gov.br/industria/Entidades-de-industria-e-inovacao-apoiam-retomada-da-BNDESPAR/",
+        "descricao_detalhada": "Medidas de apoio para o fortalecimento da atuação do BNDES, abordando estratégias de modernização industrial em São Paulo.",
+        "data": "2025-06-02",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "não disponível",
+        "fonte_financiamento": "Recursos do BNDES",
+        "fonte_noticia": "Agência de Notícias BNDES"
+    }
+]

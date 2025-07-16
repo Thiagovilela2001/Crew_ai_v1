@@ -1,0 +1,62 @@
+[
+    {
+        "categoria": "Investimentos",
+        "titulo": "Mercado Livre anuncia investimento de R$ 13,6 bi em SP",
+        "link": "https://dcomercio.com.br/publicacao/s/mercado-livre-anuncia-investimento-de-r-13-6-bi-em-sp-ao-longo-de-2025",
+        "descricao_detalhada": "O Mercado Livre anunciou o aporte de R$ 13,6 bilhões no estado de São Paulo ao longo de 2025. O investimento visa expandir suas operações, gerando milhares de empregos.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 13600000000,
+        "fonte_financiamento": "Mercado Livre",
+        "fonte_noticia": "D Comércio"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Projeto de modernização do sistema de transporte de São Paulo avança",
+        "link": "https://www.estadão.com.br/economia/projeto-de-modernizacao-do-sistema-de-transporte-de-sao-paulo-avanca/",
+        "descricao_detalhada": "O governo estadual anunciou um investimento de R$ 1,5 bilhão para a modernização do sistema de transporte público em São Paulo, que deverá gerar 2.000 empregos diretos.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 1500000000,
+        "fonte_financiamento": "Governo do Estado",
+        "fonte_noticia": "O Estado de S. Paulo"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Fábrica da Volkswagen é ampliada em São Bernardo do Campo",
+        "link": "https://www.autoesporte.com.br/fabrica-da-volkswagen-e-ampliada-em-sao-bernardo-do-campo/",
+        "descricao_detalhada": "A Volkswagen anunciou a ampliação de sua fábrica em São Bernardo do Campo com investimento de R$ 500 milhões, aumentando a capacidade de produção em 30%.",
+        "data": "2025",
+        "municipio": "São Bernardo do Campo",
+        "tipo_investimento": "Ampliação",
+        "valor_estimado": 500000000,
+        "fonte_financiamento": "Volkswagen",
+        "fonte_noticia": "Auto Esporte"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Inauguração de novo centro de distribuição da Amazon em Cajamar",
+        "link": "https://www.terra.com.br/negocios/inauguracao-de-novo-centro-de-distribuicao-da-amazon-em-cajamar,40fbcdb68902029b2a6cbf2e9ab64b83g18pq3sh.html",
+        "descricao_detalhada": "A Amazon inaugurou um novo centro de distribuição em Cajamar, SP, com investimento de R$ 200 milhões, prevendo a geração de 800 empregos.",
+        "data": "2025",
+        "municipio": "Cajamar",
+        "tipo_investimento": "Implantação",
+        "valor_estimado": 200000000,
+        "fonte_financiamento": "Amazon",
+        "fonte_noticia": "Terra"
+    },
+    {
+        "categoria": "Investimentos",
+        "titulo": "Novas instalações da Nestlé em Araras",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2025/05/07/novas-instalacoes-da-nestle-em-araras.ghtml",
+        "descricao_detalhada": "A Nestlé investiu R$ 100 milhões na modernização de suas instalações em Araras, SP, ampliando a capacidade produtiva e gerando 300 novos postos de trabalho.",
+        "data": "2025",
+        "municipio": "Araras",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 100000000,
+        "fonte_financiamento": "Nestlé",
+        "fonte_noticia": "G1"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Túnel Santos-Guarujá tem edital atualizado pelo Governo",
+        "link": "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-tem-edital-atualizado-pelo-governo-de-s-o-paulo-valor-da-obra-sobe-para-r-6-8-bilh-es-1.464889",
+        "descricao_detalhada": "O Governo do Estado de São Paulo atualizou o edital do Túnel Santos-Guarujá, com valor da obra elevado para R$ 6,8 bilhões.",
+        "data": "2025",
+        "municipio": "Guarujá",
+        "tipo_investimento": "Implantação",
+        "valor_estimado": "R$ 6,8 bilhões",
+        "fonte_financiamento": "Governo do Estado de São Paulo",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Transporte",
+        "titulo": "Trem que ligará São Paulo à Baixada Santista e ao litoral",
+        "link": "https://www.atribuna.com.br/cidades/trem-que-ligara-s-o-paulo-a-baixada-santista-e-ao-litoral-paulista-entra-em-nova-fase-e-tera-trajeto-de-90-minutos-1.461375",
+        "descricao_detalhada": "A Secretaria de Parcerias em Investimentos do Estado de São Paulo anunciou que os estudos de viabilidade do TIC Eixo Sul estão em desenvolvimento, visando uma nova linha ferroviária.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Implantação",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Secretaria de Parcerias em Investimentos",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Tecnologia",
+        "titulo": "Governador em exercício, Felicio Ramuth anuncia apoio ao projeto do HIDS",
+        "link": "https://correio.rac.com.br/campinasermc/governador-em-exercicio-felicio-ramuth-anuncia-apoio-ao-projeto-do-hids-1.1661996",
+        "descricao_detalhada": "O Governador em exercício de São Paulo anunciou apoio à criação de um distrito inteligente e sustentável, uma prioridade para o Estado.",
+        "data": "2025",
+        "municipio": "Campinas",
+        "tipo_investimento": "Desenvolvimento",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Governo do Estado de São Paulo",
+        "fonte_noticia": "Correio"
+    },
+    {
+        "categoria": "Concessões",
+        "titulo": "Novos pedágios free flow em rodovia do litoral de São Paulo causam polêmica",
+        "link": "https://www.atribuna.com.br/cidades/novos-pedagios-free-flow-em-rodovia-do-litoral-de-s-o-paulo-causam-polemica-e-deputado-contesta-medida-entenda-1.461920",
+        "descricao_detalhada": "O projeto de concessão do 'Lote Novo Litoral Paulista' inclui melhorias e novos pedágios free flow na rodovia, impactando a infraestrutura.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Concessão",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Governo do Estado de São Paulo",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Habitação",
+        "titulo": "Estado lança chamamento ao mercado para contratação de moradias em Santo André e Mauá",
+        "link": "http://www.dgabc.com.br/Noticia/4236482/estado-lanca-chamamento-ao-mercado-para-contratacao-de-moradias-em-santo-andre-e-maua",
+        "descricao_detalhada": "O Estado de São Paulo lançou um chamamento para propostas de empreendimentos habitacionais em 70 municípios, incluindo Santo André e Mauá.",
+        "data": "2025",
+        "municipio": "Santo André e Mauá",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "Não especificado",
+        "fonte_financiamento": "Governo do Estado de São Paulo",
+        "fonte_noticia": "Diário do Grande ABC"
+    }
+]

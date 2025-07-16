@@ -1,0 +1,78 @@
+I have gathered information from various news articles related to confirmed investments and construction activities in São Paulo for 2025, and now I will filter out duplicates and consolidate the relevant data.
+
+### Unique Consolidated News Articles:
+
+1. **Investment in Electric Vehicles:**
+   - **Título:** Venda de veículos elétricos sobe 9,5% no primeiro semestre
+   - **Link:** [Canal Energia](https://www.canalenergia.com.br/noticias/53315984/venda-de-veiculos-eletricos-sobe-95-no-primeiro-semestre)
+   - **Descrição Detalhada:** Distribuidoras vão investir R$ 47 bilhões em 2025, com o estado de São Paulo concentrando o maior volume com 4.791 unidades de veículos elétricos.
+   - **Data:** 04 de julho de 2025
+   - **Município:** São Paulo
+   - **Tipo de Investimento:** Distribuição
+   - **Valor Estimado:** R$ 47 bilhões
+   - **Fonte de Financiamento:** Não identificado
+   - **Fonte Notícia:** Canal Energia
+   
+2. **Approval of LDO 2026:**
+   - **Título:** LDO 2026 é aprovada pela Assembleia Legislativa de São Paulo
+   - **Link:** [DGABC](https://www.dgabc.com.br/Noticia/4243102/ldo-2026-e-aprovada-pela-assembleia-legislativa-de-sao-paulo)
+   - **Descrição Detalhada:** A Alesp aprovou o projeto da Lei de Diretrizes Orçamentárias para 2026, que inclui investimentos em diversas áreas.
+   - **Data:** 1 de julho de 2025
+   - **Município:** São Paulo
+   - **Tipo de Investimento:** Orçamentário
+   - **Valor Estimado:** Não identificado
+   - **Fonte de Financiamento:** Recursos Públicos
+   - **Fonte Notícia:** DGABC
+
+3. **Porto Mar Development:**
+   - **Título:** Porto Mar
+   - **Link:** [A Tribuna](https://www.atribuna.com.br/noticias/portomar)
+   - **Descrição Detalhada:** Desenvolvimento do projeto Porto Mar que visa a melhoria na infraestrutura portuária em São Paulo, impactando a logística e o comércio.
+   - **Data:** Data não identificada
+   - **Município:** São Paulo
+   - **Tipo de Investimento:** Infraestrutura
+   - **Valor Estimado:** Não identificado
+   - **Fonte de Financiamento:** Não identificado
+   - **Fonte Notícia:** A Tribuna
+
+### Final Response Structure:
+
+```python
+investments = [
+    {
+        "titulo": "Venda de veículos elétricos sobe 9,5% no primeiro semestre",
+        "link": "https://www.canalenergia.com.br/noticias/53315984/venda-de-veiculos-eletricos-sobe-95-no-primeiro-semestre",
+        "descricao_detalhada": "Distribuidoras vão investir R$ 47 bilhões em 2025, com o estado de São Paulo concentrando o maior volume com 4.791 unidades de veículos elétricos.",
+        "data": "04 de julho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Distribuição",
+        "valor_estimado": 47000000000,
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Canal Energia",
+    },
+    {
+        "titulo": "LDO 2026 é aprovada pela Assembleia Legislativa de São Paulo",
+        "link": "https://www.dgabc.com.br/Noticia/4243102/ldo-2026-e-aprovada-pela-assembleia-legislativa-de-sao-paulo",
+        "descricao_detalhada": "A Alesp aprovou o projeto da Lei de Diretrizes Orçamentárias para 2026, que inclui investimentos em diversas áreas.",
+        "data": "1 de julho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Orçamentário",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "Recursos Públicos",
+        "fonte_noticia": "DGABC",
+    },
+    {
+        "titulo": "Porto Mar",
+        "link": "https://www.atribuna.com.br/noticias/portomar",
+        "descricao_detalhada": "Desenvolvimento do projeto Porto Mar que visa a melhoria na infraestrutura portuária em São Paulo, impactando a logística e o comércio.",
+        "data": "não identificado",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Infraestrutura",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "A Tribuna",
+    },
+]
+```
+
+This format provides a clear and organized overview of the significant investments and related projects in São Paulo for 2025, in line with your requirements. If further refinement is needed, please let me know!

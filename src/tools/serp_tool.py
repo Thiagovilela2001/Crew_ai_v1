@@ -7,10 +7,17 @@ import os
 import time # Importar time para possíveis delays em retries
 from dotenv import load_dotenv
 from urllib.parse import urlparse
-from typing import ClassVar, List, Dict, Any
+from typing import ClassVar, List, Dict, Any, Optional
 from datetime import datetime
+from pydantic import Field, BaseModel
 
 load_dotenv()
+
+class GoogleSearchToolSchema(BaseModel):
+    query: str = Field(..., description="A consulta de busca principal")
+    quantidade: int = Field(default=5, description="O número máximo de resultados a retornar")
+    data_limite: Optional[str] = Field(default=None, description="A data limite no formato DD/MM/YYYY")
+    tentativas_query: Optional[List[str]] = Field(default=None, description="Lista opcional de queries alternativas")
 
 class GoogleSearchTool(BaseTool):
     name: str = "Google Search Tool"
@@ -19,6 +26,9 @@ class GoogleSearchTool(BaseTool):
         "restrito a uma lista predefinida de sites, com número específico de resultados, intervalo de datas, "
         "e tentativas de busca alternativas opcionais."
     )
+    
+    # Definindo o schema dos argumentos da ferramenta
+    args_schema: type = GoogleSearchToolSchema
 
     ALLOWED_SITES: ClassVar[List[str]] = [
         # ... (lista de sites permitidos permanece a mesma)
@@ -74,7 +84,7 @@ class GoogleSearchTool(BaseTool):
 
             # Lógica de busca (similar à anterior, mas dentro do loop de tentativas)
             tbs_param = "qdr:m" # Default: último mês
-            if data_limite == '05/06/2025':
+            if data_limite == datetime.today().strftime('%d/%m/%Y'):
                 # Se a data for a data fixa, não aplica filtro de data
                 try:
                     date_obj = datetime.strptime(data_limite, "%d/%m/%Y")

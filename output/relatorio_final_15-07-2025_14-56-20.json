@@ -1,0 +1,38 @@
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto ...",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos de R$ 12,5 bilhões no Porto de Santos, estado de São Paulo, estão projetados para torná-lo um dos 20 maiores do mundo.",
+        "data": "23/06/2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Investimento",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "DCOMERCIO",
+        "fontes_relacionadas": []
+    },
+    {
+        "titulo": "Porto de São Sebastião inicia dragagem para ampliar ...",
+        "link": "https://www.atribuna.com.br/noticias/portomar/porto-de-s-o-sebasti-o-inicia-dragagem-para-ampliar-profundidade-no-litoral-de-s-o-paulo-1.469841",
+        "descricao_detalhada": "O Porto de São Sebastião, com investimento de R$ 6,3 milhões, inicia dragagem para ampliar a profundidade, buscando aumentar a capacidade operacional.",
+        "data": "07/07/2025",
+        "municipio": "São Sebastião",
+        "tipo_investimento": "Dragagem",
+        "valor_estimado": 6300000,
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "A TRIBUNA",
+        "fontes_relacionadas": []
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar ...",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "A Petrobras, junto ao governo de SP e outras entidades, formaliza ações para impulsionar o setor offshore, prevendo novas instalações.",
+        "data": "26/06/2025",
+        "municipio": "Litoral paulista",
+        "tipo_investimento": "Implantação",
+        "valor_estimado": "Não disponível",
+        "fonte_financiamento": "Não especificado",
+        "fonte_noticia": "DG ABC",
+        "fontes_relacionadas": []
+    }
+]

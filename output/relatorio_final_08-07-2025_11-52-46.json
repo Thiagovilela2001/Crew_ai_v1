@@ -1,0 +1,79 @@
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto ...",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos de R$ 12,5 bilhões em infraestrutura portuária no Porto de Santos que visam colocá-lo entre os 20 maiores do mundo.",
+        "data": "23 de jun. de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Expansão",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Dcomercio"
+    },
+    {
+        "titulo": "MME acerta com Eletrobras repasse de R$ 147 mi para ...",
+        "link": "https://www.canalenergia.com.br/noticias/53313998/mme-acerta-com-eletrobras-repasse-de-r-147-mi-para-obras-em-hidrovia-de-sp",
+        "descricao_detalhada": "Repasse de R$ 147 milhões do MME para Eletrobras visando a realização de obras na hidrovia no Estado de São Paulo.",
+        "data": "13 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 147000000,
+        "fonte_financiamento": "Recursos do governo",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar ...",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "Protocolo de intenções assinado pela Petrobras e o estado de São Paulo para impulsionar o setor offshore na região.",
+        "data": "26 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Inauguração",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "titulo": "Tarcísio garante instalação de novos pedágios em rodovia ...",
+        "link": "https://www.atribuna.com.br/cidades/tarcisio-garante-instalac-o-de-novos-pedagios-em-rodovia-do-litoral-de-s-o-paulo-saiba-os-pontos-1.465750",
+        "descricao_detalhada": "Anúncio de novos pedágios em rodovias do litoral paulista como parte de projetos de infraestrutura do governo.",
+        "data": "17 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "Recursos estaduais",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "titulo": "Túnel Santos-Guarujá tem edital atualizado pelo Governo ...",
+        "link": "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-tem-edital-atualizado-pelo-governo-de-s-o-paulo-valor-da-obra-sobe-para-r-6-8-bilh-es-1.464889",
+        "descricao_detalhada": "O edital do Túnel Santos-Guarujá foi atualizado, com o valor da obra aumentando para R$ 6,8 bilhões, uma parceria entre o governo e entidades de transporte.",
+        "data": "9 de jun. de 2025",
+        "municipio": "Guarujá",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 6800000000,
+        "fonte_financiamento": "Recursos do governo",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "titulo": "Governo Tarcísio apresenta projeto do Túnel Santos ...",
+        "link": "https://www.dgabc.com.br/Noticia/4242893/governo-tarcisio-apresenta-projeto-do-tunel-santos-guaruja-a-empresas-em-toquio",
+        "descricao_detalhada": "O projeto do Túnel Santos-Guarujá foi apresentado em Tóquio para potenciais investidores e empresas interessadas.",
+        "data": "30 de jun. de 2025",
+        "municipio": "Guarujá",
+        "tipo_investimento": "Apresentação de projeto",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "Recursos próprios e parcerias",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "titulo": "CIE-COIC realiza 50ª reunião ordinária em São Paulo com ...",
+        "link": "https://cbic.org.br/cie-coic-realiza-50a-reuniao-ordinaria-em-sao-paulo-com-comite-do-sinduscon-sp/",
+        "descricao_detalhada": "A 50ª reunião do CIE-COIC foi realizada com uma estimativa de investimentos da ordem de R$ 600 bilhões em CAPEX entre 2025 e 2028.",
+        "data": "25 de jun. de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Conferência",
+        "valor_estimado": 600000000000,
+        "fonte_financiamento": "Recursos do setor privado",
+        "fonte_noticia": "CBIC"
+    }
+]

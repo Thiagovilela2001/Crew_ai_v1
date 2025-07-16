@@ -1,0 +1,38 @@
+[
+    {
+        "categoria": "Energia",
+        "titulo": "Isa Energia investe R$ 306 milhões na modernização da rede de transmissão em SP",
+        "link": "https://www.canalenergia.com.br/noticias/53312724/isa-energia-investe-r-306-milhoes-na-modernizacao-da-rede-de-transmissao-em-sp",
+        "descricao_detalhada": "A Isa Energia investiu R$ 306 milhões no primeiro trimestre de 2025 para a modernização do parque instalado no Estado de São Paulo, um volume 26% superior ao gasto do ano passado.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "modernização",
+        "valor_estimado": "306 milhões",
+        "fonte_financiamento": "",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Túnel Santos-Guarujá tem edital atualizado pelo Governo de São Paulo; valor da obra sobe para R$ 6,8 bilhões",
+        "link": "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-tem-edital-atualizado-pelo-governo-de-s-o-paulo-valor-da-obra-sobe-para-r-6-8-bilh-es-1.464889",
+        "descricao_detalhada": "O edital da obra do Túnel Santos-Guarujá foi atualizado pelo Governo de São Paulo, com o valor subindo para R$ 6,8 bilhões, visando melhorias significativas na infraestrutura da região.",
+        "data": "2025",
+        "municipio": "Guarujá",
+        "tipo_investimento": "construção",
+        "valor_estimado": "6,8 bilhões",
+        "fonte_financiamento": "",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Indústria gera empregos na Baixada Santista e atinge melhor marca em 10 anos",
+        "link": "https://www.atribuna.com.br/cidades/industria-gera-empregos-na-baixada-santista-e-atinge-melhor-marca-em-10-anos-1.462477",
+        "descricao_detalhada": "O Estado de São Paulo, incluindo a Baixada Santista, conta com 171.353 estabelecimentos industriais, tendo registrado um crescimento de 3,9% em comparação entre 2023 e 2024, indicando um aumento nas atividades de investimento industrial.",
+        "data": "2025",
+        "municipio": "Baixada Santista",
+        "tipo_investimento": "industrial",
+        "valor_estimado": "",
+        "fonte_financiamento": "",
+        "fonte_noticia": "A Tribuna"
+    }
+]

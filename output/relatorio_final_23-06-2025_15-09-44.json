@@ -1,0 +1,72 @@
+[
+    {
+        "categoria": "Investimentos Privados",
+        "titulo": "Mercado Livre anuncia investimento de R$ 13,6 bi em SP",
+        "link": "https://dcomercio.com.br/publicacao/s/mercado-livre-anuncia-investimento-de-r-13-6-bi-em-sp-ao-longo-de-2025",
+        "descricao_detalhada": "O Mercado Livre anunciou um aporte de R$ 13,6 bilhões no estado de São Paulo ao longo de 2025, focando na expansão de suas operações.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Expansão de operações",
+        "valor_estimado": "R$ 13,6 bilhões",
+        "fonte_financiamento": "Mercado Livre",
+        "fonte_noticia": "D Comércio",
+        "piesp_setor": "E-commerce",
+        "cnae_investimento": "4791-0/99"
+    },
+    {
+        "categoria": "Investimentos Privados",
+        "titulo": "Isa Energia investe R$ 306 milhões na modernização da rede de transmissão em SP",
+        "link": "https://www.canalenergia.com.br/noticias/53312724/isa-energia-investe-r-306-milhoes-na-modernizacao-da-rede-de-transmissao-em-sp",
+        "descricao_detalhada": "A Isa Energia investiu R$ 306 milhões no primeiro trimestre de 2025 para modernizar o parque instalado no Estado de São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização da infraestrutura",
+        "valor_estimado": "R$ 306 milhões",
+        "fonte_financiamento": "Isa Energia",
+        "fonte_noticia": "Canal Energia",
+        "piesp_setor": "Energia",
+        "cnae_investimento": "3512-1/00"
+    },
+    {
+        "categoria": "Investimentos Públicos",
+        "titulo": "BNDES aprova R$ 200 milhões para o BRT de Sorocaba (SP)",
+        "link": "https://agenciadenoticias.bndes.gov.br/infraestrutura/BNDES-aprova-R$-200-milhoes-para-o-BRT-de-Sorocaba-SP/",
+        "descricao_detalhada": "O BNDES aprova R$ 200 milhões para a construção do BRT em Sorocaba, melhorando a mobilidade urbana da cidade.",
+        "data": "2025",
+        "municipio": "Sorocaba",
+        "tipo_investimento": "Construção de BRT",
+        "valor_estimado": "R$ 200 milhões",
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência BNDES",
+        "piesp_setor": "Mobilidade Urbana",
+        "cnae_investimento": "4211-6/03"
+    },
+    {
+        "categoria": "Investimentos Públicos",
+        "titulo": "Obras na Rodovia dos Calçados terão financiamento de R$ 3 bilhões",
+        "link": "https://agenciadenoticias.bndes.gov.br/infraestrutura/Obras-na-Rodovia-dos-Calcados-terao-financiamento-de-R$-364-bilhoes-do-BNDES/",
+        "descricao_detalhada": "Obras na Rodovia dos Calçados, que cruza 35 municípios no Estado de São Paulo, serão financiadas em R$ 3 bilhões.",
+        "data": "2025",
+        "municipio": "Diversos",
+        "tipo_investimento": "Infraestrutura Rodoviária",
+        "valor_estimado": "R$ 3 bilhões",
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência BNDES",
+        "piesp_setor": "Infraestrutura",
+        "cnae_investimento": "4211-6/01"
+    },
+    {
+        "categoria": "Investimentos Privados",
+        "titulo": "Trens ligarão São Paulo à Baixada Santista, ao litoral e ao interior do Estado",
+        "link": "https://www.atribuna.com.br/cidades/trens-ligar-o-s-o-paulo-a-baixada-santista-ao-litoral-paulista-e-ao-interior-do-estado-e-custar-o-r-25-bilh-es-1.465062",
+        "descricao_detalhada": "Investimento em novos trens irá conectar São Paulo à Baixada Santista e ao interior, com uma extensão de até 130 km.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Transporte Ferroviário",
+        "valor_estimado": "R$ 2,5 bilhões",
+        "fonte_financiamento": "Privado",
+        "fonte_noticia": "A Tribuna",
+        "piesp_setor": "Transportes",
+        "cnae_investimento": "4911-7/01"
+    }
+]

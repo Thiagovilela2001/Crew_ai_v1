@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto de Santos entre os 20 maiores do mundo",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "O investimento de R$ 12,5 bilhões visa colocar o Porto de Santos entre os 20 maiores do mundo, indicando um crescimento significativo na infraestrutura portuária.",
+        "data": "23/06/2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Ampliação",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "D Comércio",
+        "fontes_relacionadas": []
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar setor offshore no litoral paulista",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "Protocolo assinado entre Petrobras e governo estadual visa desenvolver o setor offshore, proporcionando impulso econômico e novas oportunidades no litoral paulista, com investimentos previstos de US$ 77 bilhões.",
+        "data": "26/06/2025",
+        "municipio": "São Sebastião",
+        "tipo_investimento": "Instalação",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "Diário do Grande ABC",
+        "fontes_relacionadas": []
+    },
+    {
+        "titulo": "Porto de São Sebastião inicia dragagem para ampliar profundidade",
+        "link": "https://www.atribuna.com.br/noticias/portomar/porto-de-s-o-sebasti-o-inicia-dragagem-para-ampliar-profundidade-no-litoral-de-s-o-paulo-1.469841",
+        "descricao_detalhada": "O Porto de São Sebastião começa um projeto de dragagem para aumentar a profundidade e capacidade de recebimento de embarcações.",
+        "data": "07/07/2025",
+        "municipio": "São Sebastião",
+        "tipo_investimento": "Dragagem",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "não identificado",
+        "fonte_noticia": "A Tribuna",
+        "fontes_relacionadas": []
+    },
+    {
+        "titulo": "Financiada pelo BNDES, Linha 6-Laranja do metrô de São Paulo recebe o primeiro trem",
+        "link": "https://agenciadenoticias.bndes.gov.br/infraestrutura/Financiada-pelo-BNDES-Linha-6-Laranja-do-metro-de-Sao-Paulo-recebe-o-primeiro-trem/",
+        "descricao_detalhada": "A Linha 6-Laranja incorporada ao metrô, financiada pelo BNDES, está em fase de implementação, com previsão de atender mais de 600 mil passageiros por dia e reduzir o tempo de deslocamento entre Brasilândia e o Centro de 1h30 para 23 minutos.",
+        "data": "07/07/2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência de Notícias BNDES",
+        "fontes_relacionadas": []
+    },
+    {
+        "titulo": "Governo de SP oferece crédito rural para máquinas e irrigação",
+        "link": "https://www.canaonline.com.br/conteudo/governo-de-sp-oferece-credito-rural-para-maquinas-e-irrigacao-a-partir-de-481-ao-ano.html",
+        "descricao_detalhada": "Programa de crédito rural do governo paulista que visa melhorar a infraestrutura agrícola através de financiamentos para máquinas e irrigação, oferecendo condições competitivas com taxas a partir de 4,81% ao ano.",
+        "data": "07/07/2025",
+        "municipio": "não identificado",
+        "tipo_investimento": "Financiamento",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "Recursos públicos",
+        "fonte_noticia": "Cana Online",
+        "fontes_relacionadas": []
+    }
+]

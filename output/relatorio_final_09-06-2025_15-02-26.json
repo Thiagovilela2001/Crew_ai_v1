@@ -1,0 +1,50 @@
+[
+    {
+        "categoria": "Energia",
+        "titulo": "Isa Energia investe R$ 306 milhões na modernização da rede de transmissão em SP",
+        "link": "https://www.canalenergia.com.br/noticias/53312724/isa-energia-investe-r-306-milhoes-na-modernizacao-da-rede-de-transmissao-em-sp",
+        "descricao_detalhada": "A Isa Energia investiu R$ 306 milhões no primeiro trimestre de 2025 para a modernização do parque instalado no Estado de São Paulo, um volume 26% superior ao ano anterior.",
+        "data": "2025-03-01",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "306000000",
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Túnel Santos-Guarujá tem edital atualizado pelo Governo de São Paulo",
+        "link": "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-tem-edital-atualizado-pelo-governo-de-s-o-paulo-valor-da-obra-sobe-para-r-6-8-bilh-es-1.464889",
+        "descricao_detalhada": "Resultado de uma parceria entre o Governo do Estado, o Ministério de Portos e Aeroportos, a Agência de Transportes do Estado de São Paulo (Artesp), a obra do túnel agora tem valor atualizado para R$ 6,8 bilhões.",
+        "data": "2025-03-02",
+        "municipio": "Santos",
+        "tipo_investimento": "Implantação",
+        "valor_estimado": "6800000000",
+        "fonte_financiamento": "Governo do Estado",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Transportes",
+        "titulo": "Trem ligará São Paulo à Baixada Santista e ao resto do litoral paulista",
+        "link": "https://www.atribuna.com.br/cidades/trem-ligara-s-o-paulo-a-baixada-santista-e-ao-resto-do-litoral-paulista-e-atendera-nove-cidades-saiba-tudo-do-projeto-1.463787",
+        "descricao_detalhada": "A Secretaria de Parcerias em Investimentos do Estado de São Paulo (SPI) informou que os estudos de viabilidade do Trem Intercidades (TIC) – Eixo Sul estão em desenvolvimento, prometendo conectar diversas cidades.",
+        "data": "2025-03-03",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Implantação",
+        "valor_estimado": "não disponível",
+        "fonte_financiamento": "Recursos públicos",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Imobiliário",
+        "titulo": "Lançamento de novos imóveis supera vendas de março em SP",
+        "link": "https://www.diariodaregiao.com.br/agencia/lancamento-de-novos-imoveis-supera-vendas-de-marco-em-s-o-paulo-1.2062339",
+        "descricao_detalhada": "São Paulo (SP), 11/03/2025 - O setor imobiliário presenciou inovações no lançamento, superando as vendas do mês anterior. Chuva forte afetou a energia de 104 mil imóveis.",
+        "data": "2025-03-11",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Lançamento",
+        "valor_estimado": "não disponível",
+        "fonte_financiamento": "Recursos privados",
+        "fonte_noticia": "Diário da Região"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "categoria": "Transporte",
+        "titulo": "Trem ligará São Paulo à Baixada Santista, ao litoral ...",
+        "link": "https://www.atribuna.com.br/cidades/trens-ligar-o-s-o-paulo-a-baixada-santista-ao-litoral-paulista-e-ao-interior-do-estado-e-custar-o-r-25-bilh-es-1.465062",
+        "descricao_detalhada": "A Secretaria de Parcerias em Investimentos do Estado de São Paulo (SPI) anunciou a construção de uma linha de trem que irá ligar São Paulo à Baixada Santista, com a extensão total variando entre 80 km e 130 km. O investimento estimado é de R$ 25 bilhões.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "R$ 25 bilhões",
+        "fonte_financiamento": "Setor Público",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Habitação",
+        "titulo": "Programa estadual libera R$ 5,4 milhões para mais 200 ...",
+        "link": "https://www.dgabc.com.br/Noticia/4239086/programa-estadual-libera-rs-5-4-milhoes-para-mais-200-casas",
+        "descricao_detalhada": "O programa Casa Paulista do governo do Estado de São Paulo libera R$ 5,4 milhões para a construção de 200 casas, em parceria com o governo federal, visando aumentar a oferta habitacional na região.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "R$ 5,4 milhões",
+        "fonte_financiamento": "Governo Federal",
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "categoria": "Transporte",
+        "titulo": "Trem ligará São Paulo à Baixada Santista e ao resto do ...",
+        "link": "https://www.atribuna.com.br/cidades/trem-ligara-s-o-paulo-a-baixada-santista-e-ao-resto-do-litoral-paulista-e-atendera-nove-cidades-saiba-tudo-do-projeto-1.463787",
+        "descricao_detalhada": "Os estudos de viabilidade do Trem Intercidades (TIC) – Eixo Sul foram confirmados pela Secretaria de Parcerias em Investimentos do Estado de São Paulo, que abrangerá nove cidades com a intenção de facilitar o transporte regional.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Estudo de Viabilidade",
+        "valor_estimado": null,
+        "fonte_financiamento": "Setor Público",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Turismo",
+        "titulo": "Deputado Carlão Pignatari propõe mudanças no FUMTUR ...",
+        "link": "https://www.acidadevotuporanga.com.br/geral/2025/05/deputado-carlao-pignatari-propoe-mudancas-no-fumtur-para-fortalecer-investimentos-nas-estancias-e-municipios-de-interesse-turistico-n84193",
+        "descricao_detalhada": "O Projeto de Lei nº 513/2025, proposto pelo deputado Carlão Pignatari, visa a criação de um novo sistema de financiamento para o turismo que tem potencial para aumentar os investimentos nas estâncias e municípios de interesse turístico no Estado de São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Legislação",
+        "valor_estimado": null,
+        "fonte_financiamento": "Governo Estadual",
+        "fonte_noticia": "A Cidade Votuporanga"
+    },
+    {
+        "categoria": "Habitação",
+        "titulo": "Governo Federal autoriza contratação de 201 unidades ...",
+        "link": "https://cbic.org.br/governo-federal-autoriza-contratacao-de-201-unidades-habitacionais-do-mcmv-rural/",
+        "descricao_detalhada": "O Governo Federal autorizou a contratação de 201 unidades habitacionais do programa Minha Casa Minha Vida Rural, contribuindo para a construção de moradias em municípios do Estado de São Paulo e outros estados.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Habitacional",
+        "valor_estimado": null,
+        "fonte_financiamento": "Governo Federal",
+        "fonte_noticia": "CBIC"
+    },
+    {
+        "categoria": "Financeiro",
+        "titulo": "ICMS não atinge expectativas das prefeituras para o 1º ...",
+        "link": "https://www.dgabc.com.br/Noticia/4237274/icms-nao-atinge-expectativas-das-prefeituras-para-o-1-quadrimestre",
+        "descricao_detalhada": "Em um levantamento feito pela Secretaria da Fazenda e Planejamento do Estado de São Paulo, a arrecadação de ICMS nas prefeituras aumentou, apresentando um salto significativo em relação ao ano anterior.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Arrecadação",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "Diário do Grande ABC"
+    },
+    {
+        "categoria": "Transporte",
+        "titulo": "Trem que ligará São Paulo à Baixada Santista e ao litoral ...",
+        "link": "https://www.atribuna.com.br/cidades/trem-que-ligara-s-o-paulo-a-baixada-santista-e-ao-litoral-paulista-entra-em-nova-fase-e-tera-trajeto-de-90-minutos-1.461375",
+        "descricao_detalhada": "A construção do trem intermunicipal que ligará São Paulo à Baixada Santista avança com novos estudos de viabilidade sendo realizados, segundo a Secretaria de Parcerias em Investimentos do Estado de São Paulo.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Estudo de Viabilidade",
+        "valor_estimado": null,
+        "fonte_financiamento": "Setor Público",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Governador em exercício, Felicio Ramuth anuncia apoio ao ...",
+        "link": "https://correio.rac.com.br/campinasermc/governador-em-exercicio-felicio-ramuth-anuncia-apoio-ao-projeto-do-hids-1.1661996",
+        "descricao_detalhada": "Felicio Ramuth, Governador em exercício de São Paulo, anunciou apoio ao desenvolvimento de um distrito inteligente e sustentável, promovendo investimentos significativos para a modernização da infraestrutura local.",
+        "data": "2025",
+        "municipio": "Campinas",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": null,
+        "fonte_financiamento": "Governo Estadual",
+        "fonte_noticia": "Correio"
+    }
+]

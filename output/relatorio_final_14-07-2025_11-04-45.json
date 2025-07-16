@@ -1,0 +1,50 @@
+[
+    {
+        "titulo": "Investimentos de R$ 12,5 bi devem colocar o Porto ...",
+        "link": "https://www.dcomercio.com.br/publicacao/s/investimentos-de-r-12-5-bi-devem-colocar-o-porto-de-santos-entre-os-20-maiores-do-mundo",
+        "descricao_detalhada": "Investimentos de R$ 12,5 bilhões vão modernizar o Porto de Santos, permitindo aumentar sua capacidade e eficiência.",
+        "data": "23 de junho de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": 12500000000,
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Diário do Comércio",
+        "fontes_relacionadas": []
+    },
+    {
+        "titulo": "Copel aumenta aporte para qualidade da energia em R$ 2,5 bi",
+        "link": "https://www.canalenergia.com.br/noticias/53314167/copel-aumenta-aporte-para-qualidade-da-energia-em-r-25-bi",
+        "descricao_detalhada": "Copel aumentará investimentos em R$ 2,5 bilhões na qualidade da energia, incluindo novas instalações em Cianorte.",
+        "data": "17 de junho de 2025",
+        "municipio": "Cianorte",
+        "tipo_investimento": "Instalação",
+        "valor_estimado": 2500000000,
+        "fonte_financiamento": "Financiamento bancário",
+        "fonte_noticia": "Canal Energia",
+        "fontes_relacionadas": []
+    },
+    {
+        "titulo": "Petrobras assina protocolo de intenções para impulsionar setor offshore no litoral paulista",
+        "link": "https://www.dgabc.com.br/Noticia/4242064/petrobras-assina-protocolo-de-intencoes-para-impulsionar-setor-offshore-no-litoral-paulista",
+        "descricao_detalhada": "Protocolo firmado entre Petrobras e governo de SP para desenvolver o setor offshore, com investimentos em infraestrutura.",
+        "data": "26 de junho de 2025",
+        "municipio": "Santos",
+        "tipo_investimento": "Instalação",
+        "valor_estimado": "não identificado",
+        "fonte_financiamento": "Recursos próprios",
+        "fonte_noticia": "Diário do Grande ABC",
+        "fontes_relacionadas": []
+    },
+    {
+        "titulo": "Financiada pelo BNDES, Linha 6-Laranja do metrô de São Paulo recebe o primeiro trem",
+        "link": "https://agenciadenoticias.bndes.gov.br/sudeste/Financiada-pelo-BNDES-Linha-6-Laranja-do-metro-de-Sao-Paulo-recebe-o-primeiro-trem/",
+        "descricao_detalhada": "A Linha 6-Laranja do metrô de São Paulo, financiada pelo BNDES, busca melhorar a mobilidade urbana, integrando regiões carentes ao centro da cidade.",
+        "data": "10 de julho de 2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Construção",
+        "valor_estimado": 12300000000,
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Agência BNDES",
+        "fontes_relacionadas": []
+    }
+]

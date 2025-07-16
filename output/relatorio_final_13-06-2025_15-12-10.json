@@ -1,0 +1,50 @@
+[
+    {
+        "categoria": "Energia",
+        "titulo": "Isa Energia investe R$ 306 milhões na modernização da rede de transmissão em SP",
+        "link": "https://www.canalenergia.com.br/noticias/53312724/isa-energia-investe-r-306-milhoes-na-modernizacao-da-rede-de-transmissao-em-sp",
+        "descricao_detalhada": "A Isa Energia investiu R$ 306 milhões no primeiro trimestre de 2025 para a modernização do parque instalado no Estado de São Paulo, um volume 26% superior ao do ano anterior.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Modernização",
+        "valor_estimado": "306 milhões",
+        "fonte_financiamento": "Isa Energia",
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Infraestrutura",
+        "titulo": "Túnel Santos-Guarujá tem edital atualizado pelo Governo de SP",
+        "link": "https://www.atribuna.com.br/noticias/portomar/tunel-santos-guaruja-tem-edital-atualizado-pelo-governo-de-s-o-paulo-valor-da-obra-sobe-para-r-6-8-bilh-es-1.464889",
+        "descricao_detalhada": "Túnel Santos-Guarujá tem edital atualizado pelo Governo de São Paulo; valor da obra sobe para R$ 6,8 bilhões, que será utilizado na construção que facilitará o trânsito entre as duas cidades.",
+        "data": "2025",
+        "municipio": "Guarujá",
+        "tipo_investimento": "Construção",
+        "valor_estimado": "6,8 bilhões",
+        "fonte_financiamento": "Governo de SP",
+        "fonte_noticia": "A Tribuna"
+    },
+    {
+        "categoria": "Transporte",
+        "titulo": "Estado garante extensão da Linha 10 até Barra Funda",
+        "link": "https://www.dgabc.com.br/Noticia/4238476/estado-garante-extensao-da-linha-10-ate-barra-funda",
+        "descricao_detalhada": "O governo do Estado de São Paulo viabilizará a extensão da Linha 10-Turquesa da CPTM (Companhia Paulista de Trens Metropolitanos), que parte de Rio Grande da Serra até Barra Funda.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Extensão de linha",
+        "valor_estimado": "Não informado",
+        "fonte_financiamento": "Governo de SP",
+        "fonte_noticia": "DGABC"
+    },
+    {
+        "categoria": "Transportes",
+        "titulo": "Trem ligará São Paulo à Baixada Santista e ao resto do litoral",
+        "link": "https://www.atribuna.com.br/cidades/trem-ligara-s-o-paulo-a-baixada-santista-e-ao-resto-do-litoral-paulista-e-atendera-nove-cidades-saiba-tudo-do-projeto-1.463787",
+        "descricao_detalhada": "A Secretaria de Parcerias em Investimentos do Estado de São Paulo (SPI) informou que os estudos de viabilidade do Trem Intercidades (TIC) - Eixo Sul estão em desenvolvimento, com a ligamento entre São Paulo e a Baixada Santista.",
+        "data": "2025",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Estudos de viabilidade",
+        "valor_estimado": "Não informado",
+        "fonte_financiamento": "Secretaria de Parcerias",
+        "fonte_noticia": "A Tribuna"
+    }
+]

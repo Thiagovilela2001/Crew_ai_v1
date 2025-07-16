@@ -1,0 +1,62 @@
+[
+    {
+        "categoria": "Energia",
+        "titulo": "FIESP: estudo mostra potencial para SP ser grande produtor de biometano",
+        "link": "https://www.canalenergia.com.br/noticias/53313324/fiesp-estudo-mostra-potencial-para-sp-ser-grande-produtor-de-biometano",
+        "descricao_detalhada": "Ou seja, além do potencial de curto prazo de 6,4 milhões de m³ por dia, o estado de São Paulo, poderia chegar a uma produção de até 42,5 milhões de m³ por dia.",
+        "data": "2025-05-30",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Biometano",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "Canal Energia"
+    },
+    {
+        "categoria": "Agronegócio",
+        "titulo": "SP é uma potência agroambiental, conciliando produção agrícola e preservação ambiental",
+        "link": "https://www.canaonline.com.br/conteudo/sp-e-uma-potencia-agroambiental-conciliando-producao-agricola-e-preservacao-ambiental.html",
+        "descricao_detalhada": "... Estado de São Paulo, Guilherme Piai, na abertura oficial da Agrishow, neste domingo (27). Na ocasião, o secretário destacou a evolução e o fortalecimento do setor.",
+        "data": "2025-05-28",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Agronegócio",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "Cana Online"
+    },
+    {
+        "categoria": "Indústria",
+        "titulo": "Produção industrial tem alta de 0,1% de março para abril",
+        "link": "https://www.diariodaregiao.com.br/agencia/produc-o-industrial-tem-alta-de-0-1-de-marco-para-abril-1.2067218",
+        "descricao_detalhada": "BNDES amplia em R$ 41 bilhões investimentos na Nova Indústria Brasil. Salgueiro ... São Paulo (SP) - Sede da Federação das Indústrias do Estado de São Paulo.",
+        "data": "2025-05-30",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Indústria",
+        "valor_estimado": "41 bilhões",
+        "fonte_financiamento": "BNDES",
+        "fonte_noticia": "Diário da Região"
+    },
+    {
+        "categoria": "Finanças",
+        "titulo": "Entidades dos bancos e das indústrias criticam aumento do IOF",
+        "link": "https://www.diariodaregiao.com.br/agencia/entidades-dos-bancos-e-das-industrias-criticam-aumento-do-iof-1.2064424",
+        "descricao_detalhada": "Segundo a Federação das Indústrias do Estado de São Paulo (Fiesp), o aumento das alíquotas vai na contramão de programas do governo para impulsionar o setor.",
+        "data": "2025-05-23",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Finanças",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "Diário da Região"
+    },
+    {
+        "categoria": "Construção",
+        "titulo": "Governo Federal autoriza contratação de 201 unidades habitacionais do MCMV rural",
+        "link": "https://cbic.org.br/governo-federal-autoriza-contratacao-de-201-unidades-habitacionais-do-mcmv-rural/",
+        "descricao_detalhada": "Em Minas Gerais, 101 unidades habitacionais serão construídas nos municípios de Rio Espera, Vermelho Novo e Vieiras. Na Bahia, o município de Riacho de Santana.",
+        "data": "2025-05-15",
+        "municipio": "São Paulo",
+        "tipo_investimento": "Habitação",
+        "valor_estimado": null,
+        "fonte_financiamento": null,
+        "fonte_noticia": "CBIC"
+    }
+]
