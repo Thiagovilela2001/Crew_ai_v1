@@ -1,45 +1,85 @@
-# Sistema CrewAI Otimizado - Coleta de Investimentos SP
+# 🚀 Sistema CrewAI - Coleta Inteligente de Investimentos SP
 
-Sistema aprimorado para coleta e análise de notícias sobre investimentos produtivos no estado de São Paulo, com validação automática, monitoramento de performance e processamento robusto de dados.
+Sistema avançado de coleta e análise de notícias sobre investimentos produtivos no estado de São Paulo, utilizando inteligência artificial multi-agente com validação automática, monitoramento de performance e processamento robusto de dados.
 
-## 🚀 Principais Melhorias
+## 📋 Índice
 
-### ✅ Problemas Resolvidos
-- **Erro "None" tool input**: Sistema de validação automática de parâmetros
-- **Falhas de execução**: Tratamento robusto de erros com retry automático
-- **Dados inconsistentes**: Validação e sanitização automática de dados
-- **Falta de monitoramento**: Sistema completo de logging e métricas
+- [Visão Geral](#-visão-geral)
+- [Principais Recursos](#-principais-recursos)
+- [Instalação](#-instalação)
+- [Configuração](#-configuração)
+- [Como Usar](#-como-usar)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Funcionalidades Avançadas](#-funcionalidades-avançadas)
+- [Monitoramento e Relatórios](#-monitoramento-e-relatórios)
+- [Troubleshooting](#-troubleshooting)
+- [Contribuição](#-contribuição)
 
-### 🔧 Novos Recursos
-- **Validação de Ferramentas**: Parâmetros validados automaticamente
-- **Expansão de Consultas**: Geração automática de consultas alternativas
+## 🎯 Visão Geral
+
+Este sistema utiliza **CrewAI** para orquestrar agentes de IA especializados na coleta, validação e análise de notícias sobre investimentos no estado de São Paulo. O projeto foi otimizado para resolver problemas comuns de sistemas de coleta automatizada, oferecendo alta confiabilidade e qualidade de dados.
+
+### 🔧 Problemas Resolvidos
+
+- ✅ **Erro "None" tool input**: Sistema de validação automática de parâmetros
+- ✅ **Falhas de execução**: Tratamento robusto de erros com retry automático
+- ✅ **Dados inconsistentes**: Validação e sanitização automática de dados
+- ✅ **Falta de monitoramento**: Sistema completo de logging e métricas
+- ✅ **URLs inacessíveis**: Validação automática de links antes do processamento
+- ✅ **Notícias falsas**: Sistema avançado de verificação de credibilidade
+
+## 🌟 Principais Recursos
+
+### 🛡️ Validação e Segurança
+- **Validação de Ferramentas**: Parâmetros validados automaticamente antes da execução
+- **Verificador de Notícias Falsas**: Sistema de scoring de credibilidade (0.0-1.0)
+- **Validador de URLs**: Verifica acessibilidade e conteúdo válido das fontes
 - **Validação Geográfica**: Verificação automática de municípios de SP
-- **Verificador de Notícias Falsas**: Sistema avançado de detecção de credibilidade
-- **Validador de URLs**: Verifica se notícias realmente existem e são acessíveis
-- **Monitoramento Completo**: Métricas de performance e qualidade
-- **Processamento Robusto**: Sanitização e estruturação de dados
 
-## 📁 Estrutura do Projeto
+### 🧠 Inteligência Artificial
+- **Expansão de Consultas**: Geração automática de consultas alternativas
+- **Processamento Robusto**: Sanitização e estruturação inteligente de dados
+- **Agentes Especializados**: Crew multi-agente com papéis específicos
 
+### 📊 Monitoramento e Qualidade
+- **Monitoramento Completo**: Métricas de performance e qualidade em tempo real
+- **Sistema de Alertas**: Notificações automáticas para problemas de performance
+- **Relatórios Detalhados**: Análises completas de cada execução
+- **Logs Estruturados**: Logging em JSON para análise avançada
+
+## 🚀 Instalação
+
+### Pré-requisitos
+
+- **Python**: 3.10 ou superior (< 3.13)
+- **UV**: Gerenciador de dependências (recomendado)
+
+### Instalação com UV (Recomendado)
+
+```bash
+# Clone o repositório
+git clone https://github.com/Thiagovilela2001/Crew_ai_v1.git
+cd Crew_ai_v1
+
+# Instale UV se não tiver
+pip install uv
+
+# Instale as dependências
+uv sync
 ```
-src/
-├── utils/                      # Utilitários do sistema otimizado
-│   ├── tool_validator.py       # Validação de parâmetros de ferramentas
-│   ├── query_expander.py       # Expansão automática de consultas
-│   ├── location_validator.py   # Validação geográfica de municípios
-│   ├── system_monitor.py       # Monitoramento e métricas
-│   └── data_processor.py       # Processamento robusto de dados
-├── tools/
-│   ├── validated_tools.py      # Ferramentas com validação automática
-│   └── serp_tool.py           # Ferramenta Google Search original
-├── config/
-│   ├── agents.yaml            # Configuração dos agentes
-│   └── tasks.yaml             # Configuração das tarefas
-├── main.py                    # Sistema principal otimizado
-└── crew.py                    # Definição da crew
+
+### Instalação com PIP
+
+```bash
+# Clone o repositório
+git clone https://github.com/Thiagovilela2001/Crew_ai_v1.git
+cd Crew_ai_v1
+
+# Instale as dependências
+pip install -r requirements.txt
 ```
 
-## 🛠️ Configuração
+## ⚙️ Configuração
 
 ### 1. Variáveis de Ambiente
 
@@ -49,322 +89,327 @@ Copie o arquivo de exemplo e configure suas chaves de API:
 cp src/.env.example src/.env
 ```
 
-Configure as seguintes variáveis obrigatórias:
+Configure as seguintes variáveis **obrigatórias**:
+
 ```env
+# APIs obrigatórias
 SERPER_API_KEY=sua_chave_serper_aqui
 OPENAI_API_KEY=sua_chave_openai_aqui
+
+# Configurações opcionais
+CREWAI_ITERATIONS=5                    # Número de iterações (padrão: 1)
+AGENTOPS_API_KEY=sua_chave_agentops    # Monitoramento avançado (opcional)
+LOG_LEVEL=INFO                         # Nível de logging (DEBUG, INFO, WARNING, ERROR)
 ```
 
-### 2. Configurações Opcionais
+### 2. Obter Chaves de API
 
-```env
-# Número de iterações (padrão: 5)
-CREWAI_ITERATIONS=5
+#### SERPER API (Google Search)
+1. Acesse [serper.dev](https://serper.dev)
+2. Crie uma conta gratuita
+3. Copie sua API key
 
-# AgentOps para monitoramento (opcional)
-AGENTOPS_API_KEY=sua_chave_agentops_aqui
-```
+#### OpenAI API
+1. Acesse [platform.openai.com](https://platform.openai.com)
+2. Crie uma conta e configure billing
+3. Gere uma API key
 
-## 🚀 Execução
+#### AgentOps (Opcional)
+1. Acesse [agentops.ai](https://agentops.ai)
+2. Crie uma conta gratuita
+3. Copie sua API key
 
-### Execução Padrão
+## 🎮 Como Usar
+
+### Execução Básica
+
 ```bash
+# Execução padrão (1 iteração)
 python src/main.py
+
+# Com UV
+uv run python src/main.py
 ```
 
-### Execução com Configurações Personalizadas
+### Execução Avançada
+
 ```bash
-# Definir número de iterações
-CREWAI_ITERATIONS=3 python src/main.py
+# Múltiplas iterações
+CREWAI_ITERATIONS=5 python src/main.py
 
 # Com logging detalhado
 LOG_LEVEL=DEBUG python src/main.py
+
+# Combinando configurações
+CREWAI_ITERATIONS=3 LOG_LEVEL=DEBUG python src/main.py
 ```
 
-## 📊 Monitoramento e Relatórios
+### Usando CrewAI CLI
 
-### Logs Estruturados
-O sistema gera logs estruturados em JSON em:
-- `logs/crewai_system_YYYYMMDD.log` - Log principal
-- `logs/system_monitor_YYYYMMDD.log` - Log do monitor
+```bash
+# Instalar dependências
+crewai install
 
-### Relatórios de Performance
-Relatórios automáticos são gerados em:
-- `logs/performance_report_YYYYMMDD_HHMMSS.json`
-
-### Métricas Monitoradas
-- **Tempo de execução** por iteração
-- **Qualidade dos dados** coletados
-- **Taxa de sucesso** das ferramentas
-- **Duplicatas removidas**
-- **Localizações validadas**
-- **Erros de validação**
-
-## 🔍 Funcionalidades Detalhadas
-
-### 1. Validação Automática de Ferramentas
-- Valida parâmetros antes da execução
-- Aplica valores padrão quando necessário
-- Log detalhado de erros de validação
-
-### 2. Expansão Inteligente de Consultas
-- Gera consultas alternativas por setor
-- Combina termos geográficos automaticamente
-- Retry automático com consultas expandidas
-
-### 3. Validação Geográfica Rigorosa
-- Verifica municípios contra lista oficial de SP
-- Extrai localizações usando regex e NLP
-- Resolve ambiguidades automaticamente
-
-### 4. Processamento Robusto de Dados
-- Sanitização automática de campos
-- Aplicação de valores padrão
-- Cálculo de score de qualidade
-- Exportação estruturada em JSON
-
-### 5. Verificador de Notícias Falsas
-- Análise automática de credibilidade das notícias
-- Score de confiabilidade de 0.0 a 1.0
-- Detecção de padrões suspeitos (clickbait, fontes duvidosas)
-- Validação de fontes contra lista de veículos confiáveis
-- Filtragem automática de notícias com baixa credibilidade
-
-### 6. Sistema de Alertas
-- Alertas automáticos para problemas de performance
-- Thresholds configuráveis
-- Severidade classificada (LOW, MEDIUM, HIGH, CRITICAL)
-
-## 📈 Métricas de Qualidade
-
-### Indicadores de Sucesso
-- **Taxa de conclusão**: > 95%
-- **Precisão geográfica**: > 98%
-- **Redução de duplicatas**: > 80%
-- **Tempo médio por iteração**: < 5 minutos
-
-### Campos de Qualidade dos Dados
-Cada notícia coletada inclui:
-```json
-{
-  "categoria": "Investimentos",
-  "titulo": "Título da notícia",
-  "link": "URL da fonte",
-  "descricao_detalhada": "Resumo do investimento",
-  "data": "DD/MM/YYYY",
-  "municipio": "Nome do município (validado)",
-  "tipo_investimento": "Tipo da ação",
-  "valor_estimado": "Valor ou 'não informado'",
-  "fonte_financiamento": "Fonte ou 'não informado'",
-  "fonte_noticia": "Nome da fonte",
-  "piesp_setor": "Setor econômico",
-  "cnae_investimento": "Código CNAE",
-  "investimento_estrangeiro": "sim/não/não identificado",
-  "esg": "sim/não/não identificado",
-  "pme": "sim/não/não identificado",
-  "qualidade_dados": 0.85,
-  "credibility_score": 0.92,
-  "is_credible": true,
-  "warning_flags": [],
-  "verification_recommendation": "ACEITAR - Notícia altamente confiável"
-}
+# Executar o projeto
+crewai run
 ```
 
-## 🐛 Troubleshooting
+## 📁 Estrutura do Projeto
 
-### Erro "None" tool input
-✅ **Resolvido**: Sistema de validação automática implementado
-
-### Falhas de conexão
-- O sistema implementa retry automático
-- Delays entre iterações para evitar rate limiting
-- Logs detalhados para diagnóstico
-
-### Dados de baixa qualidade
-- Alertas automáticos quando qualidade < 70%
-- Relatórios detalhados de completude de campos
-- Sugestões de melhoria nos logs
-
-### Problemas de localização
-- Validação automática contra lista oficial de municípios
-- Resolução de ambiguidades
-- Logs de localizações descartadas
-
-## 📝 Logs de Exemplo
-
-### Log de Iteração
-```json
-{
-  "event": "iteration_end",
-  "metrics": {
-    "iteracao": 1,
-    "total_noticias_encontradas": 15,
-    "noticias_validadas": 12,
-    "qualidade_dados": 0.78,
-    "tempo_execucao": 245.6
-  }
-}
+```
+📦 Crew_ai_v1/
+├── 📂 src/                           # Código fonte principal
+│   ├── 📂 config/                    # Configurações dos agentes
+│   │   ├── agents.yaml               # Definição dos agentes IA
+│   │   └── tasks.yaml                # Definição das tarefas
+│   ├── 📂 tools/                     # Ferramentas especializadas
+│   │   ├── validated_tools.py        # Ferramentas com validação
+│   │   └── serp_tool.py             # Ferramenta Google Search
+│   ├── 📂 utils/                     # Utilitários do sistema
+│   │   ├── tool_validator.py         # Validação de parâmetros
+│   │   ├── query_expander.py         # Expansão de consultas
+│   │   ├── location_validator.py     # Validação geográfica
+│   │   ├── news_verifier.py          # Verificador de notícias falsas
+│   │   ├── url_validator.py          # Validador de URLs
+│   │   ├── system_monitor.py         # Monitoramento do sistema
+│   │   └── data_processor.py         # Processamento de dados
+│   ├── 📂 tests/                     # Testes automatizados
+│   ├── 📂 examples/                  # Exemplos de uso
+│   ├── main.py                       # Sistema principal otimizado
+│   ├── crew.py                       # Definição da crew
+│   └── .env.example                  # Exemplo de configuração
+├── 📂 knowledge/                     # Base de conhecimento
+│   ├── municipios_sp.txt             # Lista oficial de municípios SP
+│   ├── investimentos2025.csv         # Dados de investimentos
+│   └── user_preference.txt           # Preferências do usuário
+├── 📂 output/                        # Relatórios gerados
+├── 📂 logs/                          # Logs do sistema
+├── 📂 .kiro/                         # Configurações Kiro (opcional)
+├── README.md                         # Este arquivo
+├── pyproject.toml                    # Configuração do projeto
+└── uv.lock                          # Lock de dependências
 ```
 
-### Log de Alerta
-```json
-{
-  "event": "performance_alert",
-  "alert": {
-    "tipo": "DATA_QUALITY",
-    "severidade": "HIGH",
-    "mensagem": "Qualidade dos dados baixa: 65%",
-    "timestamp": "2025-07-15T10:30:00Z"
-  }
-}
-```
+## 🔍 Funcionalidades Avançadas
 
-## 🛡️ Verificador de Notícias Falsas
+### 🛡️ Verificador de Notícias Falsas
 
-### Como Funciona
-O sistema analisa automaticamente a credibilidade de cada notícia coletada usando múltiplos critérios:
+Sistema avançado que analisa a credibilidade de cada notícia usando múltiplos critérios:
 
-#### 📊 Critérios de Verificação (Score 0.0 - 1.0)
+#### Critérios de Verificação (Score 0.0 - 1.0)
 
 1. **Credibilidade da Fonte (30%)**
    - **Tier 1 (1.0)**: Estadão, Valor, Folha, Globo, UOL, BNDES, Gov.br
    - **Tier 2 (0.8)**: DCI, Correio Popular, DGABC, Jornal de Campinas
    - **Tier 3 (0.6)**: Diários regionais, jornais locais confiáveis
-   - **Suspeitas (0.2)**: Blogspot, WordPress, domínios com 'fake', 'viral'
+   - **Suspeitas (0.2)**: Blogspot, WordPress, domínios duvidosos
 
 2. **Qualidade do Conteúdo (25%)**
-   - Detecta títulos clickbait: "URGENTE", "BOMBA", "CHOCANTE"
-   - Identifica conteúdo suspeito: "fonte não revelada", "segundo rumores"
-   - Flagra valores irreais: "trilhões de reais", "retorno garantido de X%"
-   - Analisa qualidade da escrita e coerência
+   - Detecta títulos clickbait
+   - Identifica conteúdo suspeito
+   - Analisa coerência e qualidade da escrita
 
 3. **Consistência Temporal (15%)**
-   - Verifica datas no futuro (suspeito)
-   - Valida período de publicação (prioriza 2025)
-   - Detecta inconsistências temporais
+   - Verifica datas no futuro
+   - Valida período de publicação
 
 4. **Coerência Factual (15%)**
    - Valida municípios mencionados
-   - Verifica especificidade do tipo de investimento
-   - Analisa coerência entre título e descrição
+   - Verifica especificidade do investimento
 
 5. **Detalhes Técnicos (15%)**
-   - Verifica completude de campos obrigatórios
-   - Bonifica informações sobre setor e CNAE
-   - Avalia especificidade técnica
+   - Completude de campos obrigatórios
+   - Especificidade técnica
 
-#### 🚦 Classificação de Credibilidade
+#### Classificação de Credibilidade
 
-- **🟢 Alta (≥0.8)**: ACEITAR - Notícia altamente confiável
-- **🟡 Média (≥0.6)**: ACEITAR_COM_RESSALVAS - Revisar se muitos alertas
-- **🟠 Baixa (≥0.4)**: REVISAR_CUIDADOSAMENTE - Credibilidade questionável  
-- **🔴 Muito Baixa (<0.4)**: REJEITAR - Possível notícia falsa
+- 🟢 **Alta (≥0.8)**: ACEITAR - Notícia altamente confiável
+- 🟡 **Média (≥0.6)**: ACEITAR_COM_RESSALVAS - Revisar se muitos alertas
+- 🟠 **Baixa (≥0.4)**: REVISAR_CUIDADOSAMENTE - Credibilidade questionável
+- 🔴 **Muito Baixa (<0.4)**: REJEITAR - Possível notícia falsa
 
-#### ⚠️ Flags de Alerta Automáticos
+### 🔗 Validador de URLs
 
-- `FONTE_SUSPEITA`: Domínio não confiável
-- `CONTEUDO_SUSPEITO`: Padrões de desinformação
-- `CLICKBAIT`: Título sensacionalista
-- `DATA_INCONSISTENTE`: Problemas temporais
-- `FATOS_INCOERENTES`: Informações contraditórias
-- `SEM_VALOR_INVESTIMENTO`: Falta dados financeiros
-- `LOCALIZACAO_VAGA`: Município não especificado
+Verifica automaticamente se as URLs das notícias são acessíveis:
 
-### 📋 Exemplo de Uso
+- ✅ **Acessibilidade**: Status HTTP, timeout, retry automático
+- 📄 **Conteúdo Válido**: Estrutura jornalística, tamanho adequado
+- 📊 **Métricas**: Taxa de acessibilidade, tempo de resposta
+- 🔧 **Integração**: Filtragem automática de URLs inválidas
 
-```python
-from utils.news_verifier import news_verifier
+### 🗺️ Validação Geográfica
 
-# Verifica uma notícia
-result = news_verifier.verify_news(news_data)
-print(f"Credibilidade: {result.credibility_score:.2f}")
-print(f"Recomendação: {result.recommendation}")
+Sistema rigoroso de validação de municípios:
 
-# Verifica lote de notícias
-results = news_verifier.batch_verify_news(news_list)
-report = news_verifier.generate_verification_report(results)
+- 📋 **Lista Oficial**: Base com todos os municípios de SP
+- 🔍 **Extração Inteligente**: Regex e NLP para identificar localizações
+- ✅ **Resolução de Ambiguidades**: Correção automática de nomes
+- 📊 **Relatórios**: Estatísticas de validação geográfica
+
+### 🔄 Expansão de Consultas
+
+Geração inteligente de consultas alternativas:
+
+- 🎯 **Por Setor**: Consultas específicas por área econômica
+- 🗺️ **Geográficas**: Combinação com termos regionais
+- 🔄 **Retry Automático**: Tentativas com consultas expandidas
+- 📈 **Otimização**: Melhora taxa de sucesso da coleta
+
+## 📊 Monitoramento e Relatórios
+
+### 📈 Métricas Coletadas
+
+- **Performance**: Tempo de execução, taxa de sucesso
+- **Qualidade**: Score de qualidade dos dados, completude
+- **Validação**: URLs válidas, municípios corretos, credibilidade
+- **Erros**: Tipos de falhas, frequência, padrões
+
+### 📋 Relatórios Gerados
+
+#### Logs Estruturados
+```
+logs/
+├── crewai_system_YYYYMMDD.log        # Log principal
+├── system_monitor_YYYYMMDD.log       # Log do monitor
+└── performance_report_YYYYMMDD_HHMMSS.json  # Relatório de performance
 ```
 
-### 📈 Integração Automática
-
-O verificador está integrado ao processador de dados:
-- **Filtragem automática**: Notícias com score < 0.3 são rejeitadas
-- **Ajuste de qualidade**: Score de credibilidade influencia qualidade final
-- **Relatórios detalhados**: Estatísticas de verificação por iteração
-
-## 🔗 Validador de URLs
-
-### Como Funciona
-O sistema verifica automaticamente se as URLs das notícias realmente existem e são acessíveis antes de processá-las.
-
-#### 🔍 Verificações Realizadas
-
-1. **Acessibilidade da URL**
-   - ✅ Status HTTP 200-299: URL acessível
-   - ❌ Status HTTP 404: Página não encontrada
-   - ❌ Status HTTP 403: Acesso negado
-   - ❌ Status HTTP 500: Erro do servidor
-   - ❌ Timeout: URL inacessível
-
-2. **Análise de Conteúdo**
-   - **Indicadores Positivos**: Tags HTML estruturais, conteúdo > 500 chars
-   - **Indicadores Negativos**: Mensagens de erro, paywall, conteúdo insuficiente
-   - **Indicadores de Notícia**: Data de publicação, autor, estrutura jornalística
-
-3. **Configurações de Segurança**
-   - User-Agent de navegador real
-   - Headers HTTP apropriados
-   - Timeout de 15 segundos
-   - Máximo 3 tentativas com retry
-   - Pausa respeitosa entre requisições
-
-#### 📊 Métricas Geradas
-
-- **Taxa de Acessibilidade**: % de URLs que respondem corretamente
-- **Taxa de Conteúdo Válido**: % de URLs com conteúdo jornalístico válido
-- **Tempo Médio de Resposta**: Performance das fontes de notícias
-- **Distribuição de Status Codes**: Análise de problemas comuns
-- **Tipos de Erro**: Categorização de falhas
-
-#### 🚀 Exemplo de Uso
-
-```python
-from utils.url_validator import url_validator
-
-# Valida uma URL
-result = url_validator.validate_url("https://exemplo.com/noticia")
-print(f"Acessível: {result.is_accessible}")
-print(f"Conteúdo válido: {result.has_valid_content}")
-
-# Filtra notícias com URLs válidas
-valid_news = url_validator.filter_valid_news(news_list)
+#### Exemplo de Relatório
+```json
+{
+  "session_summary": {
+    "total_iterations": 5,
+    "session_duration_minutes": 25.3,
+    "total_alerts": 2
+  },
+  "performance_stats": {
+    "avg_execution_time_minutes": 4.8,
+    "avg_data_quality": 0.82,
+    "avg_tool_success_rate": 0.95
+  },
+  "data_collection": {
+    "total_news_found": 67,
+    "total_news_validated": 58,
+    "total_duplicates_removed": 12
+  }
+}
 ```
 
-#### 🔧 Integração Automática
+### 🚨 Sistema de Alertas
 
-O validador está integrado ao processador de dados:
-- **Filtragem prévia**: URLs inacessíveis são removidas antes do processamento
-- **Informações adicionais**: Cada notícia recebe dados de validação de URL
-- **Relatórios detalhados**: Estatísticas de acessibilidade por iteração
-- **Otimização de performance**: Evita processamento de conteúdo inexistente
+Alertas automáticos para:
+- **Qualidade baixa** dos dados (< 70%)
+- **Taxa de falhas** alta das ferramentas (> 20%)
+- **Tempo de execução** excessivo (> 10 min)
+- **URLs inacessíveis** (> 30%)
 
-## 🔄 Próximos Passos
+## 🔧 Troubleshooting
 
-Para continuar melhorando o sistema:
+### Problemas Comuns
 
-1. **Implementar testes automatizados** (Tarefas 9-10)
-2. **Adicionar retry com backoff exponencial** (Tarefa 6)
-3. **Criar modelos de dados com Pydantic** (Tarefa 8)
-4. **Expandir configurações dos agentes** (Tarefa 7)
+#### ❌ Erro "None" tool input
+**Solução**: ✅ Resolvido automaticamente pelo sistema de validação
 
-## 📞 Suporte
+#### ❌ Falhas de conexão
+**Soluções**:
+- Verifique suas chaves de API no arquivo `.env`
+- Sistema implementa retry automático
+- Delays entre iterações evitam rate limiting
 
-Para problemas ou dúvidas:
-1. Verifique os logs em `logs/`
-2. Consulte o relatório de performance mais recente
-3. Verifique as configurações no arquivo `.env`
+#### ❌ Dados de baixa qualidade
+**Soluções**:
+- Alertas automáticos quando qualidade < 70%
+- Relatórios detalhados de completude
+- Ajuste os critérios de validação se necessário
+
+#### ❌ Problemas de localização
+**Soluções**:
+- Validação automática contra lista oficial
+- Logs de localizações descartadas
+- Resolução automática de ambiguidades
+
+### 📋 Checklist de Diagnóstico
+
+1. ✅ Variáveis de ambiente configuradas?
+2. ✅ Arquivo `knowledge/municipios_sp.txt` existe?
+3. ✅ Chaves de API válidas?
+4. ✅ Conexão com internet estável?
+5. ✅ Logs em `logs/` para análise detalhada
+
+## 🤝 Contribuição
+
+### Como Contribuir
+
+1. **Fork** o repositório
+2. **Clone** seu fork localmente
+3. **Crie** uma branch para sua feature
+4. **Implemente** suas mudanças
+5. **Teste** thoroughly
+6. **Commit** com mensagens descritivas
+7. **Push** para sua branch
+8. **Abra** um Pull Request
+
+### 🧪 Executando Testes
+
+```bash
+# Testes unitários
+python -m pytest src/tests/
+
+# Teste de integração
+python test_integration_location.py
+
+# Teste específico
+python src/examples/news_verification_example.py
+```
+
+### 📝 Padrões de Código
+
+- **PEP 8**: Seguir padrões Python
+- **Type Hints**: Usar anotações de tipo
+- **Docstrings**: Documentar funções e classes
+- **Logging**: Usar logging estruturado
+- **Testes**: Cobrir funcionalidades críticas
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+## 🆘 Suporte
+
+### Canais de Suporte
+
+- **Issues**: [GitHub Issues](https://github.com/Thiagovilela2001/Crew_ai_v1/issues)
+- **Documentação**: Este README e comentários no código
+- **Logs**: Sempre verifique `logs/` para diagnóstico
+
+### 📞 Contato
+
+Para dúvidas específicas sobre implementação ou problemas técnicos, abra uma issue no GitHub com:
+
+1. **Descrição** do problema
+2. **Logs** relevantes
+3. **Configuração** do ambiente
+4. **Passos** para reproduzir
 
 ---
 
-**Status**: ✅ Sistema otimizado e funcional
-**Última atualização**: 15/07/2025
+## 🎯 Status do Projeto
+
+- ✅ **Sistema Core**: Funcional e otimizado
+- ✅ **Validação**: Implementada e testada
+- ✅ **Monitoramento**: Completo e detalhado
+- ✅ **Documentação**: Atualizada e completa
+- 🔄 **Melhorias Contínuas**: Em desenvolvimento
+
+**Última atualização**: 16/07/2025
+**Versão**: 2.0.0 (Otimizada)
+
+---
+
+<div align="center">
+
+**🚀 Desenvolvido com CrewAI e muito ☕**
+
+[⭐ Star no GitHub](https://github.com/Thiagovilela2001/Crew_ai_v1) • [🐛 Reportar Bug](https://github.com/Thiagovilela2001/Crew_ai_v1/issues) • [💡 Sugerir Feature](https://github.com/Thiagovilela2001/Crew_ai_v1/issues)
+
+</div>
